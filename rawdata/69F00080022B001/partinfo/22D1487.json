@@ -1,0 +1,68 @@
+{
+ "partNO": "22D1487",
+ "parentPartNO": "22D2086",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "22D1487",
+    "partName": "刀板组件",
+    "spec": "",
+    "weightKg": "848.091",
+    "sizeMm": "3810.0*836.0*50.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "22D1487",
+    "配件名称": "刀板组件",
+    "规格": "",
+    "重量(KG)": "848.091",
+    "尺寸(mm)": "3810.0* 836.0* 50.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "22D2086"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BLADE GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "22D1487",
+    "Part Name": "BLADE GP",
+    "Specification": "",
+    "Weight": "848.091",
+    "Size": "3810.0* 836.0* 50.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "22D2086"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

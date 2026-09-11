@@ -1,0 +1,68 @@
+{
+ "partNO": "18D0967",
+ "parentPartNO": "46C4916",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "18D0967",
+    "partName": "空调压缩机支架",
+    "spec": "",
+    "weightKg": "13.2",
+    "sizeMm": "346.0*280.0*178.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "18D0967",
+    "配件名称": "空调压缩机支架",
+    "规格": "",
+    "重量(KG)": "13.2",
+    "尺寸(mm)": "346.0* 280.0* 178.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "46C4916"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COMPRESSOR BRACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "18D0967",
+    "Part Name": "COMPRESSOR BRACKET",
+    "Specification": "",
+    "Weight": "13.2",
+    "Size": "346.0* 280.0* 178.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "46C4916"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

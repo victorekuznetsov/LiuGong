@@ -1,0 +1,68 @@
+{
+ "partNO": "20V0054",
+ "parentPartNO": "01Y1415",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "20V0054",
+    "partName": "圆锥滚子轴承",
+    "spec": "32220,100×180×49",
+    "weightKg": "5.05",
+    "sizeMm": "177.0*179.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "20V0054",
+    "配件名称": "圆锥滚子轴承",
+    "规格": "32220,100×180×49",
+    "重量(KG)": "5.05",
+    "尺寸(mm)": "177.0* 179.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1415"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TAP. ROLLER BRG",
+    "spec": "32220,100×180×49",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "20V0054",
+    "Part Name": "TAP. ROLLER BRG",
+    "Specification": "32220,100×180×49",
+    "Weight": "5.05",
+    "Size": "177.0* 179.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1415"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

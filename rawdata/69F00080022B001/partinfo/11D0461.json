@@ -1,0 +1,74 @@
+{
+ "partNO": "11D0461",
+ "parentPartNO": "30E0242",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11D0461",
+    "partName": "上铰接销",
+    "spec": "",
+    "weightKg": "21.35",
+    "sizeMm": "267.0*168.0*322.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11D0461",
+    "配件名称": "上铰接销",
+    "规格": "",
+    "重量(KG)": "21.35",
+    "尺寸(mm)": "267.0* 168.0* 322.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353535363835343538353a35353833353435343536",
+    "/part/zp/35353535363835343538353a35353833353435343536"
+   ],
+   "parentPartNO": "30E0242"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "11D0461",
+    "Part Name": "PIN",
+    "Specification": "",
+    "Weight": "21.35",
+    "Size": "267.0* 168.0* 322.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353535363835343538353a35353833353435343536",
+    "/part/zp/35353535363835343538353a35353833353435343536"
+   ],
+   "parentPartNO": "30E0242"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

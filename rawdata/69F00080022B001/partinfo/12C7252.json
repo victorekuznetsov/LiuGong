@@ -1,0 +1,68 @@
+{
+ "partNO": "12C7252",
+ "parentPartNO": "00C3887",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C7252",
+    "partName": "单向阻尼阀总成",
+    "spec": "",
+    "weightKg": "0.631",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C7252",
+    "配件名称": "单向阻尼阀总成",
+    "规格": "",
+    "重量(KG)": "0.631",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C3887"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SINGLE-WAY DAMPING VALVE AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C7252",
+    "Part Name": "SINGLE-WAY DAMPING VALVE AS",
+    "Specification": "",
+    "Weight": "0.631",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C3887"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

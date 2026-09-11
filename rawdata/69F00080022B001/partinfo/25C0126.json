@@ -1,0 +1,72 @@
+{
+ "partNO": "25C0126",
+ "parentPartNO": "42D5512X0",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "25C0126",
+    "partName": "左铰链",
+    "spec": "",
+    "weightKg": "0.61",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "25C0126",
+    "配件名称": "左铰链",
+    "规格": "",
+    "重量(KG)": "0.61",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [
+    "/part/zp/353635393637353435353536353a3833353435343535"
+   ],
+   "parentPartNO": "42D5512X0"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HINGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "25C0126",
+    "Part Name": "HINGE",
+    "Specification": "",
+    "Weight": "0.61",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Unavailable"
+   },
+   "photos": [
+    "/part/zp/353635393637353435353536353a3833353435343535"
+   ],
+   "parentPartNO": "42D5512X0"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

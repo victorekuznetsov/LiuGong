@@ -1,0 +1,68 @@
+{
+ "partNO": "13B1328",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B1328",
+    "partName": "密封环",
+    "spec": "YH95",
+    "weightKg": "1.65",
+    "sizeMm": "95.0*53.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B1328",
+    "配件名称": "密封环",
+    "规格": "YH95",
+    "重量(KG)": "1.65",
+    "尺寸(mm)": "95.0* 53.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL RING",
+    "spec": "YH95",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B1328",
+    "Part Name": "SEAL RING",
+    "Specification": "YH95",
+    "Weight": "1.65",
+    "Size": "95.0* 53.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

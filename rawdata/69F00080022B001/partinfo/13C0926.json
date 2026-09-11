@@ -1,0 +1,68 @@
+{
+ "partNO": "13C0926",
+ "parentPartNO": "00C4824",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13C0926",
+    "partName": "紧急&停车制动阀块",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13C0926",
+    "配件名称": "紧急&停车制动阀块",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C4824"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PARKING BRAKE VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13C0926",
+    "Part Name": "PARKING BRAKE VALVE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C4824"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

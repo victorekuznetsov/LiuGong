@@ -1,0 +1,74 @@
+{
+ "partNO": "12C0443",
+ "parentPartNO": "12C4674",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C0443",
+    "partName": "稳定模块",
+    "spec": "RSM2-25B20/A315B120G24C4V11",
+    "weightKg": "0.0",
+    "sizeMm": "340.0*217.0*120.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C0443",
+    "配件名称": "稳定模块",
+    "规格": "RSM2-25B20/A315B120G24C4V11",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "340.0* 217.0* 120.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735343538353835373833353435343535",
+    "/part/zp/35353536363735343538353835373833353435343535"
+   ],
+   "parentPartNO": "12C4674"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RIDE CONTROL",
+    "spec": "RSM2-25B20/A315B120G24C4V11",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C0443",
+    "Part Name": "RIDE CONTROL",
+    "Specification": "RSM2-25B20/A315B120G24C4V11",
+    "Weight": "0.0",
+    "Size": "340.0* 217.0* 120.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735343538353835373833353435343535",
+    "/part/zp/35353536363735343538353835373833353435343535"
+   ],
+   "parentPartNO": "12C4674"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "17B0564",
+ "parentPartNO": "60C3428",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "17B0564",
+    "partName": "减震垫",
+    "spec": "17B0564",
+    "weightKg": "0.023",
+    "sizeMm": "55.0*55.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "17B0564",
+    "配件名称": "减震垫",
+    "规格": "17B0564",
+    "重量(KG)": "0.023",
+    "尺寸(mm)": "55.0* 55.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "60C3428"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CUSHION",
+    "spec": "17B0564",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "17B0564",
+    "Part Name": "CUSHION",
+    "Specification": "17B0564",
+    "Weight": "0.023",
+    "Size": "55.0* 55.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [],
+   "parentPartNO": "60C3428"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

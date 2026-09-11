@@ -1,0 +1,76 @@
+{
+ "partNO": "13C0878",
+ "parentPartNO": "47C2811",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13C0878",
+    "partName": "气弹簧",
+    "spec": "SXT",
+    "weightKg": "0.328",
+    "sizeMm": "195.0*30.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "不含支架，支架号SP206687，组件号SP213756"
+   },
+   "attrsRaw": {
+    "配件编码": "13C0878",
+    "配件名称": "气弹簧",
+    "规格": "SXT",
+    "重量(KG)": "0.328",
+    "尺寸(mm)": "195.0* 30.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "不含支架，支架号SP206687，组件号SP213756"
+   },
+   "photos": [
+    "/part/zp/35353537363735343563353b35633833353435343536",
+    "/part/zp/35353537363735343563353b35633833353435343537",
+    "/part/zp/35353537363735343563353b35633833353435343537"
+   ],
+   "parentPartNO": "47C2811"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR SPRING",
+    "spec": "SXT",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13C0878",
+    "Part Name": "AIR SPRING",
+    "Specification": "SXT",
+    "Weight": "0.328",
+    "Size": "195.0* 30.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Without bracket,bracket P/N is SP206687;assembly P/N is SP213756"
+   },
+   "photos": [
+    "/part/zp/35353537363735343563353b35633833353435343536",
+    "/part/zp/35353537363735343563353b35633833353435343537",
+    "/part/zp/35353537363735343563353b35633833353435343537"
+   ],
+   "parentPartNO": "47C2811"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

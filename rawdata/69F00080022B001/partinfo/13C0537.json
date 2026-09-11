@@ -1,0 +1,78 @@
+{
+ "partNO": "13C0537",
+ "parentPartNO": "13C1236",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13C0537",
+    "partName": "蓄能器",
+    "spec": "0.5L",
+    "weightKg": "1.75",
+    "sizeMm": "106.0*106.0*157.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由13C0298更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "13C0537",
+    "配件名称": "蓄能器",
+    "规格": "0.5L",
+    "重量(KG)": "1.75",
+    "尺寸(mm)": "106.0* 106.0* 157.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由13C0298更改而来"
+   },
+   "photos": [
+    "/part/zp/353535373637353435393537353b3833353435343536",
+    "/part/zp/353535373637353435393537353b3833353435343536",
+    "/part/zp/353535373637353435393537353b3833353435343537",
+    "/part/zp/353535373637353435393537353b3833353435343537"
+   ],
+   "parentPartNO": "13C1236"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ACCUMULATOR",
+    "spec": "0.5L",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13C0537",
+    "Part Name": "ACCUMULATOR",
+    "Specification": "0.5L",
+    "Weight": "1.75",
+    "Size": "106.0* 106.0* 157.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 13C0298"
+   },
+   "photos": [
+    "/part/zp/353535373637353435393537353b3833353435343536",
+    "/part/zp/353535373637353435393537353b3833353435343536",
+    "/part/zp/353535373637353435393537353b3833353435343537",
+    "/part/zp/353535373637353435393537353b3833353435343537"
+   ],
+   "parentPartNO": "13C1236"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

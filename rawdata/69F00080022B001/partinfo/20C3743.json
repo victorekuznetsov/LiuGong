@@ -1,0 +1,68 @@
+{
+ "partNO": "20C3743",
+ "parentPartNO": "60C3428",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "20C3743",
+    "partName": "油散热器",
+    "spec": "1420",
+    "weightKg": "21.42",
+    "sizeMm": "1670.0*180.0*224.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "20C3743",
+    "配件名称": "油散热器",
+    "规格": "1420",
+    "重量(KG)": "21.42",
+    "尺寸(mm)": "1670.0* 180.0* 224.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C3428"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL COOLER",
+    "spec": "1420",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "20C3743",
+    "Part Name": "OIL COOLER",
+    "Specification": "1420",
+    "Weight": "21.42",
+    "Size": "1670.0* 180.0* 224.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C3428"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "18D0059",
+ "parentPartNO": "49C9596",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "18D0059",
+    "partName": "安装板",
+    "spec": "",
+    "weightKg": "0.982",
+    "sizeMm": "128.0*174.0*200.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "18D0059",
+    "配件名称": "安装板",
+    "规格": "",
+    "重量(KG)": "0.982",
+    "尺寸(mm)": "128.0* 174.0* 200.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353563363835343534353935643833353435343536",
+    "/part/zp/35353563363835343534353935643833353435343536"
+   ],
+   "parentPartNO": "49C9596"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MOUNTING PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "18D0059",
+    "Part Name": "MOUNTING PLATE",
+    "Specification": "",
+    "Weight": "0.982",
+    "Size": "128.0* 174.0* 200.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353563363835343534353935643833353435343536",
+    "/part/zp/35353563363835343534353935643833353435343536"
+   ],
+   "parentPartNO": "49C9596"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

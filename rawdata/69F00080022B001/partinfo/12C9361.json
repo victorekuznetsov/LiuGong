@@ -1,0 +1,68 @@
+{
+ "partNO": "12C9361",
+ "parentPartNO": "61C1453",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C9361",
+    "partName": "安全阀",
+    "spec": "",
+    "weightKg": "0.297",
+    "sizeMm": "98.0*31.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C9361",
+    "配件名称": "安全阀",
+    "规格": "",
+    "重量(KG)": "0.297",
+    "尺寸(mm)": "98.0* 31.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C1453"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SAFETY VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C9361",
+    "Part Name": "SAFETY VALVE",
+    "Specification": "",
+    "Weight": "0.297",
+    "Size": "98.0* 31.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C1453"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

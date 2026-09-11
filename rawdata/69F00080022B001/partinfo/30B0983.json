@@ -1,0 +1,78 @@
+{
+ "partNO": "30B0983",
+ "parentPartNO": "SP278884",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30B0983",
+    "partName": "油温传感器",
+    "spec": "4211988",
+    "weightKg": "0.02",
+    "sizeMm": "50.0*20.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30B0983",
+    "配件名称": "油温传感器",
+    "规格": "4211988",
+    "重量(KG)": "0.02",
+    "尺寸(mm)": "50.0* 20.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373534363635343564356335373833353435343536",
+    "/part/zp/35373534363635343564356335373833353435343536",
+    "/part/zp/35373534363635343564356335373833353435343537",
+    "/part/zp/35373534363635343564356335373833353435343537"
+   ],
+   "parentPartNO": "SP278884"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL TEMP SENSOR",
+    "spec": "4211988",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30B0983",
+    "Part Name": "OIL TEMP SENSOR",
+    "Specification": "4211988",
+    "Weight": "0.02",
+    "Size": "50.0* 20.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363635343564356335373833353435343536",
+    "/part/zp/35373534363635343564356335373833353435343536",
+    "/part/zp/35373534363635343564356335373833353435343537",
+    "/part/zp/35373534363635343564356335373833353435343537"
+   ],
+   "parentPartNO": "SP278884"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "16G6082",
+ "parentPartNO": "48Y4798",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "16G6082",
+    "partName": "标贴",
+    "spec": "300×230",
+    "weightKg": "0.023",
+    "sizeMm": "300.0*230.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "16G6082",
+    "配件名称": "标贴",
+    "规格": "300×230",
+    "重量(KG)": "0.023",
+    "尺寸(mm)": "300.0* 230.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "48Y4798"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECAL",
+    "spec": "300×230",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "16G6082",
+    "Part Name": "DECAL",
+    "Specification": "300×230",
+    "Weight": "0.023",
+    "Size": "300.0* 230.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "48Y4798"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

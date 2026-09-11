@@ -1,0 +1,68 @@
+{
+ "partNO": "13B0947",
+ "parentPartNO": "41C3257",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B0947",
+    "partName": "密封圈",
+    "spec": "FB100×125×12",
+    "weightKg": "0.095",
+    "sizeMm": "123.0*123.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B0947",
+    "配件名称": "密封圈",
+    "规格": "FB100×125×12",
+    "重量(KG)": "0.095",
+    "尺寸(mm)": "123.0* 123.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C3257"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL RING",
+    "spec": "FB100×125×12",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B0947",
+    "Part Name": "SEAL RING",
+    "Specification": "FB100×125×12",
+    "Weight": "0.095",
+    "Size": "123.0* 123.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C3257"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

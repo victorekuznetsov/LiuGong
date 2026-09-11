@@ -1,0 +1,68 @@
+{
+ "partNO": "09D7937",
+ "parentPartNO": "00C4144",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09D7937",
+    "partName": "钢管总成",
+    "spec": "",
+    "weightKg": "5.6",
+    "sizeMm": "1068.0*152.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "09D7937",
+    "配件名称": "钢管总成",
+    "规格": "",
+    "重量(KG)": "5.6",
+    "尺寸(mm)": "1068.0* 152.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C4144"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TUBE AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09D7937",
+    "Part Name": "TUBE AS",
+    "Specification": "",
+    "Weight": "5.6",
+    "Size": "1068.0* 152.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C4144"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

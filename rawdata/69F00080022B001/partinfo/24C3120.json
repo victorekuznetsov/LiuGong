@@ -1,0 +1,68 @@
+{
+ "partNO": "24C3120",
+ "parentPartNO": "47C2811",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "24C3120",
+    "partName": "中间轴",
+    "spec": "",
+    "weightKg": "1.8",
+    "sizeMm": "816.0*36.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "24C3120",
+    "配件名称": "中间轴",
+    "规格": "",
+    "重量(KG)": "1.8",
+    "尺寸(mm)": "816.0* 36.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "47C2811"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MIDDLE SHAFT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "24C3120",
+    "Part Name": "MIDDLE SHAFT",
+    "Specification": "",
+    "Weight": "1.8",
+    "Size": "816.0* 36.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [],
+   "parentPartNO": "47C2811"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
