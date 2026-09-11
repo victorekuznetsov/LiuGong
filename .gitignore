@@ -1,0 +1,7 @@
+# Session cookies / auth state -- NEVER commit
+session/
+storage_state.json
+
+__pycache__/
+*.pyc
+_push.sh
