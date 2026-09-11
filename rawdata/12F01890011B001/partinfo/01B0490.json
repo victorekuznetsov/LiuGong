@@ -1,0 +1,78 @@
+{
+ "partNO": "01B0490",
+ "parentPartNO": "32Y3455",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0490",
+    "partName": "螺栓",
+    "spec": "M16×70-10.9-DK",
+    "weightKg": "0.133",
+    "sizeMm": "24.0*28.0*80.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01B0490",
+    "配件名称": "螺栓",
+    "规格": "M16×70-10.9-DK",
+    "重量(KG)": "0.133",
+    "尺寸(mm)": "24.0* 28.0* 80.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343535363635343538356435343833353435343536",
+    "/part/zp/35343535363635343538356435343833353435343536",
+    "/part/zp/35343535363635343538356435343833353435343537",
+    "/part/zp/35343535363635343538356435343833353435343537"
+   ],
+   "parentPartNO": "32Y3455"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M16×70-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0490",
+    "Part Name": "BOLT",
+    "Specification": "M16×70-10.9-DK",
+    "Weight": "0.133",
+    "Size": "24.0* 28.0* 80.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343535363635343538356435343833353435343536",
+    "/part/zp/35343535363635343538356435343833353435343536",
+    "/part/zp/35343535363635343538356435343833353435343537",
+    "/part/zp/35343535363635343538356435343833353435343537"
+   ],
+   "parentPartNO": "32Y3455"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "60C7942",
+  "partName": "空滤滤芯总成",
+  "qty": "1",
+  "storeTypeName": "500H",
+  "note": "",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C1830",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

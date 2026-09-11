@@ -1,0 +1,68 @@
+{
+ "partNO": "64C1214",
+ "parentPartNO": "64C1215",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "64C1214",
+    "partName": "遮阳帘",
+    "spec": "64C1214",
+    "weightKg": "0.85",
+    "sizeMm": "888.0*146.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "64C1214",
+    "配件名称": "遮阳帘",
+    "规格": "64C1214",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "888.0* 146.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C1215"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VISOR",
+    "spec": "64C1214",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "64C1214",
+    "Part Name": "VISOR",
+    "Specification": "64C1214",
+    "Weight": "0.85",
+    "Size": "888.0* 146.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C1215"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

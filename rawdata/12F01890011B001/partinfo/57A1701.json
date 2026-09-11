@@ -1,0 +1,74 @@
+{
+ "partNO": "57A1701",
+ "parentPartNO": "28C0220",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "57A1701",
+    "partName": "调整垫",
+    "spec": "Φ210×Φ132×1",
+    "weightKg": "0.028",
+    "sizeMm": "220.0*219.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "57A1701",
+    "配件名称": "调整垫",
+    "规格": "Φ210×Φ132×1",
+    "重量(KG)": "0.028",
+    "尺寸(mm)": "220.0* 219.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3539353b36353535353b353435353833353435343536",
+    "/part/zp/3539353b36353535353b353435353833353435343536"
+   ],
+   "parentPartNO": "28C0220"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM",
+    "spec": "Φ210×Φ132×1",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "57A1701",
+    "Part Name": "SHIM",
+    "Specification": "Φ210×Φ132×1",
+    "Weight": "0.028",
+    "Size": "220.0* 219.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3539353b36353535353b353435353833353435343536",
+    "/part/zp/3539353b36353535353b353435353833353435343536"
+   ],
+   "parentPartNO": "28C0220"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

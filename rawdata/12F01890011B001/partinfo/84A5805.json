@@ -1,0 +1,68 @@
+{
+ "partNO": "84A5805",
+ "parentPartNO": "47C5996",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A5805",
+    "partName": "地板垫",
+    "spec": "84A5805",
+    "weightKg": "5.3",
+    "sizeMm": "910.0*609.0*136.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A5805",
+    "配件名称": "地板垫",
+    "规格": "84A5805",
+    "重量(KG)": "5.3",
+    "尺寸(mm)": "910.0* 609.0* 136.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLOOR MAT",
+    "spec": "84A5805",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A5805",
+    "Part Name": "FLOOR MAT",
+    "Specification": "84A5805",
+    "Weight": "5.3",
+    "Size": "910.0* 609.0* 136.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

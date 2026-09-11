@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 3,
+  "partNO": "SP277063",
+  "partName": "INJECTOR",
+  "qty": "6",
+  "storeTypeName": "2 Years",
+  "note": "DISCONTINUED. CHANGE TO SP315312 . ONE-WAY REPLACEMENT",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP284865",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

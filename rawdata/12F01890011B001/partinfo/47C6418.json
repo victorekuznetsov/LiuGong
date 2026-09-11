@@ -1,0 +1,68 @@
+{
+ "partNO": "47C6418",
+ "parentPartNO": "47C5996",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C6418",
+    "partName": "扣紧件",
+    "spec": "47C6418",
+    "weightKg": "0.0",
+    "sizeMm": "18.0*15.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C6418",
+    "配件名称": "扣紧件",
+    "规格": "47C6418",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "18.0* 15.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FASTENER",
+    "spec": "47C6418",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C6418",
+    "Part Name": "FASTENER",
+    "Specification": "47C6418",
+    "Weight": "0.0",
+    "Size": "18.0* 15.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

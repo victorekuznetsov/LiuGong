@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "53C2524",
+  "partName": "RETUREN OIL FILTER ELEMENT",
+  "qty": "1",
+  "storeTypeName": "1000H",
+  "note": "DISCONTINUED. CHANGE TO 53C2423 . INTERCHANGEABLE.",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C2496",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

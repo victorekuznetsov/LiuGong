@@ -1,0 +1,68 @@
+{
+ "partNO": "SP279523",
+ "parentPartNO": "SP284849",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP279523",
+    "partName": "燃油滤清器座",
+    "spec": "",
+    "weightKg": "4.5",
+    "sizeMm": "490.0*170.0*185.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP279523",
+    "配件名称": "燃油滤清器座",
+    "规格": "",
+    "重量(KG)": "4.5",
+    "尺寸(mm)": "490.0* 170.0* 185.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284849"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER HEAD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP279523",
+    "Part Name": "FUEL FILTER HEAD",
+    "Specification": "",
+    "Weight": "4.5",
+    "Size": "490.0* 170.0* 185.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284849"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

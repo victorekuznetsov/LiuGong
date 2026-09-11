@@ -1,0 +1,68 @@
+{
+ "partNO": "35A7087",
+ "parentPartNO": "72C0479",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "35A7087",
+    "partName": "钢管",
+    "spec": "35A7087",
+    "weightKg": "0.4",
+    "sizeMm": "30.0*31.0*110.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "35A7087",
+    "配件名称": "钢管",
+    "规格": "35A7087",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "30.0* 31.0* 110.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C0479"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TUBE",
+    "spec": "35A7087",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "35A7087",
+    "Part Name": "TUBE",
+    "Specification": "35A7087",
+    "Weight": "0.4",
+    "Size": "30.0* 31.0* 110.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C0479"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

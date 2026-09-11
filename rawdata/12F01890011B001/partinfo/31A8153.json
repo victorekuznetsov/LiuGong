@@ -1,0 +1,68 @@
+{
+ "partNO": "31A8153",
+ "parentPartNO": "80C2350",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "31A8153",
+    "partName": "润滑脂管路",
+    "spec": "2300",
+    "weightKg": "0.0",
+    "sizeMm": "2450.0*24.0*21.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用05C6702;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "31A8153",
+    "配件名称": "润滑脂管路",
+    "规格": "2300",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "2450.0* 24.0* 21.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用05C6702;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "80C2350"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LUBRICATION PIPE",
+    "spec": "2300",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31A8153",
+    "Part Name": "LUBRICATION PIPE",
+    "Specification": "2300",
+    "Weight": "0.0",
+    "Size": "2450.0* 24.0* 21.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Changed to 05C6702; Interchangeable"
+   },
+   "photos": [],
+   "parentPartNO": "80C2350"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

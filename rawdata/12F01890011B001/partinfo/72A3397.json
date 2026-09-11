@@ -1,0 +1,68 @@
+{
+ "partNO": "72A3397",
+ "parentPartNO": "54D8988",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72A3397",
+    "partName": "护套",
+    "spec": "",
+    "weightKg": "10.893",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "72A3397",
+    "配件名称": "护套",
+    "规格": "",
+    "重量(KG)": "10.893",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "54D8988"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "JACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72A3397",
+    "Part Name": "JACKET",
+    "Specification": "",
+    "Weight": "10.893",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "54D8988"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

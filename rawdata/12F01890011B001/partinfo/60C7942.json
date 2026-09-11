@@ -1,0 +1,68 @@
+{
+ "partNO": "60C7942",
+ "parentPartNO": "47Y2359",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "60C7942",
+    "partName": "空滤滤芯总成",
+    "spec": "",
+    "weightKg": "6.95",
+    "sizeMm": "671.0*584.0*340.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "60C7942",
+    "配件名称": "空滤滤芯总成",
+    "规格": "",
+    "重量(KG)": "6.95",
+    "尺寸(mm)": "671.0* 584.0* 340.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER ELEMENT AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "60C7942",
+    "Part Name": "FILTER ELEMENT AS",
+    "Specification": "",
+    "Weight": "6.95",
+    "Size": "671.0* 584.0* 340.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

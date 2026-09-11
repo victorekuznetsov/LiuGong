@@ -1,0 +1,72 @@
+{
+ "partNO": "34C1268",
+ "parentPartNO": "27C2703",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C1268",
+    "partName": "锁",
+    "spec": "",
+    "weightKg": "0.65",
+    "sizeMm": "223.0*100.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C1268",
+    "配件名称": "锁",
+    "规格": "",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "223.0* 100.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373538363735353536353a35633833353435343538"
+   ],
+   "parentPartNO": "27C2703"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C1268",
+    "Part Name": "LOCK",
+    "Specification": "",
+    "Weight": "0.65",
+    "Size": "223.0* 100.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373538363735353536353a35633833353435343538"
+   ],
+   "parentPartNO": "27C2703"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

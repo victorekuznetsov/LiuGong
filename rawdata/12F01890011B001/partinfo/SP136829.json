@@ -1,0 +1,78 @@
+{
+ "partNO": "SP136829",
+ "parentPartNO": "SP284855",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP136829",
+    "partName": "六角头螺栓",
+    "spec": "",
+    "weightKg": "0.01",
+    "sizeMm": "20.0*20.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "由SP108743更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP136829",
+    "配件名称": "六角头螺栓",
+    "规格": "",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "20.0* 20.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "由SP108743更改而来"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353a3563353635643833353435343536",
+    "/part/zp/3737373435353537353a3563353635643833353435343536",
+    "/part/zp/3737373435353537353a3563353635643833353435343537",
+    "/part/zp/3737373435353537353a3563353635643833353435343537"
+   ],
+   "parentPartNO": "SP284855"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HEXAGON BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP136829",
+    "Part Name": "HEXAGON BOLT",
+    "Specification": "",
+    "Weight": "0.01",
+    "Size": "20.0* 20.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP108743"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353a3563353635643833353435343536",
+    "/part/zp/3737373435353537353a3563353635643833353435343536",
+    "/part/zp/3737373435353537353a3563353635643833353435343537",
+    "/part/zp/3737373435353537353a3563353635643833353435343537"
+   ],
+   "parentPartNO": "SP284855"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

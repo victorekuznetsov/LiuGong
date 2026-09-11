@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP277021",
+  "partName": "ALTERNATOR",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "DISCONTINUED. CHANGE TO SP372172 . ONE-WAY REPLACEMENT",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP284842",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

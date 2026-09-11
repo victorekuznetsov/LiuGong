@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP277068",
+  "partName": "STARTING MOTOR",
+  "qty": "1",
+  "storeTypeName": "2 Years",
+  "note": "DISCONTINUED. CHANGE TO SP315315 . ONE-WAY REPLACEMENT",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP284870",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

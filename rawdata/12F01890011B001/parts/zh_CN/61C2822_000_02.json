@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 85,
+  "partNO": "SP291628",
+  "partName": "主控阀密封包",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "61C2822",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

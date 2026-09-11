@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "53C1024",
+  "partName": "FILTER ELEMENT",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "44C2104",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

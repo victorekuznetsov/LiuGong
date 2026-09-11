@@ -1,0 +1,68 @@
+{
+ "partNO": "13B1440",
+ "parentPartNO": "44C2352",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B1440",
+    "partName": "密封圈",
+    "spec": "970E TENSION SEAL",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B1440",
+    "配件名称": "密封圈",
+    "规格": "970E TENSION SEAL",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "44C2352"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL RING",
+    "spec": "970E TENSION SEAL",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B1440",
+    "Part Name": "SEAL RING",
+    "Specification": "970E TENSION SEAL",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "44C2352"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

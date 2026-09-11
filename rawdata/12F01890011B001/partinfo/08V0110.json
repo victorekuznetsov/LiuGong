@@ -1,0 +1,68 @@
+{
+ "partNO": "08V0110",
+ "parentPartNO": "72C3970",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08V0110",
+    "partName": "开口销",
+    "spec": "3×25-DK",
+    "weightKg": "0.001",
+    "sizeMm": "28.0*12.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用08B0600;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "08V0110",
+    "配件名称": "开口销",
+    "规格": "3×25-DK",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "28.0* 12.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用08B0600;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "72C3970"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COTTER PIN",
+    "spec": "3×25-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08V0110",
+    "Part Name": "COTTER PIN",
+    "Specification": "3×25-DK",
+    "Weight": "0.001",
+    "Size": "28.0* 12.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 08B0600 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "72C3970"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

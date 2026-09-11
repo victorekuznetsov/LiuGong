@@ -1,0 +1,74 @@
+{
+ "partNO": "34C8170",
+ "parentPartNO": "21C0739",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C8170",
+    "partName": "滤网",
+    "spec": "",
+    "weightKg": "0.106",
+    "sizeMm": "240.0*78.0*82.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "是",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C8170",
+    "配件名称": "滤网",
+    "规格": "",
+    "重量(KG)": "0.106",
+    "尺寸(mm)": "240.0* 78.0* 82.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "是",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373538363735633535353b35343833353435343536",
+    "/part/zp/35373538363735633535353b35343833353435343536"
+   ],
+   "parentPartNO": "21C0739"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STRAINER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C8170",
+    "Part Name": "STRAINER",
+    "Specification": "",
+    "Weight": "0.106",
+    "Size": "240.0* 78.0* 82.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "YES",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373538363735633535353b35343833353435343536",
+    "/part/zp/35373538363735633535353b35343833353435343536"
+   ],
+   "parentPartNO": "21C0739"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

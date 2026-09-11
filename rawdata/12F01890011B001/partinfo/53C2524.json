@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2524",
+ "parentPartNO": "47Y2359",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2524",
+    "partName": "回油滤芯",
+    "spec": "",
+    "weightKg": "1.2",
+    "sizeMm": "128.0*129.0*175.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": "停止供货;改用53C2423;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "53C2524",
+    "配件名称": "回油滤芯",
+    "规格": "",
+    "重量(KG)": "1.2",
+    "尺寸(mm)": "128.0* 129.0* 175.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": "停止供货;改用53C2423;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RETUREN OIL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2524",
+    "Part Name": "RETUREN OIL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "1.2",
+    "Size": "128.0* 129.0* 175.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO 53C2423 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

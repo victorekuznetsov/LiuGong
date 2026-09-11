@@ -1,0 +1,68 @@
+{
+ "partNO": "10B0011",
+ "parentPartNO": "21C3398",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "10B0011",
+    "partName": "弹簧",
+    "spec": "Φ5-II",
+    "weightKg": "0.15",
+    "sizeMm": "115.0*60.0*115.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用10B0431;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "10B0011",
+    "配件名称": "弹簧",
+    "规格": "Φ5-II",
+    "重量(KG)": "0.15",
+    "尺寸(mm)": "115.0* 60.0* 115.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用10B0431;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "21C3398"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPRING",
+    "spec": "Φ5-II",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "10B0011",
+    "Part Name": "SPRING",
+    "Specification": "Φ5-II",
+    "Weight": "0.15",
+    "Size": "115.0* 60.0* 115.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "Changed to 10B0431; One-way replacement"
+   },
+   "photos": [],
+   "parentPartNO": "21C3398"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

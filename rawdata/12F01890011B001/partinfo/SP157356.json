@@ -1,0 +1,68 @@
+{
+ "partNO": "SP157356",
+ "parentPartNO": "44C2352",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP157356",
+    "partName": "张紧装置密封包",
+    "spec": "970E AS",
+    "weightKg": "0.25",
+    "sizeMm": "159.0*159.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP157356",
+    "配件名称": "张紧装置密封包",
+    "规格": "970E AS",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "159.0* 159.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "44C2352"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "970E AS",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP157356",
+    "Part Name": "SEAL KIT",
+    "Specification": "970E AS",
+    "Weight": "0.25",
+    "Size": "159.0* 159.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "44C2352"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

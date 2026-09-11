@@ -1,0 +1,68 @@
+{
+ "partNO": "SP215085",
+ "parentPartNO": "25C2151P02",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP215085",
+    "partName": "主密封圈",
+    "spec": "",
+    "weightKg": "0.322",
+    "sizeMm": "87.0*81.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "停止供货;改用2件SP215077C+1件SP244143C+1件SP257983C；旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP215085",
+    "配件名称": "主密封圈",
+    "规格": "",
+    "重量(KG)": "0.322",
+    "尺寸(mm)": "87.0* 81.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用2件SP215077C+1件SP244143C+1件SP257983C；旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "25C2151P02"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP215085",
+    "Part Name": "SEAL",
+    "Specification": "",
+    "Weight": "0.322",
+    "Size": "87.0* 81.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED;CHANGE TO SP215077C*2PCS+SP244143C*1PC+SP257983C*1PC;OLD PART CANNOT REPLACE NEW PART(ONE-WAY REPLACEMENT)"
+   },
+   "photos": [],
+   "parentPartNO": "25C2151P02"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "56C2218",
+ "parentPartNO": "47Y2359",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56C2218",
+    "partName": "机油滤芯",
+    "spec": "",
+    "weightKg": "1.5",
+    "sizeMm": "249.0*118.0*118.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "56C2218",
+    "配件名称": "机油滤芯",
+    "规格": "",
+    "重量(KG)": "1.5",
+    "尺寸(mm)": "249.0* 118.0* 118.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE OIL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "56C2218",
+    "Part Name": "ENGINE OIL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "1.5",
+    "Size": "249.0* 118.0* 118.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2359"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

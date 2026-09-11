@@ -1,0 +1,68 @@
+{
+ "partNO": "34C8620",
+ "parentPartNO": "53C1489",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C8620",
+    "partName": "滤芯",
+    "spec": "",
+    "weightKg": "1.9",
+    "sizeMm": "489.0*91.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C8620",
+    "配件名称": "滤芯",
+    "规格": "",
+    "重量(KG)": "1.9",
+    "尺寸(mm)": "489.0* 91.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C1489"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C8620",
+    "Part Name": "FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "1.9",
+    "Size": "489.0* 91.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C1489"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

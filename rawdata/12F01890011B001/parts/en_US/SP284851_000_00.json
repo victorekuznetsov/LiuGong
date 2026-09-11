@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 2,
+  "partNO": "SP277032",
+  "partName": "ELBOW HOSE COUPLING",
+  "qty": "1",
+  "storeTypeName": "Not recommend",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP284851",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

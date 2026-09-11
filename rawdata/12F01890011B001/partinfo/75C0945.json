@@ -1,0 +1,68 @@
+{
+ "partNO": "75C0945",
+ "parentPartNO": "80C2523",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75C0945",
+    "partName": "压缩机至冷凝器管",
+    "spec": "",
+    "weightKg": "1.15",
+    "sizeMm": "366.0*359.0*73.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "75C0945",
+    "配件名称": "压缩机至冷凝器管",
+    "规格": "",
+    "重量(KG)": "1.15",
+    "尺寸(mm)": "366.0* 359.0* 73.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C2523"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "75C0945",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "1.15",
+    "Size": "366.0* 359.0* 73.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C2523"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "86A8920",
+ "parentPartNO": "59C7962",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A8920",
+    "partName": "衬套",
+    "spec": "Φ170×Φ140×170",
+    "weightKg": "9.35",
+    "sizeMm": "170.0*170.0*170.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A8920",
+    "配件名称": "衬套",
+    "规格": "Φ170×Φ140×170",
+    "重量(KG)": "9.35",
+    "尺寸(mm)": "170.0* 170.0* 170.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "59C7962"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "Φ170×Φ140×170",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A8920",
+    "Part Name": "BUSHING",
+    "Specification": "Φ170×Φ140×170",
+    "Weight": "9.35",
+    "Size": "170.0* 170.0* 170.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "59C7962"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

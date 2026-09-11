@@ -1,0 +1,78 @@
+{
+ "partNO": "06B0670",
+ "parentPartNO": "47C5996",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "06B0670",
+    "partName": "垫圈",
+    "spec": "8-300HV-DK",
+    "weightKg": "0.0",
+    "sizeMm": "20.0*20.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由06B0005更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "06B0670",
+    "配件名称": "垫圈",
+    "规格": "8-300HV-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "20.0* 20.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由06B0005更改而来"
+   },
+   "photos": [
+    "/part/zp/3534353a36363534353a353b35343833353435343536",
+    "/part/zp/3534353a36363534353a353b35343833353435343536",
+    "/part/zp/3534353a36363534353a353b35343833353435343537",
+    "/part/zp/3534353a36363534353a353b35343833353435343537"
+   ],
+   "parentPartNO": "47C5996"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "8-300HV-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "06B0670",
+    "Part Name": "WASHER",
+    "Specification": "8-300HV-DK",
+    "Weight": "0.0",
+    "Size": "20.0* 20.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 06B0005"
+   },
+   "photos": [
+    "/part/zp/3534353a36363534353a353b35343833353435343536",
+    "/part/zp/3534353a36363534353a353b35343833353435343536",
+    "/part/zp/3534353a36363534353a353b35343833353435343537",
+    "/part/zp/3534353a36363534353a353b35343833353435343537"
+   ],
+   "parentPartNO": "47C5996"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

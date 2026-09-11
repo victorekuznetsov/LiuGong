@@ -1,0 +1,74 @@
+{
+ "partNO": "36B0018",
+ "parentPartNO": "83C4298",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B0018",
+    "partName": "圆形接头",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "9.0*28.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "消耗完库存后;改用36B1108;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "36B0018",
+    "配件名称": "圆形接头",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "9.0* 28.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用36B1108;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3537353a363635343534353535633833353435343536",
+    "/part/zp/3537353a363635343534353535633833353435343536"
+   ],
+   "parentPartNO": "83C4298"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B0018",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "9.0* 28.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 36B1108 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/3537353a363635343534353535633833353435343536",
+    "/part/zp/3537353a363635343534353535633833353435343536"
+   ],
+   "parentPartNO": "83C4298"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "35C2047",
+ "parentPartNO": "47C6727",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "35C2047",
+    "partName": "把手",
+    "spec": "35C2047",
+    "weightKg": "0.171",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "前窗把手改用为SP242420，后窗把手改用为SP242421"
+   },
+   "attrsRaw": {
+    "配件编码": "35C2047",
+    "配件名称": "把手",
+    "规格": "35C2047",
+    "重量(KG)": "0.171",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "前窗把手改用为SP242420，后窗把手改用为SP242421"
+   },
+   "photos": [],
+   "parentPartNO": "47C6727"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HANDLE",
+    "spec": "35C2047",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "35C2047",
+    "Part Name": "HANDLE",
+    "Specification": "35C2047",
+    "Weight": "0.171",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "IF USE ON FRONT WINDOW HANDLE, CHANGE TO SP242420; IF USE ON REAR WINDOW HANDLE, CHANGED TO SP242421"
+   },
+   "photos": [],
+   "parentPartNO": "47C6727"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

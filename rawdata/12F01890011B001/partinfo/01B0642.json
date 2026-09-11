@@ -1,0 +1,68 @@
+{
+ "partNO": "01B0642",
+ "parentPartNO": "65C0858",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0642",
+    "partName": "螺栓",
+    "spec": "M16×55-10.9-DK",
+    "weightKg": "0.0",
+    "sizeMm": "24.0*28.0*65.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "提供机型机号确认"
+   },
+   "attrsRaw": {
+    "配件编码": "01B0642",
+    "配件名称": "螺栓",
+    "规格": "M16×55-10.9-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "24.0* 28.0* 65.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "提供机型机号确认"
+   },
+   "photos": [],
+   "parentPartNO": "65C0858"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M16×55-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0642",
+    "Part Name": "BOLT",
+    "Specification": "M16×55-10.9-DK",
+    "Weight": "0.0",
+    "Size": "24.0* 28.0* 65.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "PLEASE OFFER MACHINE SERIAL NUMBER"
+   },
+   "photos": [],
+   "parentPartNO": "65C0858"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

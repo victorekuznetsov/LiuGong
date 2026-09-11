@@ -1,0 +1,74 @@
+{
+ "partNO": "12C4432",
+ "parentPartNO": "15Y7085",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C4432",
+    "partName": "单向阀总成",
+    "spec": "BPV-20-2.5",
+    "weightKg": "1.75",
+    "sizeMm": "219.0*87.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C4432",
+    "配件名称": "单向阀总成",
+    "规格": "BPV-20-2.5",
+    "重量(KG)": "1.75",
+    "尺寸(mm)": "219.0* 87.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735383538353735363833353435343535",
+    "/part/zp/35353536363735383538353735363833353435343535"
+   ],
+   "parentPartNO": "15Y7085"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CHECK VALVE AS",
+    "spec": "BPV-20-2.5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C4432",
+    "Part Name": "CHECK VALVE AS",
+    "Specification": "BPV-20-2.5",
+    "Weight": "1.75",
+    "Size": "219.0* 87.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735383538353735363833353435343535",
+    "/part/zp/35353536363735383538353735363833353435343535"
+   ],
+   "parentPartNO": "15Y7085"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

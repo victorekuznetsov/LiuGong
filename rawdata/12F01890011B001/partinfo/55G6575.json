@@ -1,0 +1,68 @@
+{
+ "partNO": "55G6575",
+ "parentPartNO": "59C7735",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55G6575",
+    "partName": "轴套",
+    "spec": "180X150X180",
+    "weightKg": "10.45",
+    "sizeMm": "180.0*180.0*180.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "55G6575",
+    "配件名称": "轴套",
+    "规格": "180X150X180",
+    "重量(KG)": "10.45",
+    "尺寸(mm)": "180.0* 180.0* 180.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "59C7735"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "180X150X180",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55G6575",
+    "Part Name": "BUSHING",
+    "Specification": "180X150X180",
+    "Weight": "10.45",
+    "Size": "180.0* 180.0* 180.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "59C7735"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

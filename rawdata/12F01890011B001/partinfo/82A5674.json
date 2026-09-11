@@ -1,0 +1,68 @@
+{
+ "partNO": "82A5674",
+ "parentPartNO": "47C5996",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "82A5674",
+    "partName": "密封海绵",
+    "spec": "82A5674",
+    "weightKg": "0.0",
+    "sizeMm": "1667.0*2.0*885.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用通用海绵SP240456∽SP240464，厚度不同，根据需求选择"
+   },
+   "attrsRaw": {
+    "配件编码": "82A5674",
+    "配件名称": "密封海绵",
+    "规格": "82A5674",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1667.0* 2.0* 885.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用通用海绵SP240456∽SP240464，厚度不同，根据需求选择"
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPONGE",
+    "spec": "82A5674",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "82A5674",
+    "Part Name": "SPONGE",
+    "Specification": "82A5674",
+    "Weight": "0.0",
+    "Size": "1667.0* 2.0* 885.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS."
+   },
+   "photos": [],
+   "parentPartNO": "47C5996"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

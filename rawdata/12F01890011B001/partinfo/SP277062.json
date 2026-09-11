@@ -1,0 +1,68 @@
+{
+ "partNO": "SP277062",
+ "parentPartNO": "SP284864",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP277062",
+    "partName": "惰轮齿轮",
+    "spec": "",
+    "weightKg": "2.35",
+    "sizeMm": "160.0*159.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP277062",
+    "配件名称": "惰轮齿轮",
+    "规格": "",
+    "重量(KG)": "2.35",
+    "尺寸(mm)": "160.0* 159.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284864"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "IDLER GEAR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP277062",
+    "Part Name": "IDLER GEAR",
+    "Specification": "",
+    "Weight": "2.35",
+    "Size": "160.0* 159.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284864"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

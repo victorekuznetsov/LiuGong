@@ -1,0 +1,72 @@
+{
+ "partNO": "68C5431",
+ "parentPartNO": "80C3077",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "68C5431",
+    "partName": "软管总成",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "380.0*86.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "68C5431",
+    "配件名称": "软管总成",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "380.0* 86.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353a356336373539353835373535"
+   ],
+   "parentPartNO": "80C3077"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "68C5431",
+    "Part Name": "HOSE AS",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "380.0* 86.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353a356336373539353835373535"
+   ],
+   "parentPartNO": "80C3077"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

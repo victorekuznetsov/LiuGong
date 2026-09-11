@@ -1,0 +1,68 @@
+{
+ "partNO": "47C6736",
+ "parentPartNO": "47C6727",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C6736",
+    "partName": "把手",
+    "spec": "47C6736",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货;前窗把手改用SP242420，后窗把手改用SP242421"
+   },
+   "attrsRaw": {
+    "配件编码": "47C6736",
+    "配件名称": "把手",
+    "规格": "47C6736",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货;前窗把手改用SP242420，后窗把手改用SP242421"
+   },
+   "photos": [],
+   "parentPartNO": "47C6727"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HANDLE",
+    "spec": "47C6736",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C6736",
+    "Part Name": "HANDLE",
+    "Specification": "47C6736",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED; THE FRONT WINDOW HANDLECHANGE TO USE SP242420, AND THE REAR WINDOW HANDLE CHANGE TO SP242421"
+   },
+   "photos": [],
+   "parentPartNO": "47C6727"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

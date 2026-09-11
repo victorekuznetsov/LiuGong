@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2496",
+ "parentPartNO": "15Y7085",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2496",
+    "partName": "过滤器总成",
+    "spec": "",
+    "weightKg": "2.45",
+    "sizeMm": "262.0*150.0*127.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": "停止供货;改用53C2392;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "53C2496",
+    "配件名称": "过滤器总成",
+    "规格": "",
+    "重量(KG)": "2.45",
+    "尺寸(mm)": "262.0* 150.0* 127.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": "停止供货;改用53C2392;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER LINES GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2496",
+    "Part Name": "FILTER LINES GP",
+    "Specification": "",
+    "Weight": "2.45",
+    "Size": "262.0* 150.0* 127.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO 53C2392 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

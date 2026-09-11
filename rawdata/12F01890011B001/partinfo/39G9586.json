@@ -1,0 +1,68 @@
+{
+ "partNO": "39G9586",
+ "parentPartNO": "15Y7085",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "39G9586",
+    "partName": "弯板",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "80.0*120.0*110.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "39G9586",
+    "配件名称": "弯板",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "80.0* 120.0* 110.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "39G9586",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "80.0* 120.0* 110.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

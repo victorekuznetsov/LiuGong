@@ -1,0 +1,68 @@
+{
+ "partNO": "25C2151",
+ "parentPartNO": "33Y0825",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "25C2151",
+    "partName": "履带总成",
+    "spec": "T0159",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "存在一号三种互换的状态：螺栓为M27且为压销式链轨端面用25C2151，螺栓为M30且为压销式链轨端面用25C2677，螺栓为M30且为卡销式链轨端面用25C2676"
+   },
+   "attrsRaw": {
+    "配件编码": "25C2151",
+    "配件名称": "履带总成",
+    "规格": "T0159",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "存在一号三种互换的状态：螺栓为M27且为压销式链轨端面用25C2151，螺栓为M30且为压销式链轨端面用25C2677，螺栓为M30且为卡销式链轨端面用25C2676"
+   },
+   "photos": [],
+   "parentPartNO": "33Y0825"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRACK AS",
+    "spec": "T0159",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "25C2151",
+    "Part Name": "TRACK AS",
+    "Specification": "T0159",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "HAS THREE TYPES,INTERCHANGEABLE. IF THE BOLT IS M27 AND MATERIAL OF TRACK LINK END FACE IS PRESSED INTO THE GROOVE, USE 25C2151,"
+   },
+   "photos": [],
+   "parentPartNO": "33Y0825"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

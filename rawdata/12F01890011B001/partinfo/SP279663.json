@@ -1,0 +1,68 @@
+{
+ "partNO": "SP279663",
+ "parentPartNO": "SP284704",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP279663",
+    "partName": "油封",
+    "spec": "",
+    "weightKg": "0.174",
+    "sizeMm": "112.0*111.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP279663",
+    "配件名称": "油封",
+    "规格": "",
+    "重量(KG)": "0.174",
+    "尺寸(mm)": "112.0* 111.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284704"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP279663",
+    "Part Name": "OIL SEAL",
+    "Specification": "",
+    "Weight": "0.174",
+    "Size": "112.0* 111.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP394746 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "SP284704"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

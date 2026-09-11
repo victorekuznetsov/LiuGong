@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 2,
+  "partNO": "SP277032",
+  "partName": "软管弯头联轴节",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP284851",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

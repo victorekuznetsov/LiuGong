@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "53C2524",
+  "partName": "回油滤芯",
+  "qty": "1",
+  "storeTypeName": "1000H",
+  "note": "停止供货;改用53C2423;可互换（双向互换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C2496",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

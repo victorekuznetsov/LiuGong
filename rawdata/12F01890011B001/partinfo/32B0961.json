@@ -1,0 +1,68 @@
+{
+ "partNO": "32B0961",
+ "parentPartNO": "55C4792",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0961",
+    "partName": "警示灯",
+    "spec": "12V",
+    "weightKg": "0.0",
+    "sizeMm": "305.0*157.0*188.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "32B0961",
+    "配件名称": "警示灯",
+    "规格": "12V",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "305.0* 157.0* 188.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C4792"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BEACON",
+    "spec": "12V",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0961",
+    "Part Name": "BEACON",
+    "Specification": "12V",
+    "Weight": "0.0",
+    "Size": "305.0* 157.0* 188.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C4792"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

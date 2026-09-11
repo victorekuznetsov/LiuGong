@@ -1,0 +1,68 @@
+{
+ "partNO": "28C0219",
+ "parentPartNO": "32Y3372",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "28C0219",
+    "partName": "调整垫",
+    "spec": "Φ250×Φ142",
+    "weightKg": "0.0",
+    "sizeMm": "252.0*4.0*282.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用下级件;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "28C0219",
+    "配件名称": "调整垫",
+    "规格": "Φ250×Φ142",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "252.0* 4.0* 282.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用下级件;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "32Y3372"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM",
+    "spec": "Φ250×Φ142",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "28C0219",
+    "Part Name": "SHIM",
+    "Specification": "Φ250×Φ142",
+    "Weight": "0.0",
+    "Size": "252.0* 4.0* 282.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SUB-PART/LOWER PART . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "32Y3372"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

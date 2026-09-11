@@ -1,0 +1,68 @@
+{
+ "partNO": "12C8306",
+ "parentPartNO": "12Y1594",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C8306",
+    "partName": "电磁阀",
+    "spec": "840900290",
+    "weightKg": "1.45",
+    "sizeMm": "110.0*106.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C8306",
+    "配件名称": "电磁阀",
+    "规格": "840900290",
+    "重量(KG)": "1.45",
+    "尺寸(mm)": "110.0* 106.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1594"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SOLENOID VALVE",
+    "spec": "840900290",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C8306",
+    "Part Name": "SOLENOID VALVE",
+    "Specification": "840900290",
+    "Weight": "1.45",
+    "Size": "110.0* 106.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1594"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

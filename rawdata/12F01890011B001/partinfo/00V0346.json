@@ -1,0 +1,68 @@
+{
+ "partNO": "00V0346",
+ "parentPartNO": "77C0592",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00V0346",
+    "partName": "螺栓",
+    "spec": "M14×55-8.8-ZN.D",
+    "weightKg": "0.078",
+    "sizeMm": "64.0*24.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "00V0346",
+    "配件名称": "螺栓",
+    "规格": "M14×55-8.8-ZN.D",
+    "重量(KG)": "0.078",
+    "尺寸(mm)": "64.0* 24.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0592"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M14×55-8.8-ZN.D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00V0346",
+    "Part Name": "BOLT",
+    "Specification": "M14×55-8.8-ZN.D",
+    "Weight": "0.078",
+    "Size": "64.0* 24.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0592"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

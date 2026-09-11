@@ -1,0 +1,68 @@
+{
+ "partNO": "53C1994",
+ "parentPartNO": "21C3396",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C1994",
+    "partName": "滤芯总成",
+    "spec": "",
+    "weightKg": "2.7",
+    "sizeMm": "688.0*195.0*175.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C1994",
+    "配件名称": "滤芯总成",
+    "规格": "",
+    "重量(KG)": "2.7",
+    "尺寸(mm)": "688.0* 195.0* 175.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "21C3396"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER ELEMENT AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C1994",
+    "Part Name": "FILTER ELEMENT AS",
+    "Specification": "",
+    "Weight": "2.7",
+    "Size": "688.0* 195.0* 175.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "21C3396"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

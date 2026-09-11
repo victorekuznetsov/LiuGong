@@ -1,0 +1,68 @@
+{
+ "partNO": "17D0891",
+ "parentPartNO": "15Y7085",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "17D0891",
+    "partName": "管夹",
+    "spec": "",
+    "weightKg": "1.65",
+    "sizeMm": "313.0*177.0*82.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "17D0891",
+    "配件名称": "管夹",
+    "规格": "",
+    "重量(KG)": "1.65",
+    "尺寸(mm)": "313.0* 177.0* 82.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "17D0891",
+    "Part Name": "CLAMP",
+    "Specification": "",
+    "Weight": "1.65",
+    "Size": "313.0* 177.0* 82.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7085"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

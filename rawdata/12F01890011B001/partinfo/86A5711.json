@@ -1,0 +1,68 @@
+{
+ "partNO": "86A5711",
+ "parentPartNO": "47C6335",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A5711",
+    "partName": "板",
+    "spec": "86A5711",
+    "weightKg": "3.6",
+    "sizeMm": "749.0*499.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A5711",
+    "配件名称": "板",
+    "规格": "86A5711",
+    "重量(KG)": "3.6",
+    "尺寸(mm)": "749.0* 499.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C6335"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "86A5711",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A5711",
+    "Part Name": "PLATE",
+    "Specification": "86A5711",
+    "Weight": "3.6",
+    "Size": "749.0* 499.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C6335"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

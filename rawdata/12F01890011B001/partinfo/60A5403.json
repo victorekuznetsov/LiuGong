@@ -1,0 +1,74 @@
+{
+ "partNO": "60A5403",
+ "parentPartNO": "76C1610",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "60A5403",
+    "partName": "斗齿销",
+    "spec": "1",
+    "weightKg": "1.15",
+    "sizeMm": "184.0*30.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "含1件斗齿销+1件卡环"
+   },
+   "attrsRaw": {
+    "配件编码": "60A5403",
+    "配件名称": "斗齿销",
+    "规格": "1",
+    "重量(KG)": "1.15",
+    "尺寸(mm)": "184.0* 30.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "含1件斗齿销+1件卡环"
+   },
+   "photos": [
+    "/part/zp/353a3534363535393538353435373833353435343535",
+    "/part/zp/353a3534363535393538353435373833353435343535"
+   ],
+   "parentPartNO": "76C1610"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "1",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "60A5403",
+    "Part Name": "PIN",
+    "Specification": "1",
+    "Weight": "1.15",
+    "Size": "184.0* 30.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CONTAINS 1PC PIN AND 1PCS SNAP RING"
+   },
+   "photos": [
+    "/part/zp/353a3534363535393538353435373833353435343535",
+    "/part/zp/353a3534363535393538353435373833353435343535"
+   ],
+   "parentPartNO": "76C1610"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

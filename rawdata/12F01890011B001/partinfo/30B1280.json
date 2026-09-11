@@ -1,0 +1,68 @@
+{
+ "partNO": "30B1280",
+ "parentPartNO": "75C2205",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30B1280",
+    "partName": "温度传感器",
+    "spec": "",
+    "weightKg": "0.011",
+    "sizeMm": "44.0*26.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30B1280",
+    "配件名称": "温度传感器",
+    "规格": "",
+    "重量(KG)": "0.011",
+    "尺寸(mm)": "44.0* 26.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "75C2205"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEMP SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30B1280",
+    "Part Name": "TEMP SENSOR",
+    "Specification": "",
+    "Weight": "0.011",
+    "Size": "44.0* 26.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "75C2205"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

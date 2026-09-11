@@ -1,0 +1,68 @@
+{
+ "partNO": "41D5592",
+ "parentPartNO": "34Y1109",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41D5592",
+    "partName": "通道板",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "320.0*1116.0*90.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41D5592",
+    "配件名称": "通道板",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "320.0* 1116.0* 90.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "34Y1109"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DUCT PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41D5592",
+    "Part Name": "DUCT PLATE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "320.0* 1116.0* 90.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "34Y1109"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

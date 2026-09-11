@@ -1,0 +1,68 @@
+{
+ "partNO": "30A7438",
+ "parentPartNO": "20C5326P03",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30A7438",
+    "partName": "水管",
+    "spec": "",
+    "weightKg": "0.101",
+    "sizeMm": "290.0*140.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用10G1989;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "30A7438",
+    "配件名称": "水管",
+    "规格": "",
+    "重量(KG)": "0.101",
+    "尺寸(mm)": "290.0* 140.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用10G1989;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "20C5326P03"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WATER HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30A7438",
+    "Part Name": "WATER HOSE",
+    "Specification": "",
+    "Weight": "0.101",
+    "Size": "290.0* 140.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 10G1989 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "20C5326P03"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

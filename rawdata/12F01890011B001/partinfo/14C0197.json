@@ -1,0 +1,74 @@
+{
+ "partNO": "14C0197",
+ "parentPartNO": "33Y0825",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "14C0197",
+    "partName": "引导轮",
+    "spec": "8260-MC-D4000",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "认证件14C0197C；（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "14C0197",
+    "配件名称": "引导轮",
+    "规格": "8260-MC-D4000",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "认证件14C0197C；（双向互换）"
+   },
+   "photos": [
+    "/part/zp/353535383637353435353564353b3833353435343535",
+    "/part/zp/353535383637353435353564353b3833353435343535"
+   ],
+   "parentPartNO": "33Y0825"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "IDLER",
+    "spec": "8260-MC-D4000",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "14C0197",
+    "Part Name": "IDLER",
+    "Specification": "8260-MC-D4000",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CERTIFICATION PART 14C0197C; (BIDIRECTIONAL INTERCHANGE)"
+   },
+   "photos": [
+    "/part/zp/353535383637353435353564353b3833353435343535",
+    "/part/zp/353535383637353435353564353b3833353435343535"
+   ],
+   "parentPartNO": "33Y0825"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

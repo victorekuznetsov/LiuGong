@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 3,
+  "partNO": "SP277063",
+  "partName": "喷油器",
+  "qty": "6",
+  "storeTypeName": "2Y",
+  "note": "停止供货;改用SP315312;旧件不可替代新件（单向替换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP284865",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

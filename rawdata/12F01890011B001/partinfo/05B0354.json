@@ -1,0 +1,68 @@
+{
+ "partNO": "05B0354",
+ "parentPartNO": "11C3026",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "05B0354",
+    "partName": "螺塞",
+    "spec": "",
+    "weightKg": "0.029",
+    "sizeMm": "38.0*38.0*21.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "05B0354",
+    "配件名称": "螺塞",
+    "规格": "",
+    "重量(KG)": "0.029",
+    "尺寸(mm)": "38.0* 38.0* 21.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "11C3026"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "05B0354",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.029",
+    "Size": "38.0* 38.0* 21.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [],
+   "parentPartNO": "11C3026"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

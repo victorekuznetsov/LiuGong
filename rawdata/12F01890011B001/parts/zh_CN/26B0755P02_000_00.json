@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP241720",
+  "partName": "密封条",
+  "qty": "2",
+  "storeTypeName": "不建议储备",
+  "note": "一台车用量，适用机型：含20T及以上的25T、33T、36T、50T、70T、90T",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "26B0755P02",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]
