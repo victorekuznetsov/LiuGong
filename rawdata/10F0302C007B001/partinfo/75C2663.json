@@ -1,0 +1,68 @@
+{
+ "partNO": "75C2663",
+ "parentPartNO": "56C4837",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75C2663",
+    "partName": "风道总成",
+    "spec": "75C2663",
+    "weightKg": "0.0",
+    "sizeMm": "386.0*314.0*1198.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "75C2663",
+    "配件名称": "风道总成",
+    "规格": "75C2663",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "386.0* 314.0* 1198.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4837"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR DUCT AS",
+    "spec": "75C2663",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "75C2663",
+    "Part Name": "AIR DUCT AS",
+    "Specification": "75C2663",
+    "Weight": "0.0",
+    "Size": "386.0* 314.0* 1198.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4837"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

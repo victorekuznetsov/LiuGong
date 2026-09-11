@@ -1,0 +1,68 @@
+{
+ "partNO": "86A5543",
+ "parentPartNO": "56C4837",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A5543",
+    "partName": "盖板",
+    "spec": "86A5543",
+    "weightKg": "0.0",
+    "sizeMm": "51.0*61.0*79.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A5543",
+    "配件名称": "盖板",
+    "规格": "86A5543",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "51.0* 61.0* 79.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4837"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "86A5543",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A5543",
+    "Part Name": "COVER",
+    "Specification": "86A5543",
+    "Weight": "0.0",
+    "Size": "51.0* 61.0* 79.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4837"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

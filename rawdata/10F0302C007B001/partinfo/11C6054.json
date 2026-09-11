@@ -1,0 +1,68 @@
+{
+ "partNO": "11C6054",
+ "parentPartNO": "13Y0683",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11C6054",
+    "partName": "柱塞马达",
+    "spec": "A6VM160HA1TD/63W-VZB38800A-S",
+    "weightKg": "0.0",
+    "sizeMm": "306.0*427.0*508.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11C6054",
+    "配件名称": "柱塞马达",
+    "规格": "A6VM160HA1TD/63W-VZB38800A-S",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "306.0* 427.0* 508.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0683"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PISTON MOTOR",
+    "spec": "A6VM160HA1TD/63W-VZB38800A-S",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "11C6054",
+    "Part Name": "PISTON MOTOR",
+    "Specification": "A6VM160HA1TD/63W-VZB38800A-S",
+    "Weight": "0.0",
+    "Size": "306.0* 427.0* 508.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0683"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

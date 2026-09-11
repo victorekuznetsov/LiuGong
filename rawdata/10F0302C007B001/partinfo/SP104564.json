@@ -1,0 +1,68 @@
+{
+ "partNO": "SP104564",
+ "parentPartNO": "12C4155",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP104564",
+    "partName": "螺塞件",
+    "spec": "",
+    "weightKg": "0.021",
+    "sizeMm": "21.0*21.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "SP104564",
+    "配件名称": "螺塞件",
+    "规格": "",
+    "重量(KG)": "0.021",
+    "尺寸(mm)": "21.0* 21.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "12C4155"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP104564",
+    "Part Name": "SCREW PLUG",
+    "Specification": "",
+    "Weight": "0.021",
+    "Size": "21.0* 21.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Unavailable after depleting inventory"
+   },
+   "photos": [],
+   "parentPartNO": "12C4155"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

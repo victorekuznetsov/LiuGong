@@ -1,0 +1,74 @@
+{
+ "partNO": "30C1136",
+ "parentPartNO": "11Y5600",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C1136",
+    "partName": "滤网接头",
+    "spec": "M14×1.5-G1/4",
+    "weightKg": "0.04",
+    "sizeMm": "35.0*21.0*21.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C1136",
+    "配件名称": "滤网接头",
+    "规格": "M14×1.5-G1/4",
+    "重量(KG)": "0.04",
+    "尺寸(mm)": "35.0* 21.0* 21.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353735343637353535353537353a3833353435343536",
+    "/part/zp/353735343637353535353537353a3833353435343536"
+   ],
+   "parentPartNO": "11Y5600"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FITTING",
+    "spec": "M14×1.5-G1/4",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C1136",
+    "Part Name": "FITTING",
+    "Specification": "M14×1.5-G1/4",
+    "Weight": "0.04",
+    "Size": "35.0* 21.0* 21.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353735343637353535353537353a3833353435343536",
+    "/part/zp/353735343637353535353537353a3833353435343536"
+   ],
+   "parentPartNO": "11Y5600"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

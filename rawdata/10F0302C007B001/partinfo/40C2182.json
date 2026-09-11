@@ -1,0 +1,78 @@
+{
+ "partNO": "40C2182",
+ "parentPartNO": "47Y2280",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C2182",
+    "partName": "机油滤芯",
+    "spec": "",
+    "weightKg": "0.75",
+    "sizeMm": "128.0*93.0*175.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": "由SP105056更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "40C2182",
+    "配件名称": "机油滤芯",
+    "规格": "",
+    "重量(KG)": "0.75",
+    "尺寸(mm)": "128.0* 93.0* 175.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": "由SP105056更改而来"
+   },
+   "photos": [
+    "/part/zp/35383534363735363535356335363833353435343536",
+    "/part/zp/35383534363735363535356335363833353435343536",
+    "/part/zp/35383534363735363535356335363833353435343537",
+    "/part/zp/35383534363735363535356335363833353435343537"
+   ],
+   "parentPartNO": "47Y2280"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE OIL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C2182",
+    "Part Name": "ENGINE OIL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "0.75",
+    "Size": "128.0* 93.0* 175.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP105056"
+   },
+   "photos": [
+    "/part/zp/35383534363735363535356335363833353435343536",
+    "/part/zp/35383534363735363535356335363833353435343536",
+    "/part/zp/35383534363735363535356335363833353435343537",
+    "/part/zp/35383534363735363535356335363833353435343537"
+   ],
+   "parentPartNO": "47Y2280"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

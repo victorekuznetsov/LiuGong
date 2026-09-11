@@ -1,0 +1,74 @@
+{
+ "partNO": "01B0496",
+ "parentPartNO": "32Y0941",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0496",
+    "partName": "螺栓",
+    "spec": "M20×160-10.9-DK",
+    "weightKg": "0.438",
+    "sizeMm": "41.0*47.0*172.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由01B0124更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "01B0496",
+    "配件名称": "螺栓",
+    "规格": "M20×160-10.9-DK",
+    "重量(KG)": "0.438",
+    "尺寸(mm)": "41.0* 47.0* 172.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由01B0124更改而来"
+   },
+   "photos": [
+    "/part/zp/353435353636353435383564353a3833353435343535",
+    "/part/zp/353435353636353435383564353a3833353435343535"
+   ],
+   "parentPartNO": "32Y0941"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M20×160-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0496",
+    "Part Name": "BOLT",
+    "Specification": "M20×160-10.9-DK",
+    "Weight": "0.438",
+    "Size": "41.0* 47.0* 172.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 01B0124"
+   },
+   "photos": [
+    "/part/zp/353435353636353435383564353a3833353435343535",
+    "/part/zp/353435353636353435383564353a3833353435343535"
+   ],
+   "parentPartNO": "32Y0941"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

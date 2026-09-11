@@ -1,0 +1,68 @@
+{
+ "partNO": "84A6563",
+ "parentPartNO": "64C1692",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A6563",
+    "partName": "胶条",
+    "spec": "84A6563",
+    "weightKg": "0.3",
+    "sizeMm": "856.0*64.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A6563",
+    "配件名称": "胶条",
+    "规格": "84A6563",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "856.0* 64.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C1692"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "84A6563",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A6563",
+    "Part Name": "SEAL",
+    "Specification": "84A6563",
+    "Weight": "0.3",
+    "Size": "856.0* 64.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C1692"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

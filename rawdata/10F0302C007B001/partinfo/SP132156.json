@@ -1,0 +1,74 @@
+{
+ "partNO": "SP132156",
+ "parentPartNO": "SP214339",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP132156",
+    "partName": "呼吸器盖",
+    "spec": "",
+    "weightKg": "0.3",
+    "sizeMm": "194.0*133.0*61.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP132156",
+    "配件名称": "呼吸器盖",
+    "规格": "",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "194.0* 133.0* 61.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353537353635353539353a3833353435343536",
+    "/part/zp/3737373435353537353635353539353a3833353435343536"
+   ],
+   "parentPartNO": "SP214339"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOUSING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP132156",
+    "Part Name": "HOUSING",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "194.0* 133.0* 61.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353537353635353539353a3833353435343536",
+    "/part/zp/3737373435353537353635353539353a3833353435343536"
+   ],
+   "parentPartNO": "SP214339"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

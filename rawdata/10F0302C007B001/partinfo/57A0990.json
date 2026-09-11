@@ -1,0 +1,74 @@
+{
+ "partNO": "57A0990",
+ "parentPartNO": "28C0057",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "57A0990",
+    "partName": "调整垫片",
+    "spec": "",
+    "weightKg": "0.017",
+    "sizeMm": "128.0*130.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由57A0283更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "57A0990",
+    "配件名称": "调整垫片",
+    "规格": "",
+    "重量(KG)": "0.017",
+    "尺寸(mm)": "128.0* 130.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由57A0283更改而来"
+   },
+   "photos": [
+    "/part/zp/3539353b363535343564356435343833353435343535",
+    "/part/zp/3539353b363535343564356435343833353435343535"
+   ],
+   "parentPartNO": "28C0057"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "57A0990",
+    "Part Name": "SHIM",
+    "Specification": "",
+    "Weight": "0.017",
+    "Size": "128.0* 130.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 57A0283"
+   },
+   "photos": [
+    "/part/zp/3539353b363535343564356435343833353435343535",
+    "/part/zp/3539353b363535343564356435343833353435343535"
+   ],
+   "parentPartNO": "28C0057"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

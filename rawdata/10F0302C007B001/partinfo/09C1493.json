@@ -1,0 +1,74 @@
+{
+ "partNO": "09C1493",
+ "parentPartNO": "15Y7278",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C1493",
+    "partName": "涡轮蜗杆卡箍",
+    "spec": "Φ12-Φ22",
+    "weightKg": "0.15",
+    "sizeMm": "35.0*35.0*11.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用09C2978;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "09C1493",
+    "配件名称": "涡轮蜗杆卡箍",
+    "规格": "Φ12-Φ22",
+    "重量(KG)": "0.15",
+    "尺寸(mm)": "35.0* 35.0* 11.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用09C2978;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35343564363735353538356435373833353435343536",
+    "/part/zp/35343564363735353538356435373833353435343536"
+   ],
+   "parentPartNO": "15Y7278"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ12-Φ22",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C1493",
+    "Part Name": "CLAMP",
+    "Specification": "Φ12-Φ22",
+    "Weight": "0.15",
+    "Size": "35.0* 35.0* 11.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 09C2978 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35343564363735353538356435373833353435343536",
+    "/part/zp/35343564363735353538356435373833353435343536"
+   ],
+   "parentPartNO": "15Y7278"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

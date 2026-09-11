@@ -1,0 +1,68 @@
+{
+ "partNO": "44C5115",
+ "parentPartNO": "15Y7278",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C5115",
+    "partName": "放油阀体",
+    "spec": "R1/2-10",
+    "weightKg": "0.15",
+    "sizeMm": "60.0*59.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "44C5115",
+    "配件名称": "放油阀体",
+    "规格": "R1/2-10",
+    "重量(KG)": "0.15",
+    "尺寸(mm)": "60.0* 59.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRAIN VALVE BODY",
+    "spec": "R1/2-10",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "44C5115",
+    "Part Name": "DRAIN VALVE BODY",
+    "Specification": "R1/2-10",
+    "Weight": "0.15",
+    "Size": "60.0* 59.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "55A3421",
+ "parentPartNO": "77C0080",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55A3421",
+    "partName": "轴套",
+    "spec": "",
+    "weightKg": "1.2",
+    "sizeMm": "103.0*93.0*82.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "55A3421",
+    "配件名称": "轴套",
+    "规格": "",
+    "重量(KG)": "1.2",
+    "尺寸(mm)": "103.0* 93.0* 82.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0080"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55A3421",
+    "Part Name": "BUSHING",
+    "Specification": "",
+    "Weight": "1.2",
+    "Size": "103.0* 93.0* 82.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0080"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

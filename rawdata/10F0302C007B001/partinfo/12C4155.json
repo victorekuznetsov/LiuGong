@@ -1,0 +1,68 @@
+{
+ "partNO": "12C4155",
+ "parentPartNO": "13Y0683",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C4155",
+    "partName": "阀块总成",
+    "spec": "",
+    "weightKg": "1.45",
+    "sizeMm": "207.0*93.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C4155",
+    "配件名称": "阀块总成",
+    "规格": "",
+    "重量(KG)": "1.45",
+    "尺寸(mm)": "207.0* 93.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0683"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VALVE BLOCK AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C4155",
+    "Part Name": "VALVE BLOCK AS",
+    "Specification": "",
+    "Weight": "1.45",
+    "Size": "207.0* 93.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0683"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

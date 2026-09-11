@@ -1,0 +1,68 @@
+{
+ "partNO": "02D9828",
+ "parentPartNO": "60C9101",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "02D9828",
+    "partName": "空滤架",
+    "spec": "",
+    "weightKg": "1.2",
+    "sizeMm": "350.0*315.0*49.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "02D9828",
+    "配件名称": "空滤架",
+    "规格": "",
+    "重量(KG)": "1.2",
+    "尺寸(mm)": "350.0* 315.0* 49.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR FILTER BRACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "02D9828",
+    "Part Name": "AIR FILTER BRACKET",
+    "Specification": "",
+    "Weight": "1.2",
+    "Size": "350.0* 315.0* 49.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

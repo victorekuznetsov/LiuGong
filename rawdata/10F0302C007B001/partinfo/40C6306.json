@@ -1,0 +1,82 @@
+{
+ "partNO": "40C6306",
+ "parentPartNO": "SP209901",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C6306",
+    "partName": "开关",
+    "spec": "",
+    "weightKg": "0.048",
+    "sizeMm": "140.0*24.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "机油压力传感器"
+   },
+   "attrsRaw": {
+    "配件编码": "40C6306",
+    "配件名称": "开关",
+    "规格": "",
+    "重量(KG)": "0.048",
+    "尺寸(mm)": "140.0* 24.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "机油压力传感器"
+   },
+   "photos": [
+    "/part/zp/353835343637353a35373534353a3833353435343536",
+    "/part/zp/353835343637353a35373534353a3833353435343536",
+    "/part/zp/353835343637353a35373534353a3833353435343537",
+    "/part/zp/353835343637353a35373534353a3833353435343537",
+    "/part/zp/353835343637353a35373534353a3833353435343538",
+    "/part/zp/353835343637353a35373534353a3833353435343538"
+   ],
+   "parentPartNO": "SP209901"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE OIL PRESSURE SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C6306",
+    "Part Name": "ENGINE OIL PRESSURE SENSOR",
+    "Specification": "",
+    "Weight": "0.048",
+    "Size": "140.0* 24.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "oil pressure sensor"
+   },
+   "photos": [
+    "/part/zp/353835343637353a35373534353a3833353435343536",
+    "/part/zp/353835343637353a35373534353a3833353435343536",
+    "/part/zp/353835343637353a35373534353a3833353435343537",
+    "/part/zp/353835343637353a35373534353a3833353435343537",
+    "/part/zp/353835343637353a35373534353a3833353435343538",
+    "/part/zp/353835343637353a35373534353a3833353435343538"
+   ],
+   "parentPartNO": "SP209901"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

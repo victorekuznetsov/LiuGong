@@ -1,0 +1,68 @@
+{
+ "partNO": "SP178792",
+ "parentPartNO": "SP209901",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP178792",
+    "partName": "电控模块",
+    "spec": "",
+    "weightKg": "1.65",
+    "sizeMm": "242.0*240.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "需提报发动机序列号及控制器铭牌照片进行程序植入，否则无法使用"
+   },
+   "attrsRaw": {
+    "配件编码": "SP178792",
+    "配件名称": "电控模块",
+    "规格": "",
+    "重量(KG)": "1.65",
+    "尺寸(mm)": "242.0* 240.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "需提报发动机序列号及控制器铭牌照片进行程序植入，否则无法使用"
+   },
+   "photos": [],
+   "parentPartNO": "SP209901"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE CONTROL MODULE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP178792",
+    "Part Name": "ENGINE CONTROL MODULE",
+    "Specification": "",
+    "Weight": "1.65",
+    "Size": "242.0* 240.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Engine serial number and controller nameplate photo must be submit for program implantation, otherwise it cannot be used"
+   },
+   "photos": [],
+   "parentPartNO": "SP209901"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

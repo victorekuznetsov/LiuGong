@@ -1,0 +1,68 @@
+{
+ "partNO": "44C9621",
+ "parentPartNO": "10Y1501",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C9621",
+    "partName": "转向阀总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "142.0*128.0*157.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "44C9621",
+    "配件名称": "转向阀总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "142.0* 128.0* 157.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10Y1501"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STEERING VALVE AS",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "44C9621",
+    "Part Name": "STEERING VALVE AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "142.0* 128.0* 157.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10Y1501"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

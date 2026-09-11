@@ -1,0 +1,68 @@
+{
+ "partNO": "17B0437",
+ "parentPartNO": "41C2112",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "17B0437",
+    "partName": "橡胶环",
+    "spec": "",
+    "weightKg": "21.45",
+    "sizeMm": "1334.0*798.0*196.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "17B0437",
+    "配件名称": "橡胶环",
+    "规格": "",
+    "重量(KG)": "21.45",
+    "尺寸(mm)": "1334.0* 798.0* 196.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C2112"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RUBBER RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "17B0437",
+    "Part Name": "RUBBER RING",
+    "Specification": "",
+    "Weight": "21.45",
+    "Size": "1334.0* 798.0* 196.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C2112"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

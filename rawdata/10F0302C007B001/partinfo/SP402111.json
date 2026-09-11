@@ -1,0 +1,68 @@
+{
+ "partNO": "SP402111",
+ "parentPartNO": "89C0064",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP402111",
+    "partName": "液压锁",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP402111",
+    "配件名称": "液压锁",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "89C0064"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CHECK VALVE",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "SP402111",
+    "Part Name": "CHECK VALVE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "89C0064"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

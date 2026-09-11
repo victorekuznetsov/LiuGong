@@ -1,0 +1,68 @@
+{
+ "partNO": "75C2744",
+ "parentPartNO": "23Y1920",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75C2744",
+    "partName": "驾驶室空调部件总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1591.0*815.0*1032.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "75C2744",
+    "配件名称": "驾驶室空调部件总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1591.0* 815.0* 1032.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "23Y1920"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "A/C GP-CAB AS",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "75C2744",
+    "Part Name": "A/C GP-CAB AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1591.0* 815.0* 1032.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "23Y1920"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

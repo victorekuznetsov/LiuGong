@@ -1,0 +1,68 @@
+{
+ "partNO": "SP364001",
+ "parentPartNO": "SP364036",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP364001",
+    "partName": "外摩擦片",
+    "spec": "",
+    "weightKg": "0.55",
+    "sizeMm": "250.0*250.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP364001",
+    "配件名称": "外摩擦片",
+    "规格": "",
+    "重量(KG)": "0.55",
+    "尺寸(mm)": "250.0* 250.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364036"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OUTER CLUTCH DISK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP364001",
+    "Part Name": "OUTER CLUTCH DISK",
+    "Specification": "",
+    "Weight": "0.55",
+    "Size": "250.0* 250.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364036"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

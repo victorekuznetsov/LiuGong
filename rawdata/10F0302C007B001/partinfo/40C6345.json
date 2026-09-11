@@ -1,0 +1,74 @@
+{
+ "partNO": "40C6345",
+ "parentPartNO": "SP209904",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C6345",
+    "partName": "喷嘴",
+    "spec": "",
+    "weightKg": "0.05",
+    "sizeMm": "90.0*90.0*37.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C6345",
+    "配件名称": "喷嘴",
+    "规格": "",
+    "重量(KG)": "0.05",
+    "尺寸(mm)": "90.0* 90.0* 37.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a3537353835393833353435343536",
+    "/part/zp/353835343637353a3537353835393833353435343536"
+   ],
+   "parentPartNO": "SP209904"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NOZZLE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C6345",
+    "Part Name": "NOZZLE",
+    "Specification": "",
+    "Weight": "0.05",
+    "Size": "90.0* 90.0* 37.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a3537353835393833353435343536",
+    "/part/zp/353835343637353a3537353835393833353435343536"
+   ],
+   "parentPartNO": "SP209904"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

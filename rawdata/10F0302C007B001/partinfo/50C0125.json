@@ -1,0 +1,74 @@
+{
+ "partNO": "50C0125",
+ "parentPartNO": "60C4720",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "50C0125",
+    "partName": "V型管夹",
+    "spec": "Φ80",
+    "weightKg": "0.0",
+    "sizeMm": "75.0*75.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "50C0125",
+    "配件名称": "V型管夹",
+    "规格": "Φ80",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "75.0* 75.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35393534363735343535353635393833353435343536",
+    "/part/zp/35393534363735343535353635393833353435343537"
+   ],
+   "parentPartNO": "60C4720"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "V-CLAMP",
+    "spec": "Φ80",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "50C0125",
+    "Part Name": "V-CLAMP",
+    "Specification": "Φ80",
+    "Weight": "0.0",
+    "Size": "75.0* 75.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35393534363735343535353635393833353435343536",
+    "/part/zp/35393534363735343535353635393833353435343537"
+   ],
+   "parentPartNO": "60C4720"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

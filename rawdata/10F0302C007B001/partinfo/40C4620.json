@@ -1,0 +1,78 @@
+{
+ "partNO": "40C4620",
+ "parentPartNO": "SP209904",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C4620",
+    "partName": "挡圈",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "42.0*42.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C4620",
+    "配件名称": "挡圈",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "42.0* 42.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538353436373538353a353635343833353435343536",
+    "/part/zp/3538353436373538353a353635343833353435343536",
+    "/part/zp/3538353436373538353a353635343833353435343537",
+    "/part/zp/3538353436373538353a353635343833353435343537"
+   ],
+   "parentPartNO": "SP209904"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SNAP RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C4620",
+    "Part Name": "SNAP RING",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "42.0* 42.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538353436373538353a353635343833353435343536",
+    "/part/zp/3538353436373538353a353635343833353435343536",
+    "/part/zp/3538353436373538353a353635343833353435343537",
+    "/part/zp/3538353436373538353a353635343833353435343537"
+   ],
+   "parentPartNO": "SP209904"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

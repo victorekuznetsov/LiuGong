@@ -1,0 +1,68 @@
+{
+ "partNO": "07C3348",
+ "parentPartNO": "15Y7278",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "07C3348",
+    "partName": "软管总成",
+    "spec": "",
+    "weightKg": "1.55",
+    "sizeMm": "603.0*104.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "07C3348",
+    "配件名称": "软管总成",
+    "规格": "",
+    "重量(KG)": "1.55",
+    "尺寸(mm)": "603.0* 104.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "07C3348",
+    "Part Name": "HOSE AS",
+    "Specification": "",
+    "Weight": "1.55",
+    "Size": "603.0* 104.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

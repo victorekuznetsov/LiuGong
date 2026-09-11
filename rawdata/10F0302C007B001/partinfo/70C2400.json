@@ -1,0 +1,68 @@
+{
+ "partNO": "70C2400",
+ "parentPartNO": "57C9775",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "70C2400",
+    "partName": "过渡线束",
+    "spec": "5M",
+    "weightKg": "0.3",
+    "sizeMm": "298.0*254.0*61.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "改用71C4156;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "70C2400",
+    "配件名称": "过渡线束",
+    "规格": "5M",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "298.0* 254.0* 61.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "改用71C4156;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "57C9775"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HARNESS",
+    "spec": "5M",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "70C2400",
+    "Part Name": "HARNESS",
+    "Specification": "5M",
+    "Weight": "0.3",
+    "Size": "298.0* 254.0* 61.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 71C4156 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "57C9775"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

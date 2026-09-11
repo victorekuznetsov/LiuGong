@@ -1,0 +1,68 @@
+{
+ "partNO": "74C0191",
+ "parentPartNO": "64C4232",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74C0191",
+    "partName": "门锁组件",
+    "spec": "74C0191",
+    "weightKg": "0.0",
+    "sizeMm": "196.0*182.0*736.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "74C0191",
+    "配件名称": "门锁组件",
+    "规格": "74C0191",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "196.0* 182.0* 736.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4232"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOOR LOCK AS",
+    "spec": "74C0191",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74C0191",
+    "Part Name": "DOOR LOCK AS",
+    "Specification": "74C0191",
+    "Weight": "0.0",
+    "Size": "196.0* 182.0* 736.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4232"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "26B0228",
+ "parentPartNO": "42C2829T2",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "26B0228",
+    "partName": "调心滚子轴承",
+    "spec": "100×215×73",
+    "weightKg": "12.65",
+    "sizeMm": "211.0*209.0*73.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "26B0228",
+    "配件名称": "调心滚子轴承",
+    "规格": "100×215×73",
+    "重量(KG)": "12.65",
+    "尺寸(mm)": "211.0* 209.0* 73.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3536353a363635343536353635633833353435343536",
+    "/part/zp/3536353a363635343536353635633833353435343536"
+   ],
+   "parentPartNO": "42C2829T2"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROLLER BERAING",
+    "spec": "100×215×73",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "26B0228",
+    "Part Name": "ROLLER BERAING",
+    "Specification": "100×215×73",
+    "Weight": "12.65",
+    "Size": "211.0* 209.0* 73.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3536353a363635343536353635633833353435343536",
+    "/part/zp/3536353a363635343536353635633833353435343536"
+   ],
+   "parentPartNO": "42C2829T2"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

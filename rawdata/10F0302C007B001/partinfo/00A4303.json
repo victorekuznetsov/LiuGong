@@ -1,0 +1,78 @@
+{
+ "partNO": "00A4303",
+ "parentPartNO": "80C4513",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A4303",
+    "partName": "接头",
+    "spec": "G1_M36×2_48_L",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用00A4303X1"
+   },
+   "attrsRaw": {
+    "配件编码": "00A4303",
+    "配件名称": "接头",
+    "规格": "G1_M36×2_48_L",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用00A4303X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535383537353435373833353435343536",
+    "/part/zp/35343534363535383537353435373833353435343536",
+    "/part/zp/35343534363535383537353435373833353435343537",
+    "/part/zp/35343534363535383537353435373833353435343537"
+   ],
+   "parentPartNO": "80C4513"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FITTING",
+    "spec": "G1_M36×2_48_L",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A4303",
+    "Part Name": "FITTING",
+    "Specification": "G1_M36×2_48_L",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 00A4303X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535383537353435373833353435343536",
+    "/part/zp/35343534363535383537353435373833353435343536",
+    "/part/zp/35343534363535383537353435373833353435343537",
+    "/part/zp/35343534363535383537353435373833353435343537"
+   ],
+   "parentPartNO": "80C4513"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

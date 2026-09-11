@@ -1,0 +1,72 @@
+{
+ "partNO": "09C1319",
+ "parentPartNO": "65C3523",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C1319",
+    "partName": "卡箍",
+    "spec": "Φ87-Φ94",
+    "weightKg": "0.101",
+    "sizeMm": "102.0*100.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "09C1319",
+    "配件名称": "卡箍",
+    "规格": "Φ87-Φ94",
+    "重量(KG)": "0.101",
+    "尺寸(mm)": "102.0* 100.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343564363735353537353535643833353435343536"
+   ],
+   "parentPartNO": "65C3523"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ87-Φ94",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C1319",
+    "Part Name": "CLAMP",
+    "Specification": "Φ87-Φ94",
+    "Weight": "0.101",
+    "Size": "102.0* 100.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343564363735353537353535643833353435343536"
+   ],
+   "parentPartNO": "65C3523"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

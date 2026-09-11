@@ -1,0 +1,74 @@
+{
+ "partNO": "SP100746",
+ "parentPartNO": "SP214308",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP100746",
+    "partName": "风扇皮带轮",
+    "spec": "",
+    "weightKg": "1.05",
+    "sizeMm": "160.0*159.0*73.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP100746",
+    "配件名称": "风扇皮带轮",
+    "规格": "",
+    "重量(KG)": "1.05",
+    "尺寸(mm)": "160.0* 159.0* 73.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535343534353b3538353a3833353435343536",
+    "/part/zp/37373734353535343534353b3538353a3833353435343536"
+   ],
+   "parentPartNO": "SP214308"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FAN PULLEY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP100746",
+    "Part Name": "FAN PULLEY",
+    "Specification": "",
+    "Weight": "1.05",
+    "Size": "160.0* 159.0* 73.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535343534353b3538353a3833353435343536",
+    "/part/zp/37373734353535343534353b3538353a3833353435343536"
+   ],
+   "parentPartNO": "SP214308"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

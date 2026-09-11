@@ -1,0 +1,68 @@
+{
+ "partNO": "05C3186",
+ "parentPartNO": "12Y1655",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "05C3186",
+    "partName": "软管总成",
+    "spec": "",
+    "weightKg": "0.5",
+    "sizeMm": "285.0*224.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用05C7319;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "05C3186",
+    "配件名称": "软管总成",
+    "规格": "",
+    "重量(KG)": "0.5",
+    "尺寸(mm)": "285.0* 224.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用05C7319;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "12Y1655"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "05C3186",
+    "Part Name": "HOSE AS",
+    "Specification": "",
+    "Weight": "0.5",
+    "Size": "285.0* 224.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 05C7319 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "12Y1655"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

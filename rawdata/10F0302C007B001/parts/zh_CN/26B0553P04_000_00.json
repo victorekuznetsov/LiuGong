@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP376069",
+  "partName": "密封条",
+  "qty": "2",
+  "storeTypeName": "不建议储备",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "26B0553P04",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

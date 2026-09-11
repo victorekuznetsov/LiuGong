@@ -1,0 +1,74 @@
+{
+ "partNO": "SP133752",
+ "parentPartNO": "47Y2280",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP133752",
+    "partName": "柴油精滤芯",
+    "spec": "",
+    "weightKg": "0.2",
+    "sizeMm": "171.0*92.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": "由53C0970更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP133752",
+    "配件名称": "柴油精滤芯",
+    "规格": "",
+    "重量(KG)": "0.2",
+    "尺寸(mm)": "171.0* 92.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": "由53C0970更改而来"
+   },
+   "photos": [
+    "/part/zp/37373734353535373537353b353935363833353435343536",
+    "/part/zp/37373734353535373537353b353935363833353435343536"
+   ],
+   "parentPartNO": "47Y2280"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SECONDARY FUEL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP133752",
+    "Part Name": "SECONDARY FUEL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "0.2",
+    "Size": "171.0* 92.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 53C0970"
+   },
+   "photos": [
+    "/part/zp/37373734353535373537353b353935363833353435343536",
+    "/part/zp/37373734353535373537353b353935363833353435343536"
+   ],
+   "parentPartNO": "47Y2280"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

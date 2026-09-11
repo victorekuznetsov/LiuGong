@@ -1,0 +1,78 @@
+{
+ "partNO": "SP109370",
+ "parentPartNO": "SP214308",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP109370",
+    "partName": "法兰盖",
+    "spec": "",
+    "weightKg": "0.12",
+    "sizeMm": "60.0*60.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP109370",
+    "配件名称": "法兰盖",
+    "规格": "",
+    "重量(KG)": "0.12",
+    "尺寸(mm)": "60.0* 60.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643537353b35343833353435343536",
+    "/part/zp/373737343535353435643537353b35343833353435343536",
+    "/part/zp/373737343535353435643537353b35343833353435343537",
+    "/part/zp/373737343535353435643537353b35343833353435343537"
+   ],
+   "parentPartNO": "SP214308"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP109370",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.12",
+    "Size": "60.0* 60.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643537353b35343833353435343536",
+    "/part/zp/373737343535353435643537353b35343833353435343536",
+    "/part/zp/373737343535353435643537353b35343833353435343537",
+    "/part/zp/373737343535353435643537353b35343833353435343537"
+   ],
+   "parentPartNO": "SP214308"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

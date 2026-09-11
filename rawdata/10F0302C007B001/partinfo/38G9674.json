@@ -1,0 +1,68 @@
+{
+ "partNO": "38G9674",
+ "parentPartNO": "64C3363",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "38G9674",
+    "partName": "板",
+    "spec": "38G9674",
+    "weightKg": "0.0",
+    "sizeMm": "50.0*50.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "38G9674",
+    "配件名称": "板",
+    "规格": "38G9674",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "50.0* 50.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3363"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "38G9674",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "38G9674",
+    "Part Name": "PLATE",
+    "Specification": "38G9674",
+    "Weight": "0.0",
+    "Size": "50.0* 50.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3363"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

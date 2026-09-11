@@ -1,0 +1,72 @@
+{
+ "partNO": "SP137454",
+ "parentPartNO": "SP209908",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP137454",
+    "partName": "密封垫片",
+    "spec": "",
+    "weightKg": "0.074",
+    "sizeMm": "158.0*105.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "停止供货;改用SP306897;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP137454",
+    "配件名称": "密封垫片",
+    "规格": "",
+    "重量(KG)": "0.074",
+    "尺寸(mm)": "158.0* 105.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP306897;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353b3538353935383833353435343536"
+   ],
+   "parentPartNO": "SP209908"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP137454",
+    "Part Name": "SEAL",
+    "Specification": "",
+    "Weight": "0.074",
+    "Size": "158.0* 105.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO SP306897 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353b3538353935383833353435343536"
+   ],
+   "parentPartNO": "SP209908"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

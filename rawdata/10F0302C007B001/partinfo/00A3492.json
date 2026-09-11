@@ -1,0 +1,78 @@
+{
+ "partNO": "00A3492",
+ "parentPartNO": "30C4508",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A3492",
+    "partName": "接头",
+    "spec": "G3/4A_M36×2-6G_L59",
+    "weightKg": "0.0",
+    "sizeMm": "41.0*47.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用30C4508;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "00A3492",
+    "配件名称": "接头",
+    "规格": "G3/4A_M36×2-6G_L59",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "41.0* 47.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用30C4508;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35343534363535373538356435363833353435343536",
+    "/part/zp/35343534363535373538356435363833353435343536",
+    "/part/zp/35343534363535373538356435363833353435343537",
+    "/part/zp/35343534363535373538356435363833353435343537"
+   ],
+   "parentPartNO": "30C4508"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "G3/4A_M36×2-6G_L59",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A3492",
+    "Part Name": "CONNECTOR",
+    "Specification": "G3/4A_M36×2-6G_L59",
+    "Weight": "0.0",
+    "Size": "41.0* 47.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 30C4508 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35343534363535373538356435363833353435343536",
+    "/part/zp/35343534363535373538356435363833353435343536",
+    "/part/zp/35343534363535373538356435363833353435343537",
+    "/part/zp/35343534363535373538356435363833353435343537"
+   ],
+   "parentPartNO": "30C4508"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

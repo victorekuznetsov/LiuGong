@@ -1,0 +1,68 @@
+{
+ "partNO": "60A7159",
+ "parentPartNO": "60A7385",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "60A7159",
+    "partName": "斗齿销",
+    "spec": "",
+    "weightKg": "0.223",
+    "sizeMm": "104.0*18.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "与60A7159P01双向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "60A7159",
+    "配件名称": "斗齿销",
+    "规格": "",
+    "重量(KG)": "0.223",
+    "尺寸(mm)": "104.0* 18.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "与60A7159P01双向互换"
+   },
+   "photos": [],
+   "parentPartNO": "60A7385"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "60A7159",
+    "Part Name": "PIN",
+    "Specification": "",
+    "Weight": "0.223",
+    "Size": "104.0* 18.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "BIDIRECTIONAL EXCHANGE WITH 60A7159P01"
+   },
+   "photos": [],
+   "parentPartNO": "60A7385"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

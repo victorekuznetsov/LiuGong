@@ -1,0 +1,68 @@
+{
+ "partNO": "SP150620",
+ "parentPartNO": "SP364276",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150620",
+    "partName": "衬垫",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "20.0*20.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP150620",
+    "配件名称": "衬垫",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "20.0* 20.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364276"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150620",
+    "Part Name": "GASKET",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "20.0* 20.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364276"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

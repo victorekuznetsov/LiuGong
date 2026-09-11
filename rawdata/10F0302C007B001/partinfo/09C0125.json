@@ -1,0 +1,74 @@
+{
+ "partNO": "09C0125",
+ "parentPartNO": "80C4884",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C0125",
+    "partName": "单管夹片",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "74.0*32.0*26.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "09C0125",
+    "配件名称": "单管夹片",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "74.0* 32.0* 26.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343564363735343535353635393833353435343536",
+    "/part/zp/35343564363735343535353635393833353435343536"
+   ],
+   "parentPartNO": "80C4884"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C0125",
+    "Part Name": "CLAMP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "74.0* 32.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343564363735343535353635393833353435343536",
+    "/part/zp/35343564363735343535353635393833353435343536"
+   ],
+   "parentPartNO": "80C4884"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

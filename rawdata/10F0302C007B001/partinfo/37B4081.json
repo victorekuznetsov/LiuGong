@@ -1,0 +1,68 @@
+{
+ "partNO": "37B4081",
+ "parentPartNO": "81C3619",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37B4081",
+    "partName": "盖",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "10.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "37B4081",
+    "配件名称": "盖",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "10.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "81C3619"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37B4081",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "10.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "81C3619"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

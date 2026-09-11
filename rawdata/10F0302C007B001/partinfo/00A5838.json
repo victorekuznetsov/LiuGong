@@ -1,0 +1,76 @@
+{
+ "partNO": "00A5838",
+ "parentPartNO": "30C4562",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A5838",
+    "partName": "过渡接头",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "31.0*39.0*27.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用00A5838X1"
+   },
+   "attrsRaw": {
+    "配件编码": "00A5838",
+    "配件名称": "过渡接头",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "31.0* 39.0* 27.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用00A5838X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535393563353735633833353435343536",
+    "/part/zp/35343534363535393563353735633833353435343538",
+    "/part/zp/35343534363535393563353735633833353435343539"
+   ],
+   "parentPartNO": "30C4562"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A5838",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "31.0* 39.0* 27.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Changed to 00A5838X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535393563353735633833353435343536",
+    "/part/zp/35343534363535393563353735633833353435343538",
+    "/part/zp/35343534363535393563353735633833353435343539"
+   ],
+   "parentPartNO": "30C4562"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

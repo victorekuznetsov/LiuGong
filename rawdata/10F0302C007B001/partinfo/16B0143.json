@@ -1,0 +1,74 @@
+{
+ "partNO": "16B0143",
+ "parentPartNO": "41C2112",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "16B0143",
+    "partName": "轮胎组件",
+    "spec": "10.00-20-16PR TT AEX1",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用16B0143P05"
+   },
+   "attrsRaw": {
+    "配件编码": "16B0143",
+    "配件名称": "轮胎组件",
+    "规格": "10.00-20-16PR TT AEX1",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用16B0143P05"
+   },
+   "photos": [
+    "/part/zp/3535353a363635343535353835373833353435343535",
+    "/part/zp/3535353a363635343535353835373833353435343535"
+   ],
+   "parentPartNO": "41C2112"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TYRE GP",
+    "spec": "10.00-20-16PR TT AEX1",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "16B0143",
+    "Part Name": "TYRE GP",
+    "Specification": "10.00-20-16PR TT AEX1",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 16B0143P05 ."
+   },
+   "photos": [
+    "/part/zp/3535353a363635343535353835373833353435343535",
+    "/part/zp/3535353a363635343535353835373833353435343535"
+   ],
+   "parentPartNO": "41C2112"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP148974",
+ "parentPartNO": "SP209882",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP148974",
+    "partName": "六角法兰面螺栓",
+    "spec": "",
+    "weightKg": "0.4",
+    "sizeMm": "22.0*14.0*14.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP148974",
+    "配件名称": "六角法兰面螺栓",
+    "规格": "",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "22.0* 14.0* 14.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP209882"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCR CAP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP148974",
+    "Part Name": "SCR CAP",
+    "Specification": "",
+    "Weight": "0.4",
+    "Size": "22.0* 14.0* 14.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP209882"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

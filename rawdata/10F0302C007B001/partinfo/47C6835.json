@@ -1,0 +1,68 @@
+{
+ "partNO": "47C6835",
+ "parentPartNO": "47C6787",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C6835",
+    "partName": "把手",
+    "spec": "47C6835",
+    "weightKg": "0.1",
+    "sizeMm": "153.0*50.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C6835",
+    "配件名称": "把手",
+    "规格": "47C6835",
+    "重量(KG)": "0.1",
+    "尺寸(mm)": "153.0* 50.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C6787"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HANDLE",
+    "spec": "47C6835",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C6835",
+    "Part Name": "HANDLE",
+    "Specification": "47C6835",
+    "Weight": "0.1",
+    "Size": "153.0* 50.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C6787"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

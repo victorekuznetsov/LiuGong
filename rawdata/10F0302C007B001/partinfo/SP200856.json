@@ -1,0 +1,68 @@
+{
+ "partNO": "SP200856",
+ "parentPartNO": "61C3193",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP200856",
+    "partName": "先导阀",
+    "spec": "",
+    "weightKg": "0.35",
+    "sizeMm": "65.0*48.0*32.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP200856",
+    "配件名称": "先导阀",
+    "规格": "",
+    "重量(KG)": "0.35",
+    "尺寸(mm)": "65.0* 48.0* 32.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C3193"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCK VALVE SELECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP200856",
+    "Part Name": "LOCK VALVE SELECTOR",
+    "Specification": "",
+    "Weight": "0.35",
+    "Size": "65.0* 48.0* 32.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C3193"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

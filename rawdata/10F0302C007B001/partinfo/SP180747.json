@@ -1,0 +1,74 @@
+{
+ "partNO": "SP180747",
+ "parentPartNO": "SP209921",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP180747",
+    "partName": "皮带张紧器",
+    "spec": "",
+    "weightKg": "1.75",
+    "sizeMm": "184.0*90.0*67.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用SP240995;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP180747",
+    "配件名称": "皮带张紧器",
+    "规格": "",
+    "重量(KG)": "1.75",
+    "尺寸(mm)": "184.0* 90.0* 67.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用SP240995;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/37373734353535633534353b3538353b3833353435343536",
+    "/part/zp/37373734353535633534353b3538353b3833353435343536"
+   ],
+   "parentPartNO": "SP209921"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BELT TENSIONER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP180747",
+    "Part Name": "BELT TENSIONER",
+    "Specification": "",
+    "Weight": "1.75",
+    "Size": "184.0* 90.0* 67.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP240995 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/37373734353535633534353b3538353b3833353435343536",
+    "/part/zp/37373734353535633534353b3538353b3833353435343536"
+   ],
+   "parentPartNO": "SP209921"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

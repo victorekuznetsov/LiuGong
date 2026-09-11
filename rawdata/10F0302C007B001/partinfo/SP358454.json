@@ -1,0 +1,68 @@
+{
+ "partNO": "SP358454",
+ "parentPartNO": "53C2532",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP358454",
+    "partName": "滤芯LH0110D010BN3HC",
+    "spec": "",
+    "weightKg": "0.199",
+    "sizeMm": "155.0*45.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP358454",
+    "配件名称": "滤芯LH0110D010BN3HC",
+    "规格": "",
+    "重量(KG)": "0.199",
+    "尺寸(mm)": "155.0* 45.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C2532"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP358454",
+    "Part Name": "FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "0.199",
+    "Size": "155.0* 45.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C2532"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

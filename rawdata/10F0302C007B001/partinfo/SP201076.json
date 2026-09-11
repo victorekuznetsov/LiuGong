@@ -1,0 +1,74 @@
+{
+ "partNO": "SP201076",
+ "parentPartNO": "61C3193",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP201076",
+    "partName": "安全补油阀",
+    "spec": "",
+    "weightKg": "0.6",
+    "sizeMm": "132.0*33.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "①老状态用SP201076，新状态用SP232659，切换时间270B系列是2021年10月，180B系列是2020年9月；②或者根据实物照片判断新老状态"
+   },
+   "attrsRaw": {
+    "配件编码": "SP201076",
+    "配件名称": "安全补油阀",
+    "规格": "",
+    "重量(KG)": "0.6",
+    "尺寸(mm)": "132.0* 33.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "①老状态用SP201076，新状态用SP232659，切换时间270B系列是2021年10月，180B系列是2020年9月；②或者根据实物照片判断新老状态"
+   },
+   "photos": [
+    "/part/zp/373737343536353435353534353b353a38333535",
+    "/part/zp/373737343536353435353534353b353a38333535"
+   ],
+   "parentPartNO": "61C3193"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SAFETY REPLENISHING VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP201076",
+    "Part Name": "SAFETY REPLENISHING VALVE",
+    "Specification": "",
+    "Weight": "0.6",
+    "Size": "132.0* 33.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "HAVE TECHNICAL CHANGEMENT, PLEASE CONSULT TO HQ"
+   },
+   "photos": [
+    "/part/zp/373737343536353435353534353b353a38333535",
+    "/part/zp/373737343536353435353534353b353a38333535"
+   ],
+   "parentPartNO": "61C3193"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

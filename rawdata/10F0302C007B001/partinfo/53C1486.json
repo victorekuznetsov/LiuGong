@@ -1,0 +1,68 @@
+{
+ "partNO": "53C1486",
+ "parentPartNO": "47Y2280",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C1486",
+    "partName": "回油滤芯",
+    "spec": "QS2736A1000D",
+    "weightKg": "3.15",
+    "sizeMm": "437.0*149.0*148.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C1486",
+    "配件名称": "回油滤芯",
+    "规格": "QS2736A1000D",
+    "重量(KG)": "3.15",
+    "尺寸(mm)": "437.0* 149.0* 148.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2280"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RETURN OIL FILTER ELEMENT",
+    "spec": "QS2736A1000D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C1486",
+    "Part Name": "RETURN OIL FILTER ELEMENT",
+    "Specification": "QS2736A1000D",
+    "Weight": "3.15",
+    "Size": "437.0* 149.0* 148.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2280"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

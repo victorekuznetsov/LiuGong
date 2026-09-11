@@ -1,0 +1,78 @@
+{
+ "partNO": "40C6643",
+ "parentPartNO": "SP209880",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C6643",
+    "partName": "油泵",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "237.0*177.0*204.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C6643",
+    "配件名称": "油泵",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "237.0* 177.0* 204.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a353a353835373833353435343536",
+    "/part/zp/353835343637353a353a353835373833353435343536",
+    "/part/zp/353835343637353a353a353835373833353435343537",
+    "/part/zp/353835343637353a353a353835373833353435343537"
+   ],
+   "parentPartNO": "SP209880"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL PUMP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C6643",
+    "Part Name": "OIL PUMP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "237.0* 177.0* 204.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a353a353835373833353435343536",
+    "/part/zp/353835343637353a353a353835373833353435343536",
+    "/part/zp/353835343637353a353a353835373833353435343537",
+    "/part/zp/353835343637353a353a353835373833353435343537"
+   ],
+   "parentPartNO": "SP209880"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

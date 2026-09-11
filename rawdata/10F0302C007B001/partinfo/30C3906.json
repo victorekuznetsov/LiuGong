@@ -1,0 +1,68 @@
+{
+ "partNO": "30C3906",
+ "parentPartNO": "80C4463",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C3906",
+    "partName": "螺塞",
+    "spec": "G3/8",
+    "weightKg": "0.037",
+    "sizeMm": "25.0*24.0*23.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C3906",
+    "配件名称": "螺塞",
+    "规格": "G3/8",
+    "重量(KG)": "0.037",
+    "尺寸(mm)": "25.0* 24.0* 23.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C4463"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "THREADED PLUG",
+    "spec": "G3/8",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C3906",
+    "Part Name": "THREADED PLUG",
+    "Specification": "G3/8",
+    "Weight": "0.037",
+    "Size": "25.0* 24.0* 23.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C4463"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

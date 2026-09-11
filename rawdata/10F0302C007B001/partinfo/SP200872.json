@@ -1,0 +1,74 @@
+{
+ "partNO": "SP200872",
+ "parentPartNO": "61C3193",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP200872",
+    "partName": "主安全阀",
+    "spec": "",
+    "weightKg": "0.4",
+    "sizeMm": "130.0*29.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP200872",
+    "配件名称": "主安全阀",
+    "规格": "",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "130.0* 29.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343536353435343563353b353638333535",
+    "/part/zp/373737343536353435343563353b353638333535"
+   ],
+   "parentPartNO": "61C3193"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MAIN RELIEF VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP200872",
+    "Part Name": "MAIN RELIEF VALVE",
+    "Specification": "",
+    "Weight": "0.4",
+    "Size": "130.0* 29.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343536353435343563353b353638333535",
+    "/part/zp/373737343536353435343563353b353638333535"
+   ],
+   "parentPartNO": "61C3193"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

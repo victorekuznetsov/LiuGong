@@ -1,0 +1,68 @@
+{
+ "partNO": "00B1239",
+ "parentPartNO": "45C1990",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00B1239",
+    "partName": "螺栓",
+    "spec": "M8×30-10.9-DK",
+    "weightKg": "0.016",
+    "sizeMm": "16.0*18.0*66.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "00B1239",
+    "配件名称": "螺栓",
+    "规格": "M8×30-10.9-DK",
+    "重量(KG)": "0.016",
+    "尺寸(mm)": "16.0* 18.0* 66.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "45C1990"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M8×30-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00B1239",
+    "Part Name": "BOLT",
+    "Specification": "M8×30-10.9-DK",
+    "Weight": "0.016",
+    "Size": "16.0* 18.0* 66.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "45C1990"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

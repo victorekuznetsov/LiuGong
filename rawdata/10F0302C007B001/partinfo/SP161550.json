@@ -1,0 +1,68 @@
+{
+ "partNO": "SP161550",
+ "parentPartNO": "SP364297",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP161550",
+    "partName": "防松螺钉",
+    "spec": "",
+    "weightKg": "0.111",
+    "sizeMm": "52.0*30.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP161550",
+    "配件名称": "防松螺钉",
+    "规格": "",
+    "重量(KG)": "0.111",
+    "尺寸(mm)": "52.0* 30.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364297"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STOPSCREW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP161550",
+    "Part Name": "STOPSCREW",
+    "Specification": "",
+    "Weight": "0.111",
+    "Size": "52.0* 30.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364297"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "56C0476",
+ "parentPartNO": "21C2879",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56C0476",
+    "partName": "吸油滤芯组件",
+    "spec": "",
+    "weightKg": "1.65",
+    "sizeMm": "150.0*840.0*150.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "13～26T挖机，56C0608与56C0476通用（电挖除外）"
+   },
+   "attrsRaw": {
+    "配件编码": "56C0476",
+    "配件名称": "吸油滤芯组件",
+    "规格": "",
+    "重量(KG)": "1.65",
+    "尺寸(mm)": "150.0* 840.0* 150.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "13～26T挖机，56C0608与56C0476通用（电挖除外）"
+   },
+   "photos": [],
+   "parentPartNO": "21C2879"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER LINES GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "56C0476",
+    "Part Name": "FILTER LINES GP",
+    "Specification": "",
+    "Weight": "1.65",
+    "Size": "150.0* 840.0* 150.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "IF MACHINE IS 13T~26T EXCAVATOR(EXCEPT ELECTRIC EXC) , THEN 56C0608 AND 56C0476 ARE INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "21C2879"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

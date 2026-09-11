@@ -1,0 +1,68 @@
+{
+ "partNO": "32A2655",
+ "parentPartNO": "60C9101",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32A2655",
+    "partName": "进气软管",
+    "spec": "",
+    "weightKg": "0.3",
+    "sizeMm": "145.0*138.0*82.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "32A2655",
+    "配件名称": "进气软管",
+    "规格": "",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "145.0* 138.0* 82.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "INTAKE HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32A2655",
+    "Part Name": "INTAKE HOSE",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "145.0* 138.0* 82.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

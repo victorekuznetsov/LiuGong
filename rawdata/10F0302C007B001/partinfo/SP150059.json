@@ -1,0 +1,74 @@
+{
+ "partNO": "SP150059",
+ "parentPartNO": "SP187914",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150059",
+    "partName": "弹簧管固定夹",
+    "spec": "",
+    "weightKg": "0.106",
+    "sizeMm": "108.0*19.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP150059",
+    "配件名称": "弹簧管固定夹",
+    "规格": "",
+    "重量(KG)": "0.106",
+    "尺寸(mm)": "108.0* 19.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353935343534353935643833353435343536",
+    "/part/zp/373737343535353935343534353935643833353435343537"
+   ],
+   "parentPartNO": "SP187914"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP SPRING HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150059",
+    "Part Name": "CLAMP SPRING HOSE",
+    "Specification": "",
+    "Weight": "0.106",
+    "Size": "108.0* 19.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353935343534353935643833353435343536",
+    "/part/zp/373737343535353935343534353935643833353435343537"
+   ],
+   "parentPartNO": "SP187914"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

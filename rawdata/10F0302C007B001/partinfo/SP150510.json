@@ -1,0 +1,68 @@
+{
+ "partNO": "SP150510",
+ "parentPartNO": "SP364245",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150510",
+    "partName": "弹簧组件",
+    "spec": "",
+    "weightKg": "0.85",
+    "sizeMm": "198.0*198.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP150510",
+    "配件名称": "弹簧组件",
+    "规格": "",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "198.0* 198.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364245"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SET OF SPRINGS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150510",
+    "Part Name": "SET OF SPRINGS",
+    "Specification": "",
+    "Weight": "0.85",
+    "Size": "198.0* 198.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364245"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

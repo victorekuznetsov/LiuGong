@@ -1,0 +1,78 @@
+{
+ "partNO": "SP112378",
+ "parentPartNO": "SP209904",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP112378",
+    "partName": "连杆下瓦+0.75",
+    "spec": "",
+    "weightKg": "0.06",
+    "sizeMm": "90.0*40.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货;需提供发动机号采购上级号"
+   },
+   "attrsRaw": {
+    "配件编码": "SP112378",
+    "配件名称": "连杆下瓦+0.75",
+    "规格": "",
+    "重量(KG)": "0.06",
+    "尺寸(mm)": "90.0* 40.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货;需提供发动机号采购上级号"
+   },
+   "photos": [
+    "/part/zp/373737343535353535363537353b35633833353435343536",
+    "/part/zp/373737343535353535363537353b35633833353435343536",
+    "/part/zp/373737343535353535363537353b35633833353435343537",
+    "/part/zp/373737343535353535363537353b35633833353435343537"
+   ],
+   "parentPartNO": "SP209904"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BEARING +0.75",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP112378",
+    "Part Name": "BEARING +0.75",
+    "Specification": "",
+    "Weight": "0.06",
+    "Size": "90.0* 40.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Discontinued; Engine number is required for purchasing higher-level part numbers"
+   },
+   "photos": [
+    "/part/zp/373737343535353535363537353b35633833353435343536",
+    "/part/zp/373737343535353535363537353b35633833353435343536",
+    "/part/zp/373737343535353535363537353b35633833353435343537",
+    "/part/zp/373737343535353535363537353b35633833353435343537"
+   ],
+   "parentPartNO": "SP209904"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

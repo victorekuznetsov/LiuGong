@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "83A2375",
+  "partName": "密封条",
+  "qty": "2",
+  "storeTypeName": "不建议储备",
+  "note": "改用SP241720;旧件不可替代新件（单向替换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "N",
+  "visible": true,
+  "parentPartNO": "26B0553P02",
+  "serviceSupportType": "不做配件销售，由新件号提供配件；",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

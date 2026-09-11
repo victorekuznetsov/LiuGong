@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP358414",
+  "partName": "SEALING PACKAGE",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "11C6552",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

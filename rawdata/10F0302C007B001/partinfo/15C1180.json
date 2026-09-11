@@ -1,0 +1,68 @@
+{
+ "partNO": "15C1180",
+ "parentPartNO": "60C9391",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "15C1180",
+    "partName": "燃油输送泵",
+    "spec": "BP3000-24VDC",
+    "weightKg": "4.4",
+    "sizeMm": "1110.0*1765.0*842.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "15C1180",
+    "配件名称": "燃油输送泵",
+    "规格": "BP3000-24VDC",
+    "重量(KG)": "4.4",
+    "尺寸(mm)": "1110.0* 1765.0* 842.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9391"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FEED PUMP",
+    "spec": "BP3000-24VDC",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "15C1180",
+    "Part Name": "FUEL FEED PUMP",
+    "Specification": "BP3000-24VDC",
+    "Weight": "4.4",
+    "Size": "1110.0* 1765.0* 842.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9391"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

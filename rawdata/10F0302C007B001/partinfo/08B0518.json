@@ -1,0 +1,68 @@
+{
+ "partNO": "08B0518",
+ "parentPartNO": "78C1315",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08B0518",
+    "partName": "销轴",
+    "spec": "B20×70",
+    "weightKg": "0.182",
+    "sizeMm": "20.0*20.0*70.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "08B0518",
+    "配件名称": "销轴",
+    "规格": "B20×70",
+    "重量(KG)": "0.182",
+    "尺寸(mm)": "20.0* 20.0* 70.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "78C1315"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "B20×70",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08B0518",
+    "Part Name": "PIN",
+    "Specification": "B20×70",
+    "Weight": "0.182",
+    "Size": "20.0* 20.0* 70.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "78C1315"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "86A0563",
+  "partName": "扣紧件",
+  "qty": "3",
+  "storeTypeName": "不建议储备",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "37C2387",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

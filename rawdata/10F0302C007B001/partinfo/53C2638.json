@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2638",
+ "parentPartNO": "65C1969",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2638",
+    "partName": "燃油滤清器",
+    "spec": "FH21865",
+    "weightKg": "0.0",
+    "sizeMm": "170.0*271.0*564.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C2638",
+    "配件名称": "燃油滤清器",
+    "规格": "FH21865",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "170.0* 271.0* 564.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C1969"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER",
+    "spec": "FH21865",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2638",
+    "Part Name": "FUEL FILTER",
+    "Specification": "FH21865",
+    "Weight": "0.0",
+    "Size": "170.0* 271.0* 564.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C1969"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "SP100073",
+ "parentPartNO": "12C4155",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP100073",
+    "partName": "O形圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "17.0*17.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由SP162912更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP100073",
+    "配件名称": "O形圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "17.0* 17.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由SP162912更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353435343534353b35373833353435343535",
+    "/part/zp/373737343535353435343534353b35373833353435343538"
+   ],
+   "parentPartNO": "12C4155"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "O-RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP100073",
+    "Part Name": "O-RING",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "17.0* 17.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP162912"
+   },
+   "photos": [
+    "/part/zp/373737343535353435343534353b35373833353435343535",
+    "/part/zp/373737343535353435343534353b35373833353435343538"
+   ],
+   "parentPartNO": "12C4155"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

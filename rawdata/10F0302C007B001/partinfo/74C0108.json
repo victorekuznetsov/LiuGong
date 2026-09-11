@@ -1,0 +1,68 @@
+{
+ "partNO": "74C0108",
+ "parentPartNO": "72C7081",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74C0108",
+    "partName": "转锁",
+    "spec": "ML-WY-HXS",
+    "weightKg": "0.0",
+    "sizeMm": "52.0*38.0*35.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "74C0108",
+    "配件名称": "转锁",
+    "规格": "ML-WY-HXS",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "52.0* 38.0* 35.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C7081"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPIN LOCK",
+    "spec": "ML-WY-HXS",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74C0108",
+    "Part Name": "SPIN LOCK",
+    "Specification": "ML-WY-HXS",
+    "Weight": "0.0",
+    "Size": "52.0* 38.0* 35.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C7081"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

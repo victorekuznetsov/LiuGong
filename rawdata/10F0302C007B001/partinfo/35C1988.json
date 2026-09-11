@@ -1,0 +1,68 @@
+{
+ "partNO": "35C1988",
+ "parentPartNO": "64C4503",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "35C1988",
+    "partName": "缓冲头",
+    "spec": "",
+    "weightKg": "0.049",
+    "sizeMm": "77.0*30.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "35C1988",
+    "配件名称": "缓冲头",
+    "规格": "",
+    "重量(KG)": "0.049",
+    "尺寸(mm)": "77.0* 30.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4503"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CUSHION HEAD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "35C1988",
+    "Part Name": "CUSHION HEAD",
+    "Specification": "",
+    "Weight": "0.049",
+    "Size": "77.0* 30.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4503"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

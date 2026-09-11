@@ -1,0 +1,68 @@
+{
+ "partNO": "53C1485",
+ "parentPartNO": "47Y2280",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C1485",
+    "partName": "吸油滤芯",
+    "spec": "",
+    "weightKg": "0.7",
+    "sizeMm": "173.0*143.0*148.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C1485",
+    "配件名称": "吸油滤芯",
+    "规格": "",
+    "重量(KG)": "0.7",
+    "尺寸(mm)": "173.0* 143.0* 148.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2280"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUCTION OIL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C1485",
+    "Part Name": "SUCTION OIL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "0.7",
+    "Size": "173.0* 143.0* 148.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2280"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "28C0023",
+ "parentPartNO": "32Y1888",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "28C0023",
+    "partName": "调整垫",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "182.0*4.0*201.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用57A0215（一件）+57A0216（一件）"
+   },
+   "attrsRaw": {
+    "配件编码": "28C0023",
+    "配件名称": "调整垫",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "182.0* 4.0* 201.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用57A0215（一件）+57A0216（一件）"
+   },
+   "photos": [],
+   "parentPartNO": "32Y1888"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "28C0023",
+    "Part Name": "SHIM",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "182.0* 4.0* 201.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 57A0215（1PC)+57A0216（1PC)"
+   },
+   "photos": [],
+   "parentPartNO": "32Y1888"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

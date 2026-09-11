@@ -1,0 +1,68 @@
+{
+ "partNO": "05C5187",
+ "parentPartNO": "00C7632",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "05C5187",
+    "partName": "润滑脂管路",
+    "spec": "",
+    "weightKg": "0.3",
+    "sizeMm": "311.0*296.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用30A7637;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "05C5187",
+    "配件名称": "润滑脂管路",
+    "规格": "",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "311.0* 296.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用30A7637;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "00C7632"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LUBRICATION PIPE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "05C5187",
+    "Part Name": "LUBRICATION PIPE",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "311.0* 296.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 30A7637 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "00C7632"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

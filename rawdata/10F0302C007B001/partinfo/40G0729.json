@@ -1,0 +1,68 @@
+{
+ "partNO": "40G0729",
+ "parentPartNO": "72C6687",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40G0729",
+    "partName": "胶垫",
+    "spec": "40G0729",
+    "weightKg": "0.0",
+    "sizeMm": "224.0*431.0*38.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40G0729",
+    "配件名称": "胶垫",
+    "规格": "40G0729",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "224.0* 431.0* 38.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C6687"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PAD",
+    "spec": "40G0729",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "40G0729",
+    "Part Name": "PAD",
+    "Specification": "40G0729",
+    "Weight": "0.0",
+    "Size": "224.0* 431.0* 38.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C6687"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

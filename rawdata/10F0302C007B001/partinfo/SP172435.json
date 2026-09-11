@@ -1,0 +1,68 @@
+{
+ "partNO": "SP172435",
+ "parentPartNO": "SP253783",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP172435",
+    "partName": "导线支架",
+    "spec": "",
+    "weightKg": "0.037",
+    "sizeMm": "75.0*45.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP172435",
+    "配件名称": "导线支架",
+    "规格": "",
+    "重量(KG)": "0.037",
+    "尺寸(mm)": "75.0* 45.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP253783"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WIRING BRACE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP172435",
+    "Part Name": "WIRING BRACE",
+    "Specification": "",
+    "Weight": "0.037",
+    "Size": "75.0* 45.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP253783"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

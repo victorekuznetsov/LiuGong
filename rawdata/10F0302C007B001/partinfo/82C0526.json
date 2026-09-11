@@ -1,0 +1,68 @@
+{
+ "partNO": "82C0526",
+ "parentPartNO": "15Y7278",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "82C0526",
+    "partName": "软管总成",
+    "spec": "20592-36-16(H70)/87392-16-16(H90)×4SH16×1500V270/YNES",
+    "weightKg": "0.0",
+    "sizeMm": "1231.0*295.0*385.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "82C0526",
+    "配件名称": "软管总成",
+    "规格": "20592-36-16(H70)/87392-16-16(H90)×4SH16×1500V270/YNES",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1231.0* 295.0* 385.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "20592-36-16(H70)/87392-16-16(H90)×4SH16×1500V270/YNES",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "82C0526",
+    "Part Name": "HOSE AS",
+    "Specification": "20592-36-16(H70)/87392-16-16(H90)×4SH16×1500V270/YNES",
+    "Weight": "0.0",
+    "Size": "1231.0* 295.0* 385.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y7278"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

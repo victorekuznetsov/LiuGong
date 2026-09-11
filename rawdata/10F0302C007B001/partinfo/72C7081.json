@@ -1,0 +1,68 @@
+{
+ "partNO": "72C7081",
+ "parentPartNO": "64C4503",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72C7081",
+    "partName": "侧门",
+    "spec": "72C7081",
+    "weightKg": "0.0",
+    "sizeMm": "605.0*55.0*782.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "72C7081",
+    "配件名称": "侧门",
+    "规格": "72C7081",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "605.0* 55.0* 782.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4503"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SIDE DOOR",
+    "spec": "72C7081",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72C7081",
+    "Part Name": "SIDE DOOR",
+    "Specification": "72C7081",
+    "Weight": "0.0",
+    "Size": "605.0* 55.0* 782.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4503"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

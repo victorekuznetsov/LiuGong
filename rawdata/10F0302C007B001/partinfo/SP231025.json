@@ -1,0 +1,68 @@
+{
+ "partNO": "SP231025",
+ "parentPartNO": "SP214312",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP231025",
+    "partName": "飞轮齿圈",
+    "spec": "",
+    "weightKg": "1.45",
+    "sizeMm": "405.0*406.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP231025",
+    "配件名称": "飞轮齿圈",
+    "规格": "",
+    "重量(KG)": "1.45",
+    "尺寸(mm)": "405.0* 406.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP214312"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLYWHEEL RING GEAR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP231025",
+    "Part Name": "FLYWHEEL RING GEAR",
+    "Specification": "",
+    "Weight": "1.45",
+    "Size": "405.0* 406.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP214312"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

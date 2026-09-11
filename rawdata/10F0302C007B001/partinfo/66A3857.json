@@ -1,0 +1,68 @@
+{
+ "partNO": "66A3857",
+ "parentPartNO": "64C2766",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "66A3857",
+    "partName": "销轴",
+    "spec": "66A3857",
+    "weightKg": "0.0",
+    "sizeMm": "30.0*30.0*102.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "66A3857",
+    "配件名称": "销轴",
+    "规格": "66A3857",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "30.0* 30.0* 102.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C2766"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "66A3857",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "66A3857",
+    "Part Name": "PIN",
+    "Specification": "66A3857",
+    "Weight": "0.0",
+    "Size": "30.0* 30.0* 102.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C2766"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

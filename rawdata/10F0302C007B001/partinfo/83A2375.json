@@ -1,0 +1,74 @@
+{
+ "partNO": "83A2375",
+ "parentPartNO": "26B0553P02",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83A2375",
+    "partName": "密封条",
+    "spec": "4.12M/4.13M",
+    "weightKg": "0.6",
+    "sizeMm": "242.0*241.0*61.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "改用SP241720;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "83A2375",
+    "配件名称": "密封条",
+    "规格": "4.12M/4.13M",
+    "重量(KG)": "0.6",
+    "尺寸(mm)": "242.0* 241.0* 61.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "改用SP241720;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35633537363535363537353b35393833353435343536",
+    "/part/zp/35633537363535363537353b35393833353435343536"
+   ],
+   "parentPartNO": "26B0553P02"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "4.12M/4.13M",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "83A2375",
+    "Part Name": "SEAL",
+    "Specification": "4.12M/4.13M",
+    "Weight": "0.6",
+    "Size": "242.0* 241.0* 61.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP241720 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35633537363535363537353b35393833353435343536",
+    "/part/zp/35633537363535363537353b35393833353435343536"
+   ],
+   "parentPartNO": "26B0553P02"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

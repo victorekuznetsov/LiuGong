@@ -1,0 +1,72 @@
+{
+ "partNO": "00A4282",
+ "parentPartNO": "30C1826",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A4282",
+    "partName": "接头",
+    "spec": "M24×1.5_G1/2_400（S）",
+    "weightKg": "0.0",
+    "sizeMm": "45.0*30.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用00A4282X1"
+   },
+   "attrsRaw": {
+    "配件编码": "00A4282",
+    "配件名称": "接头",
+    "规格": "M24×1.5_G1/2_400（S）",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "45.0* 30.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用00A4282X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535383536356335363833353435343536"
+   ],
+   "parentPartNO": "30C1826"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "M24×1.5_G1/2_400（S）",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A4282",
+    "Part Name": "CONNECTOR",
+    "Specification": "M24×1.5_G1/2_400（S）",
+    "Weight": "0.0",
+    "Size": "45.0* 30.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 00A4282X1"
+   },
+   "photos": [
+    "/part/zp/35343534363535383536356335363833353435343536"
+   ],
+   "parentPartNO": "30C1826"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

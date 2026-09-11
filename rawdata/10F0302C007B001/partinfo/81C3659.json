@@ -1,0 +1,68 @@
+{
+ "partNO": "81C3659",
+ "parentPartNO": "64C3328",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "81C3659",
+    "partName": "驾驶室线路",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1707.0*989.0*1774.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "81C3659",
+    "配件名称": "驾驶室线路",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1707.0* 989.0* 1774.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3328"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CAB WIRING",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "81C3659",
+    "Part Name": "CAB WIRING",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1707.0* 989.0* 1774.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3328"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

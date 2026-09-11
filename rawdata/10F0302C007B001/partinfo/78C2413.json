@@ -1,0 +1,68 @@
+{
+ "partNO": "78C2413",
+ "parentPartNO": "56C4956",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "78C2413",
+    "partName": "支架",
+    "spec": "78C2413",
+    "weightKg": "0.0",
+    "sizeMm": "288.0*184.0*60.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "78C2413",
+    "配件名称": "支架",
+    "规格": "78C2413",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "288.0* 184.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4956"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRACKET",
+    "spec": "78C2413",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "78C2413",
+    "Part Name": "BRACKET",
+    "Specification": "78C2413",
+    "Weight": "0.0",
+    "Size": "288.0* 184.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "56C4956"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

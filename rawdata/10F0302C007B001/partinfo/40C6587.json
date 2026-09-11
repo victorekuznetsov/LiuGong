@@ -1,0 +1,68 @@
+{
+ "partNO": "40C6587",
+ "parentPartNO": "SP214307",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C6587",
+    "partName": "齿轮箱",
+    "spec": "",
+    "weightKg": "7.19",
+    "sizeMm": "460.0*140.0*460.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C6587",
+    "配件名称": "齿轮箱",
+    "规格": "",
+    "重量(KG)": "7.19",
+    "尺寸(mm)": "460.0* 140.0* 460.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP214307"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEAR BOX",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C6587",
+    "Part Name": "GEAR BOX",
+    "Specification": "",
+    "Weight": "7.19",
+    "Size": "460.0* 140.0* 460.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP214307"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

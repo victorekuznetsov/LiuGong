@@ -1,0 +1,68 @@
+{
+ "partNO": "SP150327",
+ "parentPartNO": "SP364260",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150327",
+    "partName": "螺塞",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用下级件SP100060（1件）+SP128266（1件）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP150327",
+    "配件名称": "螺塞",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用下级件SP100060（1件）+SP128266（1件）"
+   },
+   "photos": [],
+   "parentPartNO": "SP364260"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150327",
+    "Part Name": "SCREW PLUG",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO LOWER PART SP100060（1PC）+SP128266（1PC）"
+   },
+   "photos": [],
+   "parentPartNO": "SP364260"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

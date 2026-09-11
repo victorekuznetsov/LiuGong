@@ -1,0 +1,68 @@
+{
+ "partNO": "40C5488",
+ "parentPartNO": "60C9101",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C5488",
+    "partName": "空气滤清器",
+    "spec": "",
+    "weightKg": "5.15",
+    "sizeMm": "432.0*326.0*454.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C5488",
+    "配件名称": "空气滤清器",
+    "规格": "",
+    "重量(KG)": "5.15",
+    "尺寸(mm)": "432.0* 326.0* 454.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR FILTER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C5488",
+    "Part Name": "AIR FILTER",
+    "Specification": "",
+    "Weight": "5.15",
+    "Size": "432.0* 326.0* 454.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9101"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "04B0373",
+ "parentPartNO": "77C0067",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B0373",
+    "partName": "内六角螺钉",
+    "spec": "M16×85-12.9",
+    "weightKg": "0.158",
+    "sizeMm": "104.0*21.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B0373",
+    "配件名称": "内六角螺钉",
+    "规格": "M16×85-12.9",
+    "重量(KG)": "0.158",
+    "尺寸(mm)": "104.0* 21.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0067"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HEX SCREW",
+    "spec": "M16×85-12.9",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B0373",
+    "Part Name": "HEX SCREW",
+    "Specification": "M16×85-12.9",
+    "Weight": "0.158",
+    "Size": "104.0* 21.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "77C0067"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

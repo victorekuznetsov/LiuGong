@@ -1,0 +1,68 @@
+{
+ "partNO": "64C2767",
+ "parentPartNO": "64C3363",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "64C2767",
+    "partName": "左扶手箱总成及电器",
+    "spec": "64C2767",
+    "weightKg": "9.35",
+    "sizeMm": "695.0*145.0*652.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "64C2767",
+    "配件名称": "左扶手箱总成及电器",
+    "规格": "64C2767",
+    "重量(KG)": "9.35",
+    "尺寸(mm)": "695.0* 145.0* 652.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3363"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONSOLE AS-LH&ELECTRICAL",
+    "spec": "64C2767",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "64C2767",
+    "Part Name": "CONSOLE AS-LH&ELECTRICAL",
+    "Specification": "64C2767",
+    "Weight": "9.35",
+    "Size": "695.0* 145.0* 652.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C3363"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP307549",
+ "parentPartNO": "45C1646",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP307549",
+    "partName": "充液阀密封包",
+    "spec": "",
+    "weightKg": "0.003",
+    "sizeMm": "24.0*24.0*8.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP307549",
+    "配件名称": "充液阀密封包",
+    "规格": "",
+    "重量(KG)": "0.003",
+    "尺寸(mm)": "24.0* 24.0* 8.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "45C1646"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP307549",
+    "Part Name": "SEAL KIT",
+    "Specification": "",
+    "Weight": "0.003",
+    "Size": "24.0* 24.0* 8.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "45C1646"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

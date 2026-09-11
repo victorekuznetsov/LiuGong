@@ -1,0 +1,72 @@
+{
+ "partNO": "SP150062",
+ "parentPartNO": "SP214317",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150062",
+    "partName": "机油冷却器芯垫片",
+    "spec": "",
+    "weightKg": "0.023",
+    "sizeMm": "290.0*139.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP150062",
+    "配件名称": "机油冷却器芯垫片",
+    "规格": "",
+    "重量(KG)": "0.023",
+    "尺寸(mm)": "290.0* 139.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353935343534353a35363833353435343536"
+   ],
+   "parentPartNO": "SP214317"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET OIL COOLER CORE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150062",
+    "Part Name": "GASKET OIL COOLER CORE",
+    "Specification": "",
+    "Weight": "0.023",
+    "Size": "290.0* 139.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353935343534353a35363833353435343536"
+   ],
+   "parentPartNO": "SP214317"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

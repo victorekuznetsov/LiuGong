@@ -1,0 +1,68 @@
+{
+ "partNO": "SP139249",
+ "parentPartNO": "SP187916",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP139249",
+    "partName": "V型钳",
+    "spec": "",
+    "weightKg": "0.1",
+    "sizeMm": "88.0*78.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP139249",
+    "配件名称": "V型钳",
+    "规格": "",
+    "重量(KG)": "0.1",
+    "尺寸(mm)": "88.0* 78.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP187916"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP V BAND",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP139249",
+    "Part Name": "CLAMP V BAND",
+    "Specification": "",
+    "Weight": "0.1",
+    "Size": "88.0* 78.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP187916"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

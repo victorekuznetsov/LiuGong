@@ -1,0 +1,68 @@
+{
+ "partNO": "44C9512",
+ "parentPartNO": "12Y1655",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C9512",
+    "partName": "电磁阀总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "258.0*116.0*120.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "44C9512",
+    "配件名称": "电磁阀总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "258.0* 116.0* 120.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1655"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SOLENOID VALVE AS",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "44C9512",
+    "Part Name": "SOLENOID VALVE AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "258.0* 116.0* 120.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1655"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

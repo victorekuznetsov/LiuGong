@@ -1,0 +1,78 @@
+{
+ "partNO": "31C1199",
+ "parentPartNO": "80C4513",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "31C1199",
+    "partName": "直角接头",
+    "spec": "M36×2-6G-M36×2-6H",
+    "weightKg": "0.55",
+    "sizeMm": "126.0*78.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "可用31C0088替代；双向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "31C1199",
+    "配件名称": "直角接头",
+    "规格": "M36×2-6G-M36×2-6H",
+    "重量(KG)": "0.55",
+    "尺寸(mm)": "126.0* 78.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "可用31C0088替代；双向互换"
+   },
+   "photos": [
+    "/part/zp/35373535363735353535356435643833353435343536",
+    "/part/zp/35373535363735353535356435643833353435343536",
+    "/part/zp/35373535363735353535356435643833353435343537",
+    "/part/zp/35373535363735353535356435643833353435343537"
+   ],
+   "parentPartNO": "80C4513"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "M36×2-6G-M36×2-6H",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31C1199",
+    "Part Name": "CONNECTOR",
+    "Specification": "M36×2-6G-M36×2-6H",
+    "Weight": "0.55",
+    "Size": "126.0* 78.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Can be replaced with 31C0088; bidirectional interchangeable"
+   },
+   "photos": [
+    "/part/zp/35373535363735353535356435643833353435343536",
+    "/part/zp/35373535363735353535356435643833353435343536",
+    "/part/zp/35373535363735353535356435643833353435343537",
+    "/part/zp/35373535363735353535356435643833353435343537"
+   ],
+   "parentPartNO": "80C4513"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

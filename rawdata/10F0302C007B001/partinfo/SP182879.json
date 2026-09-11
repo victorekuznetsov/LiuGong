@@ -1,0 +1,68 @@
+{
+ "partNO": "SP182879",
+ "parentPartNO": "SP364036",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP182879",
+    "partName": "圆柱滚子轴承",
+    "spec": "",
+    "weightKg": "0.38",
+    "sizeMm": "76.0*76.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP182879",
+    "配件名称": "圆柱滚子轴承",
+    "规格": "",
+    "重量(KG)": "0.38",
+    "尺寸(mm)": "76.0* 76.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364036"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CYLINDER ROLLER BEARING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP182879",
+    "Part Name": "CYLINDER ROLLER BEARING",
+    "Specification": "",
+    "Weight": "0.38",
+    "Size": "76.0* 76.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP364036"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

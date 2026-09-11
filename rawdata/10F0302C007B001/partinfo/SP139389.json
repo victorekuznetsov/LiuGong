@@ -1,0 +1,74 @@
+{
+ "partNO": "SP139389",
+ "parentPartNO": "SP214310",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP139389",
+    "partName": "燃油滤清器总成",
+    "spec": "",
+    "weightKg": "1.415",
+    "sizeMm": "160.0*160.0*270.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP139389",
+    "配件名称": "燃油滤清器总成",
+    "规格": "",
+    "重量(KG)": "1.415",
+    "尺寸(mm)": "160.0* 160.0* 270.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353735643537356335643833353435343536",
+    "/part/zp/373737343535353735643537356335643833353435343537"
+   ],
+   "parentPartNO": "SP214310"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER ASSY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP139389",
+    "Part Name": "FUEL FILTER ASSY",
+    "Specification": "",
+    "Weight": "1.415",
+    "Size": "160.0* 160.0* 270.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353735643537356335643833353435343536",
+    "/part/zp/373737343535353735643537356335643833353435343537"
+   ],
+   "parentPartNO": "SP214310"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

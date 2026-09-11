@@ -1,0 +1,68 @@
+{
+ "partNO": "96A6810",
+ "parentPartNO": "80C1644",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "96A6810",
+    "partName": "安装板",
+    "spec": "",
+    "weightKg": "4.55",
+    "sizeMm": "407.0*68.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "96A6810",
+    "配件名称": "安装板",
+    "规格": "",
+    "重量(KG)": "4.55",
+    "尺寸(mm)": "407.0* 68.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C1644"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MOUNTING PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "96A6810",
+    "Part Name": "MOUNTING PLATE",
+    "Specification": "",
+    "Weight": "4.55",
+    "Size": "407.0* 68.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "80C1644"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

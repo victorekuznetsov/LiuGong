@@ -1,0 +1,68 @@
+{
+ "partNO": "37B3383",
+ "parentPartNO": "93C1304",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37B3383",
+    "partName": "清洗器",
+    "spec": "",
+    "weightKg": "0.65",
+    "sizeMm": "216.0*290.0*141.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "37B3383",
+    "配件名称": "清洗器",
+    "规格": "",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "216.0* 290.0* 141.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "93C1304"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37B3383",
+    "Part Name": "WASHER",
+    "Specification": "",
+    "Weight": "0.65",
+    "Size": "216.0* 290.0* 141.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "93C1304"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

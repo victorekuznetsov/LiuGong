@@ -1,0 +1,68 @@
+{
+ "partNO": "09C1492",
+ "parentPartNO": "60C9391",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C1492",
+    "partName": "涡轮蜗杆卡箍",
+    "spec": "Φ8-Φ14",
+    "weightKg": "0.011",
+    "sizeMm": "28.0*24.0*11.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用17G0116;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "09C1492",
+    "配件名称": "涡轮蜗杆卡箍",
+    "规格": "Φ8-Φ14",
+    "重量(KG)": "0.011",
+    "尺寸(mm)": "28.0* 24.0* 11.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用17G0116;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "60C9391"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ8-Φ14",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C1492",
+    "Part Name": "CLAMP",
+    "Specification": "Φ8-Φ14",
+    "Weight": "0.011",
+    "Size": "28.0* 24.0* 11.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 17G0116 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "60C9391"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
