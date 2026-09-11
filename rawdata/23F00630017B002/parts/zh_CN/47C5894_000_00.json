@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "32B0925",
+  "partName": "工作灯",
+  "qty": "4",
+  "storeTypeName": "2Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "47C5894",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

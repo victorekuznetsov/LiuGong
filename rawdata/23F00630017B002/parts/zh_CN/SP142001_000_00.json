@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP108815",
+  "partName": "自攻螺钉",
+  "qty": "2",
+  "storeTypeName": null,
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP142001",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

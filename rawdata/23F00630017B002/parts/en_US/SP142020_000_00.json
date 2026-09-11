@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP108841",
+  "partName": "BOLT",
+  "qty": "2",
+  "storeTypeName": "Not recommend",
+  "note": "CHANGED FROM SP109060",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP142020",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

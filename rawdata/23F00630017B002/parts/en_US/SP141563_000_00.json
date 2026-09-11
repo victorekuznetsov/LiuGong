@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP108908",
+  "partName": "PULLEY",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "CHANGED FROM 47A0242",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP141563",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

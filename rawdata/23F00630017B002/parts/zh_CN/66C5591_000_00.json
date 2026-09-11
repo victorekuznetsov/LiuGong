@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "12B0488",
+  "partName": "O形圈",
+  "qty": "2",
+  "storeTypeName": "1Y",
+  "note": "改用12B0619",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "66C5591",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

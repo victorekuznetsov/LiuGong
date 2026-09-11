@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "34C8469",
+  "partName": "FLEXIBLE SHAFT",
+  "qty": "1",
+  "storeTypeName": "2 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "47C3128",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP108983",
+  "partName": "BOLT",
+  "qty": "3",
+  "storeTypeName": "Not recommend",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP141684",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

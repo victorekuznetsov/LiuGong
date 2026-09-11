@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "47C7200",
+  "partName": "CONTROL LEVER",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "58C4702",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

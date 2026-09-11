@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP126898",
+  "partName": "气缸盖密封垫",
+  "qty": "1",
+  "storeTypeName": "3Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP142035",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]
