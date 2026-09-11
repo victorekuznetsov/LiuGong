@@ -1,0 +1,68 @@
+{
+ "partNO": "SP283921",
+ "parentPartNO": "SP284199",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP283921",
+    "partName": "电子控制单元",
+    "spec": "",
+    "weightKg": "2.95",
+    "sizeMm": "229.0*204.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "此物料不含程序，需刷程序请下单服务号SP371960+物料号，并提供发动机序列号及控制器铭牌照片"
+   },
+   "attrsRaw": {
+    "配件编码": "SP283921",
+    "配件名称": "电子控制单元",
+    "规格": "",
+    "重量(KG)": "2.95",
+    "尺寸(mm)": "229.0* 204.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "此物料不含程序，需刷程序请下单服务号SP371960+物料号，并提供发动机序列号及控制器铭牌照片"
+   },
+   "photos": [],
+   "parentPartNO": "SP284199"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ELECTRONIC CONTROL MODULE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP283921",
+    "Part Name": "ELECTRONIC CONTROL MODULE",
+    "Specification": "",
+    "Weight": "2.95",
+    "Size": "229.0* 204.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Excluding program.Pls place an order as SP371960+part no., and provide engine serial no.+ controller nameplate photo for program"
+   },
+   "photos": [],
+   "parentPartNO": "SP284199"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

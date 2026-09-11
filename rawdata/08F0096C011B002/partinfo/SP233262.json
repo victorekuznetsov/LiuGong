@@ -1,0 +1,68 @@
+{
+ "partNO": "SP233262",
+ "parentPartNO": "SP284200",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP233262",
+    "partName": "六角法兰头帽螺钉",
+    "spec": "",
+    "weightKg": "0.031",
+    "sizeMm": "27.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP233262",
+    "配件名称": "六角法兰头帽螺钉",
+    "规格": "",
+    "重量(KG)": "0.031",
+    "尺寸(mm)": "27.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284200"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HEXAGON FLANGE HEAD CAP SCREW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP233262",
+    "Part Name": "HEXAGON FLANGE HEAD CAP SCREW",
+    "Specification": "",
+    "Weight": "0.031",
+    "Size": "27.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284200"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

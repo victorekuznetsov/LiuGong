@@ -1,0 +1,72 @@
+{
+ "partNO": "08V0127",
+ "parentPartNO": "72C3256",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08V0127",
+    "partName": "开口销",
+    "spec": "5×60",
+    "weightKg": "0.005",
+    "sizeMm": "5.0*5.0*60.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由08B0036更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "08V0127",
+    "配件名称": "开口销",
+    "规格": "5×60",
+    "重量(KG)": "0.005",
+    "尺寸(mm)": "5.0* 5.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由08B0036更改而来"
+   },
+   "photos": [
+    "/part/zp/35343563373a353435353536353b3833353435343535"
+   ],
+   "parentPartNO": "72C3256"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COTTER PIN",
+    "spec": "5×60",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08V0127",
+    "Part Name": "COTTER PIN",
+    "Specification": "5×60",
+    "Weight": "0.005",
+    "Size": "5.0* 5.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 08B0036"
+   },
+   "photos": [
+    "/part/zp/35343563373a353435353536353b3833353435343535"
+   ],
+   "parentPartNO": "72C3256"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

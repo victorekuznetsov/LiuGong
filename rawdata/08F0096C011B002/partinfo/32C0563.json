@@ -1,0 +1,72 @@
+{
+ "partNO": "32C0563",
+ "parentPartNO": "13Y0343",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32C0563",
+    "partName": "三通接头",
+    "spec": "M18×1.5-6G_G1/4A_M18×1.5-6G",
+    "weightKg": "0.107",
+    "sizeMm": "50.0*48.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用32C0563X1"
+   },
+   "attrsRaw": {
+    "配件编码": "32C0563",
+    "配件名称": "三通接头",
+    "规格": "M18×1.5-6G_G1/4A_M18×1.5-6G",
+    "重量(KG)": "0.107",
+    "尺寸(mm)": "50.0* 48.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用32C0563X1"
+   },
+   "photos": [
+    "/part/zp/35373536363735343539353a35373833353435343536"
+   ],
+   "parentPartNO": "13Y0343"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEE",
+    "spec": "M18×1.5-6G_G1/4A_M18×1.5-6G",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32C0563",
+    "Part Name": "TEE",
+    "Specification": "M18×1.5-6G_G1/4A_M18×1.5-6G",
+    "Weight": "0.107",
+    "Size": "50.0* 48.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 32C0563X1"
+   },
+   "photos": [
+    "/part/zp/35373536363735343539353a35373833353435343536"
+   ],
+   "parentPartNO": "13Y0343"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "32B0953",
+ "parentPartNO": "55C6231",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0953",
+    "partName": "工作灯",
+    "spec": "",
+    "weightKg": "0.65",
+    "sizeMm": "110.0*158.0*48.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "装载机用时供方需指定江阴长江"
+   },
+   "attrsRaw": {
+    "配件编码": "32B0953",
+    "配件名称": "工作灯",
+    "规格": "",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "110.0* 158.0* 48.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "装载机用时供方需指定江阴长江"
+   },
+   "photos": [],
+   "parentPartNO": "55C6231"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WORK LIGHT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0953",
+    "Part Name": "WORK LIGHT",
+    "Specification": "",
+    "Weight": "0.65",
+    "Size": "110.0* 158.0* 48.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "When used for loaders, the supplier shall specify Jiangyin Yangtze River"
+   },
+   "photos": [],
+   "parentPartNO": "55C6231"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

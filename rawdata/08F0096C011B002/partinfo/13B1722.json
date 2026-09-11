@@ -1,0 +1,68 @@
+{
+ "partNO": "13B1722",
+ "parentPartNO": "42C2928",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B1722",
+    "partName": "油封",
+    "spec": "FB80×110×10FKM",
+    "weightKg": "0.081",
+    "sizeMm": "108.0*108.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B1722",
+    "配件名称": "油封",
+    "规格": "FB80×110×10FKM",
+    "重量(KG)": "0.081",
+    "尺寸(mm)": "108.0* 108.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2928"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL SEAL",
+    "spec": "FB80×110×10FKM",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B1722",
+    "Part Name": "OIL SEAL",
+    "Specification": "FB80×110×10FKM",
+    "Weight": "0.081",
+    "Size": "108.0* 108.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2928"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

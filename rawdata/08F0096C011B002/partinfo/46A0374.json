@@ -1,0 +1,68 @@
+{
+ "partNO": "46A0374",
+ "parentPartNO": "33Y0876",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46A0374",
+    "partName": "驱动轮",
+    "spec": "A280-LL-X100",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "认证件46A0374C1；（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "46A0374",
+    "配件名称": "驱动轮",
+    "规格": "A280-LL-X100",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "认证件46A0374C1；（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "33Y0876"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPROCKET",
+    "spec": "A280-LL-X100",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46A0374",
+    "Part Name": "SPROCKET",
+    "Specification": "A280-LL-X100",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CERTIFICATION PART 46A0374C1; (BIDIRECTIONAL INTERCHANGE)"
+   },
+   "photos": [],
+   "parentPartNO": "33Y0876"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

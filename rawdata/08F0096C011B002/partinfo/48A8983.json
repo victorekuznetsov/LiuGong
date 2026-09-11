@@ -1,0 +1,68 @@
+{
+ "partNO": "48A8983",
+ "parentPartNO": "15Y6221",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48A8983",
+    "partName": "管夹",
+    "spec": "Φ48.6",
+    "weightKg": "0.65",
+    "sizeMm": "111.0*86.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "48A8983",
+    "配件名称": "管夹",
+    "规格": "Φ48.6",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "111.0* 86.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ48.6",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48A8983",
+    "Part Name": "CLAMP",
+    "Specification": "Φ48.6",
+    "Weight": "0.65",
+    "Size": "111.0* 86.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

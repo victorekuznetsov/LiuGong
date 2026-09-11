@@ -1,0 +1,68 @@
+{
+ "partNO": "30C1023",
+ "parentPartNO": "18C5225",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C1023",
+    "partName": "软管接头",
+    "spec": "",
+    "weightKg": "0.198",
+    "sizeMm": "70.0*35.0*35.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C1023",
+    "配件名称": "软管接头",
+    "规格": "",
+    "重量(KG)": "0.198",
+    "尺寸(mm)": "70.0* 35.0* 35.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "18C5225"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C1023",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.198",
+    "Size": "70.0* 35.0* 35.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "18C5225"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

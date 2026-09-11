@@ -1,0 +1,68 @@
+{
+ "partNO": "21C3444",
+ "parentPartNO": "15Y6221",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "21C3444",
+    "partName": "液压油箱安装总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "2241.0*3912.0*1594.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用21C3628"
+   },
+   "attrsRaw": {
+    "配件编码": "21C3444",
+    "配件名称": "液压油箱安装总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "2241.0* 3912.0* 1594.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用21C3628"
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HYDRAULIC OIL TANK AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "21C3444",
+    "Part Name": "HYDRAULIC OIL TANK AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "2241.0* 3912.0* 1594.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 21C3628 ."
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

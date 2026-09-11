@@ -1,0 +1,68 @@
+{
+ "partNO": "40C0872",
+ "parentPartNO": "47Y1699",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C0872",
+    "partName": "主滤芯",
+    "spec": "",
+    "weightKg": "5.2",
+    "sizeMm": "638.0*366.0*355.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用40C2954;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "40C0872",
+    "配件名称": "主滤芯",
+    "规格": "",
+    "重量(KG)": "5.2",
+    "尺寸(mm)": "638.0* 366.0* 355.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用40C2954;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1699"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MAIN FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C0872",
+    "Part Name": "MAIN FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "5.2",
+    "Size": "638.0* 366.0* 355.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 40C2954 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1699"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

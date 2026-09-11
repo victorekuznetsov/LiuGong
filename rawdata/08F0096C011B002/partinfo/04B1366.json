@@ -1,0 +1,74 @@
+{
+ "partNO": "04B1366",
+ "parentPartNO": "81C4476",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B1366",
+    "partName": "螺钉",
+    "spec": "M6×12-4.8-DK",
+    "weightKg": "0.0",
+    "sizeMm": "45.0*12.0*12.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B1366",
+    "配件名称": "螺钉",
+    "规格": "M6×12-4.8-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "45.0* 12.0* 12.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635353537353a353a3833353435343536",
+    "/part/zp/35343538363635353537353a353a3833353435343536"
+   ],
+   "parentPartNO": "81C4476"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "M6×12-4.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B1366",
+    "Part Name": "SCREW",
+    "Specification": "M6×12-4.8-DK",
+    "Weight": "0.0",
+    "Size": "45.0* 12.0* 12.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635353537353a353a3833353435343536",
+    "/part/zp/35343538363635353537353a353a3833353435343536"
+   ],
+   "parentPartNO": "81C4476"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

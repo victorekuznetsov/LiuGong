@@ -1,0 +1,74 @@
+{
+ "partNO": "01B0513",
+ "parentPartNO": "59C6521",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0513",
+    "partName": "螺栓",
+    "spec": "M24×90-10.9-DK",
+    "weightKg": "0.0",
+    "sizeMm": "36.0*42.0*105.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由01B0186更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "01B0513",
+    "配件名称": "螺栓",
+    "规格": "M24×90-10.9-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "36.0* 42.0* 105.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由01B0186更改而来"
+   },
+   "photos": [
+    "/part/zp/35343535363635343539353535373833353435343535",
+    "/part/zp/35343535363635343539353535373833353435343535"
+   ],
+   "parentPartNO": "59C6521"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M24×90-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0513",
+    "Part Name": "BOLT",
+    "Specification": "M24×90-10.9-DK",
+    "Weight": "0.0",
+    "Size": "36.0* 42.0* 105.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 01B0186"
+   },
+   "photos": [
+    "/part/zp/35343535363635343539353535373833353435343535",
+    "/part/zp/35343535363635343539353535373833353435343535"
+   ],
+   "parentPartNO": "59C6521"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

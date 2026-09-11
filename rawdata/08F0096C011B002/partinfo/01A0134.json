@@ -1,0 +1,74 @@
+{
+ "partNO": "01A0134",
+ "parentPartNO": "33Y0876",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01A0134",
+    "partName": "接头",
+    "spec": "",
+    "weightKg": "0.061",
+    "sizeMm": "37.0*32.0*17.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01A0134",
+    "配件名称": "接头",
+    "规格": "",
+    "重量(KG)": "0.061",
+    "尺寸(mm)": "37.0* 32.0* 17.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343535363535343535353735383833353435343535",
+    "/part/zp/35343535363535343535353735383833353435343535"
+   ],
+   "parentPartNO": "33Y0876"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01A0134",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.061",
+    "Size": "37.0* 32.0* 17.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343535363535343535353735383833353435343535",
+    "/part/zp/35343535363535343535353735383833353435343535"
+   ],
+   "parentPartNO": "33Y0876"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

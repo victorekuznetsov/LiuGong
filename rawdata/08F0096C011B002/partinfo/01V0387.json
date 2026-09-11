@@ -1,0 +1,68 @@
+{
+ "partNO": "01V0387",
+ "parentPartNO": "10C8467",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01V0387",
+    "partName": "螺栓",
+    "spec": "M12×45-8.8-DK",
+    "weightKg": "0.05",
+    "sizeMm": "53.0*20.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01V0387",
+    "配件名称": "螺栓",
+    "规格": "M12×45-8.8-DK",
+    "重量(KG)": "0.05",
+    "尺寸(mm)": "53.0* 20.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C8467"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M12×45-8.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01V0387",
+    "Part Name": "BOLT",
+    "Specification": "M12×45-8.8-DK",
+    "Weight": "0.05",
+    "Size": "53.0* 20.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C8467"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

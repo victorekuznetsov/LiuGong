@@ -1,0 +1,68 @@
+{
+ "partNO": "15C1537",
+ "parentPartNO": "60C9212",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "15C1537",
+    "partName": "球阀",
+    "spec": "",
+    "weightKg": "0.642",
+    "sizeMm": "149.0*89.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "15C1537",
+    "配件名称": "球阀",
+    "规格": "",
+    "重量(KG)": "0.642",
+    "尺寸(mm)": "149.0* 89.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BALL VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "15C1537",
+    "Part Name": "BALL VALVE",
+    "Specification": "",
+    "Weight": "0.642",
+    "Size": "149.0* 89.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

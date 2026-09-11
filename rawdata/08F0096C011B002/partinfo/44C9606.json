@@ -1,0 +1,68 @@
+{
+ "partNO": "44C9606",
+ "parentPartNO": "61C0690",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C9606",
+    "partName": "阀组件",
+    "spec": "RCS-G4543-10/1D35-1AAC02E-PXWPV01",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "斗杆联和cut阀联备件打包销售"
+   },
+   "attrsRaw": {
+    "配件编码": "44C9606",
+    "配件名称": "阀组件",
+    "规格": "RCS-G4543-10/1D35-1AAC02E-PXWPV01",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "斗杆联和cut阀联备件打包销售"
+   },
+   "photos": [],
+   "parentPartNO": "61C0690"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VALVE GP",
+    "spec": "RCS-G4543-10/1D35-1AAC02E-PXWPV01",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "44C9606",
+    "Part Name": "VALVE GP",
+    "Specification": "RCS-G4543-10/1D35-1AAC02E-PXWPV01",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Packaging and sales of spare parts for stick linkage and cut valve linkage"
+   },
+   "photos": [],
+   "parentPartNO": "61C0690"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

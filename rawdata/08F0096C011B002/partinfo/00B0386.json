@@ -1,0 +1,74 @@
+{
+ "partNO": "00B0386",
+ "parentPartNO": "42C2928",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00B0386",
+    "partName": "螺栓",
+    "spec": "M12×35-10.9-DK",
+    "weightKg": "0.0",
+    "sizeMm": "40.0*20.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP113255更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "00B0386",
+    "配件名称": "螺栓",
+    "规格": "M12×35-10.9-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "40.0* 20.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP113255更改而来"
+   },
+   "photos": [
+    "/part/zp/353435343636353435373563353a3833353435343536",
+    "/part/zp/353435343636353435373563353a3833353435343536"
+   ],
+   "parentPartNO": "42C2928"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M12×35-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00B0386",
+    "Part Name": "BOLT",
+    "Specification": "M12×35-10.9-DK",
+    "Weight": "0.0",
+    "Size": "40.0* 20.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP113255"
+   },
+   "photos": [
+    "/part/zp/353435343636353435373563353a3833353435343536",
+    "/part/zp/353435343636353435373563353a3833353435343536"
+   ],
+   "parentPartNO": "42C2928"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

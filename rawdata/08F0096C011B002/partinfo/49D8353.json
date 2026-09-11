@@ -1,0 +1,68 @@
+{
+ "partNO": "49D8353",
+ "parentPartNO": "60C6579",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49D8353",
+    "partName": "支架",
+    "spec": "",
+    "weightKg": "6.05",
+    "sizeMm": "371.0*275.0*181.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49D8353",
+    "配件名称": "支架",
+    "规格": "",
+    "重量(KG)": "6.05",
+    "尺寸(mm)": "371.0* 275.0* 181.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C6579"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49D8353",
+    "Part Name": "BRACKET",
+    "Specification": "",
+    "Weight": "6.05",
+    "Size": "371.0* 275.0* 181.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C6579"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

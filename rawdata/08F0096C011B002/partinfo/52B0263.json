@@ -1,0 +1,74 @@
+{
+ "partNO": "52B0263",
+ "parentPartNO": "53Y0129",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "52B0263",
+    "partName": "内六角扳手",
+    "spec": "8 10",
+    "weightKg": "0.251",
+    "sizeMm": "192.0*52.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "52B0263",
+    "配件名称": "内六角扳手",
+    "规格": "8 10",
+    "重量(KG)": "0.251",
+    "尺寸(mm)": "192.0* 52.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35393536363635343536353a35373833353435343536",
+    "/part/zp/35393536363635343536353a35373833353435343536"
+   ],
+   "parentPartNO": "53Y0129"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "INNER HEXAGON SPANNER",
+    "spec": "8 10",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "52B0263",
+    "Part Name": "INNER HEXAGON SPANNER",
+    "Specification": "8 10",
+    "Weight": "0.251",
+    "Size": "192.0* 52.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35393536363635343536353a35373833353435343536",
+    "/part/zp/35393536363635343536353a35373833353435343536"
+   ],
+   "parentPartNO": "53Y0129"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

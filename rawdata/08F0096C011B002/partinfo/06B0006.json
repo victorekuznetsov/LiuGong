@@ -1,0 +1,72 @@
+{
+ "partNO": "06B0006",
+ "parentPartNO": "44Y2150",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "06B0006",
+    "partName": "垫圈",
+    "spec": "8-DK",
+    "weightKg": "0.006",
+    "sizeMm": "15.0*15.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由06V0006更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "06B0006",
+    "配件名称": "垫圈",
+    "规格": "8-DK",
+    "重量(KG)": "0.006",
+    "尺寸(mm)": "15.0* 15.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由06V0006更改而来"
+   },
+   "photos": [
+    "/part/zp/3534353a3636353435343534353a3833353435343537"
+   ],
+   "parentPartNO": "44Y2150"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "06B0006",
+    "Part Name": "WASHER",
+    "Specification": "8-DK",
+    "Weight": "0.006",
+    "Size": "15.0* 15.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 06V0006"
+   },
+   "photos": [
+    "/part/zp/3534353a3636353435343534353a3833353435343537"
+   ],
+   "parentPartNO": "44Y2150"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

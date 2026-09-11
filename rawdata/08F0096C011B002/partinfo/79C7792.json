@@ -1,0 +1,68 @@
+{
+ "partNO": "79C7792",
+ "parentPartNO": "13Y0680",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "79C7792",
+    "partName": "软管总成",
+    "spec": "20411-30-12/20441-30-12(H45)X1SN12X4000+RNL",
+    "weightKg": "0.0",
+    "sizeMm": "83.0*4141.0*38.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "79C7792",
+    "配件名称": "软管总成",
+    "规格": "20411-30-12/20441-30-12(H45)X1SN12X4000+RNL",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "83.0* 4141.0* 38.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0680"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "20411-30-12/20441-30-12(H45)X1SN12X4000+RNL",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "79C7792",
+    "Part Name": "HOSE AS",
+    "Specification": "20411-30-12/20441-30-12(H45)X1SN12X4000+RNL",
+    "Weight": "0.0",
+    "Size": "83.0* 4141.0* 38.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0680"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

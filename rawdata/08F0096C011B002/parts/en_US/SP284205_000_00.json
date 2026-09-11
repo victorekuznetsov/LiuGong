@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "30B1758",
+  "partName": "WATER LEVEL SENSOR",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "REPEATED P/N. CHANGE TO SP166901 . INTERCHANGEABLE.",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP284205",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "partNO": "56A6842",
+ "parentPartNO": "60C9212",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56A6842",
+    "partName": "垫圈",
+    "spec": "",
+    "weightKg": "2.25",
+    "sizeMm": "179.0*177.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "56A6842",
+    "配件名称": "垫圈",
+    "规格": "",
+    "重量(KG)": "2.25",
+    "尺寸(mm)": "179.0* 177.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "56A6842",
+    "Part Name": "WASHER",
+    "Specification": "",
+    "Weight": "2.25",
+    "Size": "179.0* 177.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

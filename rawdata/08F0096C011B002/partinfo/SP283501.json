@@ -1,0 +1,72 @@
+{
+ "partNO": "SP283501",
+ "parentPartNO": "SP284201",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP283501",
+    "partName": "复合密封圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "23.0*23.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP283501",
+    "配件名称": "复合密封圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "23.0* 23.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/37373734353635633537353935343535"
+   ],
+   "parentPartNO": "SP284201"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GROMMET SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP283501",
+    "Part Name": "GROMMET SEAL",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "23.0* 23.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/37373734353635633537353935343535"
+   ],
+   "parentPartNO": "SP284201"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

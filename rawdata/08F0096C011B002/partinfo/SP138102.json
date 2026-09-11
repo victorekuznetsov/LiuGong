@@ -1,0 +1,68 @@
+{
+ "partNO": "SP138102",
+ "parentPartNO": "SP284217",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP138102",
+    "partName": "钢铁制垫圈",
+    "spec": "",
+    "weightKg": "0.003",
+    "sizeMm": "15.0*15.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP138102",
+    "配件名称": "钢铁制垫圈",
+    "规格": "",
+    "重量(KG)": "0.003",
+    "尺寸(mm)": "15.0* 15.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284217"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP138102",
+    "Part Name": "WASHER",
+    "Specification": "",
+    "Weight": "0.003",
+    "Size": "15.0* 15.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284217"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

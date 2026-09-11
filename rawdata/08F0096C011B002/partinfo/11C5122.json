@@ -1,0 +1,68 @@
+{
+ "partNO": "11C5122",
+ "parentPartNO": "58C8917",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11C5122",
+    "partName": "泵总成",
+    "spec": "POMPA MVP 60.70S-06S8-LMF/MC-V-PEC-2-A-20/180-D-E/PLP20.27,8-LGF/GE-L(L101)(LIU)(CN)",
+    "weightKg": "31.55",
+    "sizeMm": "360.0*230.0*157.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11C5122",
+    "配件名称": "泵总成",
+    "规格": "POMPA MVP 60.70S-06S8-LMF/MC-V-PEC-2-A-20/180-D-E/PLP20.27,8-LGF/GE-L(L101)(LIU)(CN)",
+    "重量(KG)": "31.55",
+    "尺寸(mm)": "360.0* 230.0* 157.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "58C8917"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PUMP AS",
+    "spec": "POMPA MVP 60.70S-06S8-LMF/MC-V-PEC-2-A-20/180-D-E/PLP20.27,8-LGF/GE-L(L101)(LIU)(CN)",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "11C5122",
+    "Part Name": "PUMP AS",
+    "Specification": "POMPA MVP 60.70S-06S8-LMF/MC-V-PEC-2-A-20/180-D-E/PLP20.27,8-LGF/GE-L(L101)(LIU)(CN)",
+    "Weight": "31.55",
+    "Size": "360.0* 230.0* 157.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "58C8917"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

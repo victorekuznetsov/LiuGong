@@ -1,0 +1,68 @@
+{
+ "partNO": "10C9411",
+ "parentPartNO": "11Y4891",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "10C9411",
+    "partName": "斗杆油缸",
+    "spec": "Φ260×Φ180×2427×3578",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "10C9411",
+    "配件名称": "斗杆油缸",
+    "规格": "Φ260×Φ180×2427×3578",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "11Y4891"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ARM CYLINDER",
+    "spec": "Φ260×Φ180×2427×3578",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "10C9411",
+    "Part Name": "ARM CYLINDER",
+    "Specification": "Φ260×Φ180×2427×3578",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "11Y4891"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

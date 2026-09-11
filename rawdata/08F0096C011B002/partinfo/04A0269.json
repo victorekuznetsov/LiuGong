@@ -1,0 +1,78 @@
+{
+ "partNO": "04A0269",
+ "parentPartNO": "15Y6221",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04A0269",
+    "partName": "法兰压板",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "100.0*44.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04A0269",
+    "配件名称": "法兰压板",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "100.0* 44.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343538363535343536353a35643833353435343536",
+    "/part/zp/35343538363535343536353a35643833353435343536",
+    "/part/zp/35343538363535343536353a35643833353435343537",
+    "/part/zp/35343538363535343536353a35643833353435343537"
+   ],
+   "parentPartNO": "15Y6221"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPLIT FLANGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04A0269",
+    "Part Name": "SPLIT FLANGE",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "100.0* 44.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343538363535343536353a35643833353435343536",
+    "/part/zp/35343538363535343536353a35643833353435343536",
+    "/part/zp/35343538363535343536353a35643833353435343537",
+    "/part/zp/35343538363535343536353a35643833353435343537"
+   ],
+   "parentPartNO": "15Y6221"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

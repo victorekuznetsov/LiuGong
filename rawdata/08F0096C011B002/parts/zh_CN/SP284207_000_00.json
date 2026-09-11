@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP282525",
+  "partName": "起动机",
+  "qty": "2",
+  "storeTypeName": "2Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP284207",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "partNO": "83C4495",
+ "parentPartNO": "57C7244",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83C4495",
+    "partName": "车架线束",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "6494.0*3705.0*2178.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "83C4495",
+    "配件名称": "车架线束",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "6494.0* 3705.0* 2178.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C7244"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRAME HARNESS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "83C4495",
+    "Part Name": "FRAME HARNESS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "6494.0* 3705.0* 2178.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C7244"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

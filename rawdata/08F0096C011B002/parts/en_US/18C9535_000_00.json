@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "30C1472",
+  "partName": "CONNECTOR",
+  "qty": "2",
+  "storeTypeName": null,
+  "note": "DISCONTINUED. CHANGE TO 30C3010 . ONE-WAY REPLACEMENT",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "18C9535",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

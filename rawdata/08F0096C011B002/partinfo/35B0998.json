@@ -1,0 +1,68 @@
+{
+ "partNO": "35B0998",
+ "parentPartNO": "55C7392",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "35B0998",
+    "partName": "仪表",
+    "spec": "",
+    "weightKg": "1.35",
+    "sizeMm": "216.0*145.0*49.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "停止供货;改用35B1558;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "35B0998",
+    "配件名称": "仪表",
+    "规格": "",
+    "重量(KG)": "1.35",
+    "尺寸(mm)": "216.0* 145.0* 49.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "停止供货;改用35B1558;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "55C7392"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "INSTRUMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "35B0998",
+    "Part Name": "INSTRUMENT",
+    "Specification": "",
+    "Weight": "1.35",
+    "Size": "216.0* 145.0* 49.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO 35B1558 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "55C7392"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

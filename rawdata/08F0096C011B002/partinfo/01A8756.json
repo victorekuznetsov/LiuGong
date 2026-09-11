@@ -1,0 +1,72 @@
+{
+ "partNO": "01A8756",
+ "parentPartNO": "60C6076",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01A8756",
+    "partName": "回水接头",
+    "spec": "",
+    "weightKg": "0.244",
+    "sizeMm": "98.0*39.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01A8756",
+    "配件名称": "回水接头",
+    "规格": "",
+    "重量(KG)": "0.244",
+    "尺寸(mm)": "98.0* 39.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3534353536353563353b3539353a"
+   ],
+   "parentPartNO": "60C6076"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01A8756",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.244",
+    "Size": "98.0* 39.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3534353536353563353b3539353a"
+   ],
+   "parentPartNO": "60C6076"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

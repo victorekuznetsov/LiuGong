@@ -1,0 +1,68 @@
+{
+ "partNO": "23D7281",
+ "parentPartNO": "64C0142",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "23D7281",
+    "partName": "司机椅座",
+    "spec": "23D7281",
+    "weightKg": "13.3",
+    "sizeMm": "405.0*391.0*139.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "23D7281",
+    "配件名称": "司机椅座",
+    "规格": "23D7281",
+    "重量(KG)": "13.3",
+    "尺寸(mm)": "405.0* 391.0* 139.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0142"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAT SUPPORT",
+    "spec": "23D7281",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "23D7281",
+    "Part Name": "SEAT SUPPORT",
+    "Specification": "23D7281",
+    "Weight": "13.3",
+    "Size": "405.0* 391.0* 139.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0142"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

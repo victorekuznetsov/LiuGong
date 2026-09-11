@@ -1,0 +1,68 @@
+{
+ "partNO": "SP268158",
+ "parentPartNO": "25C2713",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP268158",
+    "partName": "螺栓",
+    "spec": "",
+    "weightKg": "1.05",
+    "sizeMm": "144.0*54.0*49.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP268158",
+    "配件名称": "螺栓",
+    "规格": "",
+    "重量(KG)": "1.05",
+    "尺寸(mm)": "144.0* 54.0* 49.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "25C2713"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP268158",
+    "Part Name": "BOLT",
+    "Specification": "",
+    "Weight": "1.05",
+    "Size": "144.0* 54.0* 49.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "25C2713"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "47C1890",
+ "parentPartNO": "47C6860",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C1890",
+    "partName": "扣紧件",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "18.0*15.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由86A1863更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "47C1890",
+    "配件名称": "扣紧件",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "18.0* 15.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由86A1863更改而来"
+   },
+   "photos": [
+    "/part/zp/3538353b363735353563356435343833353435343536",
+    "/part/zp/3538353b363735353563356435343833353435343536"
+   ],
+   "parentPartNO": "47C6860"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FASTENER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C1890",
+    "Part Name": "FASTENER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "18.0* 15.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 86A1863"
+   },
+   "photos": [
+    "/part/zp/3538353b363735353563356435343833353435343536",
+    "/part/zp/3538353b363735353563356435343833353435343536"
+   ],
+   "parentPartNO": "47C6860"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

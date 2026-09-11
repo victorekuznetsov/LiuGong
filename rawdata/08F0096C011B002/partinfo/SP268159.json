@@ -1,0 +1,68 @@
+{
+ "partNO": "SP268159",
+ "parentPartNO": "SP268156",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP268159",
+    "partName": "主销",
+    "spec": "",
+    "weightKg": "7.9",
+    "sizeMm": "321.0*158.0*58.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用66A4528;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP268159",
+    "配件名称": "主销",
+    "规格": "",
+    "重量(KG)": "7.9",
+    "尺寸(mm)": "321.0* 158.0* 58.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用66A4528;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP268156"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MASTER PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP268159",
+    "Part Name": "MASTER PIN",
+    "Specification": "",
+    "Weight": "7.9",
+    "Size": "321.0* 158.0* 58.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 66A4528 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "SP268156"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

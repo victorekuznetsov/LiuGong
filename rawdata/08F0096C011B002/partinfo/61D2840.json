@@ -1,0 +1,68 @@
+{
+ "partNO": "61D2840",
+ "parentPartNO": "13Y0680",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "61D2840",
+    "partName": "支架",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "85.0*120.0*201.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "61D2840",
+    "配件名称": "支架",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "85.0* 120.0* 201.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0680"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRACKET",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "61D2840",
+    "Part Name": "BRACKET",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "85.0* 120.0* 201.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0680"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "11C1628",
+ "parentPartNO": "58C8917",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11C1628",
+    "partName": "风扇液压马达",
+    "spec": "VG39.27",
+    "weightKg": "17.48",
+    "sizeMm": "230.0*140.0*180.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11C1628",
+    "配件名称": "风扇液压马达",
+    "规格": "VG39.27",
+    "重量(KG)": "17.48",
+    "尺寸(mm)": "230.0* 140.0* 180.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3535353536373535353a353635633833353435343536",
+    "/part/zp/3535353536373535353a353635633833353435343536",
+    "/part/zp/3535353536373535353a353635633833353435343537",
+    "/part/zp/3535353536373535353a353635633833353435343537"
+   ],
+   "parentPartNO": "58C8917"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MOTOR",
+    "spec": "VG39.27",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "11C1628",
+    "Part Name": "MOTOR",
+    "Specification": "VG39.27",
+    "Weight": "17.48",
+    "Size": "230.0* 140.0* 180.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3535353536373535353a353635633833353435343536",
+    "/part/zp/3535353536373535353a353635633833353435343536",
+    "/part/zp/3535353536373535353a353635633833353435343537",
+    "/part/zp/3535353536373535353a353635633833353435343537"
+   ],
+   "parentPartNO": "58C8917"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

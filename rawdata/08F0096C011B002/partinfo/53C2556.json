@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2556",
+ "parentPartNO": "21C3444",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2556",
+    "partName": "吸油滤芯",
+    "spec": "9125F",
+    "weightKg": "3.0",
+    "sizeMm": "180.0*180.0*1160.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用下级件;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "53C2556",
+    "配件名称": "吸油滤芯",
+    "规格": "9125F",
+    "重量(KG)": "3.0",
+    "尺寸(mm)": "180.0* 180.0* 1160.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用下级件;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "21C3444"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUCTION ELEMENT",
+    "spec": "9125F",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2556",
+    "Part Name": "SUCTION ELEMENT",
+    "Specification": "9125F",
+    "Weight": "3.0",
+    "Size": "180.0* 180.0* 1160.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SUB-PART/LOWER PART . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "21C3444"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

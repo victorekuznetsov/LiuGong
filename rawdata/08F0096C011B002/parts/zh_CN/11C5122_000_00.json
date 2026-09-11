@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP226676",
+  "partName": "风扇泵密封包",
+  "qty": "9",
+  "storeTypeName": "1Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "11C5122",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

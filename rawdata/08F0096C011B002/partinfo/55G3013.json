@@ -1,0 +1,68 @@
+{
+ "partNO": "55G3013",
+ "parentPartNO": "26C0809",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55G3013",
+    "partName": "钢套",
+    "spec": "",
+    "weightKg": "0.062",
+    "sizeMm": "20.0*20.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "55G3013",
+    "配件名称": "钢套",
+    "规格": "",
+    "重量(KG)": "0.062",
+    "尺寸(mm)": "20.0* 20.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "26C0809"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STEEL SLEEVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55G3013",
+    "Part Name": "STEEL SLEEVE",
+    "Specification": "",
+    "Weight": "0.062",
+    "Size": "20.0* 20.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "26C0809"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

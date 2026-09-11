@@ -1,0 +1,74 @@
+{
+ "partNO": "00A4169",
+ "parentPartNO": "58C8917",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A4169",
+    "partName": "法兰接头",
+    "spec": "",
+    "weightKg": "0.27",
+    "sizeMm": "58.0*45.0*45.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "00A4169",
+    "配件名称": "法兰接头",
+    "规格": "",
+    "重量(KG)": "0.27",
+    "尺寸(mm)": "58.0* 45.0* 45.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343534363535383535353a35643833353435343536",
+    "/part/zp/35343534363535383535353a35643833353435343536"
+   ],
+   "parentPartNO": "58C8917"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLANGED JOINT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A4169",
+    "Part Name": "FLANGED JOINT",
+    "Specification": "",
+    "Weight": "0.27",
+    "Size": "58.0* 45.0* 45.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343534363535383535353a35643833353435343536",
+    "/part/zp/35343534363535383535353a35643833353435343536"
+   ],
+   "parentPartNO": "58C8917"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

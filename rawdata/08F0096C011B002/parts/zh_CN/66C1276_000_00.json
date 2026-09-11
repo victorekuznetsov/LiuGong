@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "30C0881",
+  "partName": "软管接头",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "停止供货;改用30C3004;可互换（双向互换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "66C1276",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

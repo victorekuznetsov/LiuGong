@@ -1,0 +1,7632 @@
+{
+ "60C6073_003_00": {
+  "legendCode": "60C6073_003_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_00",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 3
+ },
+ "60C6073_002_00": {
+  "legendCode": "60C6073_002_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_00",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2023-07-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C6073_001_00": {
+  "legendCode": "60C6073_001_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_00",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2022-08-25",
+  "checked": true,
+  "level": 3
+ },
+ "60C6073_000_00": {
+  "legendCode": "60C6073_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_00",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2022-08-25",
+  "checked": true,
+  "level": 3
+ },
+ "21C2308_000_00": {
+  "legendCode": "21C2308_000_00",
+  "systemCode": "Y05",
+  "nodeId": "21C2308_00",
+  "partNo": "21C2308",
+  "name": "柴油箱",
+  "note": "ST:2022-12-26",
+  "checked": true,
+  "level": 4
+ },
+ "21C0739_000_00": {
+  "legendCode": "21C0739_000_00",
+  "systemCode": "Y05",
+  "nodeId": "21C0739_00",
+  "partNo": "21C0739",
+  "name": "油箱盖总成",
+  "note": "ST:20160219",
+  "checked": false,
+  "level": 5
+ },
+ "21C0733_000_00": {
+  "legendCode": "21C0733_000_00",
+  "systemCode": "Y05",
+  "nodeId": "21C0733_00",
+  "partNo": "21C0733",
+  "name": "油箱盖",
+  "note": "ST:2023-03-21",
+  "checked": false,
+  "level": 6
+ },
+ "30C0273_000_00": {
+  "legendCode": "30C0273_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C0273_00",
+  "partNo": "30C0273",
+  "name": "接头",
+  "note": "20141112",
+  "checked": true,
+  "level": 4
+ },
+ "30C2861_000_00": {
+  "legendCode": "30C2861_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C2861_00",
+  "partNo": "30C2861",
+  "name": "接头",
+  "note": "ST:20160331",
+  "checked": true,
+  "level": 4
+ },
+ "30C3150_000_00": {
+  "legendCode": "30C3150_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C3150_00",
+  "partNo": "30C3150",
+  "name": "接头",
+  "note": "ST:2025-12-03",
+  "checked": true,
+  "level": 4
+ },
+ "31C0095_000_00": {
+  "legendCode": "31C0095_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C0095_00",
+  "partNo": "31C0095",
+  "name": "过渡接头",
+  "note": "ST:2019-09-05",
+  "checked": true,
+  "level": 4
+ },
+ "31C0501_000_00": {
+  "legendCode": "31C0501_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C0501_00",
+  "partNo": "31C0501",
+  "name": "直角接头",
+  "note": "ST:20160331",
+  "checked": true,
+  "level": 4
+ },
+ "53C1956_000_00": {
+  "legendCode": "53C1956_000_00",
+  "systemCode": "Y05",
+  "nodeId": "53C1956_00",
+  "partNo": "53C1956",
+  "name": "油水分离器",
+  "note": "ST:2023-01-28",
+  "checked": true,
+  "level": 4
+ },
+ "60C6073_002_01": {
+  "legendCode": "60C6073_002_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_01",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2024-02-04",
+  "checked": true,
+  "level": 3
+ },
+ "30C0894_000_00": {
+  "legendCode": "30C0894_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C0894_00",
+  "partNo": "30C0894",
+  "name": "堵头",
+  "note": "ST:2018-07-23",
+  "checked": false,
+  "level": 4
+ },
+ "60C6073_002_02": {
+  "legendCode": "60C6073_002_02",
+  "systemCode": "Y05",
+  "nodeId": "60C6073_02",
+  "partNo": "60C6073",
+  "name": "燃油系统",
+  "note": "ST:2023-07-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C6075_000_00": {
+  "legendCode": "60C6075_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6075_00",
+  "partNo": "60C6075",
+  "name": "进气系统",
+  "note": "ST:2022-12-22",
+  "checked": true,
+  "level": 3
+ },
+ "40C6018_000_00": {
+  "legendCode": "40C6018_000_00",
+  "systemCode": "Y05",
+  "nodeId": "40C6018_00",
+  "partNo": "40C6018",
+  "name": "空气预滤器",
+  "note": "ST:2018-05-14",
+  "checked": false,
+  "level": 4
+ },
+ "60C6075_000_01": {
+  "legendCode": "60C6075_000_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6075_01",
+  "partNo": "60C6075",
+  "name": "进气系统",
+  "note": "ST:2022-12-22",
+  "checked": true,
+  "level": 3
+ },
+ "40C0825_000_00": {
+  "legendCode": "40C0825_000_00",
+  "systemCode": "Y05",
+  "nodeId": "40C0825_00",
+  "partNo": "40C0825",
+  "name": "空滤总成",
+  "note": "ST:20150721",
+  "checked": true,
+  "level": 4
+ },
+ "60C6076_001_00": {
+  "legendCode": "60C6076_001_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_00",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2023-07-06",
+  "checked": true,
+  "level": 3
+ },
+ "60C6076_000_00": {
+  "legendCode": "60C6076_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_00",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2022-08-25",
+  "checked": true,
+  "level": 3
+ },
+ "20C4642_000_00": {
+  "legendCode": "20C4642_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C4642_00",
+  "partNo": "20C4642",
+  "name": "散热器组件",
+  "note": null,
+  "checked": false,
+  "level": 5
+ },
+ "20C4642_000_01": {
+  "legendCode": "20C4642_000_01",
+  "systemCode": "Y05",
+  "nodeId": "20C4642_01",
+  "partNo": "20C4642",
+  "name": "散热器组件",
+  "note": null,
+  "checked": false,
+  "level": 5
+ },
+ "20C4695_000_00": {
+  "legendCode": "20C4695_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C4695_00",
+  "partNo": "20C4695",
+  "name": "导风罩总成",
+  "note": "ST:2023-01-12",
+  "checked": false,
+  "level": 6
+ },
+ "20C4643_000_00": {
+  "legendCode": "20C4643_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C4643_00",
+  "partNo": "20C4643",
+  "name": "散热器组件",
+  "note": "ST:2022-08-23",
+  "checked": false,
+  "level": 4
+ },
+ "20C4696_000_00": {
+  "legendCode": "20C4696_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C4696_00",
+  "partNo": "20C4696",
+  "name": "导风罩总成",
+  "note": "ST:2023-01-12",
+  "checked": false,
+  "level": 5
+ },
+ "20C4770_000_00": {
+  "legendCode": "20C4770_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C4770_00",
+  "partNo": "20C4770",
+  "name": "散热器组件",
+  "note": null,
+  "checked": false,
+  "level": 5
+ },
+ "20C4770_000_01": {
+  "legendCode": "20C4770_000_01",
+  "systemCode": "Y05",
+  "nodeId": "20C4770_01",
+  "partNo": "20C4770",
+  "name": "散热器组件",
+  "note": null,
+  "checked": false,
+  "level": 5
+ },
+ "20C5192_000_00": {
+  "legendCode": "20C5192_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C5192_00",
+  "partNo": "20C5192",
+  "name": "散热器组件",
+  "note": "ST:2023-07-10",
+  "checked": false,
+  "level": 4
+ },
+ "20C5242_000_00": {
+  "legendCode": "20C5242_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C5242_00",
+  "partNo": "20C5242",
+  "name": "导风罩总成",
+  "note": "ST:2023-08-08",
+  "checked": false,
+  "level": 5
+ },
+ "60C6076_003_01": {
+  "legendCode": "60C6076_003_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_01",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2025-12-15",
+  "checked": true,
+  "level": 3
+ },
+ "60C6076_002_01": {
+  "legendCode": "60C6076_002_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_01",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2024-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C6076_001_01": {
+  "legendCode": "60C6076_001_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_01",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2023-07-06",
+  "checked": true,
+  "level": 3
+ },
+ "60C6076_000_01": {
+  "legendCode": "60C6076_000_01",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_01",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2022-08-25",
+  "checked": true,
+  "level": 3
+ },
+ "60C6076_001_02": {
+  "legendCode": "60C6076_001_02",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_02",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2023-07-06",
+  "checked": true,
+  "level": 3
+ },
+ "20C5193_000_00": {
+  "legendCode": "20C5193_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C5193_00",
+  "partNo": "20C5193",
+  "name": "散热器组件",
+  "note": "ST:2023-07-10",
+  "checked": false,
+  "level": 4
+ },
+ "20C5197_000_00": {
+  "legendCode": "20C5197_000_00",
+  "systemCode": "Y05",
+  "nodeId": "20C5197_00",
+  "partNo": "20C5197",
+  "name": "导风罩总成",
+  "note": "ST:2023-08-08",
+  "checked": false,
+  "level": 5
+ },
+ "60C6076_002_03": {
+  "legendCode": "60C6076_002_03",
+  "systemCode": "Y05",
+  "nodeId": "60C6076_03",
+  "partNo": "60C6076",
+  "name": "冷却系统",
+  "note": "ST:2025-10-31",
+  "checked": true,
+  "level": 3
+ },
+ "60C6553_000_00": {
+  "legendCode": "60C6553_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6553_00",
+  "partNo": "60C6553",
+  "name": "排气系统",
+  "note": "ST:2022-12-22",
+  "checked": true,
+  "level": 2
+ },
+ "60C6579_000_00": {
+  "legendCode": "60C6579_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C6579_00",
+  "partNo": "60C6579",
+  "name": "加热器系统",
+  "note": "ST:2022-10-09",
+  "checked": true,
+  "level": 2
+ },
+ "71C2011_000_00": {
+  "legendCode": "71C2011_000_00",
+  "systemCode": "Y05",
+  "nodeId": "71C2011_00",
+  "partNo": "71C2011",
+  "name": "线束",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 3
+ },
+ "60C8055_000_00": {
+  "legendCode": "60C8055_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C8055_00",
+  "partNo": "60C8055",
+  "name": "柴油机",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 2
+ },
+ "SP284168_000_00": {
+  "legendCode": "SP284168_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284168_00",
+  "partNo": "SP284168",
+  "name": "附件驱动皮带轮",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284169_000_00": {
+  "legendCode": "SP284169_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284169_00",
+  "partNo": "SP284169",
+  "name": "缸体",
+  "note": "ST:2023-11-29",
+  "checked": false,
+  "level": 4
+ },
+ "SP284169_000_01": {
+  "legendCode": "SP284169_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284169_01",
+  "partNo": "SP284169",
+  "name": "缸体",
+  "note": "ST:2023-11-29",
+  "checked": false,
+  "level": 4
+ },
+ "SP284169_000_02": {
+  "legendCode": "SP284169_000_02",
+  "systemCode": "Y05",
+  "nodeId": "SP284169_02",
+  "partNo": "SP284169",
+  "name": "缸体",
+  "note": "ST:2023-11-29",
+  "checked": false,
+  "level": 4
+ },
+ "SP284169_000_03": {
+  "legendCode": "SP284169_000_03",
+  "systemCode": "Y05",
+  "nodeId": "SP284169_03",
+  "partNo": "SP284169",
+  "name": "缸体",
+  "note": "ST:2025-04-09",
+  "checked": false,
+  "level": 4
+ },
+ "SP284170_000_00": {
+  "legendCode": "SP284170_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284170_00",
+  "partNo": "SP284170",
+  "name": "缸体管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284171_000_00": {
+  "legendCode": "SP284171_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284171_00",
+  "partNo": "SP284171",
+  "name": "曲轴箱呼吸器布置图",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284172_000_00": {
+  "legendCode": "SP284172_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284172_00",
+  "partNo": "SP284172",
+  "name": "盘车驱动",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284173_000_00": {
+  "legendCode": "SP284173_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284173_00",
+  "partNo": "SP284173",
+  "name": "凸轮随动件盖",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284174_000_00": {
+  "legendCode": "SP284174_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284174_00",
+  "partNo": "SP284174",
+  "name": "减振器",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284175_000_00": {
+  "legendCode": "SP284175_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284175_00",
+  "partNo": "SP284175",
+  "name": "燃油泵驱动",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284176_000_00": {
+  "legendCode": "SP284176_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284176_00",
+  "partNo": "SP284176",
+  "name": "充电机",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284177_000_00": {
+  "legendCode": "SP284177_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284177_00",
+  "partNo": "SP284177",
+  "name": "充电机安装件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284178_000_00": {
+  "legendCode": "SP284178_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284178_00",
+  "partNo": "SP284178",
+  "name": "充电机驱动",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284179_000_00": {
+  "legendCode": "SP284179_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284179_00",
+  "partNo": "SP284179",
+  "name": "发动机前支架",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284180_000_00": {
+  "legendCode": "SP284180_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284180_00",
+  "partNo": "SP284180",
+  "name": "信号发生装置",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284181_000_00": {
+  "legendCode": "SP284181_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284181_00",
+  "partNo": "SP284181",
+  "name": "燃油回油管路",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284182_000_00": {
+  "legendCode": "SP284182_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284182_00",
+  "partNo": "SP284182",
+  "name": "燃油滤清器",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284183_000_00": {
+  "legendCode": "SP284183_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284183_00",
+  "partNo": "SP284183",
+  "name": "燃油滤清器管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284184_000_00": {
+  "legendCode": "SP284184_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284184_00",
+  "partNo": "SP284184",
+  "name": "飞轮壳",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284185_000_00": {
+  "legendCode": "SP284185_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284185_00",
+  "partNo": "SP284185",
+  "name": "飞轮壳管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284186_000_00": {
+  "legendCode": "SP284186_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284186_00",
+  "partNo": "SP284186",
+  "name": "燃油泵驱动",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284187_000_00": {
+  "legendCode": "SP284187_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284187_00",
+  "partNo": "SP284187",
+  "name": "燃油泵安装件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284188_000_00": {
+  "legendCode": "SP284188_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284188_00",
+  "partNo": "SP284188",
+  "name": "燃油管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284189_000_00": {
+  "legendCode": "SP284189_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284189_00",
+  "partNo": "SP284189",
+  "name": "飞轮",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284190_000_00": {
+  "legendCode": "SP284190_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284190_00",
+  "partNo": "SP284190",
+  "name": "前齿轮室盖",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284191_000_00": {
+  "legendCode": "SP284191_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284191_00",
+  "partNo": "SP284191",
+  "name": "辅助冷却管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284192_000_00": {
+  "legendCode": "SP284192_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284192_00",
+  "partNo": "SP284192",
+  "name": "空气输送接头",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284193_000_00": {
+  "legendCode": "SP284193_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284193_00",
+  "partNo": "SP284193",
+  "name": "发动机机油冷却器",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284194_000_00": {
+  "legendCode": "SP284194_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284194_00",
+  "partNo": "SP284194",
+  "name": "机油滤清器",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284195_000_00": {
+  "legendCode": "SP284195_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284195_00",
+  "partNo": "SP284195",
+  "name": "机油标尺",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284196_000_00": {
+  "legendCode": "SP284196_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284196_00",
+  "partNo": "SP284196",
+  "name": "机油泵",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284197_000_00": {
+  "legendCode": "SP284197_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284197_00",
+  "partNo": "SP284197",
+  "name": "机油加注口布置图",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284198_000_00": {
+  "legendCode": "SP284198_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284198_00",
+  "partNo": "SP284198",
+  "name": "油底壳",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284199_000_00": {
+  "legendCode": "SP284199_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284199_00",
+  "partNo": "SP284199",
+  "name": "发动机控制模块",
+  "note": "ST:2023-11-29",
+  "checked": false,
+  "level": 4
+ },
+ "SP284199_000_01": {
+  "legendCode": "SP284199_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284199_01",
+  "partNo": "SP284199",
+  "name": "发动机控制模块",
+  "note": "ST:2023-11-29",
+  "checked": false,
+  "level": 4
+ },
+ "SP284200_000_00": {
+  "legendCode": "SP284200_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284200_00",
+  "partNo": "SP284200",
+  "name": "发动机控制模块安装件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284200_000_01": {
+  "legendCode": "SP284200_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284200_01",
+  "partNo": "SP284200",
+  "name": "发动机控制模块安装件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284201_000_00": {
+  "legendCode": "SP284201_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284201_00",
+  "partNo": "SP284201",
+  "name": "性能零件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284201_000_01": {
+  "legendCode": "SP284201_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284201_01",
+  "partNo": "SP284201",
+  "name": "性能零件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284202_000_00": {
+  "legendCode": "SP284202_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284202_00",
+  "partNo": "SP284202",
+  "name": "涡轮增压器",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284203_000_00": {
+  "legendCode": "SP284203_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284203_00",
+  "partNo": "SP284203",
+  "name": "远程机油回油管",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284204_000_00": {
+  "legendCode": "SP284204_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284204_00",
+  "partNo": "SP284204",
+  "name": "摇臂",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284205_000_00": {
+  "legendCode": "SP284205_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284205_00",
+  "partNo": "SP284205",
+  "name": "冷却液液位开关",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284206_000_00": {
+  "legendCode": "SP284206_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284206_00",
+  "partNo": "SP284206",
+  "name": "起动马达安装件",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284207_000_00": {
+  "legendCode": "SP284207_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284207_00",
+  "partNo": "SP284207",
+  "name": "起动马达",
+  "note": "ST:2023-11-15",
+  "checked": false,
+  "level": 3
+ },
+ "SP284208_000_00": {
+  "legendCode": "SP284208_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284208_00",
+  "partNo": "SP284208",
+  "name": "涡轮增压器布置图",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284209_000_00": {
+  "legendCode": "SP284209_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284209_00",
+  "partNo": "SP284209",
+  "name": "进气歧管",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284209_000_01": {
+  "legendCode": "SP284209_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284209_01",
+  "partNo": "SP284209",
+  "name": "进气歧管",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284210_000_00": {
+  "legendCode": "SP284210_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284210_00",
+  "partNo": "SP284210",
+  "name": "节温器壳体",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284211_000_00": {
+  "legendCode": "SP284211_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284211_00",
+  "partNo": "SP284211",
+  "name": "涡轮增压器管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284211_000_01": {
+  "legendCode": "SP284211_000_01",
+  "systemCode": "Y05",
+  "nodeId": "SP284211_01",
+  "partNo": "SP284211",
+  "name": "涡轮增压器管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284211_000_02": {
+  "legendCode": "SP284211_000_02",
+  "systemCode": "Y05",
+  "nodeId": "SP284211_02",
+  "partNo": "SP284211",
+  "name": "涡轮增压器管路",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 4
+ },
+ "SP284212_000_00": {
+  "legendCode": "SP284212_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284212_00",
+  "partNo": "SP284212",
+  "name": "气门室盖",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284213_000_00": {
+  "legendCode": "SP284213_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284213_00",
+  "partNo": "SP284213",
+  "name": "防腐器",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284214_000_00": {
+  "legendCode": "SP284214_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284214_00",
+  "partNo": "SP284214",
+  "name": "防腐器安装件",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284215_000_00": {
+  "legendCode": "SP284215_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284215_00",
+  "partNo": "SP284215",
+  "name": "进水接头",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284216_000_00": {
+  "legendCode": "SP284216_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284216_00",
+  "partNo": "SP284216",
+  "name": "出水口接头",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284217_000_00": {
+  "legendCode": "SP284217_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284217_00",
+  "partNo": "SP284217",
+  "name": "水泵",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "SP284218_000_00": {
+  "legendCode": "SP284218_000_00",
+  "systemCode": "Y05",
+  "nodeId": "SP284218_00",
+  "partNo": "SP284218",
+  "name": "电子控制模块导线线束",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "60C9212_001_00": {
+  "legendCode": "60C9212_001_00",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_00",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_000_00": {
+  "legendCode": "60C9212_000_00",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_00",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 3
+ },
+ "12C7719_000_00": {
+  "legendCode": "12C7719_000_00",
+  "systemCode": "Y05",
+  "nodeId": "12C7719_00",
+  "partNo": "12C7719",
+  "name": "电磁阀",
+  "note": "ST:2020-08-18",
+  "checked": false,
+  "level": 4
+ },
+ "30C0109_000_00": {
+  "legendCode": "30C0109_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C0109_00",
+  "partNo": "30C0109",
+  "name": "接头",
+  "note": "ST:20160426",
+  "checked": true,
+  "level": 4
+ },
+ "30C0271_000_00": {
+  "legendCode": "30C0271_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C0271_00",
+  "partNo": "30C0271",
+  "name": "接头",
+  "note": "ST:2019-09-02",
+  "checked": true,
+  "level": 4
+ },
+ "31C0114_000_00": {
+  "legendCode": "31C0114_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C0114_00",
+  "partNo": "31C0114",
+  "name": "弯接头",
+  "note": "ST:20161228",
+  "checked": true,
+  "level": 4
+ },
+ "31C0158_000_00": {
+  "legendCode": "31C0158_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C0158_00",
+  "partNo": "31C0158",
+  "name": "可调接头",
+  "note": "ST:2024-02-04",
+  "checked": true,
+  "level": 4
+ },
+ "31C0874_000_00": {
+  "legendCode": "31C0874_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C0874_00",
+  "partNo": "31C0874",
+  "name": "弯接头",
+  "note": "ST:2018-03-15",
+  "checked": false,
+  "level": 4
+ },
+ "32C0121_000_00": {
+  "legendCode": "32C0121_000_00",
+  "systemCode": "Y05",
+  "nodeId": "32C0121_00",
+  "partNo": "32C0121",
+  "name": "三通接头",
+  "note": "ST:20161228",
+  "checked": true,
+  "level": 4
+ },
+ "32C0672_000_00": {
+  "legendCode": "32C0672_000_00",
+  "systemCode": "Y05",
+  "nodeId": "32C0672_00",
+  "partNo": "32C0672",
+  "name": "三通接头",
+  "note": "20141107",
+  "checked": true,
+  "level": 4
+ },
+ "42C2928_001_00": {
+  "legendCode": "42C2928_001_00",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_00",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 5
+ },
+ "42C2928_000_00": {
+  "legendCode": "42C2928_000_00",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_00",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 5
+ },
+ "42C2928_001_01": {
+  "legendCode": "42C2928_001_01",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_01",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 5
+ },
+ "42C2928_000_01": {
+  "legendCode": "42C2928_000_01",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_01",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 5
+ },
+ "42C2928_001_02": {
+  "legendCode": "42C2928_001_02",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_02",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 5
+ },
+ "42C2928_000_02": {
+  "legendCode": "42C2928_000_02",
+  "systemCode": "Y05",
+  "nodeId": "42C2928_02",
+  "partNo": "42C2928",
+  "name": "分动箱",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 5
+ },
+ "68C2234_000_00": {
+  "legendCode": "68C2234_000_00",
+  "systemCode": "Y05",
+  "nodeId": "68C2234_00",
+  "partNo": "68C2234",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 4
+ },
+ "68C2235_000_00": {
+  "legendCode": "68C2235_000_00",
+  "systemCode": "Y05",
+  "nodeId": "68C2235_00",
+  "partNo": "68C2235",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 4
+ },
+ "79C2516_000_00": {
+  "legendCode": "79C2516_000_00",
+  "systemCode": "Y05",
+  "nodeId": "79C2516_00",
+  "partNo": "79C2516",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": false,
+  "level": 4
+ },
+ "60C9212_001_01": {
+  "legendCode": "60C9212_001_01",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_01",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_000_01": {
+  "legendCode": "60C9212_000_01",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_01",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 3
+ },
+ "18C8535_000_00": {
+  "legendCode": "18C8535_000_00",
+  "systemCode": "Y05",
+  "nodeId": "18C8535_00",
+  "partNo": "18C8535",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": false,
+  "level": 4
+ },
+ "30C0270_000_00": {
+  "legendCode": "30C0270_000_00",
+  "systemCode": "Y05",
+  "nodeId": "30C0270_00",
+  "partNo": "30C0270",
+  "name": "接头",
+  "note": "20151223",
+  "checked": true,
+  "level": 4
+ },
+ "31C2104_000_00": {
+  "legendCode": "31C2104_000_00",
+  "systemCode": "Y05",
+  "nodeId": "31C2104_00",
+  "partNo": "31C2104",
+  "name": "直角接头",
+  "note": "ST:2023-06-26",
+  "checked": true,
+  "level": 4
+ },
+ "68C4221_000_00": {
+  "legendCode": "68C4221_000_00",
+  "systemCode": "Y05",
+  "nodeId": "68C4221_00",
+  "partNo": "68C4221",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 4
+ },
+ "60C9212_001_02": {
+  "legendCode": "60C9212_001_02",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_02",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_000_02": {
+  "legendCode": "60C9212_000_02",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_02",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_001_03": {
+  "legendCode": "60C9212_001_03",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_03",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_000_03": {
+  "legendCode": "60C9212_000_03",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_03",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_001_04": {
+  "legendCode": "60C9212_001_04",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_04",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_001_05": {
+  "legendCode": "60C9212_001_05",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_05",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "60C9212_001_06": {
+  "legendCode": "60C9212_001_06",
+  "systemCode": "Y05",
+  "nodeId": "60C9212_06",
+  "partNo": "60C9212",
+  "name": "发动机安装系统",
+  "note": "ST:2025-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "65C0356_000_00": {
+  "legendCode": "65C0356_000_00",
+  "systemCode": "Y05",
+  "nodeId": "65C0356_00",
+  "partNo": "65C0356",
+  "name": "进气系统",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 2
+ },
+ "65C0482_000_00": {
+  "legendCode": "65C0482_000_00",
+  "systemCode": "Y05",
+  "nodeId": "65C0482_00",
+  "partNo": "65C0482",
+  "name": "加热器系统",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 2
+ },
+ "11Y4891_001_00": {
+  "legendCode": "11Y4891_001_00",
+  "systemCode": "Y01",
+  "nodeId": "11Y4891_00",
+  "partNo": "11Y4891",
+  "name": "工作液压系统",
+  "note": "ST:2024-03-13",
+  "checked": false,
+  "level": 3
+ },
+ "11Y4891_000_00": {
+  "legendCode": "11Y4891_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11Y4891_00",
+  "partNo": "11Y4891",
+  "name": "工作液压系统",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "10C8467_000_00": {
+  "legendCode": "10C8467_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C8467_00",
+  "partNo": "10C8467",
+  "name": "斗杆油缸",
+  "note": "ST:2024-06-13",
+  "checked": true,
+  "level": 4
+ },
+ "10C8468_000_00": {
+  "legendCode": "10C8468_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C8468_00",
+  "partNo": "10C8468",
+  "name": "铲斗油缸",
+  "note": "ST:2024-06-13",
+  "checked": true,
+  "level": 4
+ },
+ "10C9410_001_00": {
+  "legendCode": "10C9410_001_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9410_00",
+  "partNo": "10C9410",
+  "name": "铲斗油缸",
+  "note": "ST:2026-07-10",
+  "checked": false,
+  "level": 4
+ },
+ "10C9410_000_00": {
+  "legendCode": "10C9410_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9410_00",
+  "partNo": "10C9410",
+  "name": "铲斗油缸",
+  "note": "ST:2025-08-15",
+  "checked": false,
+  "level": 4
+ },
+ "10C9411_001_00": {
+  "legendCode": "10C9411_001_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9411_00",
+  "partNo": "10C9411",
+  "name": "斗杆油缸",
+  "note": "ST:2026-07-10",
+  "checked": false,
+  "level": 4
+ },
+ "10C9411_000_00": {
+  "legendCode": "10C9411_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9411_00",
+  "partNo": "10C9411",
+  "name": "斗杆油缸",
+  "note": "ST:2025-08-15",
+  "checked": false,
+  "level": 4
+ },
+ "18C5128_000_00": {
+  "legendCode": "18C5128_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5128_00",
+  "partNo": "18C5128",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C5129_000_00": {
+  "legendCode": "18C5129_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5129_00",
+  "partNo": "18C5129",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": true,
+  "level": 4
+ },
+ "18C5130_000_00": {
+  "legendCode": "18C5130_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5130_00",
+  "partNo": "18C5130",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5131_000_00": {
+  "legendCode": "18C5131_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5131_00",
+  "partNo": "18C5131",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C8098_000_00": {
+  "legendCode": "18C8098_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8098_00",
+  "partNo": "18C8098",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9201_000_00": {
+  "legendCode": "18C9201_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9201_00",
+  "partNo": "18C9201",
+  "name": "软管总成",
+  "note": "ST:2025-01-02",
+  "checked": false,
+  "level": 4
+ },
+ "18C9202_000_00": {
+  "legendCode": "18C9202_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9202_00",
+  "partNo": "18C9202",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9207_000_00": {
+  "legendCode": "18C9207_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9207_00",
+  "partNo": "18C9207",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "11Y4891_001_01": {
+  "legendCode": "11Y4891_001_01",
+  "systemCode": "Y01",
+  "nodeId": "11Y4891_01",
+  "partNo": "11Y4891",
+  "name": "工作液压系统",
+  "note": "ST:2025-02-28",
+  "checked": false,
+  "level": 3
+ },
+ "11Y4891_000_01": {
+  "legendCode": "11Y4891_000_01",
+  "systemCode": "Y01",
+  "nodeId": "11Y4891_01",
+  "partNo": "11Y4891",
+  "name": "工作液压系统",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "10C8286_000_00": {
+  "legendCode": "10C8286_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C8286_00",
+  "partNo": "10C8286",
+  "name": "动臂油缸",
+  "note": "ST:2025-05-30",
+  "checked": true,
+  "level": 4
+ },
+ "10C9409_001_00": {
+  "legendCode": "10C9409_001_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9409_00",
+  "partNo": "10C9409",
+  "name": "动臂油缸",
+  "note": "ST:2026-07-09",
+  "checked": false,
+  "level": 4
+ },
+ "10C9409_000_00": {
+  "legendCode": "10C9409_000_00",
+  "systemCode": "Y01",
+  "nodeId": "10C9409_00",
+  "partNo": "10C9409",
+  "name": "动臂油缸",
+  "note": "ST:2025-08-15",
+  "checked": false,
+  "level": 4
+ },
+ "18C0400_000_00": {
+  "legendCode": "18C0400_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C0400_00",
+  "partNo": "18C0400",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C4533_000_00": {
+  "legendCode": "18C4533_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C4533_00",
+  "partNo": "18C4533",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5134_000_00": {
+  "legendCode": "18C5134_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5134_00",
+  "partNo": "18C5134",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5135_000_00": {
+  "legendCode": "18C5135_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5135_00",
+  "partNo": "18C5135",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C7433_000_00": {
+  "legendCode": "18C7433_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7433_00",
+  "partNo": "18C7433",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9203_000_00": {
+  "legendCode": "18C9203_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9203_00",
+  "partNo": "18C9203",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9204_000_00": {
+  "legendCode": "18C9204_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9204_00",
+  "partNo": "18C9204",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9206_000_00": {
+  "legendCode": "18C9206_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9206_00",
+  "partNo": "18C9206",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9515_000_00": {
+  "legendCode": "18C9515_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9515_00",
+  "partNo": "18C9515",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "11Y4891_000_02": {
+  "legendCode": "11Y4891_000_02",
+  "systemCode": "Y01",
+  "nodeId": "11Y4891_02",
+  "partNo": "11Y4891",
+  "name": "工作液压系统",
+  "note": "ST:2023-11-18",
+  "checked": false,
+  "level": 3
+ },
+ "12Y1441_002_00": {
+  "legendCode": "12Y1441_002_00",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_00",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2026-02-27",
+  "checked": true,
+  "level": 3
+ },
+ "12Y1441_001_00": {
+  "legendCode": "12Y1441_001_00",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_00",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "12Y1441_000_00": {
+  "legendCode": "12Y1441_000_00",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_00",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2023-11-18",
+  "checked": true,
+  "level": 3
+ },
+ "06C6259_000_00": {
+  "legendCode": "06C6259_000_00",
+  "systemCode": "Y01",
+  "nodeId": "06C6259_00",
+  "partNo": "06C6259",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C0881_001_00": {
+  "legendCode": "30C0881_001_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0881_00",
+  "partNo": "30C0881",
+  "name": "软管接头",
+  "note": "ST:2026-05-30",
+  "checked": false,
+  "level": 5
+ },
+ "30C0881_000_00": {
+  "legendCode": "30C0881_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0881_00",
+  "partNo": "30C0881",
+  "name": "软管接头",
+  "note": "ST:2024-12-17",
+  "checked": false,
+  "level": 5
+ },
+ "06C6417_000_00": {
+  "legendCode": "06C6417_000_00",
+  "systemCode": "Y01",
+  "nodeId": "06C6417_00",
+  "partNo": "06C6417",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "31C2402_000_00": {
+  "legendCode": "31C2402_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C2402_00",
+  "partNo": "31C2402",
+  "name": "软管接头",
+  "note": "20170512",
+  "checked": false,
+  "level": 5
+ },
+ "07C7427_000_00": {
+  "legendCode": "07C7427_000_00",
+  "systemCode": "Y01",
+  "nodeId": "07C7427_00",
+  "partNo": "07C7427",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "30C1034_000_00": {
+  "legendCode": "30C1034_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1034_00",
+  "partNo": "30C1034",
+  "name": "软管接头",
+  "note": "ST:2024-09-11",
+  "checked": false,
+  "level": 5
+ },
+ "12C7350_000_00": {
+  "legendCode": "12C7350_000_00",
+  "systemCode": "Y01",
+  "nodeId": "12C7350_00",
+  "partNo": "12C7350",
+  "name": "电磁阀",
+  "note": "ST:2020-08-21",
+  "checked": false,
+  "level": 4
+ },
+ "44C0231_000_00": {
+  "legendCode": "44C0231_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C0231_00",
+  "partNo": "44C0231",
+  "name": "堵头",
+  "note": "ST:2018-06-20",
+  "checked": false,
+  "level": 5
+ },
+ "30C0170_000_00": {
+  "legendCode": "30C0170_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0170_00",
+  "partNo": "30C0170",
+  "name": "接头",
+  "note": "ST:20160328",
+  "checked": true,
+  "level": 4
+ },
+ "30C0224_000_00": {
+  "legendCode": "30C0224_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0224_00",
+  "partNo": "30C0224",
+  "name": "接头",
+  "note": "20150212",
+  "checked": true,
+  "level": 4
+ },
+ "30C0238_000_00": {
+  "legendCode": "30C0238_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0238_00",
+  "partNo": "30C0238",
+  "name": "接头",
+  "note": "ST:20160420",
+  "checked": true,
+  "level": 4
+ },
+ "30C4495_000_00": {
+  "legendCode": "30C4495_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4495_00",
+  "partNo": "30C4495",
+  "name": "过渡接头",
+  "note": "ST:2023-05-09",
+  "checked": false,
+  "level": 4
+ },
+ "30C4514_000_00": {
+  "legendCode": "30C4514_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4514_00",
+  "partNo": "30C4514",
+  "name": "过渡接头",
+  "note": "ST:2023-08-28",
+  "checked": false,
+  "level": 4
+ },
+ "30C4524_000_00": {
+  "legendCode": "30C4524_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4524_00",
+  "partNo": "30C4524",
+  "name": "过渡接头",
+  "note": "ST:2023-05-10",
+  "checked": false,
+  "level": 4
+ },
+ "30C4527_000_00": {
+  "legendCode": "30C4527_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4527_00",
+  "partNo": "30C4527",
+  "name": "过渡接头",
+  "note": "ST:2023-06-19",
+  "checked": false,
+  "level": 4
+ },
+ "31C0102_001_00": {
+  "legendCode": "31C0102_001_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0102_00",
+  "partNo": "31C0102",
+  "name": "弯接头",
+  "note": "ST:2019-08-15",
+  "checked": true,
+  "level": 4
+ },
+ "31C0102_000_00": {
+  "legendCode": "31C0102_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0102_00",
+  "partNo": "31C0102",
+  "name": "弯接头",
+  "note": "20150212",
+  "checked": true,
+  "level": 4
+ },
+ "31C0574_000_00": {
+  "legendCode": "31C0574_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0574_00",
+  "partNo": "31C0574",
+  "name": "弯接头",
+  "note": "ST:20160908",
+  "checked": true,
+  "level": 4
+ },
+ "31C2275_001_00": {
+  "legendCode": "31C2275_001_00",
+  "systemCode": "Y01",
+  "nodeId": "31C2275_00",
+  "partNo": "31C2275",
+  "name": "过渡接头",
+  "note": "ST:20160229",
+  "checked": false,
+  "level": 4
+ },
+ "31C2275_000_00": {
+  "legendCode": "31C2275_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C2275_00",
+  "partNo": "31C2275",
+  "name": "过渡接头",
+  "note": "20150601",
+  "checked": false,
+  "level": 4
+ },
+ "32C0140_000_00": {
+  "legendCode": "32C0140_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0140_00",
+  "partNo": "32C0140",
+  "name": "接头",
+  "note": "ST:2018-05-22",
+  "checked": true,
+  "level": 4
+ },
+ "32C0172_000_00": {
+  "legendCode": "32C0172_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0172_00",
+  "partNo": "32C0172",
+  "name": "三通接头",
+  "note": "ST:2017-12-29",
+  "checked": false,
+  "level": 4
+ },
+ "32C0544_000_00": {
+  "legendCode": "32C0544_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0544_00",
+  "partNo": "32C0544",
+  "name": "三通接头",
+  "note": "ST:20160328",
+  "checked": true,
+  "level": 4
+ },
+ "44C6822_000_00": {
+  "legendCode": "44C6822_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C6822_00",
+  "partNo": "44C6822",
+  "name": "先导阀块组件",
+  "note": "ST:2023-12-19",
+  "checked": true,
+  "level": 4
+ },
+ "66C0107_000_00": {
+  "legendCode": "66C0107_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C0107_00",
+  "partNo": "66C0107",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "66C1276_000_00": {
+  "legendCode": "66C1276_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C1276_00",
+  "partNo": "66C1276",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "66C1321_001_00": {
+  "legendCode": "66C1321_001_00",
+  "systemCode": "Y01",
+  "nodeId": "66C1321_00",
+  "partNo": "66C1321",
+  "name": "软管总成",
+  "note": "ST:2024-12-02",
+  "checked": true,
+  "level": 4
+ },
+ "66C1321_000_00": {
+  "legendCode": "66C1321_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C1321_00",
+  "partNo": "66C1321",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C2743_000_00": {
+  "legendCode": "68C2743_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2743_00",
+  "partNo": "68C2743",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C4900_000_00": {
+  "legendCode": "68C4900_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C4900_00",
+  "partNo": "68C4900",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "68C5782_000_00": {
+  "legendCode": "68C5782_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C5782_00",
+  "partNo": "68C5782",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C6488_000_00": {
+  "legendCode": "68C6488_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C6488_00",
+  "partNo": "68C6488",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C8664_000_00": {
+  "legendCode": "68C8664_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C8664_00",
+  "partNo": "68C8664",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "79C1357_000_00": {
+  "legendCode": "79C1357_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C1357_00",
+  "partNo": "79C1357",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "12Y1441_001_01": {
+  "legendCode": "12Y1441_001_01",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_01",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "12Y1441_000_01": {
+  "legendCode": "12Y1441_000_01",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_01",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2023-11-18",
+  "checked": true,
+  "level": 3
+ },
+ "06C8077_000_00": {
+  "legendCode": "06C8077_000_00",
+  "systemCode": "Y01",
+  "nodeId": "06C8077_00",
+  "partNo": "06C8077",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C0239_000_00": {
+  "legendCode": "30C0239_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0239_00",
+  "partNo": "30C0239",
+  "name": "接头",
+  "note": "20150417",
+  "checked": true,
+  "level": 4
+ },
+ "30C0242_001_00": {
+  "legendCode": "30C0242_001_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0242_00",
+  "partNo": "30C0242",
+  "name": "接头",
+  "note": "ST:2018-02-03",
+  "checked": true,
+  "level": 4
+ },
+ "30C0242_000_00": {
+  "legendCode": "30C0242_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0242_00",
+  "partNo": "30C0242",
+  "name": "接头",
+  "note": "ST:2018-01-05",
+  "checked": true,
+  "level": 4
+ },
+ "30C4540_000_00": {
+  "legendCode": "30C4540_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4540_00",
+  "partNo": "30C4540",
+  "name": "过渡接头",
+  "note": "ST:2023-05-18",
+  "checked": false,
+  "level": 4
+ },
+ "66C0119_000_00": {
+  "legendCode": "66C0119_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C0119_00",
+  "partNo": "66C0119",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "66C1289_000_00": {
+  "legendCode": "66C1289_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C1289_00",
+  "partNo": "66C1289",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "66C1655_000_00": {
+  "legendCode": "66C1655_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C1655_00",
+  "partNo": "66C1655",
+  "name": "软管总成",
+  "note": "ST:2024-07-09",
+  "checked": true,
+  "level": 4
+ },
+ "66C7071_000_00": {
+  "legendCode": "66C7071_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C7071_00",
+  "partNo": "66C7071",
+  "name": "软管总成",
+  "note": null,
+  "checked": true,
+  "level": 4
+ },
+ "67C4440_000_00": {
+  "legendCode": "67C4440_000_00",
+  "systemCode": "Y01",
+  "nodeId": "67C4440_00",
+  "partNo": "67C4440",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "67C8397_000_00": {
+  "legendCode": "67C8397_000_00",
+  "systemCode": "Y01",
+  "nodeId": "67C8397_00",
+  "partNo": "67C8397",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "12Y1441_001_02": {
+  "legendCode": "12Y1441_001_02",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_02",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "12Y1441_000_02": {
+  "legendCode": "12Y1441_000_02",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_02",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2023-11-18",
+  "checked": true,
+  "level": 3
+ },
+ "06C6427_000_00": {
+  "legendCode": "06C6427_000_00",
+  "systemCode": "Y01",
+  "nodeId": "06C6427_00",
+  "partNo": "06C6427",
+  "name": "软管总成",
+  "note": "ST:2024-07-09",
+  "checked": true,
+  "level": 4
+ },
+ "06C6442_000_00": {
+  "legendCode": "06C6442_000_00",
+  "systemCode": "Y01",
+  "nodeId": "06C6442_00",
+  "partNo": "06C6442",
+  "name": "软管总成",
+  "note": "ST:2021-02-02",
+  "checked": true,
+  "level": 4
+ },
+ "66C5947_000_00": {
+  "legendCode": "66C5947_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C5947_00",
+  "partNo": "66C5947",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "12Y1441_001_03": {
+  "legendCode": "12Y1441_001_03",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_03",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "12Y1441_001_04": {
+  "legendCode": "12Y1441_001_04",
+  "systemCode": "Y01",
+  "nodeId": "12Y1441_04",
+  "partNo": "12Y1441",
+  "name": "先导液压系统",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "30C4653_000_00": {
+  "legendCode": "30C4653_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4653_00",
+  "partNo": "30C4653",
+  "name": "螺塞",
+  "note": "ST:2023-06-14",
+  "checked": false,
+  "level": 4
+ },
+ "66C0126_000_00": {
+  "legendCode": "66C0126_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C0126_00",
+  "partNo": "66C0126",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "13Y0343_000_00": {
+  "legendCode": "13Y0343_000_00",
+  "systemCode": "Y01",
+  "nodeId": "13Y0343_00",
+  "partNo": "13Y0343",
+  "name": "行走液压系统",
+  "note": null,
+  "checked": true,
+  "level": 3
+ },
+ "18C4101_000_00": {
+  "legendCode": "18C4101_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C4101_00",
+  "partNo": "18C4101",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C4102_000_00": {
+  "legendCode": "18C4102_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C4102_00",
+  "partNo": "18C4102",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "13Y0343_000_01": {
+  "legendCode": "13Y0343_000_01",
+  "systemCode": "Y01",
+  "nodeId": "13Y0343_01",
+  "partNo": "13Y0343",
+  "name": "行走液压系统",
+  "note": null,
+  "checked": true,
+  "level": 3
+ },
+ "00A0761X1_000_00": {
+  "legendCode": "00A0761X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A0761X1_00",
+  "partNo": "00A0761X1",
+  "name": "接头组件",
+  "note": "ST:2021-09-15",
+  "checked": true,
+  "level": 4
+ },
+ "00A4359X1_000_00": {
+  "legendCode": "00A4359X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A4359X1_00",
+  "partNo": "00A4359X1",
+  "name": "接头组件",
+  "note": "ST:2021-09-15",
+  "checked": true,
+  "level": 4
+ },
+ "30C4585_000_00": {
+  "legendCode": "30C4585_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4585_00",
+  "partNo": "30C4585",
+  "name": "过渡接头",
+  "note": "ST:2023-05-18",
+  "checked": false,
+  "level": 4
+ },
+ "32C1060_000_00": {
+  "legendCode": "32C1060_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C1060_00",
+  "partNo": "32C1060",
+  "name": "过渡接头",
+  "note": "ST:2023-09-20",
+  "checked": false,
+  "level": 4
+ },
+ "67C2781_000_00": {
+  "legendCode": "67C2781_000_00",
+  "systemCode": "Y01",
+  "nodeId": "67C2781_00",
+  "partNo": "67C2781",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "13Y0343_000_02": {
+  "legendCode": "13Y0343_000_02",
+  "systemCode": "Y01",
+  "nodeId": "13Y0343_02",
+  "partNo": "13Y0343",
+  "name": "行走液压系统",
+  "note": null,
+  "checked": true,
+  "level": 3
+ },
+ "00A3493X1_000_00": {
+  "legendCode": "00A3493X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A3493X1_00",
+  "partNo": "00A3493X1",
+  "name": "接头组件",
+  "note": "ST:2020-08-11",
+  "checked": true,
+  "level": 4
+ },
+ "11C4329_000_00": {
+  "legendCode": "11C4329_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C4329_00",
+  "partNo": "11C4329",
+  "name": "行走马达及减速机",
+  "note": "ST:2023-01-12",
+  "checked": true,
+  "level": 4
+ },
+ "11C4323_000_00": {
+  "legendCode": "11C4323_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C4323_00",
+  "partNo": "11C4323",
+  "name": "行走马达",
+  "note": "ST:2026-04-03",
+  "checked": true,
+  "level": 6
+ },
+ "11C4323_000_01": {
+  "legendCode": "11C4323_000_01",
+  "systemCode": "Y01",
+  "nodeId": "11C4323_01",
+  "partNo": "11C4323",
+  "name": "行走马达",
+  "note": "ST:2026-04-03",
+  "checked": true,
+  "level": 6
+ },
+ "42C2955_000_00": {
+  "legendCode": "42C2955_000_00",
+  "systemCode": "Y01",
+  "nodeId": "42C2955_00",
+  "partNo": "42C2955",
+  "name": "减速机",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 5
+ },
+ "30C4492_000_00": {
+  "legendCode": "30C4492_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4492_00",
+  "partNo": "30C4492",
+  "name": "过渡接头",
+  "note": "ST:2023-05-09",
+  "checked": false,
+  "level": 4
+ },
+ "31C0113_000_00": {
+  "legendCode": "31C0113_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0113_00",
+  "partNo": "31C0113",
+  "name": "过渡接头",
+  "note": "ST:2019-09-06",
+  "checked": true,
+  "level": 4
+ },
+ "32C1064_000_00": {
+  "legendCode": "32C1064_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C1064_00",
+  "partNo": "32C1064",
+  "name": "过渡接头",
+  "note": "ST:2023-10-16",
+  "checked": false,
+  "level": 4
+ },
+ "33C0309_000_00": {
+  "legendCode": "33C0309_000_00",
+  "systemCode": "Y01",
+  "nodeId": "33C0309_00",
+  "partNo": "33C0309",
+  "name": "回转接头",
+  "note": "ST:2019-02-15",
+  "checked": true,
+  "level": 4
+ },
+ "68C2009_000_00": {
+  "legendCode": "68C2009_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2009_00",
+  "partNo": "68C2009",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C2113_000_00": {
+  "legendCode": "30C2113_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C2113_00",
+  "partNo": "30C2113",
+  "name": "软管接头",
+  "note": "ST:2024-07-12",
+  "checked": false,
+  "level": 5
+ },
+ "31C1099_000_00": {
+  "legendCode": "31C1099_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C1099_00",
+  "partNo": "31C1099",
+  "name": "软管接头",
+  "note": "20160823",
+  "checked": false,
+  "level": 5
+ },
+ "13Y0680_000_00": {
+  "legendCode": "13Y0680_000_00",
+  "systemCode": "Y01",
+  "nodeId": "13Y0680_00",
+  "partNo": "13Y0680",
+  "name": "行走液压系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "82C1650_000_00": {
+  "legendCode": "82C1650_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1650_00",
+  "partNo": "82C1650",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "82C1651_000_00": {
+  "legendCode": "82C1651_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1651_00",
+  "partNo": "82C1651",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "82C1652_000_00": {
+  "legendCode": "82C1652_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1652_00",
+  "partNo": "82C1652",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "82C1653_000_00": {
+  "legendCode": "82C1653_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1653_00",
+  "partNo": "82C1653",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "13Y0680_000_01": {
+  "legendCode": "13Y0680_000_01",
+  "systemCode": "Y01",
+  "nodeId": "13Y0680_01",
+  "partNo": "13Y0680",
+  "name": "行走液压系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "82C1369_000_00": {
+  "legendCode": "82C1369_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1369_00",
+  "partNo": "82C1369",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "82C1370_000_00": {
+  "legendCode": "82C1370_000_00",
+  "systemCode": "Y01",
+  "nodeId": "82C1370_00",
+  "partNo": "82C1370",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "13Y0680_000_02": {
+  "legendCode": "13Y0680_000_02",
+  "systemCode": "Y01",
+  "nodeId": "13Y0680_02",
+  "partNo": "13Y0680",
+  "name": "行走液压系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "13Y0680_000_03": {
+  "legendCode": "13Y0680_000_03",
+  "systemCode": "Y01",
+  "nodeId": "13Y0680_03",
+  "partNo": "13Y0680",
+  "name": "行走液压系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "79C7792_000_00": {
+  "legendCode": "79C7792_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C7792_00",
+  "partNo": "79C7792",
+  "name": "软管总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_00": {
+  "legendCode": "15Y6221_001_00",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_00",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_00": {
+  "legendCode": "15Y6221_000_00",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_00",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "07C5631_000_00": {
+  "legendCode": "07C5631_000_00",
+  "systemCode": "Y01",
+  "nodeId": "07C5631_00",
+  "partNo": "07C5631",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "31C0677_000_00": {
+  "legendCode": "31C0677_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0677_00",
+  "partNo": "31C0677",
+  "name": "软管接头",
+  "note": "ST:2024-12-17",
+  "checked": false,
+  "level": 5
+ },
+ "11C4225_000_00": {
+  "legendCode": "11C4225_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C4225_00",
+  "partNo": "11C4225",
+  "name": "泵",
+  "note": "ST:2023-08-23",
+  "checked": true,
+  "level": 5
+ },
+ "SP282533_000_00": {
+  "legendCode": "SP282533_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP282533_00",
+  "partNo": "SP282533",
+  "name": "梭阀",
+  "note": "ST:2026-04-29",
+  "checked": false,
+  "level": 6
+ },
+ "11C4225_000_01": {
+  "legendCode": "11C4225_000_01",
+  "systemCode": "Y01",
+  "nodeId": "11C4225_01",
+  "partNo": "11C4225",
+  "name": "泵",
+  "note": "ST:2023-08-23",
+  "checked": true,
+  "level": 5
+ },
+ "11C4533_000_00": {
+  "legendCode": "11C4533_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C4533_00",
+  "partNo": "11C4533",
+  "name": "回转马达及减速机",
+  "note": "ST:2023-08-31",
+  "checked": false,
+  "level": 5
+ },
+ "11C4533_000_01": {
+  "legendCode": "11C4533_000_01",
+  "systemCode": "Y01",
+  "nodeId": "11C4533_01",
+  "partNo": "11C4533",
+  "name": "回转马达及减速机",
+  "note": "ST:2023-08-31",
+  "checked": false,
+  "level": 5
+ },
+ "11C6050_000_00": {
+  "legendCode": "11C6050_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C6050_00",
+  "partNo": "11C6050",
+  "name": "回转马达及减速机",
+  "note": "ST:2024-06-14",
+  "checked": true,
+  "level": 4
+ },
+ "SP312069_000_00": {
+  "legendCode": "SP312069_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP312069_00",
+  "partNo": "SP312069",
+  "name": "回转马达",
+  "note": "ST:2025-06-20",
+  "checked": false,
+  "level": 5
+ },
+ "SP314958_000_00": {
+  "legendCode": "SP314958_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP314958_00",
+  "partNo": "SP314958",
+  "name": "减速机",
+  "note": "ST:2024-06-14",
+  "checked": false,
+  "level": 5
+ },
+ "18C1794_000_00": {
+  "legendCode": "18C1794_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C1794_00",
+  "partNo": "18C1794",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C3209_000_00": {
+  "legendCode": "18C3209_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C3209_00",
+  "partNo": "18C3209",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C5228_000_00": {
+  "legendCode": "18C5228_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5228_00",
+  "partNo": "18C5228",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C0895_000_00": {
+  "legendCode": "30C0895_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0895_00",
+  "partNo": "30C0895",
+  "name": "软管接头",
+  "note": "20150828",
+  "checked": false,
+  "level": 5
+ },
+ "18C8407_000_00": {
+  "legendCode": "18C8407_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8407_00",
+  "partNo": "18C8407",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C8425_000_00": {
+  "legendCode": "18C8425_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8425_00",
+  "partNo": "18C8425",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "30C1472_000_00": {
+  "legendCode": "30C1472_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1472_00",
+  "partNo": "30C1472",
+  "name": "软管接头",
+  "note": "20161212",
+  "checked": false,
+  "level": 5
+ },
+ "31C1121_000_00": {
+  "legendCode": "31C1121_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C1121_00",
+  "partNo": "31C1121",
+  "name": "软管接头",
+  "note": "ST:2017-07-19",
+  "checked": false,
+  "level": 5
+ },
+ "21C2328_000_00": {
+  "legendCode": "21C2328_000_00",
+  "systemCode": "Y01",
+  "nodeId": "21C2328_00",
+  "partNo": "21C2328",
+  "name": "液压油箱",
+  "note": "ST:2022-12-26",
+  "checked": true,
+  "level": 4
+ },
+ "44C2104_000_00": {
+  "legendCode": "44C2104_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C2104_00",
+  "partNo": "44C2104",
+  "name": "空气滤清器",
+  "note": "ST:2017-12-13",
+  "checked": false,
+  "level": 5
+ },
+ "53C1855_000_00": {
+  "legendCode": "53C1855_000_00",
+  "systemCode": "Y01",
+  "nodeId": "53C1855_00",
+  "partNo": "53C1855",
+  "name": "回油滤芯",
+  "note": "ST:2023-08-24",
+  "checked": false,
+  "level": 5
+ },
+ "30C2017_000_00": {
+  "legendCode": "30C2017_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C2017_00",
+  "partNo": "30C2017",
+  "name": "接头",
+  "note": "20150603",
+  "checked": false,
+  "level": 4
+ },
+ "30C4507_000_00": {
+  "legendCode": "30C4507_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4507_00",
+  "partNo": "30C4507",
+  "name": "过渡接头",
+  "note": "ST:2023-06-14",
+  "checked": false,
+  "level": 4
+ },
+ "30C4509_000_00": {
+  "legendCode": "30C4509_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4509_00",
+  "partNo": "30C4509",
+  "name": "过渡接头",
+  "note": "ST:2024-03-14",
+  "checked": false,
+  "level": 4
+ },
+ "30C4539_000_00": {
+  "legendCode": "30C4539_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4539_00",
+  "partNo": "30C4539",
+  "name": "过渡接头",
+  "note": "ST:2023-05-18",
+  "checked": false,
+  "level": 4
+ },
+ "30C4654_000_00": {
+  "legendCode": "30C4654_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4654_00",
+  "partNo": "30C4654",
+  "name": "螺塞",
+  "note": "ST:2023-05-31",
+  "checked": false,
+  "level": 4
+ },
+ "31C1803_000_00": {
+  "legendCode": "31C1803_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C1803_00",
+  "partNo": "31C1803",
+  "name": "弯接头",
+  "note": "ST:2019-09-06",
+  "checked": false,
+  "level": 4
+ },
+ "32C0684_000_00": {
+  "legendCode": "32C0684_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0684_00",
+  "partNo": "32C0684",
+  "name": "三通接头",
+  "note": "ST:2019-08-16",
+  "checked": true,
+  "level": 4
+ },
+ "15Y6221_001_01": {
+  "legendCode": "15Y6221_001_01",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_01",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_01": {
+  "legendCode": "15Y6221_000_01",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_01",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5218_000_00": {
+  "legendCode": "18C5218_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5218_00",
+  "partNo": "18C5218",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5219_000_00": {
+  "legendCode": "18C5219_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5219_00",
+  "partNo": "18C5219",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5222_000_00": {
+  "legendCode": "18C5222_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5222_00",
+  "partNo": "18C5222",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5248_000_00": {
+  "legendCode": "18C5248_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5248_00",
+  "partNo": "18C5248",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C6630_000_00": {
+  "legendCode": "18C6630_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C6630_00",
+  "partNo": "18C6630",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C6631_000_00": {
+  "legendCode": "18C6631_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C6631_00",
+  "partNo": "18C6631",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "21C3444_000_00": {
+  "legendCode": "21C3444_000_00",
+  "systemCode": "Y01",
+  "nodeId": "21C3444_00",
+  "partNo": "21C3444",
+  "name": "液压油箱安装总成",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 4
+ },
+ "21C3458_000_00": {
+  "legendCode": "21C3458_000_00",
+  "systemCode": "Y01",
+  "nodeId": "21C3458_00",
+  "partNo": "21C3458",
+  "name": "液压油箱",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 5
+ },
+ "53C2556_000_00": {
+  "legendCode": "53C2556_000_00",
+  "systemCode": "Y01",
+  "nodeId": "53C2556_00",
+  "partNo": "53C2556",
+  "name": "吸油滤芯",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 5
+ },
+ "21C3628_000_00": {
+  "legendCode": "21C3628_000_00",
+  "systemCode": "Y01",
+  "nodeId": "21C3628_00",
+  "partNo": "21C3628",
+  "name": "液压油箱安装总成",
+  "note": "ST:2024-08-09",
+  "checked": false,
+  "level": 4
+ },
+ "21C3629_000_00": {
+  "legendCode": "21C3629_000_00",
+  "systemCode": "Y01",
+  "nodeId": "21C3629_00",
+  "partNo": "21C3629",
+  "name": "液压油箱",
+  "note": "ST:2024-08-09",
+  "checked": false,
+  "level": 5
+ },
+ "30C3910_000_00": {
+  "legendCode": "30C3910_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C3910_00",
+  "partNo": "30C3910",
+  "name": "螺塞",
+  "note": "ST:2020-08-13",
+  "checked": true,
+  "level": 4
+ },
+ "61C0690_000_00": {
+  "legendCode": "61C0690_000_00",
+  "systemCode": "Y01",
+  "nodeId": "61C0690_00",
+  "partNo": "61C0690",
+  "name": "主控阀",
+  "note": "ST:2024-10-30",
+  "checked": true,
+  "level": 4
+ },
+ "44C9300_000_00": {
+  "legendCode": "44C9300_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9300_00",
+  "partNo": "44C9300",
+  "name": "铲斗联阀组件",
+  "note": "ST:2024-10-29",
+  "checked": false,
+  "level": 5
+ },
+ "44C9605_000_00": {
+  "legendCode": "44C9605_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9605_00",
+  "partNo": "44C9605",
+  "name": "动臂联阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "44C9606_000_00": {
+  "legendCode": "44C9606_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9606_00",
+  "partNo": "44C9606",
+  "name": "阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "SP288579_000_00": {
+  "legendCode": "SP288579_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP288579_00",
+  "partNo": "SP288579",
+  "name": "工作联C",
+  "note": "ST:2024-01-09",
+  "checked": false,
+  "level": 6
+ },
+ "SP288582_000_00": {
+  "legendCode": "SP288582_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP288582_00",
+  "partNo": "SP288582",
+  "name": "工作联T",
+  "note": "ST:2024-01-10",
+  "checked": false,
+  "level": 6
+ },
+ "44C9607_000_00": {
+  "legendCode": "44C9607_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9607_00",
+  "partNo": "44C9607",
+  "name": "阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "44C9608_000_00": {
+  "legendCode": "44C9608_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9608_00",
+  "partNo": "44C9608",
+  "name": "回转联阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "61C0691_000_00": {
+  "legendCode": "61C0691_000_00",
+  "systemCode": "Y01",
+  "nodeId": "61C0691_00",
+  "partNo": "61C0691",
+  "name": "主控阀",
+  "note": "ST:2024-10-30",
+  "checked": true,
+  "level": 4
+ },
+ "44C9609_000_00": {
+  "legendCode": "44C9609_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9609_00",
+  "partNo": "44C9609",
+  "name": "阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "44C9610_000_00": {
+  "legendCode": "44C9610_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9610_00",
+  "partNo": "44C9610",
+  "name": "辅助联阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "44C9611_000_00": {
+  "legendCode": "44C9611_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9611_00",
+  "partNo": "44C9611",
+  "name": "阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "SP288585_000_00": {
+  "legendCode": "SP288585_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP288585_00",
+  "partNo": "SP288585",
+  "name": "工作联C",
+  "note": "ST:2024-01-10",
+  "checked": false,
+  "level": 6
+ },
+ "SP288589_000_00": {
+  "legendCode": "SP288589_000_00",
+  "systemCode": "Y01",
+  "nodeId": "SP288589_00",
+  "partNo": "SP288589",
+  "name": "工作联T",
+  "note": "ST:2024-01-10",
+  "checked": false,
+  "level": 6
+ },
+ "44C9612_000_00": {
+  "legendCode": "44C9612_000_00",
+  "systemCode": "Y01",
+  "nodeId": "44C9612_00",
+  "partNo": "44C9612",
+  "name": "铲斗联阀组件",
+  "note": "ST:2024-10-30",
+  "checked": false,
+  "level": 5
+ },
+ "15Y6221_001_02": {
+  "legendCode": "15Y6221_001_02",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_02",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_02": {
+  "legendCode": "15Y6221_000_02",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_02",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C7168_000_00": {
+  "legendCode": "18C7168_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7168_00",
+  "partNo": "18C7168",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "31C0676_000_00": {
+  "legendCode": "31C0676_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0676_00",
+  "partNo": "31C0676",
+  "name": "软管接头",
+  "note": "20160527",
+  "checked": false,
+  "level": 5
+ },
+ "18C7169_000_00": {
+  "legendCode": "18C7169_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7169_00",
+  "partNo": "18C7169",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C7170_000_00": {
+  "legendCode": "18C7170_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7170_00",
+  "partNo": "18C7170",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "15Y6221_001_03": {
+  "legendCode": "15Y6221_001_03",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_03",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_03": {
+  "legendCode": "15Y6221_000_03",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_03",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5213_000_00": {
+  "legendCode": "18C5213_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5213_00",
+  "partNo": "18C5213",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5249_000_00": {
+  "legendCode": "18C5249_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5249_00",
+  "partNo": "18C5249",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C5250_000_00": {
+  "legendCode": "18C5250_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5250_00",
+  "partNo": "18C5250",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C7559_000_00": {
+  "legendCode": "18C7559_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7559_00",
+  "partNo": "18C7559",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C7560_000_00": {
+  "legendCode": "18C7560_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7560_00",
+  "partNo": "18C7560",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C7561_000_00": {
+  "legendCode": "18C7561_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7561_00",
+  "partNo": "18C7561",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C7562_000_00": {
+  "legendCode": "18C7562_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C7562_00",
+  "partNo": "18C7562",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "78C0344_000_00": {
+  "legendCode": "78C0344_000_00",
+  "systemCode": "Y01",
+  "nodeId": "78C0344_00",
+  "partNo": "78C0344",
+  "name": "支架",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 4
+ },
+ "15Y6221_002_04": {
+  "legendCode": "15Y6221_002_04",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_04",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_001_04": {
+  "legendCode": "15Y6221_001_04",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_04",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_04": {
+  "legendCode": "15Y6221_000_04",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_04",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5251_000_00": {
+  "legendCode": "18C5251_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5251_00",
+  "partNo": "18C5251",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5252_000_00": {
+  "legendCode": "18C5252_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5252_00",
+  "partNo": "18C5252",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C8869_000_00": {
+  "legendCode": "18C8869_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8869_00",
+  "partNo": "18C8869",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9535_000_00": {
+  "legendCode": "18C9535_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9535_00",
+  "partNo": "18C9535",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": false,
+  "level": 4
+ },
+ "18C9536_000_00": {
+  "legendCode": "18C9536_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9536_00",
+  "partNo": "18C9536",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_05": {
+  "legendCode": "15Y6221_001_05",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_05",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_05": {
+  "legendCode": "15Y6221_000_05",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_05",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5217_000_00": {
+  "legendCode": "18C5217_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5217_00",
+  "partNo": "18C5217",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5223_000_00": {
+  "legendCode": "18C5223_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5223_00",
+  "partNo": "18C5223",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5255_000_00": {
+  "legendCode": "18C5255_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5255_00",
+  "partNo": "18C5255",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5257_000_00": {
+  "legendCode": "18C5257_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5257_00",
+  "partNo": "18C5257",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C8963_000_00": {
+  "legendCode": "18C8963_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8963_00",
+  "partNo": "18C8963",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C8964_000_00": {
+  "legendCode": "18C8964_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8964_00",
+  "partNo": "18C8964",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9537_000_00": {
+  "legendCode": "18C9537_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9537_00",
+  "partNo": "18C9537",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_06": {
+  "legendCode": "15Y6221_001_06",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_06",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_06": {
+  "legendCode": "15Y6221_000_06",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_06",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2025-02-13",
+  "checked": true,
+  "level": 3
+ },
+ "18C5227_000_00": {
+  "legendCode": "18C5227_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5227_00",
+  "partNo": "18C5227",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5237_000_00": {
+  "legendCode": "18C5237_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5237_00",
+  "partNo": "18C5237",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5238_000_00": {
+  "legendCode": "18C5238_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5238_00",
+  "partNo": "18C5238",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5239_000_00": {
+  "legendCode": "18C5239_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5239_00",
+  "partNo": "18C5239",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5242_000_00": {
+  "legendCode": "18C5242_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5242_00",
+  "partNo": "18C5242",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5243_000_00": {
+  "legendCode": "18C5243_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5243_00",
+  "partNo": "18C5243",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5244_000_00": {
+  "legendCode": "18C5244_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5244_00",
+  "partNo": "18C5244",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C8531_000_00": {
+  "legendCode": "18C8531_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8531_00",
+  "partNo": "18C8531",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C8532_000_00": {
+  "legendCode": "18C8532_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8532_00",
+  "partNo": "18C8532",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C8533_000_00": {
+  "legendCode": "18C8533_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8533_00",
+  "partNo": "18C8533",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C8534_000_00": {
+  "legendCode": "18C8534_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8534_00",
+  "partNo": "18C8534",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9218_000_00": {
+  "legendCode": "18C9218_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9218_00",
+  "partNo": "18C9218",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9219_000_00": {
+  "legendCode": "18C9219_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9219_00",
+  "partNo": "18C9219",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9433_000_00": {
+  "legendCode": "18C9433_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9433_00",
+  "partNo": "18C9433",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9520_000_00": {
+  "legendCode": "18C9520_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9520_00",
+  "partNo": "18C9520",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "30C3855X1_000_00": {
+  "legendCode": "30C3855X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C3855X1_00",
+  "partNo": "30C3855X1",
+  "name": "测压接头",
+  "note": "ST:2021-02-08",
+  "checked": true,
+  "level": 4
+ },
+ "15Y6221_001_07": {
+  "legendCode": "15Y6221_001_07",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_07",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2025-02-13",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_07": {
+  "legendCode": "15Y6221_000_07",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_07",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5005_001_00": {
+  "legendCode": "18C5005_001_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5005_00",
+  "partNo": "18C5005",
+  "name": "软管总成",
+  "note": "ST:2024-12-03",
+  "checked": false,
+  "level": 4
+ },
+ "31C0708_000_00": {
+  "legendCode": "31C0708_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0708_00",
+  "partNo": "31C0708",
+  "name": "软管接头",
+  "note": "20150828",
+  "checked": false,
+  "level": 5
+ },
+ "18C5224_000_00": {
+  "legendCode": "18C5224_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5224_00",
+  "partNo": "18C5224",
+  "name": "软管总成",
+  "note": "ST:2024-07-09",
+  "checked": true,
+  "level": 4
+ },
+ "31C0564_000_00": {
+  "legendCode": "31C0564_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0564_00",
+  "partNo": "31C0564",
+  "name": "软管接头",
+  "note": "ST:20160329",
+  "checked": false,
+  "level": 5
+ },
+ "18C5225_000_00": {
+  "legendCode": "18C5225_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5225_00",
+  "partNo": "18C5225",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5226_000_00": {
+  "legendCode": "18C5226_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5226_00",
+  "partNo": "18C5226",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5240_000_00": {
+  "legendCode": "18C5240_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5240_00",
+  "partNo": "18C5240",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5241_000_00": {
+  "legendCode": "18C5241_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5241_00",
+  "partNo": "18C5241",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "19C3955_000_00": {
+  "legendCode": "19C3955_000_00",
+  "systemCode": "Y01",
+  "nodeId": "19C3955_00",
+  "partNo": "19C3955",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "19C4301_000_00": {
+  "legendCode": "19C4301_000_00",
+  "systemCode": "Y01",
+  "nodeId": "19C4301_00",
+  "partNo": "19C4301",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C0144_001_00": {
+  "legendCode": "30C0144_001_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0144_00",
+  "partNo": "30C0144",
+  "name": "接头",
+  "note": "ST:2018-11-08",
+  "checked": true,
+  "level": 4
+ },
+ "30C1036_000_00": {
+  "legendCode": "30C1036_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1036_00",
+  "partNo": "30C1036",
+  "name": "接头",
+  "note": "20170112",
+  "checked": true,
+  "level": 4
+ },
+ "30C1228_000_00": {
+  "legendCode": "30C1228_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1228_00",
+  "partNo": "30C1228",
+  "name": "接头",
+  "note": "ST:2025-11-19",
+  "checked": false,
+  "level": 4
+ },
+ "30C4521_000_00": {
+  "legendCode": "30C4521_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4521_00",
+  "partNo": "30C4521",
+  "name": "过渡接头",
+  "note": "ST:2023-07-04",
+  "checked": false,
+  "level": 4
+ },
+ "30C4532_000_00": {
+  "legendCode": "30C4532_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4532_00",
+  "partNo": "30C4532",
+  "name": "过渡接头",
+  "note": "ST:2023-07-04",
+  "checked": false,
+  "level": 4
+ },
+ "31C0173_000_00": {
+  "legendCode": "31C0173_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0173_00",
+  "partNo": "31C0173",
+  "name": "接头",
+  "note": "ST:2019-07-29",
+  "checked": true,
+  "level": 4
+ },
+ "15Y6221_001_08": {
+  "legendCode": "15Y6221_001_08",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_08",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_08": {
+  "legendCode": "15Y6221_000_08",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_08",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "00A4302X1_000_00": {
+  "legendCode": "00A4302X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A4302X1_00",
+  "partNo": "00A4302X1",
+  "name": "接头组件",
+  "note": "ST:2020-09-07",
+  "checked": true,
+  "level": 4
+ },
+ "18C5233_000_00": {
+  "legendCode": "18C5233_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5233_00",
+  "partNo": "18C5233",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C9212_000_00": {
+  "legendCode": "18C9212_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9212_00",
+  "partNo": "18C9212",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9213_000_00": {
+  "legendCode": "18C9213_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9213_00",
+  "partNo": "18C9213",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9215_000_00": {
+  "legendCode": "18C9215_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9215_00",
+  "partNo": "18C9215",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9216_000_00": {
+  "legendCode": "18C9216_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9216_00",
+  "partNo": "18C9216",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_09": {
+  "legendCode": "15Y6221_001_09",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_09",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_09": {
+  "legendCode": "15Y6221_000_09",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_09",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5236_000_00": {
+  "legendCode": "18C5236_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5236_00",
+  "partNo": "18C5236",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5245_000_00": {
+  "legendCode": "18C5245_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5245_00",
+  "partNo": "18C5245",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5246_000_00": {
+  "legendCode": "18C5246_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5246_00",
+  "partNo": "18C5246",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5247_000_00": {
+  "legendCode": "18C5247_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5247_00",
+  "partNo": "18C5247",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5254_000_00": {
+  "legendCode": "18C5254_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5254_00",
+  "partNo": "18C5254",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C9220_000_00": {
+  "legendCode": "18C9220_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9220_00",
+  "partNo": "18C9220",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9539_000_00": {
+  "legendCode": "18C9539_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9539_00",
+  "partNo": "18C9539",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "30C0241_000_00": {
+  "legendCode": "30C0241_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0241_00",
+  "partNo": "30C0241",
+  "name": "堵头",
+  "note": "ST:20160603",
+  "checked": true,
+  "level": 4
+ },
+ "30C4652_000_00": {
+  "legendCode": "30C4652_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C4652_00",
+  "partNo": "30C4652",
+  "name": "螺塞",
+  "note": "ST:2023-07-04",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_10": {
+  "legendCode": "15Y6221_001_10",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_10",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_10": {
+  "legendCode": "15Y6221_000_10",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_10",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "00A4303X1_000_00": {
+  "legendCode": "00A4303X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A4303X1_00",
+  "partNo": "00A4303X1",
+  "name": "接头组件",
+  "note": "ST:2020-08-26",
+  "checked": true,
+  "level": 4
+ },
+ "18C5232_000_00": {
+  "legendCode": "18C5232_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5232_00",
+  "partNo": "18C5232",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": true,
+  "level": 4
+ },
+ "18C9210_000_00": {
+  "legendCode": "18C9210_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9210_00",
+  "partNo": "18C9210",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9211_000_00": {
+  "legendCode": "18C9211_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9211_00",
+  "partNo": "18C9211",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_11": {
+  "legendCode": "15Y6221_001_11",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_11",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_11": {
+  "legendCode": "15Y6221_000_11",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_11",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C5253_000_00": {
+  "legendCode": "18C5253_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5253_00",
+  "partNo": "18C5253",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C9214_000_00": {
+  "legendCode": "18C9214_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9214_00",
+  "partNo": "18C9214",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "15Y6221_001_12": {
+  "legendCode": "15Y6221_001_12",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_12",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2024-03-20",
+  "checked": true,
+  "level": 3
+ },
+ "15Y6221_000_12": {
+  "legendCode": "15Y6221_000_12",
+  "systemCode": "Y01",
+  "nodeId": "15Y6221_12",
+  "partNo": "15Y6221",
+  "name": "主液压系统",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "18C9521_000_00": {
+  "legendCode": "18C9521_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9521_00",
+  "partNo": "18C9521",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9522_000_00": {
+  "legendCode": "18C9522_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9522_00",
+  "partNo": "18C9522",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "18C9523_000_00": {
+  "legendCode": "18C9523_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9523_00",
+  "partNo": "18C9523",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "58C8917_000_00": {
+  "legendCode": "58C8917_000_00",
+  "systemCode": "Y01",
+  "nodeId": "58C8917_00",
+  "partNo": "58C8917",
+  "name": "风扇马达管路",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "00A4006X1_000_00": {
+  "legendCode": "00A4006X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A4006X1_00",
+  "partNo": "00A4006X1",
+  "name": "接头组件",
+  "note": "ST:2021-09-15",
+  "checked": true,
+  "level": 4
+ },
+ "30C0181_000_00": {
+  "legendCode": "30C0181_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0181_00",
+  "partNo": "30C0181",
+  "name": "接头",
+  "note": "ST:2017-07-19",
+  "checked": true,
+  "level": 4
+ },
+ "32C0122_001_00": {
+  "legendCode": "32C0122_001_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0122_00",
+  "partNo": "32C0122",
+  "name": "三通接头",
+  "note": "ST:20160427",
+  "checked": true,
+  "level": 4
+ },
+ "32C0122_000_00": {
+  "legendCode": "32C0122_000_00",
+  "systemCode": "Y01",
+  "nodeId": "32C0122_00",
+  "partNo": "32C0122",
+  "name": "三通接头",
+  "note": "20150212",
+  "checked": true,
+  "level": 4
+ },
+ "66C6449_000_00": {
+  "legendCode": "66C6449_000_00",
+  "systemCode": "Y01",
+  "nodeId": "66C6449_00",
+  "partNo": "66C6449",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C2768_000_00": {
+  "legendCode": "68C2768_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2768_00",
+  "partNo": "68C2768",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "30C1499_001_00": {
+  "legendCode": "30C1499_001_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1499_00",
+  "partNo": "30C1499",
+  "name": "软管接头",
+  "note": "ST:2024-09-15",
+  "checked": false,
+  "level": 5
+ },
+ "30C1499_000_00": {
+  "legendCode": "30C1499_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C1499_00",
+  "partNo": "30C1499",
+  "name": "软管接头",
+  "note": "ST:2024-09-15",
+  "checked": false,
+  "level": 5
+ },
+ "31C1168_000_00": {
+  "legendCode": "31C1168_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C1168_00",
+  "partNo": "31C1168",
+  "name": "软管接头",
+  "note": "20160715",
+  "checked": false,
+  "level": 5
+ },
+ "68C2769_000_00": {
+  "legendCode": "68C2769_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2769_00",
+  "partNo": "68C2769",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C2770_000_00": {
+  "legendCode": "68C2770_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2770_00",
+  "partNo": "68C2770",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "31C1530_000_00": {
+  "legendCode": "31C1530_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C1530_00",
+  "partNo": "31C1530",
+  "name": "软管接头",
+  "note": "ST:2019-08-12",
+  "checked": false,
+  "level": 5
+ },
+ "68C2771_000_00": {
+  "legendCode": "68C2771_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2771_00",
+  "partNo": "68C2771",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "68C2772_000_00": {
+  "legendCode": "68C2772_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2772_00",
+  "partNo": "68C2772",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "79C2372_000_00": {
+  "legendCode": "79C2372_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C2372_00",
+  "partNo": "79C2372",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "79C2373_000_00": {
+  "legendCode": "79C2373_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C2373_00",
+  "partNo": "79C2373",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "79C2374_000_00": {
+  "legendCode": "79C2374_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C2374_00",
+  "partNo": "79C2374",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "79C2375_000_00": {
+  "legendCode": "79C2375_000_00",
+  "systemCode": "Y01",
+  "nodeId": "79C2375_00",
+  "partNo": "79C2375",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": false,
+  "level": 4
+ },
+ "58C8917_001_01": {
+  "legendCode": "58C8917_001_01",
+  "systemCode": "Y01",
+  "nodeId": "58C8917_01",
+  "partNo": "58C8917",
+  "name": "风扇马达管路",
+  "note": "ST:2024-06-12",
+  "checked": true,
+  "level": 3
+ },
+ "58C8917_000_01": {
+  "legendCode": "58C8917_000_01",
+  "systemCode": "Y01",
+  "nodeId": "58C8917_01",
+  "partNo": "58C8917",
+  "name": "风扇马达管路",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "00A3489X1_000_00": {
+  "legendCode": "00A3489X1_000_00",
+  "systemCode": "Y01",
+  "nodeId": "00A3489X1_00",
+  "partNo": "00A3489X1",
+  "name": "接头组件",
+  "note": "ST:2021-09-15",
+  "checked": true,
+  "level": 4
+ },
+ "11C5122_000_00": {
+  "legendCode": "11C5122_000_00",
+  "systemCode": "Y01",
+  "nodeId": "11C5122_00",
+  "partNo": "11C5122",
+  "name": "泵总成",
+  "note": "ST:2023-08-25",
+  "checked": true,
+  "level": 4
+ },
+ "12C7645_000_00": {
+  "legendCode": "12C7645_000_00",
+  "systemCode": "Y01",
+  "nodeId": "12C7645_00",
+  "partNo": "12C7645",
+  "name": "控制阀",
+  "note": "ST:2020-11-02",
+  "checked": true,
+  "level": 4
+ },
+ "18C5094_000_00": {
+  "legendCode": "18C5094_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5094_00",
+  "partNo": "18C5094",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C5096_000_00": {
+  "legendCode": "18C5096_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C5096_00",
+  "partNo": "18C5096",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C8010_000_00": {
+  "legendCode": "18C8010_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C8010_00",
+  "partNo": "18C8010",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "18C9538_000_00": {
+  "legendCode": "18C9538_000_00",
+  "systemCode": "Y01",
+  "nodeId": "18C9538_00",
+  "partNo": "18C9538",
+  "name": "软管总成",
+  "note": "ST:2025-01-09",
+  "checked": false,
+  "level": 4
+ },
+ "30C0266_000_00": {
+  "legendCode": "30C0266_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0266_00",
+  "partNo": "30C0266",
+  "name": "接头",
+  "note": "ST:2018-02-26",
+  "checked": true,
+  "level": 4
+ },
+ "30C0722_000_00": {
+  "legendCode": "30C0722_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C0722_00",
+  "partNo": "30C0722",
+  "name": "接头",
+  "note": "ST:2019-08-12",
+  "checked": true,
+  "level": 4
+ },
+ "30C3915_000_00": {
+  "legendCode": "30C3915_000_00",
+  "systemCode": "Y01",
+  "nodeId": "30C3915_00",
+  "partNo": "30C3915",
+  "name": "过渡接头",
+  "note": "ST:2020-10-16",
+  "checked": false,
+  "level": 4
+ },
+ "31C0088_000_00": {
+  "legendCode": "31C0088_000_00",
+  "systemCode": "Y01",
+  "nodeId": "31C0088_00",
+  "partNo": "31C0088",
+  "name": "弯接头",
+  "note": "ST:2019-09-10",
+  "checked": true,
+  "level": 4
+ },
+ "68C2773_000_00": {
+  "legendCode": "68C2773_000_00",
+  "systemCode": "Y01",
+  "nodeId": "68C2773_00",
+  "partNo": "68C2773",
+  "name": "软管总成",
+  "note": "ST:2024-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "25Y0623_001_00": {
+  "legendCode": "25Y0623_001_00",
+  "systemCode": "Y03",
+  "nodeId": "25Y0623_00",
+  "partNo": "25Y0623",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0623_000_00": {
+  "legendCode": "25Y0623_000_00",
+  "systemCode": "Y03",
+  "nodeId": "25Y0623_00",
+  "partNo": "25Y0623",
+  "name": "自动集中润滑系统",
+  "note": "ST:2023-11-17",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0623_001_01": {
+  "legendCode": "25Y0623_001_01",
+  "systemCode": "Y03",
+  "nodeId": "25Y0623_01",
+  "partNo": "25Y0623",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0623_001_02": {
+  "legendCode": "25Y0623_001_02",
+  "systemCode": "Y03",
+  "nodeId": "25Y0623_02",
+  "partNo": "25Y0623",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0646_001_00": {
+  "legendCode": "25Y0646_001_00",
+  "systemCode": "Y03",
+  "nodeId": "25Y0646_00",
+  "partNo": "25Y0646",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0646_000_00": {
+  "legendCode": "25Y0646_000_00",
+  "systemCode": "Y03",
+  "nodeId": "25Y0646_00",
+  "partNo": "25Y0646",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0646_001_01": {
+  "legendCode": "25Y0646_001_01",
+  "systemCode": "Y03",
+  "nodeId": "25Y0646_01",
+  "partNo": "25Y0646",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0646_001_02": {
+  "legendCode": "25Y0646_001_02",
+  "systemCode": "Y03",
+  "nodeId": "25Y0646_02",
+  "partNo": "25Y0646",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-05-31",
+  "checked": false,
+  "level": 3
+ },
+ "25Y0763_000_00": {
+  "legendCode": "25Y0763_000_00",
+  "systemCode": "Y03",
+  "nodeId": "25Y0763_00",
+  "partNo": "25Y0763",
+  "name": "自动集中润滑系统",
+  "note": "ST:2024-08-28",
+  "checked": false,
+  "level": 2
+ },
+ "33Y0876_001_00": {
+  "legendCode": "33Y0876_001_00",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_00",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2025-11-18",
+  "checked": true,
+  "level": 3
+ },
+ "33Y0876_000_00": {
+  "legendCode": "33Y0876_000_00",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_00",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "26B0565_000_00": {
+  "legendCode": "26B0565_000_00",
+  "systemCode": "Y03",
+  "nodeId": "26B0565_00",
+  "partNo": "26B0565",
+  "name": "回转支承",
+  "note": "ST:2023-11-10",
+  "checked": true,
+  "level": 4
+ },
+ "33Y0876_000_01": {
+  "legendCode": "33Y0876_000_01",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_01",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "56C1214_000_00": {
+  "legendCode": "56C1214_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1214_00",
+  "partNo": "56C1214",
+  "name": "护罩",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 4
+ },
+ "56C1215_000_00": {
+  "legendCode": "56C1215_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1215_00",
+  "partNo": "56C1215",
+  "name": "护罩",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 4
+ },
+ "33Y0876_000_02": {
+  "legendCode": "33Y0876_000_02",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_02",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "33Y0876_001_03": {
+  "legendCode": "33Y0876_001_03",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_03",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2024-06-07",
+  "checked": true,
+  "level": 3
+ },
+ "33Y0876_000_03": {
+  "legendCode": "33Y0876_000_03",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_03",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "26C0808_000_00": {
+  "legendCode": "26C0808_000_00",
+  "systemCode": "Y03",
+  "nodeId": "26C0808_00",
+  "partNo": "26C0808",
+  "name": "脚踏组件",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 4
+ },
+ "56C0800_000_00": {
+  "legendCode": "56C0800_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C0800_00",
+  "partNo": "56C0800",
+  "name": "张紧装置",
+  "note": "ST:2023-08-25",
+  "checked": true,
+  "level": 4
+ },
+ "33Y0876_001_04": {
+  "legendCode": "33Y0876_001_04",
+  "systemCode": "Y03",
+  "nodeId": "33Y0876_04",
+  "partNo": "33Y0876",
+  "name": "履带行走系统",
+  "note": "ST:2024-06-07",
+  "checked": true,
+  "level": 3
+ },
+ "33Y1118_000_00": {
+  "legendCode": "33Y1118_000_00",
+  "systemCode": "Y03",
+  "nodeId": "33Y1118_00",
+  "partNo": "33Y1118",
+  "name": "履带行走系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "33Y1118_000_01": {
+  "legendCode": "33Y1118_000_01",
+  "systemCode": "Y03",
+  "nodeId": "33Y1118_01",
+  "partNo": "33Y1118",
+  "name": "履带行走系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "33Y1118_000_02": {
+  "legendCode": "33Y1118_000_02",
+  "systemCode": "Y03",
+  "nodeId": "33Y1118_02",
+  "partNo": "33Y1118",
+  "name": "履带行走系统",
+  "note": "ST:2025-11-03",
+  "checked": false,
+  "level": 3
+ },
+ "34Y0971_001_00": {
+  "legendCode": "34Y0971_001_00",
+  "systemCode": "Y03",
+  "nodeId": "34Y0971_00",
+  "partNo": "34Y0971",
+  "name": "回转平台总成",
+  "note": "ST:2023-11-29",
+  "checked": true,
+  "level": 3
+ },
+ "34Y0971_000_00": {
+  "legendCode": "34Y0971_000_00",
+  "systemCode": "Y03",
+  "nodeId": "34Y0971_00",
+  "partNo": "34Y0971",
+  "name": "回转平台总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "34Y0971_001_01": {
+  "legendCode": "34Y0971_001_01",
+  "systemCode": "Y03",
+  "nodeId": "34Y0971_01",
+  "partNo": "34Y0971",
+  "name": "回转平台总成",
+  "note": "ST:2023-11-29",
+  "checked": true,
+  "level": 3
+ },
+ "34Y0971_000_01": {
+  "legendCode": "34Y0971_000_01",
+  "systemCode": "Y03",
+  "nodeId": "34Y0971_01",
+  "partNo": "34Y0971",
+  "name": "回转平台总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "34Y0971_001_02": {
+  "legendCode": "34Y0971_001_02",
+  "systemCode": "Y03",
+  "nodeId": "34Y0971_02",
+  "partNo": "34Y0971",
+  "name": "回转平台总成",
+  "note": "ST:2023-11-29",
+  "checked": true,
+  "level": 3
+ },
+ "38Y2272_000_00": {
+  "legendCode": "38Y2272_000_00",
+  "systemCode": "Y03",
+  "nodeId": "38Y2272_00",
+  "partNo": "38Y2272",
+  "name": "铲斗总成",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 2
+ },
+ "25D2363_000_00": {
+  "legendCode": "25D2363_000_00",
+  "systemCode": "Y03",
+  "nodeId": "25D2363_00",
+  "partNo": "25D2363",
+  "name": "铲斗体",
+  "note": "ST:2025-01-26",
+  "checked": false,
+  "level": 3
+ },
+ "45Y0907_000_00": {
+  "legendCode": "45Y0907_000_00",
+  "systemCode": "Y03",
+  "nodeId": "45Y0907_00",
+  "partNo": "45Y0907",
+  "name": "配重组件",
+  "note": "ST:2023-08-21",
+  "checked": true,
+  "level": 2
+ },
+ "27C2824_001_00": {
+  "legendCode": "27C2824_001_00",
+  "systemCode": "Y03",
+  "nodeId": "27C2824_00",
+  "partNo": "27C2824",
+  "name": "配重",
+  "note": "ST:2025-06-08",
+  "checked": true,
+  "level": 3
+ },
+ "27C2824_000_00": {
+  "legendCode": "27C2824_000_00",
+  "systemCode": "Y03",
+  "nodeId": "27C2824_00",
+  "partNo": "27C2824",
+  "name": "配重",
+  "note": "ST:2023-08-24",
+  "checked": true,
+  "level": 3
+ },
+ "49Y0838_000_00": {
+  "legendCode": "49Y0838_000_00",
+  "systemCode": "Y03",
+  "nodeId": "49Y0838_00",
+  "partNo": "49Y0838",
+  "name": "半自动润滑系统",
+  "note": "ST:2021-06-22",
+  "checked": true,
+  "level": 2
+ },
+ "56C0859_000_00": {
+  "legendCode": "56C0859_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C0859_00",
+  "partNo": "56C0859",
+  "name": "盖板",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 2
+ },
+ "56C0860_000_00": {
+  "legendCode": "56C0860_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C0860_00",
+  "partNo": "56C0860",
+  "name": "底封板",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 2
+ },
+ "56C1278_000_00": {
+  "legendCode": "56C1278_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1278_00",
+  "partNo": "56C1278",
+  "name": "履带总成",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 2
+ },
+ "25C2713_000_00": {
+  "legendCode": "25C2713_000_00",
+  "systemCode": "Y03",
+  "nodeId": "25C2713_00",
+  "partNo": "25C2713",
+  "name": "履带总成",
+  "note": "ST:2023-02-20",
+  "checked": true,
+  "level": 3
+ },
+ "SP268156_000_00": {
+  "legendCode": "SP268156_000_00",
+  "systemCode": "Y03",
+  "nodeId": "SP268156_00",
+  "partNo": "SP268156",
+  "name": "链轨总成",
+  "note": "ST:2023-02-20",
+  "checked": false,
+  "level": 4
+ },
+ "56C1409_001_00": {
+  "legendCode": "56C1409_001_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1409_00",
+  "partNo": "56C1409",
+  "name": "履带护罩",
+  "note": "ST:2026-02-26",
+  "checked": true,
+  "level": 2
+ },
+ "56C1409_000_00": {
+  "legendCode": "56C1409_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1409_00",
+  "partNo": "56C1409",
+  "name": "履带护罩",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 2
+ },
+ "58C1745_001_00": {
+  "legendCode": "58C1745_001_00",
+  "systemCode": "Y03",
+  "nodeId": "58C1745_00",
+  "partNo": "58C1745",
+  "name": "润滑脂管路",
+  "note": "ST:2025-06-10",
+  "checked": true,
+  "level": 2
+ },
+ "58C1745_000_00": {
+  "legendCode": "58C1745_000_00",
+  "systemCode": "Y03",
+  "nodeId": "58C1745_00",
+  "partNo": "58C1745",
+  "name": "润滑脂管路",
+  "note": "ST:2023-01-16",
+  "checked": true,
+  "level": 2
+ },
+ "58C1746_000_00": {
+  "legendCode": "58C1746_000_00",
+  "systemCode": "Y03",
+  "nodeId": "58C1746_00",
+  "partNo": "58C1746",
+  "name": "润滑脂管路",
+  "note": "ST:2025-06-10",
+  "checked": true,
+  "level": 2
+ },
+ "59C6521_001_00": {
+  "legendCode": "59C6521_001_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6521_00",
+  "partNo": "59C6521",
+  "name": "斗杆",
+  "note": "ST:2024-06-14",
+  "checked": true,
+  "level": 2
+ },
+ "59C6521_000_00": {
+  "legendCode": "59C6521_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6521_00",
+  "partNo": "59C6521",
+  "name": "斗杆",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 2
+ },
+ "28C0381_001_00": {
+  "legendCode": "28C0381_001_00",
+  "systemCode": "Y03",
+  "nodeId": "28C0381_00",
+  "partNo": "28C0381",
+  "name": "调整垫",
+  "note": "ST:2021-12-01",
+  "checked": true,
+  "level": 3
+ },
+ "28C0381_000_00": {
+  "legendCode": "28C0381_000_00",
+  "systemCode": "Y03",
+  "nodeId": "28C0381_00",
+  "partNo": "28C0381",
+  "name": "调整垫",
+  "note": "ST:2020-04-21",
+  "checked": true,
+  "level": 3
+ },
+ "56C1248_000_00": {
+  "legendCode": "56C1248_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1248_00",
+  "partNo": "56C1248",
+  "name": "调整垫",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 3
+ },
+ "59C6517_000_00": {
+  "legendCode": "59C6517_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6517_00",
+  "partNo": "59C6517",
+  "name": "斗杆",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "59C7433_000_00": {
+  "legendCode": "59C7433_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C7433_00",
+  "partNo": "59C7433",
+  "name": "斗杆",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 3
+ },
+ "59C8180_000_00": {
+  "legendCode": "59C8180_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C8180_00",
+  "partNo": "59C8180",
+  "name": "斗杆",
+  "note": "ST:2024-09-09",
+  "checked": false,
+  "level": 3
+ },
+ "59C9877_000_00": {
+  "legendCode": "59C9877_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C9877_00",
+  "partNo": "59C9877",
+  "name": "斗杆",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 3
+ },
+ "59C6523_000_00": {
+  "legendCode": "59C6523_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6523_00",
+  "partNo": "59C6523",
+  "name": "动臂总成",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 2
+ },
+ "28C0621_000_00": {
+  "legendCode": "28C0621_000_00",
+  "systemCode": "Y03",
+  "nodeId": "28C0621_00",
+  "partNo": "28C0621",
+  "name": "调整垫",
+  "note": "ST:2022-12-29",
+  "checked": true,
+  "level": 3
+ },
+ "56C1247_000_00": {
+  "legendCode": "56C1247_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1247_00",
+  "partNo": "56C1247",
+  "name": "调整垫",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 3
+ },
+ "56C1249_000_00": {
+  "legendCode": "56C1249_000_00",
+  "systemCode": "Y03",
+  "nodeId": "56C1249_00",
+  "partNo": "56C1249",
+  "name": "调整垫",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 3
+ },
+ "59C6516_000_00": {
+  "legendCode": "59C6516_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6516_00",
+  "partNo": "59C6516",
+  "name": "动臂",
+  "note": "ST:2023-11-18",
+  "checked": true,
+  "level": 3
+ },
+ "59C6929_000_00": {
+  "legendCode": "59C6929_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6929_00",
+  "partNo": "59C6929",
+  "name": "动臂",
+  "note": "ST:2024-03-14",
+  "checked": false,
+  "level": 3
+ },
+ "59C8542_000_00": {
+  "legendCode": "59C8542_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C8542_00",
+  "partNo": "59C8542",
+  "name": "动臂",
+  "note": "ST:2024-08-29",
+  "checked": false,
+  "level": 3
+ },
+ "59C9625_000_00": {
+  "legendCode": "59C9625_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C9625_00",
+  "partNo": "59C9625",
+  "name": "动臂",
+  "note": "ST:2025-02-28",
+  "checked": false,
+  "level": 3
+ },
+ "59C6524_000_00": {
+  "legendCode": "59C6524_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6524_00",
+  "partNo": "59C6524",
+  "name": "连杆组件",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 2
+ },
+ "28C0220_001_00": {
+  "legendCode": "28C0220_001_00",
+  "systemCode": "Y03",
+  "nodeId": "28C0220_00",
+  "partNo": "28C0220",
+  "name": "调整垫",
+  "note": "ST:2020-05-25",
+  "checked": true,
+  "level": 3
+ },
+ "28C0220_000_00": {
+  "legendCode": "28C0220_000_00",
+  "systemCode": "Y03",
+  "nodeId": "28C0220_00",
+  "partNo": "28C0220",
+  "name": "调整垫",
+  "note": "20160412",
+  "checked": true,
+  "level": 3
+ },
+ "59C6518_000_00": {
+  "legendCode": "59C6518_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C6518_00",
+  "partNo": "59C6518",
+  "name": "连杆",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 3
+ },
+ "59C8187_000_00": {
+  "legendCode": "59C8187_000_00",
+  "systemCode": "Y03",
+  "nodeId": "59C8187_00",
+  "partNo": "59C8187",
+  "name": "连杆",
+  "note": "ST:2024-08-20",
+  "checked": false,
+  "level": 3
+ },
+ "72C2977_000_00": {
+  "legendCode": "72C2977_000_00",
+  "systemCode": "Y03",
+  "nodeId": "72C2977_00",
+  "partNo": "72C2977",
+  "name": "底护板总成",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 2
+ },
+ "72C4348_000_00": {
+  "legendCode": "72C4348_000_00",
+  "systemCode": "Y03",
+  "nodeId": "72C4348_00",
+  "partNo": "72C4348",
+  "name": "底护板总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 2
+ },
+ "72C4899_000_00": {
+  "legendCode": "72C4899_000_00",
+  "systemCode": "Y03",
+  "nodeId": "72C4899_00",
+  "partNo": "72C4899",
+  "name": "踏板总成",
+  "note": "ST:2024-08-09",
+  "checked": false,
+  "level": 2
+ },
+ "72C7082_000_00": {
+  "legendCode": "72C7082_000_00",
+  "systemCode": "Y03",
+  "nodeId": "72C7082_00",
+  "partNo": "72C7082",
+  "name": "踏板总成",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 2
+ },
+ "76C1836_000_00": {
+  "legendCode": "76C1836_000_00",
+  "systemCode": "Y03",
+  "nodeId": "76C1836_00",
+  "partNo": "76C1836",
+  "name": "铲斗",
+  "note": "ST:2025-09-11",
+  "checked": false,
+  "level": 2
+ },
+ "76C2210_000_00": {
+  "legendCode": "76C2210_000_00",
+  "systemCode": "Y03",
+  "nodeId": "76C2210_00",
+  "partNo": "76C2210",
+  "name": "铲斗",
+  "note": "ST:2025-09-11",
+  "checked": false,
+  "level": 2
+ },
+ "47C7482_002_00": {
+  "legendCode": "47C7482_002_00",
+  "systemCode": "Y04",
+  "nodeId": "47C7482_00",
+  "partNo": "47C7482",
+  "name": "地板架总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 2
+ },
+ "47C7482_001_00": {
+  "legendCode": "47C7482_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C7482_00",
+  "partNo": "47C7482",
+  "name": "地板架总成",
+  "note": "ST:2022-08-22",
+  "checked": true,
+  "level": 2
+ },
+ "47C7482_000_00": {
+  "legendCode": "47C7482_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C7482_00",
+  "partNo": "47C7482",
+  "name": "地板架总成",
+  "note": "ST:2022-08-22",
+  "checked": true,
+  "level": 2
+ },
+ "47C6235_000_00": {
+  "legendCode": "47C6235_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6235_00",
+  "partNo": "47C6235",
+  "name": "脚踏",
+  "note": "ST:2020-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "47C6236_000_00": {
+  "legendCode": "47C6236_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6236_00",
+  "partNo": "47C6236",
+  "name": "脚踏",
+  "note": "ST:2020-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "64C0142_000_00": {
+  "legendCode": "64C0142_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0142_00",
+  "partNo": "64C0142",
+  "name": "司机椅总成及电器",
+  "note": "ST:2023-05-16",
+  "checked": true,
+  "level": 2
+ },
+ "47C5601_000_00": {
+  "legendCode": "47C5601_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5601_00",
+  "partNo": "47C5601",
+  "name": "司机椅",
+  "note": "ST:2021-03-16",
+  "checked": true,
+  "level": 3
+ },
+ "47C8032_000_00": {
+  "legendCode": "47C8032_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C8032_00",
+  "partNo": "47C8032",
+  "name": "右扶手箱总成",
+  "note": "ST:2022-03-02",
+  "checked": true,
+  "level": 3
+ },
+ "64C0139_000_00": {
+  "legendCode": "64C0139_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0139_00",
+  "partNo": "64C0139",
+  "name": "左扶手箱总成及电器",
+  "note": "ST:2023-05-16",
+  "checked": true,
+  "level": 3
+ },
+ "47C5927_000_00": {
+  "legendCode": "47C5927_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5927_00",
+  "partNo": "47C5927",
+  "name": "左扶手箱总成",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 4
+ },
+ "64C4008_000_00": {
+  "legendCode": "64C4008_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C4008_00",
+  "partNo": "64C4008",
+  "name": "司机椅总成及电器",
+  "note": "ST:2024-12-27",
+  "checked": false,
+  "level": 3
+ },
+ "64C4007_000_00": {
+  "legendCode": "64C4007_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C4007_00",
+  "partNo": "64C4007",
+  "name": "司机椅",
+  "note": "ST:2025-03-06",
+  "checked": false,
+  "level": 4
+ },
+ "SP346253_000_00": {
+  "legendCode": "SP346253_000_00",
+  "systemCode": "Y04",
+  "nodeId": "SP346253_00",
+  "partNo": "SP346253",
+  "name": "坐垫底板组件",
+  "note": "ST:2026-03-03",
+  "checked": false,
+  "level": 5
+ },
+ "64C0672_000_00": {
+  "legendCode": "64C0672_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0672_00",
+  "partNo": "64C0672",
+  "name": "驾驶室及电器",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 2
+ },
+ "47C9876_001_00": {
+  "legendCode": "47C9876_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C9876_00",
+  "partNo": "47C9876",
+  "name": "驾驶室",
+  "note": "ST:2024-01-24",
+  "checked": true,
+  "level": 3
+ },
+ "47C9876_000_00": {
+  "legendCode": "47C9876_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C9876_00",
+  "partNo": "47C9876",
+  "name": "驾驶室",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 3
+ },
+ "47C5148_001_00": {
+  "legendCode": "47C5148_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5148_00",
+  "partNo": "47C5148",
+  "name": "防护网",
+  "note": "ST:2022-10-12",
+  "checked": false,
+  "level": 4
+ },
+ "47C5148_000_00": {
+  "legendCode": "47C5148_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5148_00",
+  "partNo": "47C5148",
+  "name": "防护网",
+  "note": null,
+  "checked": false,
+  "level": 4
+ },
+ "47C5688_000_00": {
+  "legendCode": "47C5688_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5688_00",
+  "partNo": "47C5688",
+  "name": "防护网",
+  "note": null,
+  "checked": false,
+  "level": 4
+ },
+ "47C6473_000_00": {
+  "legendCode": "47C6473_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6473_00",
+  "partNo": "47C6473",
+  "name": "遮阳帘",
+  "note": "ST:2022-05-24",
+  "checked": false,
+  "level": 4
+ },
+ "47C9820_000_00": {
+  "legendCode": "47C9820_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C9820_00",
+  "partNo": "47C9820",
+  "name": "驾驶室",
+  "note": "ST:2023-03-18",
+  "checked": false,
+  "level": 4
+ },
+ "47C4438_000_00": {
+  "legendCode": "47C4438_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C4438_00",
+  "partNo": "47C4438",
+  "name": "后视镜",
+  "note": "ST:2020-10-22",
+  "checked": false,
+  "level": 5
+ },
+ "47C5872_000_00": {
+  "legendCode": "47C5872_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C5872_00",
+  "partNo": "47C5872",
+  "name": "内饰件总成",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 5
+ },
+ "37C1846_000_00": {
+  "legendCode": "37C1846_000_00",
+  "systemCode": "Y04",
+  "nodeId": "37C1846_00",
+  "partNo": "37C1846",
+  "name": "风道总成",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "47C6859_000_00": {
+  "legendCode": "47C6859_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6859_00",
+  "partNo": "47C6859",
+  "name": "后盖板",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "47C6860_000_00": {
+  "legendCode": "47C6860_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6860_00",
+  "partNo": "47C6860",
+  "name": "前罩",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "56C0762_000_00": {
+  "legendCode": "56C0762_000_00",
+  "systemCode": "Y04",
+  "nodeId": "56C0762_00",
+  "partNo": "56C0762",
+  "name": "风道总成",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "56C0763_000_00": {
+  "legendCode": "56C0763_000_00",
+  "systemCode": "Y04",
+  "nodeId": "56C0763_00",
+  "partNo": "56C0763",
+  "name": "风道总成",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "47C9819_000_00": {
+  "legendCode": "47C9819_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C9819_00",
+  "partNo": "47C9819",
+  "name": "驾驶室组件",
+  "note": "ST:2023-03-18",
+  "checked": false,
+  "level": 5
+ },
+ "47C0436_002_00": {
+  "legendCode": "47C0436_002_00",
+  "systemCode": "Y04",
+  "nodeId": "47C0436_00",
+  "partNo": "47C0436",
+  "name": "逃生锤总成",
+  "note": "ST:2026-06-08",
+  "checked": false,
+  "level": 6
+ },
+ "47C0436_001_00": {
+  "legendCode": "47C0436_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C0436_00",
+  "partNo": "47C0436",
+  "name": "逃生锤总成",
+  "note": null,
+  "checked": false,
+  "level": 6
+ },
+ "47C6775_000_00": {
+  "legendCode": "47C6775_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6775_00",
+  "partNo": "47C6775",
+  "name": "门组件",
+  "note": "ST:2021-11-25",
+  "checked": false,
+  "level": 6
+ },
+ "47C6727_001_00": {
+  "legendCode": "47C6727_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6727_00",
+  "partNo": "47C6727",
+  "name": "推拉窗组件",
+  "note": "ST:2022-06-21",
+  "checked": false,
+  "level": 7
+ },
+ "47C6727_000_00": {
+  "legendCode": "47C6727_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6727_00",
+  "partNo": "47C6727",
+  "name": "推拉窗组件",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 7
+ },
+ "56C0720_001_00": {
+  "legendCode": "56C0720_001_00",
+  "systemCode": "Y04",
+  "nodeId": "56C0720_00",
+  "partNo": "56C0720",
+  "name": "门锁",
+  "note": "ST:2021-06-08",
+  "checked": false,
+  "level": 7
+ },
+ "56C0720_000_00": {
+  "legendCode": "56C0720_000_00",
+  "systemCode": "Y04",
+  "nodeId": "56C0720_00",
+  "partNo": "56C0720",
+  "name": "门锁",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 7
+ },
+ "47C6812_000_00": {
+  "legendCode": "47C6812_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6812_00",
+  "partNo": "47C6812",
+  "name": "左侧门",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "47C6848_000_00": {
+  "legendCode": "47C6848_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6848_00",
+  "partNo": "47C6848",
+  "name": "安装板",
+  "note": "ST:2021-03-10",
+  "checked": false,
+  "level": 6
+ },
+ "64C0850_001_00": {
+  "legendCode": "64C0850_001_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0850_00",
+  "partNo": "64C0850",
+  "name": "门组件",
+  "note": "ST:2024-01-25",
+  "checked": false,
+  "level": 6
+ },
+ "64C0850_000_00": {
+  "legendCode": "64C0850_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0850_00",
+  "partNo": "64C0850",
+  "name": "门组件",
+  "note": "ST:2023-12-06",
+  "checked": false,
+  "level": 6
+ },
+ "74C0091_000_00": {
+  "legendCode": "74C0091_000_00",
+  "systemCode": "Y04",
+  "nodeId": "74C0091_00",
+  "partNo": "74C0091",
+  "name": "门锁",
+  "note": "ST:2023-12-05",
+  "checked": false,
+  "level": 7
+ },
+ "64C1215_000_00": {
+  "legendCode": "64C1215_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C1215_00",
+  "partNo": "64C1215",
+  "name": "遮阳帘",
+  "note": "ST:2024-01-15",
+  "checked": false,
+  "level": 4
+ },
+ "72C1261_001_00": {
+  "legendCode": "72C1261_001_00",
+  "systemCode": "Y04",
+  "nodeId": "72C1261_00",
+  "partNo": "72C1261",
+  "name": "防护网",
+  "note": "ST:2023-08-08",
+  "checked": false,
+  "level": 4
+ },
+ "72C1261_000_00": {
+  "legendCode": "72C1261_000_00",
+  "systemCode": "Y04",
+  "nodeId": "72C1261_00",
+  "partNo": "72C1261",
+  "name": "防护网",
+  "note": "ST:2022-10-18",
+  "checked": false,
+  "level": 4
+ },
+ "26C0807_000_00": {
+  "legendCode": "26C0807_000_00",
+  "systemCode": "Y04",
+  "nodeId": "26C0807_00",
+  "partNo": "26C0807",
+  "name": "扶手",
+  "note": "ST:2023-08-08",
+  "checked": false,
+  "level": 5
+ },
+ "72C1198_000_00": {
+  "legendCode": "72C1198_000_00",
+  "systemCode": "Y04",
+  "nodeId": "72C1198_00",
+  "partNo": "72C1198",
+  "name": "防护网",
+  "note": "ST:2022-09-01",
+  "checked": false,
+  "level": 5
+ },
+ "57C5281_001_00": {
+  "legendCode": "57C5281_001_00",
+  "systemCode": "Y04",
+  "nodeId": "57C5281_00",
+  "partNo": "57C5281",
+  "name": "驾驶室线路",
+  "note": "ST:2024-01-17",
+  "checked": true,
+  "level": 3
+ },
+ "57C5281_000_00": {
+  "legendCode": "57C5281_000_00",
+  "systemCode": "Y04",
+  "nodeId": "57C5281_00",
+  "partNo": "57C5281",
+  "name": "驾驶室线路",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "32B0066_000_00": {
+  "legendCode": "32B0066_000_00",
+  "systemCode": "Y04",
+  "nodeId": "32B0066_00",
+  "partNo": "32B0066",
+  "name": "壁灯",
+  "note": "ST:2021-04-22",
+  "checked": false,
+  "level": 4
+ },
+ "37B4221_000_00": {
+  "legendCode": "37B4221_000_00",
+  "systemCode": "Y04",
+  "nodeId": "37B4221_00",
+  "partNo": "37B4221",
+  "name": "收音机",
+  "note": "ST:2025-04-22",
+  "checked": false,
+  "level": 5
+ },
+ "37B4221_000_01": {
+  "legendCode": "37B4221_000_01",
+  "systemCode": "Y04",
+  "nodeId": "37B4221_01",
+  "partNo": "37B4221",
+  "name": "收音机",
+  "note": "ST:2025-04-22",
+  "checked": false,
+  "level": 5
+ },
+ "37B4221_000_02": {
+  "legendCode": "37B4221_000_02",
+  "systemCode": "Y04",
+  "nodeId": "37B4221_02",
+  "partNo": "37B4221",
+  "name": "收音机",
+  "note": "ST:2025-04-22",
+  "checked": false,
+  "level": 5
+ },
+ "37B4221_000_03": {
+  "legendCode": "37B4221_000_03",
+  "systemCode": "Y04",
+  "nodeId": "37B4221_03",
+  "partNo": "37B4221",
+  "name": "收音机",
+  "note": "ST:2025-04-22",
+  "checked": false,
+  "level": 5
+ },
+ "69C0358_000_00": {
+  "legendCode": "69C0358_000_00",
+  "systemCode": "Y04",
+  "nodeId": "69C0358_00",
+  "partNo": "69C0358",
+  "name": "顶灯线束",
+  "note": "ST:2023-11-22",
+  "checked": false,
+  "level": 4
+ },
+ "69C0969_000_00": {
+  "legendCode": "69C0969_000_00",
+  "systemCode": "Y04",
+  "nodeId": "69C0969_00",
+  "partNo": "69C0969",
+  "name": "驾驶室线束",
+  "note": "ST:2023-11-22",
+  "checked": false,
+  "level": 4
+ },
+ "64C1012_000_00": {
+  "legendCode": "64C1012_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C1012_00",
+  "partNo": "64C1012",
+  "name": "司机椅总成及电器",
+  "note": "ST:2023-12-06",
+  "checked": false,
+  "level": 2
+ },
+ "64C0973_000_00": {
+  "legendCode": "64C0973_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0973_00",
+  "partNo": "64C0973",
+  "name": "左扶手箱总成及电器",
+  "note": "ST:2023-12-06",
+  "checked": false,
+  "level": 3
+ },
+ "64C0956_000_00": {
+  "legendCode": "64C0956_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C0956_00",
+  "partNo": "64C0956",
+  "name": "左扶手箱总成",
+  "note": "ST:2024-04-16",
+  "checked": false,
+  "level": 4
+ },
+ "64C1303_000_00": {
+  "legendCode": "64C1303_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C1303_00",
+  "partNo": "64C1303",
+  "name": "驾驶室及电器",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 2
+ },
+ "57C7278_000_00": {
+  "legendCode": "57C7278_000_00",
+  "systemCode": "Y04",
+  "nodeId": "57C7278_00",
+  "partNo": "57C7278",
+  "name": "驾驶室线路",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 3
+ },
+ "64C1209_000_00": {
+  "legendCode": "64C1209_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C1209_00",
+  "partNo": "64C1209",
+  "name": "驾驶室",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 3
+ },
+ "64C1147_000_00": {
+  "legendCode": "64C1147_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C1147_00",
+  "partNo": "64C1147",
+  "name": "驾驶室",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 4
+ },
+ "64C4422_000_00": {
+  "legendCode": "64C4422_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C4422_00",
+  "partNo": "64C4422",
+  "name": "驾驶室及电器",
+  "note": "ST:2025-09-29",
+  "checked": false,
+  "level": 2
+ },
+ "64C4423_000_00": {
+  "legendCode": "64C4423_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C4423_00",
+  "partNo": "64C4423",
+  "name": "驾驶室",
+  "note": "ST:2025-09-29",
+  "checked": false,
+  "level": 3
+ },
+ "64C3948_000_00": {
+  "legendCode": "64C3948_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C3948_00",
+  "partNo": "64C3948",
+  "name": "驾驶室",
+  "note": "ST:2024-12-16",
+  "checked": false,
+  "level": 4
+ },
+ "47C6335_001_00": {
+  "legendCode": "47C6335_001_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6335_00",
+  "partNo": "47C6335",
+  "name": "驾驶室组件",
+  "note": "ST:2021-12-06",
+  "checked": false,
+  "level": 5
+ },
+ "47C6335_000_00": {
+  "legendCode": "47C6335_000_00",
+  "systemCode": "Y04",
+  "nodeId": "47C6335_00",
+  "partNo": "47C6335",
+  "name": "驾驶室组件",
+  "note": "ST:2021-03-11",
+  "checked": false,
+  "level": 5
+ },
+ "56C4720_000_00": {
+  "legendCode": "56C4720_000_00",
+  "systemCode": "Y04",
+  "nodeId": "56C4720_00",
+  "partNo": "56C4720",
+  "name": "内饰件总成",
+  "note": "ST:2024-11-18",
+  "checked": false,
+  "level": 5
+ },
+ "72C6226_000_00": {
+  "legendCode": "72C6226_000_00",
+  "systemCode": "Y04",
+  "nodeId": "72C6226_00",
+  "partNo": "72C6226",
+  "name": "前罩",
+  "note": "ST:2024-11-26",
+  "checked": false,
+  "level": 6
+ },
+ "64C2578_000_00": {
+  "legendCode": "64C2578_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C2578_00",
+  "partNo": "64C2578",
+  "name": "后视镜总成",
+  "note": "ST:2024-12-16",
+  "checked": false,
+  "level": 5
+ },
+ "64C4458_000_00": {
+  "legendCode": "64C4458_000_00",
+  "systemCode": "Y04",
+  "nodeId": "64C4458_00",
+  "partNo": "64C4458",
+  "name": "地板架总成",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 2
+ },
+ "44Y2150_000_00": {
+  "legendCode": "44Y2150_000_00",
+  "systemCode": "Y12",
+  "nodeId": "44Y2150_00",
+  "partNo": "44Y2150",
+  "name": "机罩总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "26C0809_000_00": {
+  "legendCode": "26C0809_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0809_00",
+  "partNo": "26C0809",
+  "name": "扶手",
+  "note": "ST:2023-08-21",
+  "checked": false,
+  "level": 4
+ },
+ "26C0810_000_00": {
+  "legendCode": "26C0810_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0810_00",
+  "partNo": "26C0810",
+  "name": "扶手",
+  "note": "ST:2023-08-21",
+  "checked": false,
+  "level": 4
+ },
+ "26C0811_000_00": {
+  "legendCode": "26C0811_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0811_00",
+  "partNo": "26C0811",
+  "name": "扶手",
+  "note": "ST:2023-08-24",
+  "checked": false,
+  "level": 4
+ },
+ "26C0812_000_00": {
+  "legendCode": "26C0812_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0812_00",
+  "partNo": "26C0812",
+  "name": "扶手",
+  "note": "ST:2023-08-21",
+  "checked": false,
+  "level": 4
+ },
+ "26C0838_000_00": {
+  "legendCode": "26C0838_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0838_00",
+  "partNo": "26C0838",
+  "name": "扶手",
+  "note": "ST:2023-11-23",
+  "checked": true,
+  "level": 4
+ },
+ "26C0839_000_00": {
+  "legendCode": "26C0839_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0839_00",
+  "partNo": "26C0839",
+  "name": "扶手",
+  "note": "ST:2023-11-23",
+  "checked": true,
+  "level": 4
+ },
+ "26C0840_000_00": {
+  "legendCode": "26C0840_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0840_00",
+  "partNo": "26C0840",
+  "name": "扶手",
+  "note": "ST:2023-11-23",
+  "checked": true,
+  "level": 4
+ },
+ "26C0851_001_00": {
+  "legendCode": "26C0851_001_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0851_00",
+  "partNo": "26C0851",
+  "name": "扶手",
+  "note": "ST:2025-11-18",
+  "checked": true,
+  "level": 4
+ },
+ "26C0851_000_00": {
+  "legendCode": "26C0851_000_00",
+  "systemCode": "Y12",
+  "nodeId": "26C0851_00",
+  "partNo": "26C0851",
+  "name": "扶手",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 4
+ },
+ "48C9563_000_00": {
+  "legendCode": "48C9563_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9563_00",
+  "partNo": "48C9563",
+  "name": "机罩总成",
+  "note": "ST:2023-08-08",
+  "checked": true,
+  "level": 4
+ },
+ "48C9632_000_00": {
+  "legendCode": "48C9632_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9632_00",
+  "partNo": "48C9632",
+  "name": "左门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "73C0135_000_00": {
+  "legendCode": "73C0135_000_00",
+  "systemCode": "Y12",
+  "nodeId": "73C0135_00",
+  "partNo": "73C0135",
+  "name": "工具箱",
+  "note": "ST:2023-08-10",
+  "checked": false,
+  "level": 4
+ },
+ "73C0517_000_00": {
+  "legendCode": "73C0517_000_00",
+  "systemCode": "Y12",
+  "nodeId": "73C0517_00",
+  "partNo": "73C0517",
+  "name": "箱体总成",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 4
+ },
+ "73C0618_000_00": {
+  "legendCode": "73C0618_000_00",
+  "systemCode": "Y12",
+  "nodeId": "73C0618_00",
+  "partNo": "73C0618",
+  "name": "箱体总成",
+  "note": "ST:2024-02-04",
+  "checked": false,
+  "level": 4
+ },
+ "44Y2150_000_01": {
+  "legendCode": "44Y2150_000_01",
+  "systemCode": "Y12",
+  "nodeId": "44Y2150_01",
+  "partNo": "44Y2150",
+  "name": "机罩总成",
+  "note": "ST:2025-11-24",
+  "checked": true,
+  "level": 3
+ },
+ "17C0193_000_00": {
+  "legendCode": "17C0193_000_00",
+  "systemCode": "Y12",
+  "nodeId": "17C0193_00",
+  "partNo": "17C0193",
+  "name": "盖板",
+  "note": "ST:2022-12-23",
+  "checked": true,
+  "level": 4
+ },
+ "17C0661_000_00": {
+  "legendCode": "17C0661_000_00",
+  "systemCode": "Y12",
+  "nodeId": "17C0661_00",
+  "partNo": "17C0661",
+  "name": "盖板",
+  "note": "ST:2026-01-21",
+  "checked": false,
+  "level": 4
+ },
+ "22C8879_001_00": {
+  "legendCode": "22C8879_001_00",
+  "systemCode": "Y12",
+  "nodeId": "22C8879_00",
+  "partNo": "22C8879",
+  "name": "防滑踏板组件",
+  "note": "ST:2023-11-16",
+  "checked": false,
+  "level": 4
+ },
+ "22C8879_000_00": {
+  "legendCode": "22C8879_000_00",
+  "systemCode": "Y12",
+  "nodeId": "22C8879_00",
+  "partNo": "22C8879",
+  "name": "防滑踏板组件",
+  "note": "ST:2022-09-16",
+  "checked": false,
+  "level": 4
+ },
+ "48C9648_000_00": {
+  "legendCode": "48C9648_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9648_00",
+  "partNo": "48C9648",
+  "name": "盖板",
+  "note": "ST:2022-12-28",
+  "checked": true,
+  "level": 4
+ },
+ "48C9664_000_00": {
+  "legendCode": "48C9664_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9664_00",
+  "partNo": "48C9664",
+  "name": "盖板",
+  "note": "ST:2022-12-27",
+  "checked": true,
+  "level": 4
+ },
+ "72C3251_000_00": {
+  "legendCode": "72C3251_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3251_00",
+  "partNo": "72C3251",
+  "name": "踏板组件",
+  "note": "ST:2024-02-04",
+  "checked": true,
+  "level": 4
+ },
+ "72C3246_000_00": {
+  "legendCode": "72C3246_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3246_00",
+  "partNo": "72C3246",
+  "name": "踏板",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 5
+ },
+ "72C4507_000_00": {
+  "legendCode": "72C4507_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C4507_00",
+  "partNo": "72C4507",
+  "name": "踏板总成",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 5
+ },
+ "72C4926_000_00": {
+  "legendCode": "72C4926_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C4926_00",
+  "partNo": "72C4926",
+  "name": "踏板",
+  "note": "ST:2024-07-26",
+  "checked": false,
+  "level": 5
+ },
+ "44Y2150_000_02": {
+  "legendCode": "44Y2150_000_02",
+  "systemCode": "Y12",
+  "nodeId": "44Y2150_02",
+  "partNo": "44Y2150",
+  "name": "机罩总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "37C2193_000_00": {
+  "legendCode": "37C2193_000_00",
+  "systemCode": "Y12",
+  "nodeId": "37C2193_00",
+  "partNo": "37C2193",
+  "name": "隔板",
+  "note": "ST:2022-12-29",
+  "checked": true,
+  "level": 4
+ },
+ "37C2194_000_00": {
+  "legendCode": "37C2194_000_00",
+  "systemCode": "Y12",
+  "nodeId": "37C2194_00",
+  "partNo": "37C2194",
+  "name": "隔板",
+  "note": "ST:2022-12-29",
+  "checked": true,
+  "level": 4
+ },
+ "37C2195_000_00": {
+  "legendCode": "37C2195_000_00",
+  "systemCode": "Y12",
+  "nodeId": "37C2195_00",
+  "partNo": "37C2195",
+  "name": "隔板",
+  "note": "ST:2022-12-28",
+  "checked": true,
+  "level": 4
+ },
+ "48C9562_000_00": {
+  "legendCode": "48C9562_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9562_00",
+  "partNo": "48C9562",
+  "name": "左门",
+  "note": "ST:2022-09-20",
+  "checked": false,
+  "level": 4
+ },
+ "48C9655_000_00": {
+  "legendCode": "48C9655_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9655_00",
+  "partNo": "48C9655",
+  "name": "左门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "48C9652_000_00": {
+  "legendCode": "48C9652_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9652_00",
+  "partNo": "48C9652",
+  "name": "机罩总成",
+  "note": "ST:2022-09-23",
+  "checked": true,
+  "level": 4
+ },
+ "48C9649_000_00": {
+  "legendCode": "48C9649_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9649_00",
+  "partNo": "48C9649",
+  "name": "门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "48C9650_000_00": {
+  "legendCode": "48C9650_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9650_00",
+  "partNo": "48C9650",
+  "name": "门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "48C9651_000_00": {
+  "legendCode": "48C9651_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9651_00",
+  "partNo": "48C9651",
+  "name": "门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "72C3256_000_00": {
+  "legendCode": "72C3256_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3256_00",
+  "partNo": "72C3256",
+  "name": "左门",
+  "note": "ST:2025-04-17",
+  "checked": true,
+  "level": 4
+ },
+ "72C3313_000_00": {
+  "legendCode": "72C3313_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3313_00",
+  "partNo": "72C3313",
+  "name": "左门",
+  "note": "ST:2023-11-17",
+  "checked": false,
+  "level": 5
+ },
+ "44Y2150_000_03": {
+  "legendCode": "44Y2150_000_03",
+  "systemCode": "Y12",
+  "nodeId": "44Y2150_03",
+  "partNo": "44Y2150",
+  "name": "机罩总成",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "22C8910_000_00": {
+  "legendCode": "22C8910_000_00",
+  "systemCode": "Y12",
+  "nodeId": "22C8910_00",
+  "partNo": "22C8910",
+  "name": "支架",
+  "note": "ST:2022-12-26",
+  "checked": true,
+  "level": 4
+ },
+ "22C8956_000_00": {
+  "legendCode": "22C8956_000_00",
+  "systemCode": "Y12",
+  "nodeId": "22C8956_00",
+  "partNo": "22C8956",
+  "name": "支架",
+  "note": "ST:2022-12-26",
+  "checked": true,
+  "level": 4
+ },
+ "22C8993_000_00": {
+  "legendCode": "22C8993_000_00",
+  "systemCode": "Y12",
+  "nodeId": "22C8993_00",
+  "partNo": "22C8993",
+  "name": "支架",
+  "note": "ST:2022-12-26",
+  "checked": true,
+  "level": 4
+ },
+ "48C9561_000_00": {
+  "legendCode": "48C9561_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9561_00",
+  "partNo": "48C9561",
+  "name": "右门",
+  "note": "ST:2022-09-20",
+  "checked": false,
+  "level": 4
+ },
+ "48C9629_000_00": {
+  "legendCode": "48C9629_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9629_00",
+  "partNo": "48C9629",
+  "name": "右门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "48C9630_000_00": {
+  "legendCode": "48C9630_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9630_00",
+  "partNo": "48C9630",
+  "name": "右门",
+  "note": "ST:2022-12-28",
+  "checked": false,
+  "level": 5
+ },
+ "72C1115_000_00": {
+  "legendCode": "72C1115_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C1115_00",
+  "partNo": "72C1115",
+  "name": "右门",
+  "note": "ST:2022-12-22",
+  "checked": false,
+  "level": 5
+ },
+ "72C1119_000_00": {
+  "legendCode": "72C1119_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C1119_00",
+  "partNo": "72C1119",
+  "name": "右门",
+  "note": "ST:2022-12-22",
+  "checked": false,
+  "level": 5
+ },
+ "48C9659_000_00": {
+  "legendCode": "48C9659_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9659_00",
+  "partNo": "48C9659",
+  "name": "支架",
+  "note": "ST:2022-12-27",
+  "checked": true,
+  "level": 4
+ },
+ "48C9660_000_00": {
+  "legendCode": "48C9660_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9660_00",
+  "partNo": "48C9660",
+  "name": "支架",
+  "note": "ST:2022-12-27",
+  "checked": true,
+  "level": 4
+ },
+ "48C9792_000_00": {
+  "legendCode": "48C9792_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9792_00",
+  "partNo": "48C9792",
+  "name": "横梁",
+  "note": "ST:2022-12-27",
+  "checked": true,
+  "level": 4
+ },
+ "72C3254_000_00": {
+  "legendCode": "72C3254_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3254_00",
+  "partNo": "72C3254",
+  "name": "右门",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 4
+ },
+ "72C3253_001_00": {
+  "legendCode": "72C3253_001_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3253_00",
+  "partNo": "72C3253",
+  "name": "右门",
+  "note": "ST:2024-02-04",
+  "checked": false,
+  "level": 5
+ },
+ "72C3253_000_00": {
+  "legendCode": "72C3253_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3253_00",
+  "partNo": "72C3253",
+  "name": "右门",
+  "note": "ST:2023-11-16",
+  "checked": false,
+  "level": 5
+ },
+ "72C3255_001_00": {
+  "legendCode": "72C3255_001_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3255_00",
+  "partNo": "72C3255",
+  "name": "右门",
+  "note": "ST:2024-02-04",
+  "checked": false,
+  "level": 5
+ },
+ "72C3255_000_00": {
+  "legendCode": "72C3255_000_00",
+  "systemCode": "Y12",
+  "nodeId": "72C3255_00",
+  "partNo": "72C3255",
+  "name": "右门",
+  "note": "ST:2023-11-16",
+  "checked": false,
+  "level": 5
+ },
+ "44Y2150_000_04": {
+  "legendCode": "44Y2150_000_04",
+  "systemCode": "Y12",
+  "nodeId": "44Y2150_04",
+  "partNo": "44Y2150",
+  "name": "机罩总成",
+  "note": "ST:2024-06-07",
+  "checked": true,
+  "level": 3
+ },
+ "44Y2214_000_00": {
+  "legendCode": "44Y2214_000_00",
+  "systemCode": "Y12",
+  "nodeId": "44Y2214_00",
+  "partNo": "44Y2214",
+  "name": "机罩总成",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 3
+ },
+ "44Y2214_000_01": {
+  "legendCode": "44Y2214_000_01",
+  "systemCode": "Y12",
+  "nodeId": "44Y2214_01",
+  "partNo": "44Y2214",
+  "name": "机罩总成",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 3
+ },
+ "44Y2214_000_02": {
+  "legendCode": "44Y2214_000_02",
+  "systemCode": "Y12",
+  "nodeId": "44Y2214_02",
+  "partNo": "44Y2214",
+  "name": "机罩总成",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 3
+ },
+ "44Y2214_000_03": {
+  "legendCode": "44Y2214_000_03",
+  "systemCode": "Y12",
+  "nodeId": "44Y2214_03",
+  "partNo": "44Y2214",
+  "name": "机罩总成",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 3
+ },
+ "48C9677_000_00": {
+  "legendCode": "48C9677_000_00",
+  "systemCode": "Y12",
+  "nodeId": "48C9677_00",
+  "partNo": "48C9677",
+  "name": "通道板",
+  "note": "ST:2024-02-04",
+  "checked": true,
+  "level": 2
+ },
+ "49C7452_000_00": {
+  "legendCode": "49C7452_000_00",
+  "systemCode": "Y06",
+  "nodeId": "49C7452_00",
+  "partNo": "49C7452",
+  "name": "电源转换线路总成",
+  "note": "ST:2020-05-25",
+  "checked": true,
+  "level": 2
+ },
+ "49C7797_000_00": {
+  "legendCode": "49C7797_000_00",
+  "systemCode": "Y06",
+  "nodeId": "49C7797_00",
+  "partNo": "49C7797",
+  "name": "警示灯线路总成",
+  "note": "ST:2020-04-23",
+  "checked": true,
+  "level": 2
+ },
+ "32B0842_000_00": {
+  "legendCode": "32B0842_000_00",
+  "systemCode": "Y06",
+  "nodeId": "32B0842_00",
+  "partNo": "32B0842",
+  "name": "旋转警示灯",
+  "note": "ST:2018-12-06",
+  "checked": false,
+  "level": 3
+ },
+ "49C7799_002_00": {
+  "legendCode": "49C7799_002_00",
+  "systemCode": "Y06",
+  "nodeId": "49C7799_00",
+  "partNo": "49C7799",
+  "name": "熄火装置",
+  "note": "ST:2025-09-12",
+  "checked": true,
+  "level": 2
+ },
+ "49C7799_001_00": {
+  "legendCode": "49C7799_001_00",
+  "systemCode": "Y06",
+  "nodeId": "49C7799_00",
+  "partNo": "49C7799",
+  "name": "熄火装置",
+  "note": "ST:2023-04-10",
+  "checked": true,
+  "level": 2
+ },
+ "49C7799_000_00": {
+  "legendCode": "49C7799_000_00",
+  "systemCode": "Y06",
+  "nodeId": "49C7799_00",
+  "partNo": "49C7799",
+  "name": "熄火装置",
+  "note": "ST:2020-04-23",
+  "checked": true,
+  "level": 2
+ },
+ "70C2981_000_00": {
+  "legendCode": "70C2981_000_00",
+  "systemCode": "Y06",
+  "nodeId": "70C2981_00",
+  "partNo": "70C2981",
+  "name": "线束",
+  "note": "ST:2020-05-26",
+  "checked": false,
+  "level": 3
+ },
+ "55C5321_000_00": {
+  "legendCode": "55C5321_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C5321_00",
+  "partNo": "55C5321",
+  "name": "脚踏组件",
+  "note": "ST:2022-09-15",
+  "checked": true,
+  "level": 2
+ },
+ "55C6231_000_00": {
+  "legendCode": "55C6231_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C6231_00",
+  "partNo": "55C6231",
+  "name": "工作装置线路",
+  "note": "ST:2022-09-16",
+  "checked": true,
+  "level": 2
+ },
+ "71C0101_000_00": {
+  "legendCode": "71C0101_000_00",
+  "systemCode": "Y06",
+  "nodeId": "71C0101_00",
+  "partNo": "71C0101",
+  "name": "线束",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 3
+ },
+ "71C1143_000_00": {
+  "legendCode": "71C1143_000_00",
+  "systemCode": "Y06",
+  "nodeId": "71C1143_00",
+  "partNo": "71C1143",
+  "name": "线束",
+  "note": "ST:2023-01-17",
+  "checked": false,
+  "level": 3
+ },
+ "55C6290_000_00": {
+  "legendCode": "55C6290_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C6290_00",
+  "partNo": "55C6290",
+  "name": "照明线路",
+  "note": "ST:2022-09-20",
+  "checked": true,
+  "level": 2
+ },
+ "55C6326_001_00": {
+  "legendCode": "55C6326_001_00",
+  "systemCode": "Y06",
+  "nodeId": "55C6326_00",
+  "partNo": "55C6326",
+  "name": "灯组件",
+  "note": "ST:2022-09-16",
+  "checked": true,
+  "level": 2
+ },
+ "55C6326_000_00": {
+  "legendCode": "55C6326_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C6326_00",
+  "partNo": "55C6326",
+  "name": "灯组件",
+  "note": "ST:2022-09-16",
+  "checked": true,
+  "level": 2
+ },
+ "55C7392_000_00": {
+  "legendCode": "55C7392_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C7392_00",
+  "partNo": "55C7392",
+  "name": "仪表组件",
+  "note": "ST:2022-12-27",
+  "checked": true,
+  "level": 2
+ },
+ "57C1627_000_00": {
+  "legendCode": "57C1627_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C1627_00",
+  "partNo": "57C1627",
+  "name": "牌照灯",
+  "note": "ST:2022-10-19",
+  "checked": true,
+  "level": 2
+ },
+ "32B0333_000_00": {
+  "legendCode": "32B0333_000_00",
+  "systemCode": "Y06",
+  "nodeId": "32B0333_00",
+  "partNo": "32B0333",
+  "name": "牌照灯",
+  "note": "ST:20141128",
+  "checked": false,
+  "level": 3
+ },
+ "57C5228_000_00": {
+  "legendCode": "57C5228_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_00",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_01": {
+  "legendCode": "57C5228_000_01",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_01",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_02": {
+  "legendCode": "57C5228_000_02",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_02",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_03": {
+  "legendCode": "57C5228_000_03",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_03",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "55C8190_000_00": {
+  "legendCode": "55C8190_000_00",
+  "systemCode": "Y06",
+  "nodeId": "55C8190_00",
+  "partNo": "55C8190",
+  "name": "电器集中控制盒",
+  "note": null,
+  "checked": true,
+  "level": 4
+ },
+ "37B2018_000_00": {
+  "legendCode": "37B2018_000_00",
+  "systemCode": "Y06",
+  "nodeId": "37B2018_00",
+  "partNo": "37B2018",
+  "name": "保险丝",
+  "note": "ST:2025-09-11",
+  "checked": false,
+  "level": 5
+ },
+ "69C0308_000_00": {
+  "legendCode": "69C0308_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C0308_00",
+  "partNo": "69C0308",
+  "name": "车架线束",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 5
+ },
+ "69C0308_000_01": {
+  "legendCode": "69C0308_000_01",
+  "systemCode": "Y06",
+  "nodeId": "69C0308_01",
+  "partNo": "69C0308",
+  "name": "车架线束",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 5
+ },
+ "69C0308_000_02": {
+  "legendCode": "69C0308_000_02",
+  "systemCode": "Y06",
+  "nodeId": "69C0308_02",
+  "partNo": "69C0308",
+  "name": "车架线束",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 5
+ },
+ "57C5228_000_04": {
+  "legendCode": "57C5228_000_04",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_04",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_05": {
+  "legendCode": "57C5228_000_05",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_05",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_06": {
+  "legendCode": "57C5228_000_06",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_06",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_07": {
+  "legendCode": "57C5228_000_07",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_07",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_08": {
+  "legendCode": "57C5228_000_08",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_08",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_09": {
+  "legendCode": "57C5228_000_09",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_09",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "69C0441_000_00": {
+  "legendCode": "69C0441_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C0441_00",
+  "partNo": "69C0441",
+  "name": "线束",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 4
+ },
+ "57C5228_000_10": {
+  "legendCode": "57C5228_000_10",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_10",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2023-11-25",
+  "checked": true,
+  "level": 3
+ },
+ "57C5228_000_11": {
+  "legendCode": "57C5228_000_11",
+  "systemCode": "Y06",
+  "nodeId": "57C5228_11",
+  "partNo": "57C5228",
+  "name": "车架线路",
+  "note": "ST:2024-03-14",
+  "checked": true,
+  "level": 3
+ },
+ "57C5264_000_00": {
+  "legendCode": "57C5264_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5264_00",
+  "partNo": "57C5264",
+  "name": "控制器组件",
+  "note": "ST:2026-01-12",
+  "checked": true,
+  "level": 2
+ },
+ "57C5265_000_00": {
+  "legendCode": "57C5265_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5265_00",
+  "partNo": "57C5265",
+  "name": "控制器组件",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 2
+ },
+ "57C5274_000_00": {
+  "legendCode": "57C5274_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5274_00",
+  "partNo": "57C5274",
+  "name": "左扶手箱线路",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 2
+ },
+ "57C4421_000_00": {
+  "legendCode": "57C4421_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C4421_00",
+  "partNo": "57C4421",
+  "name": "左操纵手柄总成",
+  "note": "ST:2025-04-17",
+  "checked": true,
+  "level": 3
+ },
+ "57C5279_000_00": {
+  "legendCode": "57C5279_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5279_00",
+  "partNo": "57C5279",
+  "name": "监视线路",
+  "note": "ST:2025-01-01",
+  "checked": true,
+  "level": 2
+ },
+ "57C5285_000_00": {
+  "legendCode": "57C5285_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5285_00",
+  "partNo": "57C5285",
+  "name": "灯组件",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 2
+ },
+ "57C5304_000_00": {
+  "legendCode": "57C5304_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5304_00",
+  "partNo": "57C5304",
+  "name": "蓄电池组件",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 2
+ },
+ "70C2106_000_00": {
+  "legendCode": "70C2106_000_00",
+  "systemCode": "Y06",
+  "nodeId": "70C2106_00",
+  "partNo": "70C2106",
+  "name": "连接电缆",
+  "note": "ST:2018-07-23",
+  "checked": true,
+  "level": 3
+ },
+ "70C3699_000_00": {
+  "legendCode": "70C3699_000_00",
+  "systemCode": "Y06",
+  "nodeId": "70C3699_00",
+  "partNo": "70C3699",
+  "name": "电缆",
+  "note": "ST:2019-05-05",
+  "checked": true,
+  "level": 3
+ },
+ "71C0816_000_00": {
+  "legendCode": "71C0816_000_00",
+  "systemCode": "Y06",
+  "nodeId": "71C0816_00",
+  "partNo": "71C0816",
+  "name": "蓄电池连接电缆",
+  "note": "ST:2023-01-17",
+  "checked": true,
+  "level": 3
+ },
+ "82A1023_000_00": {
+  "legendCode": "82A1023_000_00",
+  "systemCode": "Y06",
+  "nodeId": "82A1023_00",
+  "partNo": "82A1023",
+  "name": "垫板",
+  "note": "ST:2019-05-27",
+  "checked": true,
+  "level": 3
+ },
+ "57C5819_000_00": {
+  "legendCode": "57C5819_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5819_00",
+  "partNo": "57C5819",
+  "name": "行走报警线路",
+  "note": "ST:2023-08-24",
+  "checked": true,
+  "level": 2
+ },
+ "37B1457_000_00": {
+  "legendCode": "37B1457_000_00",
+  "systemCode": "Y06",
+  "nodeId": "37B1457_00",
+  "partNo": "37B1457",
+  "name": "行走警报器",
+  "note": "ST:2018-01-15",
+  "checked": true,
+  "level": 3
+ },
+ "57C5823_000_00": {
+  "legendCode": "57C5823_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5823_00",
+  "partNo": "57C5823",
+  "name": "顶灯线路",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 2
+ },
+ "57C5877_000_00": {
+  "legendCode": "57C5877_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5877_00",
+  "partNo": "57C5877",
+  "name": "右扶手箱线路",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 2
+ },
+ "57C4420_000_00": {
+  "legendCode": "57C4420_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C4420_00",
+  "partNo": "57C4420",
+  "name": "右操纵手柄总成",
+  "note": "ST:2025-04-17",
+  "checked": true,
+  "level": 3
+ },
+ "57C5989_000_00": {
+  "legendCode": "57C5989_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C5989_00",
+  "partNo": "57C5989",
+  "name": "T-BOX总成",
+  "note": "ST:2023-09-22",
+  "checked": true,
+  "level": 2
+ },
+ "57C6001_000_00": {
+  "legendCode": "57C6001_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C6001_00",
+  "partNo": "57C6001",
+  "name": "雨刮线路",
+  "note": "ST:2023-11-24",
+  "checked": true,
+  "level": 2
+ },
+ "57C6041_000_00": {
+  "legendCode": "57C6041_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C6041_00",
+  "partNo": "57C6041",
+  "name": "加热器",
+  "note": "ST:2023-11-15",
+  "checked": true,
+  "level": 2
+ },
+ "57C6354_000_00": {
+  "legendCode": "57C6354_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C6354_00",
+  "partNo": "57C6354",
+  "name": "蓄电池组件",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 2
+ },
+ "37B1429_000_00": {
+  "legendCode": "37B1429_000_00",
+  "systemCode": "Y06",
+  "nodeId": "37B1429_00",
+  "partNo": "37B1429",
+  "name": "蓄电池",
+  "note": "ST:2019-05-27",
+  "checked": false,
+  "level": 3
+ },
+ "57C6635_000_00": {
+  "legendCode": "57C6635_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C6635_00",
+  "partNo": "57C6635",
+  "name": "雨刮线路",
+  "note": "ST:2024-08-09",
+  "checked": false,
+  "level": 2
+ },
+ "57C6885_000_00": {
+  "legendCode": "57C6885_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C6885_00",
+  "partNo": "57C6885",
+  "name": "开关组件",
+  "note": "ST:2023-12-25",
+  "checked": false,
+  "level": 2
+ },
+ "57C7244_000_00": {
+  "legendCode": "57C7244_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C7244_00",
+  "partNo": "57C7244",
+  "name": "车架线路",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 3
+ },
+ "57C7248_000_00": {
+  "legendCode": "57C7248_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C7248_00",
+  "partNo": "57C7248",
+  "name": "控制箱总成",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 4
+ },
+ "69C2556_000_00": {
+  "legendCode": "69C2556_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C2556_00",
+  "partNo": "69C2556",
+  "name": "线束",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 5
+ },
+ "69C2557_000_00": {
+  "legendCode": "69C2557_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C2557_00",
+  "partNo": "69C2557",
+  "name": "线束",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 5
+ },
+ "69C2558_000_00": {
+  "legendCode": "69C2558_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C2558_00",
+  "partNo": "69C2558",
+  "name": "线束",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 5
+ },
+ "83C3967_000_00": {
+  "legendCode": "83C3967_000_00",
+  "systemCode": "Y06",
+  "nodeId": "83C3967_00",
+  "partNo": "83C3967",
+  "name": "线束",
+  "note": "ST:2025-06-12",
+  "checked": false,
+  "level": 5
+ },
+ "69C2553_000_00": {
+  "legendCode": "69C2553_000_00",
+  "systemCode": "Y06",
+  "nodeId": "69C2553_00",
+  "partNo": "69C2553",
+  "name": "车架线束",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 4
+ },
+ "81C8220_000_00": {
+  "legendCode": "81C8220_000_00",
+  "systemCode": "Y06",
+  "nodeId": "81C8220_00",
+  "partNo": "81C8220",
+  "name": "电器集中控制盒",
+  "note": "ST:2025-12-22",
+  "checked": false,
+  "level": 4
+ },
+ "83C4495_000_00": {
+  "legendCode": "83C4495_000_00",
+  "systemCode": "Y06",
+  "nodeId": "83C4495_00",
+  "partNo": "83C4495",
+  "name": "车架线束",
+  "note": "ST:2025-10-10",
+  "checked": false,
+  "level": 4
+ },
+ "57C7244_000_01": {
+  "legendCode": "57C7244_000_01",
+  "systemCode": "Y06",
+  "nodeId": "57C7244_01",
+  "partNo": "57C7244",
+  "name": "车架线路",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 3
+ },
+ "57C7244_000_02": {
+  "legendCode": "57C7244_000_02",
+  "systemCode": "Y06",
+  "nodeId": "57C7244_02",
+  "partNo": "57C7244",
+  "name": "车架线路",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 3
+ },
+ "57C7244_001_03": {
+  "legendCode": "57C7244_001_03",
+  "systemCode": "Y06",
+  "nodeId": "57C7244_03",
+  "partNo": "57C7244",
+  "name": "车架线路",
+  "note": "ST:2025-12-19",
+  "checked": false,
+  "level": 3
+ },
+ "57C7286_000_00": {
+  "legendCode": "57C7286_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C7286_00",
+  "partNo": "57C7286",
+  "name": "工作装置线路",
+  "note": "ST:2024-05-06",
+  "checked": false,
+  "level": 2
+ },
+ "57C8842_000_00": {
+  "legendCode": "57C8842_000_00",
+  "systemCode": "Y06",
+  "nodeId": "57C8842_00",
+  "partNo": "57C8842",
+  "name": "辅助起动线路",
+  "note": "ST:2024-05-17",
+  "checked": false,
+  "level": 2
+ },
+ "81C4476_000_00": {
+  "legendCode": "81C4476_000_00",
+  "systemCode": "Y06",
+  "nodeId": "81C4476_00",
+  "partNo": "81C4476",
+  "name": "仪表组件",
+  "note": "ST:2025-01-02",
+  "checked": false,
+  "level": 2
+ },
+ "81C7130_000_00": {
+  "legendCode": "81C7130_000_00",
+  "systemCode": "Y06",
+  "nodeId": "81C7130_00",
+  "partNo": "81C7130",
+  "name": "左扶手箱线路",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 2
+ },
+ "81C7131_000_00": {
+  "legendCode": "81C7131_000_00",
+  "systemCode": "Y06",
+  "nodeId": "81C7131_00",
+  "partNo": "81C7131",
+  "name": "右扶手箱线路",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 2
+ },
+ "23Y1456_000_00": {
+  "legendCode": "23Y1456_000_00",
+  "systemCode": "Y11",
+  "nodeId": "23Y1456_00",
+  "partNo": "23Y1456",
+  "name": "空调系统",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 2
+ },
+ "55C5355_000_00": {
+  "legendCode": "55C5355_000_00",
+  "systemCode": "Y11",
+  "nodeId": "55C5355_00",
+  "partNo": "55C5355",
+  "name": "空调管路",
+  "note": "ST:2023-01-12",
+  "checked": true,
+  "level": 4
+ },
+ "55C5355_000_01": {
+  "legendCode": "55C5355_000_01",
+  "systemCode": "Y11",
+  "nodeId": "55C5355_01",
+  "partNo": "55C5355",
+  "name": "空调管路",
+  "note": "ST:2023-01-12",
+  "checked": true,
+  "level": 4
+ },
+ "55C5356_000_00": {
+  "legendCode": "55C5356_000_00",
+  "systemCode": "Y11",
+  "nodeId": "55C5356_00",
+  "partNo": "55C5356",
+  "name": "散热器空调部件总成",
+  "note": "ST:2023-01-16",
+  "checked": true,
+  "level": 3
+ },
+ "75C0012_001_00": {
+  "legendCode": "75C0012_001_00",
+  "systemCode": "Y11",
+  "nodeId": "75C0012_00",
+  "partNo": "75C0012",
+  "name": "驾驶室空调部件总成",
+  "note": "ST:2023-11-22",
+  "checked": true,
+  "level": 3
+ },
+ "75C0012_000_00": {
+  "legendCode": "75C0012_000_00",
+  "systemCode": "Y11",
+  "nodeId": "75C0012_00",
+  "partNo": "75C0012",
+  "name": "驾驶室空调部件总成",
+  "note": "ST:2023-01-12",
+  "checked": true,
+  "level": 3
+ },
+ "49C6237_000_00": {
+  "legendCode": "49C6237_000_00",
+  "systemCode": "Y11",
+  "nodeId": "49C6237_00",
+  "partNo": "49C6237",
+  "name": "蒸发器总成",
+  "note": "ST:2020-11-19",
+  "checked": true,
+  "level": 4
+ },
+ "SP229366_000_00": {
+  "legendCode": "SP229366_000_00",
+  "systemCode": "Y11",
+  "nodeId": "SP229366_00",
+  "partNo": "SP229366",
+  "name": "风机总成",
+  "note": "ST:2020-11-19",
+  "checked": false,
+  "level": 5
+ },
+ "SP229368_000_00": {
+  "legendCode": "SP229368_000_00",
+  "systemCode": "Y11",
+  "nodeId": "SP229368_00",
+  "partNo": "SP229368",
+  "name": "蒸发器总成",
+  "note": "ST:2020-11-19",
+  "checked": false,
+  "level": 5
+ },
+ "80C0021_000_00": {
+  "legendCode": "80C0021_000_00",
+  "systemCode": "Y11",
+  "nodeId": "80C0021_00",
+  "partNo": "80C0021",
+  "name": "水管组件",
+  "note": "ST:2023-12-25",
+  "checked": false,
+  "level": 4
+ },
+ "75C1491_000_00": {
+  "legendCode": "75C1491_000_00",
+  "systemCode": "Y11",
+  "nodeId": "75C1491_00",
+  "partNo": "75C1491",
+  "name": "发动机空调部件总成",
+  "note": "ST:2023-11-17",
+  "checked": true,
+  "level": 3
+ },
+ "75C2855_000_00": {
+  "legendCode": "75C2855_000_00",
+  "systemCode": "Y11",
+  "nodeId": "75C2855_00",
+  "partNo": "75C2855",
+  "name": "发动机空调部件总成",
+  "note": "ST:2025-01-02",
+  "checked": false,
+  "level": 3
+ },
+ "23Y2072_000_00": {
+  "legendCode": "23Y2072_000_00",
+  "systemCode": "Y11",
+  "nodeId": "23Y2072_00",
+  "partNo": "23Y2072",
+  "name": "空调系统",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 2
+ },
+ "75C3098_000_00": {
+  "legendCode": "75C3098_000_00",
+  "systemCode": "Y11",
+  "nodeId": "75C3098_00",
+  "partNo": "75C3098",
+  "name": "驾驶室空调部件总成",
+  "note": "ST:2025-04-15",
+  "checked": false,
+  "level": 3
+ },
+ "34B0557_000_00": {
+  "legendCode": "34B0557_000_00",
+  "systemCode": "Y07",
+  "nodeId": "34B0557_00",
+  "partNo": "34B0557",
+  "name": "钥匙",
+  "note": "ST:2019-05-27",
+  "checked": true,
+  "level": 2
+ },
+ "47Y1699_000_00": {
+  "legendCode": "47Y1699_000_00",
+  "systemCode": "Y07",
+  "nodeId": "47Y1699_00",
+  "partNo": "47Y1699",
+  "name": "随机配件",
+  "note": "ST:2023-08-21",
+  "checked": true,
+  "level": 2
+ },
+ "47Y1918_000_00": {
+  "legendCode": "47Y1918_000_00",
+  "systemCode": "Y07",
+  "nodeId": "47Y1918_00",
+  "partNo": "47Y1918",
+  "name": "随机配件",
+  "note": "ST:2024-05-15",
+  "checked": false,
+  "level": 2
+ },
+ "48Y3871_002_00": {
+  "legendCode": "48Y3871_002_00",
+  "systemCode": "Y07",
+  "nodeId": "48Y3871_00",
+  "partNo": "48Y3871",
+  "name": "标贴组件",
+  "note": "ST:2025-12-16",
+  "checked": true,
+  "level": 3
+ },
+ "48Y3871_000_00": {
+  "legendCode": "48Y3871_000_00",
+  "systemCode": "Y07",
+  "nodeId": "48Y3871_00",
+  "partNo": "48Y3871",
+  "name": "标贴组件",
+  "note": "ST:2023-08-29",
+  "checked": true,
+  "level": 3
+ },
+ "56C2554_000_00": {
+  "legendCode": "56C2554_000_00",
+  "systemCode": "Y07",
+  "nodeId": "56C2554_00",
+  "partNo": "56C2554",
+  "name": "标贴组件",
+  "note": "ST:2023-04-17",
+  "checked": false,
+  "level": 4
+ },
+ "48Y3871_001_01": {
+  "legendCode": "48Y3871_001_01",
+  "systemCode": "Y07",
+  "nodeId": "48Y3871_01",
+  "partNo": "48Y3871",
+  "name": "标贴组件",
+  "note": "ST:2023-11-16",
+  "checked": true,
+  "level": 3
+ },
+ "48Y3871_000_01": {
+  "legendCode": "48Y3871_000_01",
+  "systemCode": "Y07",
+  "nodeId": "48Y3871_01",
+  "partNo": "48Y3871",
+  "name": "标贴组件",
+  "note": "ST:2023-08-29",
+  "checked": true,
+  "level": 3
+ },
+ "48Y3871_000_02": {
+  "legendCode": "48Y3871_000_02",
+  "systemCode": "Y07",
+  "nodeId": "48Y3871_02",
+  "partNo": "48Y3871",
+  "name": "标贴组件",
+  "note": "ST:2023-08-29",
+  "checked": true,
+  "level": 3
+ },
+ "53Y0129_000_00": {
+  "legendCode": "53Y0129_000_00",
+  "systemCode": "Y07",
+  "nodeId": "53Y0129_00",
+  "partNo": "53Y0129",
+  "name": "随机工具清单",
+  "note": "ST:2023-11-17",
+  "checked": false,
+  "level": 2
+ },
+ "50Y1766_000_00": {
+  "legendCode": "50Y1766_000_00",
+  "systemCode": "Y08",
+  "nodeId": "50Y1766_00",
+  "partNo": "50Y1766",
+  "name": "电气系统原理图",
+  "note": "ST:2020-12-28",
+  "checked": false,
+  "level": 2
+ },
+ "50Y4594_000_00": {
+  "legendCode": "50Y4594_000_00",
+  "systemCode": "Y08",
+  "nodeId": "50Y4594_00",
+  "partNo": "50Y4594",
+  "name": "电气系统原理图",
+  "note": "ST:2023-11-17",
+  "checked": false,
+  "level": 3
+ },
+ "50Y4594_000_01": {
+  "legendCode": "50Y4594_000_01",
+  "systemCode": "Y08",
+  "nodeId": "50Y4594_01",
+  "partNo": "50Y4594",
+  "name": "电气系统原理图",
+  "note": "ST:2023-11-17",
+  "checked": false,
+  "level": 3
+ }
+}

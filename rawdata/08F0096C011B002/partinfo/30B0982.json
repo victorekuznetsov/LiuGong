@@ -1,0 +1,74 @@
+{
+ "partNO": "30B0982",
+ "parentPartNO": "SP284199",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30B0982",
+    "partName": "温度传感器",
+    "spec": "",
+    "weightKg": "0.045",
+    "sizeMm": "50.0*50.0*60.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由SP149220更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "30B0982",
+    "配件名称": "温度传感器",
+    "规格": "",
+    "重量(KG)": "0.045",
+    "尺寸(mm)": "50.0* 50.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由SP149220更改而来"
+   },
+   "photos": [
+    "/part/zp/35373534363635343564356335363833353435343536",
+    "/part/zp/35373534363635343564356335363833353435343536"
+   ],
+   "parentPartNO": "SP284199"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEMP SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30B0982",
+    "Part Name": "TEMP SENSOR",
+    "Specification": "",
+    "Weight": "0.045",
+    "Size": "50.0* 50.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP149220"
+   },
+   "photos": [
+    "/part/zp/35373534363635343564356335363833353435343536",
+    "/part/zp/35373534363635343564356335363833353435343536"
+   ],
+   "parentPartNO": "SP284199"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

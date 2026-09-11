@@ -1,0 +1,68 @@
+{
+ "partNO": "52A4374",
+ "parentPartNO": "42C2928",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "52A4374",
+    "partName": "输出法兰",
+    "spec": "",
+    "weightKg": "21.65",
+    "sizeMm": "353.0*351.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "52A4374",
+    "配件名称": "输出法兰",
+    "规格": "",
+    "重量(KG)": "21.65",
+    "尺寸(mm)": "353.0* 351.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2928"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OUTPUT FLANGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "52A4374",
+    "Part Name": "OUTPUT FLANGE",
+    "Specification": "",
+    "Weight": "21.65",
+    "Size": "353.0* 351.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2928"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

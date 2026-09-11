@@ -1,0 +1,68 @@
+{
+ "partNO": "64C4423",
+ "parentPartNO": "64C4422",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "64C4423",
+    "partName": "驾驶室",
+    "spec": "/",
+    "weightKg": "0.0",
+    "sizeMm": "1991.0*1820.0*1278.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "64C4423",
+    "配件名称": "驾驶室",
+    "规格": "/",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1991.0* 1820.0* 1278.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4422"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CAB",
+    "spec": "/",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "64C4423",
+    "Part Name": "CAB",
+    "Specification": "/",
+    "Weight": "0.0",
+    "Size": "1991.0* 1820.0* 1278.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C4422"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

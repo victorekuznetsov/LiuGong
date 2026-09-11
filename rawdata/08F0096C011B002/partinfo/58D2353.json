@@ -1,0 +1,68 @@
+{
+ "partNO": "58D2353",
+ "parentPartNO": "33Y1118",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "58D2353",
+    "partName": "底架",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "2880.0*3898.0*813.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "58D2353",
+    "配件名称": "底架",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "2880.0* 3898.0* 813.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "33Y1118"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRAME",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "58D2353",
+    "Part Name": "FRAME",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "2880.0* 3898.0* 813.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "33Y1118"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

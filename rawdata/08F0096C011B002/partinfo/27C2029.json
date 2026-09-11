@@ -1,0 +1,68 @@
+{
+ "partNO": "27C2029",
+ "parentPartNO": "53Y0129",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "27C2029",
+    "partName": "工具箱",
+    "spec": "16“",
+    "weightKg": "0.0",
+    "sizeMm": "412.0*218.0*204.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "27C2029",
+    "配件名称": "工具箱",
+    "规格": "16“",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "412.0* 218.0* 204.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "53Y0129"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TOOL BOX",
+    "spec": "16“",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "27C2029",
+    "Part Name": "TOOL BOX",
+    "Specification": "16“",
+    "Weight": "0.0",
+    "Size": "412.0* 218.0* 204.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "53Y0129"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

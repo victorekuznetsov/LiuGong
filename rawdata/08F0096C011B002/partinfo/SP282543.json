@@ -1,0 +1,68 @@
+{
+ "partNO": "SP282543",
+ "parentPartNO": "SP284178",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP282543",
+    "partName": "充电机皮带轮",
+    "spec": "",
+    "weightKg": "0.75",
+    "sizeMm": "68.0*68.0*50.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP282543",
+    "配件名称": "充电机皮带轮",
+    "规格": "",
+    "重量(KG)": "0.75",
+    "尺寸(mm)": "68.0* 68.0* 50.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284178"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PULLEY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP282543",
+    "Part Name": "PULLEY",
+    "Specification": "",
+    "Weight": "0.75",
+    "Size": "68.0* 68.0* 50.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP284178"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

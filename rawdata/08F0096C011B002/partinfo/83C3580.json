@@ -1,0 +1,68 @@
+{
+ "partNO": "83C3580",
+ "parentPartNO": "83C4495",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83C3580",
+    "partName": "线束",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "4701.0*2343.0*1963.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "83C3580",
+    "配件名称": "线束",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "4701.0* 2343.0* 1963.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "83C4495"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HARNESS",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "83C3580",
+    "Part Name": "HARNESS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "4701.0* 2343.0* 1963.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "83C4495"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "31B0536",
+ "parentPartNO": "57C7248",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "31B0536",
+    "partName": "继电器",
+    "spec": "",
+    "weightKg": "0.75",
+    "sizeMm": "138.0*137.0*79.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "极寒工况（零下20℃）下存在质量隐患，需改用31B0389；非极寒工况下可正常使用"
+   },
+   "attrsRaw": {
+    "配件编码": "31B0536",
+    "配件名称": "继电器",
+    "规格": "",
+    "重量(KG)": "0.75",
+    "尺寸(mm)": "138.0* 137.0* 79.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "极寒工况（零下20℃）下存在质量隐患，需改用31B0389；非极寒工况下可正常使用"
+   },
+   "photos": [
+    "/part/zp/353735353636353435393537353a3833353435343536",
+    "/part/zp/353735353636353435393537353a3833353435343536"
+   ],
+   "parentPartNO": "57C7248"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RELAY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31B0536",
+    "Part Name": "RELAY",
+    "Specification": "",
+    "Weight": "0.75",
+    "Size": "138.0* 137.0* 79.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "There is a quality hazard under extremely cold working conditions (minus 20 ℃), and 31B0389 needs to be used instead; Can be use"
+   },
+   "photos": [
+    "/part/zp/353735353636353435393537353a3833353435343536",
+    "/part/zp/353735353636353435393537353a3833353435343536"
+   ],
+   "parentPartNO": "57C7248"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

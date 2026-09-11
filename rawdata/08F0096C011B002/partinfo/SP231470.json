@@ -1,0 +1,68 @@
+{
+ "partNO": "SP231470",
+ "parentPartNO": "47C5601",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP231470",
+    "partName": "升降机构",
+    "spec": "",
+    "weightKg": "22.55",
+    "sizeMm": "546.0*478.0*250.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP231470",
+    "配件名称": "升降机构",
+    "规格": "",
+    "重量(KG)": "22.55",
+    "尺寸(mm)": "546.0* 478.0* 250.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5601"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LIFT MECHANISM",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP231470",
+    "Part Name": "LIFT MECHANISM",
+    "Specification": "",
+    "Weight": "22.55",
+    "Size": "546.0* 478.0* 250.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5601"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

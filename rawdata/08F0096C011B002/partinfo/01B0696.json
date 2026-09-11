@@ -1,0 +1,72 @@
+{
+ "partNO": "01B0696",
+ "parentPartNO": "75C1491",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0696",
+    "partName": "螺栓",
+    "spec": "M12×80-10.9-DK",
+    "weightKg": "0.079",
+    "sizeMm": "18.0*21.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01B0696",
+    "配件名称": "螺栓",
+    "规格": "M12×80-10.9-DK",
+    "重量(KG)": "0.079",
+    "尺寸(mm)": "18.0* 21.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3534353536363534353a3564353a3833353435343536"
+   ],
+   "parentPartNO": "75C1491"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M12×80-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0696",
+    "Part Name": "BOLT",
+    "Specification": "M12×80-10.9-DK",
+    "Weight": "0.079",
+    "Size": "18.0* 21.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3534353536363534353a3564353a3833353435343536"
+   ],
+   "parentPartNO": "75C1491"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

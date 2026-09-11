@@ -1,0 +1,68 @@
+{
+ "partNO": "79C2373",
+ "parentPartNO": "58C8917",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "79C2373",
+    "partName": "软管总成",
+    "spec": "20512-30-12/20592-30-12(H60)XFCP5S12X2550/DSS",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "79C2373",
+    "配件名称": "软管总成",
+    "规格": "20512-30-12/20592-30-12(H60)XFCP5S12X2550/DSS",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "58C8917"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE AS",
+    "spec": "20512-30-12/20592-30-12(H60)XFCP5S12X2550/DSS",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "79C2373",
+    "Part Name": "HOSE AS",
+    "Specification": "20512-30-12/20592-30-12(H60)XFCP5S12X2550/DSS",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "58C8917"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

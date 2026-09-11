@@ -1,0 +1,68 @@
+{
+ "partNO": "SP261997",
+ "parentPartNO": "60C9212",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP261997",
+    "partName": "分动箱齿轮油滤清器",
+    "spec": "",
+    "weightKg": "0.85",
+    "sizeMm": "162.0*103.0*97.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP261997",
+    "配件名称": "分动箱齿轮油滤清器",
+    "规格": "",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "162.0* 103.0* 97.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DISTRIBUTOR GEAR OIL FILTER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP261997",
+    "Part Name": "DISTRIBUTOR GEAR OIL FILTER",
+    "Specification": "",
+    "Weight": "0.85",
+    "Size": "162.0* 103.0* 97.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C9212"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

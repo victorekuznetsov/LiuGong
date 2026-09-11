@@ -1,0 +1,68 @@
+{
+ "partNO": "11C4329",
+ "parentPartNO": "13Y0343",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11C4329",
+    "partName": "行走马达及减速机",
+    "spec": "I=141.3 +KYB 228.6/337.2 CC/R",
+    "weightKg": "0.0",
+    "sizeMm": "797.0*735.0*735.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11C4329",
+    "配件名称": "行走马达及减速机",
+    "规格": "I=141.3 +KYB 228.6/337.2 CC/R",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "797.0* 735.0* 735.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0343"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRAVEL MOTOR&REDUCTION GEAR",
+    "spec": "I=141.3 +KYB 228.6/337.2 CC/R",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "11C4329",
+    "Part Name": "TRAVEL MOTOR&REDUCTION GEAR",
+    "Specification": "I=141.3 +KYB 228.6/337.2 CC/R",
+    "Weight": "0.0",
+    "Size": "797.0* 735.0* 735.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13Y0343"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

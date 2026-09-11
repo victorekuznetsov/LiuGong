@@ -1,0 +1,68 @@
+{
+ "partNO": "47C8032",
+ "parentPartNO": "64C0142",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C8032",
+    "partName": "右扶手箱总成",
+    "spec": "47C8032",
+    "weightKg": "2.95",
+    "sizeMm": "550.0*197.0*202.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C8032",
+    "配件名称": "右扶手箱总成",
+    "规格": "47C8032",
+    "重量(KG)": "2.95",
+    "尺寸(mm)": "550.0* 197.0* 202.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0142"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONSOLE AS-RH",
+    "spec": "47C8032",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C8032",
+    "Part Name": "CONSOLE AS-RH",
+    "Specification": "47C8032",
+    "Weight": "2.95",
+    "Size": "550.0* 197.0* 202.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0142"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

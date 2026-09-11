@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "12B0494",
+  "partName": "O-RING",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "30C0242",
+  "serviceSupportType": "Not produce parts",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

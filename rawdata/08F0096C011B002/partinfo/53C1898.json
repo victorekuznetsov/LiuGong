@@ -1,0 +1,68 @@
+{
+ "partNO": "53C1898",
+ "parentPartNO": "47Y1699",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C1898",
+    "partName": "柴油滤芯",
+    "spec": "",
+    "weightKg": "1.4",
+    "sizeMm": "318.0*118.0*118.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": "仅限海拔在2438米以下区域使用，2438米以上区域需使用SP237882"
+   },
+   "attrsRaw": {
+    "配件编码": "53C1898",
+    "配件名称": "柴油滤芯",
+    "规格": "",
+    "重量(KG)": "1.4",
+    "尺寸(mm)": "318.0* 118.0* 118.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": "仅限海拔在2438米以下区域使用，2438米以上区域需使用SP237882"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1699"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C1898",
+    "Part Name": "FUEL FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "1.4",
+    "Size": "318.0* 118.0* 118.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": "Only for use in areas with an altitude below 2438 meters. For areas above 2438 meters use SP237882"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1699"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "35C1624",
+ "parentPartNO": "15Y6221",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "35C1624",
+    "partName": "吸油软管",
+    "spec": "Φ154.3×10",
+    "weightKg": "0.0",
+    "sizeMm": "164.0*164.0*760.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "35C1624",
+    "配件名称": "吸油软管",
+    "规格": "Φ154.3×10",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "164.0* 164.0* 760.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUCTION HOSE",
+    "spec": "Φ154.3×10",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "35C1624",
+    "Part Name": "SUCTION HOSE",
+    "Specification": "Φ154.3×10",
+    "Weight": "0.0",
+    "Size": "164.0* 164.0* 760.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y6221"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "12D1508",
+ "parentPartNO": "64C0956",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12D1508",
+    "partName": "安装板",
+    "spec": "12D1508",
+    "weightKg": "0.063",
+    "sizeMm": "116.0*39.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12D1508",
+    "配件名称": "安装板",
+    "规格": "12D1508",
+    "重量(KG)": "0.063",
+    "尺寸(mm)": "116.0* 39.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0956"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MOUNTING PLATE",
+    "spec": "12D1508",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12D1508",
+    "Part Name": "MOUNTING PLATE",
+    "Specification": "12D1508",
+    "Weight": "0.063",
+    "Size": "116.0* 39.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "64C0956"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

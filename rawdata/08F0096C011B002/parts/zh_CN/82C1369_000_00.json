@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 2,
+  "partNO": null,
+  "partName": "软管接头",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "停止供货;改用30C3001;旧件不可替代新件（单向替换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "N",
+  "visible": false,
+  "parentPartNO": "82C1369",
+  "serviceSupportType": "不做配件",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

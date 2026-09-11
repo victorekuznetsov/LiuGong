@@ -1,0 +1,68 @@
+{
+ "partNO": "08B0625",
+ "parentPartNO": "48C9562",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08B0625",
+    "partName": "销",
+    "spec": "6×20",
+    "weightKg": "0.003",
+    "sizeMm": "18.0*4.0*4.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "与66A0156;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "08B0625",
+    "配件名称": "销",
+    "规格": "6×20",
+    "重量(KG)": "0.003",
+    "尺寸(mm)": "18.0* 4.0* 4.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "与66A0156;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "48C9562"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "6×20",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08B0625",
+    "Part Name": "PIN",
+    "Specification": "6×20",
+    "Weight": "0.003",
+    "Size": "18.0* 4.0* 4.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Interchangebale with 66A0156;"
+   },
+   "photos": [],
+   "parentPartNO": "48C9562"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

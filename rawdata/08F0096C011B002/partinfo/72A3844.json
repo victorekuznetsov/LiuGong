@@ -1,0 +1,68 @@
+{
+ "partNO": "72A3844",
+ "parentPartNO": "38Y2272",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72A3844",
+    "partName": "斗齿套",
+    "spec": "",
+    "weightKg": "45.35",
+    "sizeMm": "575.0*237.0*196.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "虎牙齿，岩石齿物料号为72A3324，齿座物料号为72A3319"
+   },
+   "attrsRaw": {
+    "配件编码": "72A3844",
+    "配件名称": "斗齿套",
+    "规格": "",
+    "重量(KG)": "45.35",
+    "尺寸(mm)": "575.0* 237.0* 196.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "虎牙齿，岩石齿物料号为72A3324，齿座物料号为72A3319"
+   },
+   "photos": [],
+   "parentPartNO": "38Y2272"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TIP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72A3844",
+    "Part Name": "TIP",
+    "Specification": "",
+    "Weight": "45.35",
+    "Size": "575.0* 237.0* 196.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "Tiger teeth, rock teeth material number 72A3324, tooth seat material number 72A3319"
+   },
+   "photos": [],
+   "parentPartNO": "38Y2272"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

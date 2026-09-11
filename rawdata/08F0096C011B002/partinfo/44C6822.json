@@ -1,0 +1,68 @@
+{
+ "partNO": "44C6822",
+ "parentPartNO": "12Y1441",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C6822",
+    "partName": "先导阀块组件",
+    "spec": "XDK-85/70",
+    "weightKg": "6.0",
+    "sizeMm": "443.0*129.0*121.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "44C6822",
+    "配件名称": "先导阀块组件",
+    "规格": "XDK-85/70",
+    "重量(KG)": "6.0",
+    "尺寸(mm)": "443.0* 129.0* 121.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1441"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PILOT VALVE GP",
+    "spec": "XDK-85/70",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "44C6822",
+    "Part Name": "PILOT VALVE GP",
+    "Specification": "XDK-85/70",
+    "Weight": "6.0",
+    "Size": "443.0* 129.0* 121.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12Y1441"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

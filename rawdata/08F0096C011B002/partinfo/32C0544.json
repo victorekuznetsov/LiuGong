@@ -1,0 +1,72 @@
+{
+ "partNO": "32C0544",
+ "parentPartNO": "12Y1441",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32C0544",
+    "partName": "三通接头",
+    "spec": "2-M18×1.5-6G_M18×1.5-6H",
+    "weightKg": "0.0",
+    "sizeMm": "55.0*35.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "32C0544",
+    "配件名称": "三通接头",
+    "规格": "2-M18×1.5-6G_M18×1.5-6H",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "55.0* 35.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373536363735343539353835383833353435343535"
+   ],
+   "parentPartNO": "12Y1441"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEE",
+    "spec": "2-M18×1.5-6G_M18×1.5-6H",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32C0544",
+    "Part Name": "TEE",
+    "Specification": "2-M18×1.5-6G_M18×1.5-6H",
+    "Weight": "0.0",
+    "Size": "55.0* 35.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373536363735343539353835383833353435343535"
+   ],
+   "parentPartNO": "12Y1441"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

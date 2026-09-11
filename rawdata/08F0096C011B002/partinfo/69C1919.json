@@ -1,0 +1,68 @@
+{
+ "partNO": "69C1919",
+ "parentPartNO": "57C6354",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "69C1919",
+    "partName": "蓄电池连接电缆",
+    "spec": "L=800",
+    "weightKg": "0.65",
+    "sizeMm": "434.0*318.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "69C1919",
+    "配件名称": "蓄电池连接电缆",
+    "规格": "L=800",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "434.0* 318.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C6354"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ACCUMULATOR CONNECTION CABLE",
+    "spec": "L=800",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "69C1919",
+    "Part Name": "ACCUMULATOR CONNECTION CABLE",
+    "Specification": "L=800",
+    "Weight": "0.65",
+    "Size": "434.0* 318.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C6354"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
