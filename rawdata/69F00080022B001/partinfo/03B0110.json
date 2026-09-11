@@ -1,0 +1,68 @@
+{
+ "partNO": "03B0110",
+ "parentPartNO": "31C0184",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B0110",
+    "partName": "螺母",
+    "spec": "M14×1.5-04-ZN.D",
+    "weightKg": "0.011",
+    "sizeMm": "24.0*24.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "03B0110",
+    "配件名称": "螺母",
+    "规格": "M14×1.5-04-ZN.D",
+    "重量(KG)": "0.011",
+    "尺寸(mm)": "24.0* 24.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "31C0184"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "M14×1.5-04-ZN.D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B0110",
+    "Part Name": "NUT",
+    "Specification": "M14×1.5-04-ZN.D",
+    "Weight": "0.011",
+    "Size": "24.0* 24.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "31C0184"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

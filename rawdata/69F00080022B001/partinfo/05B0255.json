@@ -1,0 +1,68 @@
+{
+ "partNO": "05B0255",
+ "parentPartNO": "09C3151",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "05B0255",
+    "partName": "螺柱",
+    "spec": "AM10×95-8.8-DK",
+    "weightKg": "0.057",
+    "sizeMm": "108.0*10.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "05B0255",
+    "配件名称": "螺柱",
+    "规格": "AM10×95-8.8-DK",
+    "重量(KG)": "0.057",
+    "尺寸(mm)": "108.0* 10.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "09C3151"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STUD",
+    "spec": "AM10×95-8.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "05B0255",
+    "Part Name": "STUD",
+    "Specification": "AM10×95-8.8-DK",
+    "Weight": "0.057",
+    "Size": "108.0* 10.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "09C3151"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

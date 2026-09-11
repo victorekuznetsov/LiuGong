@@ -1,0 +1,68 @@
+{
+ "partNO": "03B1629",
+ "parentPartNO": "03Y0413",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B1629",
+    "partName": "锁紧螺母",
+    "spec": "M14X1.5-10-ZN.D",
+    "weightKg": "0.025",
+    "sizeMm": "24.0*24.0*17.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "03B1629",
+    "配件名称": "锁紧螺母",
+    "规格": "M14X1.5-10-ZN.D",
+    "重量(KG)": "0.025",
+    "尺寸(mm)": "24.0* 24.0* 17.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0413"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCKNUT",
+    "spec": "M14X1.5-10-ZN.D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B1629",
+    "Part Name": "LOCKNUT",
+    "Specification": "M14X1.5-10-ZN.D",
+    "Weight": "0.025",
+    "Size": "24.0* 24.0* 17.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0413"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

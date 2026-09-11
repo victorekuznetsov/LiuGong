@@ -1,0 +1,68 @@
+{
+ "partNO": "01Y1418",
+ "parentPartNO": "01Y1420",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01Y1418",
+    "partName": "后桥总成",
+    "spec": "KESSLER_D111-32.82-T180",
+    "weightKg": "0.0",
+    "sizeMm": "985.0*3476.0*793.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01Y1418",
+    "配件名称": "后桥总成",
+    "规格": "KESSLER_D111-32.82-T180",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "985.0* 3476.0* 793.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1420"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "REAR AXLE AS",
+    "spec": "KESSLER_D111-32.82-T180",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01Y1418",
+    "Part Name": "REAR AXLE AS",
+    "Specification": "KESSLER_D111-32.82-T180",
+    "Weight": "0.0",
+    "Size": "985.0* 3476.0* 793.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1420"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

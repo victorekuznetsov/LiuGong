@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP195429",
+  "partName": "FUEL FILTER ELEMENT",
+  "qty": "1",
+  "storeTypeName": "500H",
+  "note": "INTERCHANGEABLE WITH 60C2390(BIDIRECTIONAL INTERCHANGE)",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "60C1574",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

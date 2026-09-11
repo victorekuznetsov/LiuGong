@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 0,
+  "partNO": "SP155529",
+  "partName": "密封组件",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "改用SP160154",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "15C0104",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

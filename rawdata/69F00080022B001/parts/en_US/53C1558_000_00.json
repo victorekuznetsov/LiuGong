@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "53C1561",
+  "partName": "RETUREN OIL FILTER ELEMENT",
+  "qty": "1",
+  "storeTypeName": "1000H",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C1558",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": null,
+  "partName": "VIRCUAL PART",
+  "qty": "1",
+  "storeTypeName": null,
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "N",
+  "visible": false,
+  "parentPartNO": "18D4380",
+  "serviceSupportType": "Not produce parts",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

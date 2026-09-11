@@ -1,0 +1,74 @@
+{
+ "partNO": "03B0658",
+ "parentPartNO": "03Y0413",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B0658",
+    "partName": "螺母",
+    "spec": "M27-10-DK",
+    "weightKg": "0.155",
+    "sizeMm": "16.0*18.0*9.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由03B0405更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "03B0658",
+    "配件名称": "螺母",
+    "规格": "M27-10-DK",
+    "重量(KG)": "0.155",
+    "尺寸(mm)": "16.0* 18.0* 9.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由03B0405更改而来"
+   },
+   "photos": [
+    "/part/zp/3534353736363534353a353935633833353435343535",
+    "/part/zp/3534353736363534353a353935633833353435343535"
+   ],
+   "parentPartNO": "03Y0413"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "M27-10-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B0658",
+    "Part Name": "NUT",
+    "Specification": "M27-10-DK",
+    "Weight": "0.155",
+    "Size": "16.0* 18.0* 9.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 03B0405"
+   },
+   "photos": [
+    "/part/zp/3534353736363534353a353935633833353435343535",
+    "/part/zp/3534353736363534353a353935633833353435343535"
+   ],
+   "parentPartNO": "03Y0413"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

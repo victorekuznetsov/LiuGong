@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 73,
+  "partNO": "SP269449",
+  "partName": "SHAFT DRIVE ASSEMBLY",
+  "qty": "1",
+  "storeTypeName": "5 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "11C3201",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,74 @@
+{
+ "partNO": "00B0030",
+ "parentPartNO": "12C4604",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00B0030",
+    "partName": "螺栓",
+    "spec": "M8×55-8.8-DK",
+    "weightKg": "0.0",
+    "sizeMm": "13.0*15.0*60.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用00B0572;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "00B0030",
+    "配件名称": "螺栓",
+    "规格": "M8×55-8.8-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "13.0* 15.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用00B0572;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/35343534363635343534353735343833353435343536",
+    "/part/zp/35343534363635343534353735343833353435343536"
+   ],
+   "parentPartNO": "12C4604"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M8×55-8.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00B0030",
+    "Part Name": "BOLT",
+    "Specification": "M8×55-8.8-DK",
+    "Weight": "0.0",
+    "Size": "13.0* 15.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 00B0572 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/35343534363635343534353735343833353435343536",
+    "/part/zp/35343534363635343534353735343833353435343536"
+   ],
+   "parentPartNO": "12C4604"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

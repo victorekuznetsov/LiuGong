@@ -1,0 +1,68 @@
+{
+ "partNO": "01Y1417",
+ "parentPartNO": "01Y1419",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01Y1417",
+    "partName": "前桥总成",
+    "spec": "KESSLER_D111-HDL-32.82-T180",
+    "weightKg": "0.0",
+    "sizeMm": "986.0*3476.0*676.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01Y1417",
+    "配件名称": "前桥总成",
+    "规格": "KESSLER_D111-HDL-32.82-T180",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "986.0* 3476.0* 676.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1419"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRONT AXLE AS",
+    "spec": "KESSLER_D111-HDL-32.82-T180",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01Y1417",
+    "Part Name": "FRONT AXLE AS",
+    "Specification": "KESSLER_D111-HDL-32.82-T180",
+    "Weight": "0.0",
+    "Size": "986.0* 3476.0* 676.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y1419"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

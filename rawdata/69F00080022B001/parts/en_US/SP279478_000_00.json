@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 3,
+  "partNO": "40C1778",
+  "partName": "WATER FILTER",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "CHANGED FROM 40C0536",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP279478",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

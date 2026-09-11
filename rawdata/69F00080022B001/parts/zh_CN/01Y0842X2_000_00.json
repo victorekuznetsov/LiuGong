@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "00C3990",
+  "partName": "后桥管路",
+  "qty": "1",
+  "storeTypeName": null,
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "01Y0842X2",
+  "serviceSupportType": "不做配件，通过下级部件进行维修；",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

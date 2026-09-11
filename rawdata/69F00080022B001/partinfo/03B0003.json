@@ -1,0 +1,74 @@
+{
+ "partNO": "03B0003",
+ "parentPartNO": "22C1987",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B0003",
+    "partName": "螺母",
+    "spec": "M12-8-DK",
+    "weightKg": "0.014",
+    "sizeMm": "20.0*20.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "重号;改用03B0711;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "03B0003",
+    "配件名称": "螺母",
+    "规格": "M12-8-DK",
+    "重量(KG)": "0.014",
+    "尺寸(mm)": "20.0* 20.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "重号;改用03B0711;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/35343537363635343534353435373833353435343536",
+    "/part/zp/35343537363635343534353435373833353435343536"
+   ],
+   "parentPartNO": "22C1987"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "M12-8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B0003",
+    "Part Name": "NUT",
+    "Specification": "M12-8-DK",
+    "Weight": "0.014",
+    "Size": "20.0* 20.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 03B0711 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/35343537363635343534353435373833353435343536",
+    "/part/zp/35343537363635343534353435373833353435343536"
+   ],
+   "parentPartNO": "22C1987"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

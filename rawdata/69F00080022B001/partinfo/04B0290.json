@@ -1,0 +1,72 @@
+{
+ "partNO": "04B0290",
+ "parentPartNO": "34C5370",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B0290",
+    "partName": "螺钉",
+    "spec": "M6×12-4.8-ZN.D（黑色）",
+    "weightKg": "0.005",
+    "sizeMm": "18.0*13.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B0290",
+    "配件名称": "螺钉",
+    "规格": "M6×12-4.8-ZN.D（黑色）",
+    "重量(KG)": "0.005",
+    "尺寸(mm)": "18.0* 13.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635343536356435343833353435343536"
+   ],
+   "parentPartNO": "34C5370"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "M6×12-4.8-ZN.D（黑色）",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B0290",
+    "Part Name": "SCREW",
+    "Specification": "M6×12-4.8-ZN.D（黑色）",
+    "Weight": "0.005",
+    "Size": "18.0* 13.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635343536356435343833353435343536"
+   ],
+   "parentPartNO": "34C5370"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "02B0020",
+ "parentPartNO": "00C3887",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "02B0020",
+    "partName": "U型螺栓",
+    "spec": "42-DK",
+    "weightKg": "0.142",
+    "sizeMm": "92.0*69.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "02B0020",
+    "配件名称": "U型螺栓",
+    "规格": "42-DK",
+    "重量(KG)": "0.142",
+    "尺寸(mm)": "92.0* 69.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343536363635343534353635343833353435343535",
+    "/part/zp/35343536363635343534353635343833353435343535"
+   ],
+   "parentPartNO": "00C3887"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "U-BOLT",
+    "spec": "42-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "02B0020",
+    "Part Name": "U-BOLT",
+    "Specification": "42-DK",
+    "Weight": "0.142",
+    "Size": "92.0* 69.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343536363635343534353635343833353435343535",
+    "/part/zp/35343536363635343534353635343833353435343535"
+   ],
+   "parentPartNO": "00C3887"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

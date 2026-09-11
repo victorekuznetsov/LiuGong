@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "53C0747",
+  "partName": "回油滤芯",
+  "qty": "1",
+  "storeTypeName": "1000H",
+  "note": "",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C0746",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

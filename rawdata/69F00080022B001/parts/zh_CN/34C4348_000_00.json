@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "86A2210",
+  "partName": "前台",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "34C4348",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

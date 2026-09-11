@@ -1,0 +1,72 @@
+{
+ "partNO": "04B0022",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B0022",
+    "partName": "螺钉",
+    "spec": "M10×25-8.8-DK",
+    "weightKg": "0.025",
+    "sizeMm": "16.0*35.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B0022",
+    "配件名称": "螺钉",
+    "规格": "M10×25-8.8-DK",
+    "重量(KG)": "0.025",
+    "尺寸(mm)": "16.0* 35.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635343534353635363833353435343535"
+   ],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "M10×25-8.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B0022",
+    "Part Name": "SCREW",
+    "Specification": "M10×25-8.8-DK",
+    "Weight": "0.025",
+    "Size": "16.0* 35.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343538363635343534353635363833353435343535"
+   ],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
