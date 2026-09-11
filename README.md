@@ -38,7 +38,7 @@ KuznetsovVE@industrservice.ru
 | Номеров с ценой | 12 501 (прайс-лист от 15.12.2025) |
 | Русских наименований | 14 842 вхождения из 59 382 позиций |
 | Машин в парке | 36, каталог есть у 35 |
-| Заметок в хранилище Obsidian | 24 551 |
+| Заметок в хранилище Obsidian | 25 324 |
 
 | Каталог | Модель | Вид техники | Узлов | Позиций | Номеров | Выносок |
 |---|---|---|---|---|---|---|
@@ -234,6 +234,7 @@ python3 tools/build_supply.py                  цены и замены
 python3 tools/build_translate.py               русские наименования
 python3 tools/build_kb.py                      база знаний и фотографии
 python3 tools/build_vault.py                   хранилище Obsidian
+python3 tools/check_vault.py                   сверка ссылок хранилища
 ```
 
 Нужны `openpyxl` и `Pillow` (`pip install openpyxl Pillow`). Полный проход

@@ -195,6 +195,11 @@ def main():
 
     # --- заметки деталей ---------------------------------------------------
     for no in sorted(parts):
+        # путь заметки считается сразу: тело длинное, и любая переменная,
+        # названная `no` внутри него, увела бы файл под чужое имя
+        note_path = os.path.join(VAULT, "30 Детали",
+                                 no[0] if no[:1].isdigit() else "буквенные",
+                                 part_note_name(no) + ".md")
         p = parts[no]
         d = info.get(no, {})
         s = supply.get(no, {})
@@ -256,9 +261,11 @@ def main():
             for code in s.get("f", []):
                 body.append("- **%s**" % code)
             for l in s.get("c", []):
-                no = l.get("d") or l["n"]
+                # именно `tgt`, а не `no`: `no` — номер самой детали, под
+                # ним заметка и сохраняется несколькими строками ниже
+                tgt = l.get("d") or l["n"]
                 body.append("- %s — %s%s" % (
-                    ("`%s`" % no) if l.get("x") else part_link(no, parts),
+                    ("`%s`" % tgt) if l.get("x") else part_link(tgt, parts),
                     l.get("code", ""),
                     " (в каталоге этого номера нет)" if l.get("x") else ""))
             if s.get("note"):
@@ -280,9 +287,7 @@ def main():
             if len(hits) > 200:
                 body.append("")
                 body.append("Показаны первые 200 из %d." % len(hits))
-        folder = no[0] if no[:1].isdigit() else "буквенные"
-        write(os.path.join(VAULT, "30 Детали", folder, part_note_name(no) + ".md"),
-              "\n".join(body) + "\n")
+        write(note_path, "\n".join(body) + "\n")
 
     # --- машины ------------------------------------------------------------
     for code, m in machines.items():

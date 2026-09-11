@@ -1345,12 +1345,13 @@
     if (!curUnit) return;
     var b = byCode[state.book];
     var rows = [["Каталог", "Модель", "Узел", "Название узла", "№ на чертеже",
-                 "Номер детали", "Наименование", "Кол-во", "Примечание",
-                 "Запас", "Кратность", "Признаки"].concat(SUPPLY_HEAD)];
+                 "Номер детали", "Наименование", "Наименование (как в книге)",
+                 "Кол-во", "Примечание", "Запас", "Кратность", "Признаки"]
+                .concat(SUPPLY_HEAD)];
     visibleRows(curUnit).forEach(function (r) {
-      rows.push([b.code, b.model, curUnit.id, curUnit.t, r[0], r[1] || "",
-                 r[2] || "", r[3] == null ? "" : r[3], r[4] || "", r[5] || "",
-                 r[8] || "", rowFlags(r)].concat(supplyRow(r[1])));
+      rows.push([b.code, b.model, curUnit.id, tr(curUnit.t), r[0], r[1] || "",
+                 tr(r[2] || ""), r[2] || "", r[3] == null ? "" : r[3], r[4] || "",
+                 storeRu(r[5] || ""), r[8] || "", rowFlags(r)].concat(supplyRow(r[1])));
     });
     csv(rows, "liugong-" + b.code + "-" + curUnit.id + ".csv");
   }
@@ -1362,7 +1363,8 @@
     busy(true);
     var units = unitsFlat.filter(function (u) { return u.g; });
     var rows = [["Каталог", "Модель", "Узел", "Название узла", "Номер сборки",
-                 "№ на чертеже", "Номер детали", "Наименование", "Кол-во",
+                 "№ на чертеже", "Номер детали", "Наименование",
+                 "Наименование (как в книге)", "Кол-во",
                  "Примечание", "Запас", "Кратность", "Признаки"].concat(SUPPLY_HEAD)];
     var i = 0;
     (function step() {
@@ -1376,9 +1378,10 @@
         var parts = p.rows.map(function (r) { return r[1]; }).filter(Boolean);
         return loadSupplyFor(parts).then(function () {
           p.rows.forEach(function (r) {
-            rows.push([b.code, b.model, p.id, p.t, p.r, r[0], r[1] || "", r[2] || "",
-                       r[3] == null ? "" : r[3], r[4] || "", r[5] || "", r[8] || "",
-                       rowFlags(r)].concat(supplyRow(r[1])));
+            rows.push([b.code, b.model, p.id, tr(p.t), p.r, r[0], r[1] || "",
+                       tr(r[2] || ""), r[2] || "",
+                       r[3] == null ? "" : r[3], r[4] || "", storeRu(r[5] || ""),
+                       r[8] || "", rowFlags(r)].concat(supplyRow(r[1])));
           });
         });
       }).then(step, step);
