@@ -1,0 +1,40 @@
+---
+type: "Узел"
+unit: "SP165182_000_00"
+machine: "CLG890H"
+assembly: "SP165182"
+parts_count: 14
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-system"
+---
+
+# FUEL PUMP DRIVE
+*CLG890H · раздел «POWER SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP165182_000_00`
+> **Номер сборки:** `SP165182`
+> **Редакция чертежа:** 2017-01-25
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP165182_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 |  | BOLT | 6 | REPEATED P/N. CHANGE TO 40C7437 . INTERCHANGEABLE. |
+| 2 | [[SP157976]] | PIN GROOVE | 1 | REPEATED P/N. CHANGE TO SP139053 . INTERCHANGEABLE. |
+| 3 |  | BOLT | 1 | REPEATED P/N. CHANGE TO 40C7441 . INTERCHANGEABLE. |
+| 4 |  | WASHER | 1 | REPEATED P/N. CHANGE TO 40C7442 . INTERCHANGEABLE. |
+| 5 |  | GOUPLING HUB | 1 | REPEATED P/N. CHANGE TO 40C7443 . INTERCHANGEABLE. |
+| 6 |  | THRUST BEARING | 1 | REPEATED P/N. CHANGE TO 40C7444 . INTERCHANGEABLE. |
+| 7 |  | O-RING | 1 | REPEATED P/N. CHANGE TO 40C7446 . INTERCHANGEABLE. |
+| 8 |  | PLUG | 2 | REPEATED P/N. CHANGE TO 40C7445 . INTERCHANGEABLE. |
+| 9 |  | GEAR | 1 | REPEATED P/N. CHANGE TO 40C7449 . INTERCHANGEABLE. |
+| 10 |  | DRIVE SHAFT | 1 | REPEATED P/N. CHANGE TO 40C7450 . INTERCHANGEABLE. |
+| 11 |  | BRACKET | 1 | REPEATED P/N. CHANGE TO 40C7452 . INTERCHANGEABLE. |
+| 12 | [[SP129493]] | Подшипник | 1 | REPEATED P/N. CHANGE TO 40C7284 . INTERCHANGEABLE. |
+| 13 |  | SHAFT | 1 | REPEATED P/N. CHANGE TO 40C7448 . INTERCHANGEABLE. |
+| 14 | [[SP132786]] | DRIVE ACCESSORY | 1 | REPEATED P/N. CHANGE TO 40C7439 . INTERCHANGEABLE. |

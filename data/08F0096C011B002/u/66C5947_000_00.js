@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/66C5947_000_00"]={"id":"66C5947_000_00","t":"HOSE AS","r":"66C5947","g":"66C5947_000_00","d":"2024-11-25","w":510.2,"h":652.0,"rows":[["1","SP346684","HOSE","1","","3 Years"],["2","30C0881","CONNECTOR","2","DISCONTINUED. CHANGE TO 30C3004 . INTERCHANGEABLE.","Not recommend","30C0881"]],"spots":[]};

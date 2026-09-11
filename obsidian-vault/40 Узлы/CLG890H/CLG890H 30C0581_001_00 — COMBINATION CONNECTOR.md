@@ -1,0 +1,31 @@
+---
+type: "Узел"
+unit: "30C0581_001_00"
+machine: "CLG890H"
+assembly: "30C0581"
+parts_count: 5
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/brake-system"
+---
+
+# COMBINATION CONNECTOR
+*CLG890H · раздел «BRAKE SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `30C0581_001_00`
+> **Номер сборки:** `30C0581`
+> **Редакция чертежа:** 2016-03-28
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/30C0581_001_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 |  | CONNECTOR | 1 | Not produce parts |
+| 2 |  | NUT | 2 | Not produce parts, repair through upper parts |
+| 3 |  | STEEL WIRE | 2 | Not produce parts, repair through upper parts |
+| 4 | [[12B0514]] | Уплотнительное кольцо | 2 | CHANGED FROM SP139575 |
+| 4 | [[12B1711]] | Уплотнительное кольцо | 2 |  |

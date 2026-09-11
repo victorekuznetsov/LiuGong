@@ -1,0 +1,1 @@
+window.__DATA__["u:69F00080022B001/25Y0176_002_02"]={"id":"25Y0176_002_02","t":"CENTRALIZED LUBRICATION SYSTEM","r":"25Y0176","g":"25Y0176_002_02","d":"2023-12-06","w":510.2,"h":652.0,"rows":[["1","","VIRCUAL PART","1","Not produce parts"]],"spots":[]};

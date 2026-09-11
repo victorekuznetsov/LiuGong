@@ -1,0 +1,1 @@
+window.__DATA__["u:68F00030217B001/34C9819_000_00"]={"id":"34C9819_000_00","t":"DOOR BUCKLE","r":"34C9819","g":"34C9819_000_00","d":"2019-10-24","w":510.2,"h":652.0,"rows":[["1","","KNOB","1","Not produce parts, repair through upper parts"],["2","","PLATE","1","Not produce parts, repair through upper parts"]],"spots":[["1",304.6,328.9,312.4,342.1],["2",304.6,382.6,312.4,395.8]]};

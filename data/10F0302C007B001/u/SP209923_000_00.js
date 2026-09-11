@@ -1,0 +1,1 @@
+window.__DATA__["u:10F0302C007B001/SP209923_000_00"]={"id":"SP209923_000_00","t":"CONNECTION EX","r":"SP209923","g":"SP209923_000_00","d":"2019-09-19","w":510.2,"h":652.0,"rows":[["1","SP139395","CLAMP V BAND","1","CHANGE TO SP319149 . INTERCHANGEABLE.","Not recommend","",8]],"spots":[["1",479.6,411.3,487.4,424.5]]};

@@ -1,0 +1,1 @@
+window.__DATA__["u:12F02860006B001/61C3145_000_00"]={"id":"61C3145_000_00","t":"SOLENOID VALVE","r":"61C3145","g":"61C3145_000_00","d":"2024-03-08","w":510.2,"h":652.0,"rows":[["1","","VALVE STEM","1","Not produce parts, repair through upper parts"],["2","","COIL","1","Not produce parts","2 Years"]],"spots":[["1",285.8,363.6,300.2,388.0],["2",298.4,211.6,312.9,236.1]]};

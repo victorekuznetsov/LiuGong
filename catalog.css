@@ -1,0 +1,420 @@
+/* Дополнения к общему стилю «Развитие» (styles.css) — то, чего нет
+   в каталогах Cat и Cummins: опись технической документации, справочные
+   разделы книги ЗИП и колонка складского наличия. */
+
+.welcome{max-width:920px}
+.welcome h2{font-size:16px; color:var(--text); margin:26px 0 4px}
+
+/* --- опись документов и разделов книги --- */
+.doclist{display:flex; flex-direction:column; gap:6px; margin:10px 0 6px}
+.doc-item{
+  display:flex; gap:12px; align-items:baseline; padding:9px 12px;
+  background:var(--panel); border:1px solid var(--line); border-radius:8px;
+  box-shadow:var(--shadow); text-decoration:none; color:var(--text); cursor:pointer;
+}
+.doc-item:hover{border-color:var(--accent-2); background:var(--hover)}
+.doc-kind{
+  flex:0 0 92px; font-size:10.5px; letter-spacing:.3px; text-transform:uppercase;
+  color:var(--muted); padding-top:2px;
+}
+.doc-name{flex:1 1 auto; font-weight:600}
+.doc-name .doc-note{display:block; font-weight:400; font-size:12px; color:var(--muted)}
+.doc-meta{flex:0 0 auto; font-size:12px; color:var(--muted); white-space:nowrap}
+
+/* --- справочный раздел книги --- */
+.sec-actions{display:flex; gap:12px; align-items:center; margin:10px 0 14px}
+.sec-text{max-width:860px}
+.sec-text p{margin:0 0 9px; white-space:pre-line}
+.sec-text p.sec-h{font-weight:650; color:var(--text); margin-top:16px}
+.sec-pages{display:flex; flex-direction:column; gap:14px}
+.sec-pages img{
+  max-width:100%; border:1px solid var(--line); border-radius:6px;
+  background:#fff; box-shadow:var(--shadow);
+}
+
+/* --- складское наличие --- */
+.c-stock{width:74px; text-align:center}
+td.c-stock{text-align:center; white-space:nowrap}
+.stock-pill{
+  display:inline-block; min-width:26px; padding:1px 7px; border-radius:10px;
+  font-size:12px; font-weight:600; background:var(--accent-soft); color:var(--ok);
+}
+.stock-none{color:var(--muted); font-size:12px}
+.stock-table{width:100%; border-collapse:collapse; font-size:12.5px}
+.stock-table th{
+  text-align:left; font-weight:500; color:var(--muted); font-size:11px;
+  text-transform:uppercase; letter-spacing:.3px; padding:4px 6px;
+  border-bottom:1px solid var(--line);
+}
+.stock-table td{padding:4px 6px; border-bottom:1px solid var(--line-soft)}
+.stock-table td.num{text-align:right; white-space:nowrap}
+
+.analog-row{
+  display:flex; gap:10px; align-items:baseline; padding:4px 0;
+  border-bottom:1px solid var(--line-soft); font-size:12.5px;
+}
+.analog-row:last-child{border-bottom:none}
+.analog-row .pn{flex:0 0 132px}
+.analog-row .at{flex:0 0 auto; color:var(--muted); font-size:11.5px}
+
+/* карточка детали здесь без фотогалереи — тексту нужна вся ширина */
+.part-card .pc-body{display:block}
+.part-card .pc-info{width:100%}
+
+/* строка-подзаголовок группы внутри таблицы позиций книги */
+tr.row-head td{
+  background:var(--th-bg); font-size:11.5px; letter-spacing:.3px;
+  text-transform:uppercase; color:var(--muted);
+}
+
+/* в результатах поиска первая колонка — номер детали, ей нужно больше места */
+.doc-item.hit .doc-kind{flex:0 0 132px}
+
+/* «только в консигнации» — как «только в прайсе» у соседних каталогов */
+.check-results tr.st-consign td{background:var(--note-bg)}
+
+/* У этих книг нет фотографий деталей, зато наименования длинные —
+   отдаём таблице позиций больше ширины, чем в каталогах Cat и Cummins. */
+.drawing-pane{flex:0 0 40%; max-width:40%}
+.c-no{width:104px}
+.c-qty{width:54px}
+.c-need{width:64px}
+.c-add{width:92px}
+.btn-add{padding:4px 7px; font-size:12px}
+
+/* --- колонки снабжения в таблице позиций --------------------------------- */
+/* Столбцов стало больше (ЕКМТР#, наличие, прямой аналог, закупка), поэтому
+   чертёж ужимаем ещё немного: наименованию нужна ширина. */
+.drawing-pane{flex:0 0 30%; max-width:30%}
+.c-pos{width:34px}
+.c-no{width:92px}
+.c-ekmtr{width:58px; text-align:center}
+.c-qty{width:54px}
+.c-stock{width:56px; text-align:center}
+.c-analog{width:76px; text-align:center}
+.c-order{width:80px; text-align:center}
+.c-price{width:66px; text-align:center}
+.c-need{width:54px}
+.c-add{width:78px}
+td.c-ekmtr, td.c-order, td.c-analog, td.c-price{text-align:center; white-space:nowrap}
+
+/* цена из свода по прайсам: сумма и, мельче, поставщик-победитель */
+.price{display:block; font-size:12.5px; font-weight:600}
+.price-sup{display:block; font-size:10.5px; color:var(--muted)}
+
+/* подпись под заголовком контура аналогов и цена в строке аналога */
+.an-note{margin:-4px 0 6px; font-size:11.5px}
+.price-inline{font-size:11.5px; color:var(--muted); margin-left:6px}
+.stock-table tr.best-price td{font-weight:600; color:var(--ok)}
+
+/* заявка, по которой заказ ещё не размещён: ни поставщика, ни срока */
+.req-pill{
+  display:block; font-size:10.5px; color:var(--muted);
+  border:1px dashed var(--line); border-radius:9px; padding:0 5px; margin-top:2px;
+}
+.ekmtr{font-family:Consolas,"Courier New",monospace; font-size:12px; color:var(--muted)}
+.order-pill{
+  display:inline-block; min-width:24px; padding:1px 6px; border-radius:10px;
+  font-size:12px; font-weight:600; background:var(--note-bg); color:var(--text);
+  border:1px solid var(--note-line);
+}
+.order-pill.late{background:var(--danger-soft); color:var(--danger); border-color:var(--danger)}
+.order-eta{display:block; font-size:11px; color:var(--muted); margin-top:1px}
+
+/* --- анализ обеспечения --------------------------------------------------- */
+#view-analysis{max-width:1180px}
+#view-analysis h2{font-size:16px; margin:28px 0 4px}
+#view-analysis .view-title{font-size:20px; margin-bottom:6px}
+.stat-note{display:block; font-size:11.5px; color:var(--muted); line-height:1.35}
+
+.cover{margin:16px 0 4px}
+.cover-bar{
+  display:flex; height:30px; border-radius:8px; overflow:hidden;
+  border:1px solid var(--line); background:var(--panel);
+}
+.cover-seg{display:flex; align-items:center; justify-content:center; min-width:0}
+.cover-seg span{font-size:12px; font-weight:700; color:#0d2a20}
+.cover-seg.c-have,.cover-seg.c-site{background:#3ecf8e}
+.cover-seg.c-ansite{background:#8fdcb6}
+.cover-seg.c-away{background:#9fc5e8}
+.cover-seg.c-order{background:#f3cf6a}
+.cover-seg.c-gap{background:#e88a92}
+.cover-seg.c-gap span{color:#3a1418}
+.cover-legend{display:flex; flex-wrap:wrap; gap:8px 18px; margin-top:8px;
+  font-size:12.5px; color:var(--muted)}
+.cover-legend i{
+  display:inline-block; width:11px; height:11px; border-radius:3px; margin-right:6px;
+  vertical-align:-1px;
+}
+.cover-legend i.c-have,.cover-legend i.c-site{background:#3ecf8e}
+.cover-legend i.c-ansite{background:#8fdcb6}
+.cover-legend i.c-away{background:#9fc5e8}
+.cover-legend i.c-order{background:#f3cf6a}
+.cover-legend i.c-gap{background:#e88a92}
+
+.an-cards{display:flex; flex-wrap:wrap; gap:10px; margin:10px 0 4px}
+.an-card{
+  flex:1 1 210px; background:var(--panel); border:1px solid var(--line);
+  border-left-width:4px; border-radius:8px; padding:10px 12px; cursor:pointer;
+  box-shadow:var(--shadow);
+}
+.an-card:hover{border-color:var(--accent-2); border-left-color:inherit}
+.an-card b{display:block; font-size:22px; line-height:1.15}
+.an-card > span{display:block; font-size:12.5px}
+.an-card.st-site{border-left-color:#3ecf8e}
+.an-card.st-move{border-left-color:#9fc5e8}
+.an-card.st-order{border-left-color:#f3cf6a}
+.an-card.st-part{border-left-color:#e0a458}
+.an-card.st-gap{border-left-color:#e88a92}
+
+.an-months{display:flex; flex-direction:column; gap:5px; margin-top:10px}
+.an-month{display:flex; align-items:center; gap:12px; font-size:12.5px}
+.an-month-name{flex:0 0 130px; color:var(--muted)}
+.an-month-bar{flex:1 1 auto; display:flex; height:16px; gap:2px; min-width:0}
+.an-month-bar i{display:block; border-radius:3px}
+.an-month-bar i.c-order{background:#f3cf6a}
+.an-month-bar i.c-late{background:#e88a92}
+.an-month-n{flex:0 0 210px; color:var(--muted)}
+.late-n{color:var(--danger)}
+
+.an-table{width:100%; border-collapse:collapse; font-size:12.5px; margin-top:10px}
+.an-table th{
+  background:var(--th-bg); text-align:left; font-size:11px; letter-spacing:.3px;
+  text-transform:uppercase; color:var(--muted); padding:7px 8px;
+  border-bottom:1px solid var(--line); position:sticky; top:0;
+}
+.an-table td{padding:6px 8px; border-bottom:1px solid var(--line-soft); vertical-align:top}
+.an-table tr:hover td{background:var(--hover)}
+.an-table td.num{text-align:right; white-space:nowrap}
+.an-table td.barcell{width:130px}
+.an-table td.barcell i{display:block; height:10px; border-radius:3px; background:#e88a92}
+.an-table .dim{display:block; font-size:11px; color:var(--muted)}
+.an-table.vk tr{border-left:4px solid transparent}
+.an-table.vk tr.st-site td:first-child{box-shadow:inset 3px 0 0 #3ecf8e}
+.an-table.vk tr.st-move td:first-child{box-shadow:inset 3px 0 0 #9fc5e8}
+.an-table.vk tr.st-order td:first-child{box-shadow:inset 3px 0 0 #f3cf6a}
+.an-table.vk tr.st-part td:first-child{box-shadow:inset 3px 0 0 #e0a458}
+.an-table.vk tr.st-gap td:first-child{box-shadow:inset 3px 0 0 #e88a92}
+
+.an-filters{display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 2px; align-items:center}
+.an-flabel{font-size:12px; color:var(--muted); margin-right:2px}
+
+/* --- контуры снабжения --- */
+/* Вкладка считает два разных множества. Полосы слева отделяют их визуально,
+   чтобы читатель не складывал цифры соседних разделов. */
+.wh-conts{display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:12px; margin:12px 0 6px}
+.wh-cont{
+  display:block; text-decoration:none; color:inherit; padding:12px 14px;
+  border:1px solid var(--line); border-left:4px solid var(--accent-2);
+  border-radius:8px; background:var(--panel);
+}
+.wh-cont:hover{border-color:var(--accent-2); box-shadow:var(--shadow)}
+.wh-cont:nth-child(2){border-left-color:#c9752f}
+.wh-cont:nth-child(3){border-left-color:var(--line)}
+.wh-cont.empty{opacity:.72}
+.wh-cont-n{display:block; font-size:26px; font-weight:700; line-height:1.1}
+.wh-cont b{display:block; font-size:13.5px; margin:2px 0 2px}
+.wh-cont-what{display:block; font-size:11.5px; color:var(--muted); margin-bottom:6px}
+.wh-cont p{margin:0; font-size:12px; color:var(--muted); line-height:1.45}
+
+.wh-band{border-left:4px solid var(--accent-2); padding-left:16px; margin:26px 0}
+.wh-band-out{border-left-color:#c9752f}
+.wh-band-toro{border-left-color:var(--line)}
+.wh-band-tag{
+  display:inline-block; margin:0 0 4px; padding:2px 9px; border-radius:10px;
+  font-size:11px; font-weight:700; letter-spacing:.3px; text-transform:uppercase;
+  background:var(--accent-soft); color:var(--accent-2);
+}
+.wh-band-out .wh-band-tag{background:rgba(201,117,47,.14); color:#c9752f}
+.wh-band-toro .wh-band-tag{background:var(--line-soft); color:var(--muted)}
+.an-chip{
+  background:var(--panel); border:1px solid var(--line); color:var(--text);
+  border-radius:14px; padding:5px 12px; font-size:12.5px; cursor:pointer;
+}
+.an-chip:hover{border-color:var(--accent-2)}
+.an-chip.on{background:var(--accent-soft); border-color:var(--accent-2); font-weight:600}
+.an-chip b{font-weight:700; color:var(--muted); margin-left:2px}
+
+#an-notes p{margin:0 0 10px}
+#an-notes p:last-child{margin-bottom:0}
+#an-notes code{
+  font-family:Consolas,"Courier New",monospace; font-size:12px;
+  background:var(--field); border:1px solid var(--line); border-radius:4px; padding:0 4px;
+}
+
+/* количество, лежащее под номером прямого аналога КСУ */
+.stock-pill.analog{background:var(--line-soft); color:var(--muted); font-weight:600}
+
+/* тот же каталожный номер, но у стороннего изготовителя: рядом с
+   оригинальным остатком, но отдельной блёклой пилюлей — это не Komatsu */
+.stock-pill.other{
+  background:transparent; color:var(--muted); font-weight:500;
+  border:1px dashed var(--line); margin-left:3px; min-width:0; padding:0 5px;
+}
+
+/* --- заказ аналога вместо оригинала --- */
+/* Подмена номера в заявке не должна быть незаметной: выбор явный, всплывашкой,
+   и в самом заказе строка аналога подписана, вместо чего она идёт. */
+.btn-add-an{
+  margin-left:4px; padding:2px 5px; border:1px solid var(--line);
+  background:var(--panel); color:var(--muted); border-radius:5px;
+  font-size:11px; line-height:1.1; cursor:pointer;
+}
+.btn-add-an:hover{border-color:var(--accent-2); color:var(--accent-2)}
+.an-pick{
+  position:fixed; z-index:200; width:360px; max-height:60vh; overflow:auto;
+  background:var(--panel); border:1px solid var(--line); border-radius:8px;
+  box-shadow:0 10px 32px rgba(0,0,0,.28); padding:8px;
+}
+/* Шапка списка остаётся видимой при прокрутке: у популярных фильтров по
+   полтора десятка аналогов, и без неё непонятно, вместо чего выбираем. */
+.an-pick-head{position:sticky; top:-8px; background:var(--panel);
+  margin:-8px -8px 0; padding:10px 14px 8px; z-index:1}
+.an-pick-head{font-size:12px; color:var(--muted)}
+.an-pick-sec{
+  font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.3px;
+  color:var(--accent-2); padding:8px 6px 3px;
+}
+.an-pick-sec.cond{color:var(--muted); text-transform:none; font-weight:600; letter-spacing:0}
+.an-pick-row{
+  display:block; width:100%; text-align:left; padding:6px 8px; border:1px solid transparent;
+  background:none; border-radius:6px; cursor:pointer; font:inherit; color:inherit;
+}
+.an-pick-row:hover{background:var(--field); border-color:var(--line)}
+.an-pick-row.has{background:var(--accent-soft)}
+.an-pick-row.has:hover{border-color:var(--accent-2)}
+.an-pick-row.own{border-bottom:1px solid var(--line-soft); border-radius:6px 6px 0 0}
+.an-pick-row.cond{opacity:.8}
+.an-pick-row em{display:block; font-style:normal; font-size:12px; margin-top:1px}
+.an-pick-note{display:block; font-size:11px; color:var(--muted); margin-top:2px}
+.an-pick-foot{font-size:11px; color:var(--muted); padding:8px 6px 2px; line-height:1.45}
+tr.cart-an td:first-child{border-left:3px solid var(--accent-2); padding-left:5px}
+
+/* Прямой аналог не на своей площадке: он есть, но это переброска, а не
+   наличие, — поэтому подписью, а не пилюлей. */
+.an-away{display:block; font-size:10.5px; color:var(--muted); cursor:help}
+#an-method p{margin:0 0 10px}
+#an-method code{
+  font-family:Consolas,"Courier New",monospace; font-size:12px;
+  background:var(--field); border:1px solid var(--line); border-radius:4px; padding:0 4px;
+}
+
+/* строка «Обеспечение по системам» — переход в каталог */
+.an-table.sys tr.clickable{cursor:pointer}
+.an-table.sys tr.clickable:hover td{background:var(--accent-soft)}
+
+/* --- переход назад -------------------------------------------------------- */
+.navbar{margin:0 0 10px}
+.btn-back{
+  background:var(--panel); border:1px solid var(--line); color:var(--text);
+  border-radius:7px; padding:6px 13px; font-size:13px; cursor:pointer;
+  box-shadow:var(--shadow);
+}
+.btn-back:hover{border-color:var(--accent-2); color:var(--accent-2)}
+
+/* --- кликабельные элементы «Анализа ВК» ----------------------------------- */
+.stat.clickable{cursor:pointer}
+.stat.clickable:hover{border-color:var(--accent-2)}
+.stat.clickable.on{border-color:var(--accent-2); background:var(--accent-soft)}
+.an-card.on{background:var(--accent-soft)}
+.cover-seg.clickable{cursor:pointer}
+.cover-seg.clickable:hover{filter:brightness(1.08)}
+.an-table tr.clickable{cursor:pointer}
+.an-table tr.clickable:hover td{background:var(--accent-soft)}
+.an-table tr.clickable.on td{background:var(--accent-soft); font-weight:600}
+.an-month.clickable{cursor:pointer; border-radius:6px; padding:2px 4px; margin:0 -4px}
+.an-month.clickable:hover{background:var(--hover)}
+.an-month.clickable.on{background:var(--accent-soft)}
+
+/* --- подсветка найденной позиции в таблице узла --------------------------- */
+table.parts tr.hit-row td{
+  background:var(--accent-soft) !important;
+  box-shadow:inset 0 -1px 0 var(--accent-2);
+}
+table.parts tr.hit-row td:first-child{box-shadow:inset 3px 0 0 var(--accent-2)}
+table.parts tr.hit-row .pn{color:var(--accent-2)}
+
+/* Строка «Двигатель» в паспорте машины ведёт в каталог её двигателя —
+   он лежит в подпапке engine/ этого же каталога и работает оффлайн. */
+a.passport-link{color:inherit; text-decoration:none; border-bottom:1px dotted var(--accent-2)}
+a.passport-link:hover{color:var(--accent-2); border-bottom-color:var(--accent-2)}
+a.passport-link .go{
+  font-size:11px; font-weight:600; color:var(--accent-2);
+  letter-spacing:.2px; margin-left:4px; white-space:nowrap;
+}
+
+/* ---------------------------------------- склад и закупка (без ВК) ------- */
+/* Кнопки выгрузки стоят отдельной строкой над разделом: их четыре, и мешать
+   их с фильтрами таблицы значило бы путать «что показать» и «что скачать». */
+.wh-export{display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 4px}
+
+/* Позиция, которая входит и в перечень внутренней консигнации. Здесь это
+   просто пометка: раздел намеренно не делит номенклатуру по ВК. */
+.chip-vk{
+  display:inline-block; margin-left:6px; padding:0 5px; border-radius:4px;
+  font-size:10.5px; font-weight:700; letter-spacing:.3px; vertical-align:2px;
+  background:var(--accent-soft); color:var(--accent-2);
+}
+/* Плитка с плохой новостью (просрочка) — красная полоса слева. */
+.stat.bad{border-left:3px solid #e88a92}
+/* Строка с просроченным заказом. */
+table.an-table tr.late td{background:rgba(232,138,146,.10)}
+table.an-table tr.clickable{cursor:pointer}
+table.an-table tr.clickable:hover td{background:var(--hover)}
+table.an-table td .dim{display:block; color:var(--muted); font-size:11.5px}
+
+/* Итоговая строка таблицы по системам: столбцы там считаются по применениям
+   и в сумме больше итога раздела, поэтому уникальные значения выделены. */
+table.an-table tfoot td{
+  padding:8px; border-top:2px solid var(--line); background:var(--th-bg);
+  vertical-align:top;
+}
+table.an-table tfoot td.num{text-align:right; white-space:nowrap}
+
+/* Широкая карточка под пояснение к сроку поставки. */
+.an-card.wide{flex:1 1 100%; max-width:none}
+
+/* ---- выравнивание числовых таблиц раздела ----------------------------- */
+/* Заголовок стоял слева, а число в той же колонке — справа, и на широком
+   экране они расходились через всю ширину. Числовые колонки прижимаем
+   вправо целиком: и значение, и подпись над ним. */
+table.an-table th.num, table.an-table tfoot td.num{text-align:right}
+/* Название системы или показателя тянется, числовые колонки узкие и не
+   растягиваются: иначе на мониторе 21:9 таблица расползается. */
+table.an-table th:first-child, table.an-table td:first-child{width:auto}
+table.an-table th:not(:first-child), table.an-table td:not(:first-child){
+  width:120px; white-space:nowrap;
+}
+/* Числа выравниваем по верху строки, как и название: у системы подпись в
+   две строки, и без этого значение уезжало вниз. */
+table.an-table td.num{vertical-align:top; font-variant-numeric:tabular-nums}
+
+/* Поставка в срок и с опозданием — пометки в строке и карточки. */
+.ok-n{display:block; font-size:11px; font-weight:600; color:var(--ok)}
+.an-card.ok{border-left-color:#3ecf8e}
+.an-card.bad{border-left-color:#e88a92}
+
+/* Прямой аналог КСУ под собственным количеством: деталь можно взять, хотя
+   своего номера на складе нет. */
+.an-n{display:block; font-size:11px; font-weight:600; color:var(--accent-2); cursor:help}
+
+/* Подпись про аналоги внутри плитки — второй строкой, мельче. */
+.stat span i{display:block; font-style:normal; font-size:11px; color:var(--accent-2); margin-top:2px}
+
+/* Условный аналог — выноской, приглушённо: в наличие он не идёт. */
+.cn-n{display:block; font-size:11px; color:var(--muted); font-style:italic; cursor:help}
+
+/* Позиция, которой нет в книгах ЗИП: закупается, но в каталоге её нет. */
+.miss-n{color:#c9752f; font-weight:600; font-size:12px}
+
+/* Аналоги в карточке детали: сводка, заголовки групп и пояснения. */
+.an-sum{margin:0 0 10px; font-size:13px; line-height:1.5}
+.an-head{margin:14px 0 2px; font-size:13px; font-weight:700; color:var(--accent-2)}
+.an-head-cond{color:var(--muted)}
+.an-note{margin:0 0 6px; font-size:12px; color:var(--muted); line-height:1.45}
+
+/* Похожий номер, признанный снабжением той же деталью. Серым и без нажима:
+   это допущение, а не связь из выгрузки, и читатель должен видеть разницу. */
+.guess-n{display:block; font-size:11px; color:var(--muted)}
+.pn-guess{color:var(--muted); border-bottom-style:dashed}

@@ -1,0 +1,1 @@
+window.__DATA__["u:12F01890011B001/SP214437_000_00"]={"id":"SP214437_000_00","t":"SEAL KIT","r":"SP214437","g":"SP214437_000_00","d":"2019-11-04","w":510.2,"h":652.0,"rows":[["1","80A0240","WIPER RING","2","","Not recommend"],["2","13B0519","SEAL RING","2","","1 Year","",4],["3","12B0692","O-RING","2","Repeated P/N, change to 12B0965, interchangeable","1 Year","",4]],"spots":[]};

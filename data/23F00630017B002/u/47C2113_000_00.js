@@ -1,0 +1,1 @@
+window.__DATA__["u:23F00630017B002/47C2113_000_00"]={"id":"47C2113_000_00","t":"DOOR LOCK","r":"47C2113","g":"47C2113_000_00","d":"2017-09-01","w":510.2,"h":652.0,"rows":[["1","SP179899","KEY","1","Original supplier doesn't provide it separately;provided by other suppliers, but the logo is random,not Liugong logo","2 Years"]],"spots":[["1",312.2,461.5,320.0,474.7]]};

@@ -1,0 +1,1 @@
+window.__DATA__["u:10F0302C007B001/49C7801_000_00"]={"id":"49C7801_000_00","t":"QUICK COUPLER WIRING AS","r":"49C7801","g":"49C7801_000_00","d":"2021-01-27","w":510.2,"h":652.0,"rows":[["1","","QUICK COUPLER SWITCH","1","Not produce parts, repair through subordinate parts","","",8],["1","34B2178","SWITCH","1","","2 Years","",40]],"spots":[["1",209.1,131.6,216.8,144.8]]};

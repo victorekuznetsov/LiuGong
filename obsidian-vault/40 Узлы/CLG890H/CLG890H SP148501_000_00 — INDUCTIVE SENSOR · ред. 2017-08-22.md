@@ -1,0 +1,38 @@
+---
+type: "Узел"
+unit: "SP148501_000_00"
+machine: "CLG890H"
+assembly: "SP148501"
+parts_count: 12
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-train-system"
+---
+
+# INDUCTIVE SENSOR · ред. 2017-08-22
+*CLG890H · раздел «POWER TRAIN SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP148501_000_00`
+> **Номер сборки:** `SP148501`
+> **Редакция чертежа:** 2017-08-22
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP148501_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 30 | [[30B0081]] | SPEED SENSOR | 3 | CHANGED FROM SP111844 |
+| 31 | [[SP111948]] | Уплотнительное кольцо | 1 |  |
+| 40 | [[SP100017]] | Датчик | 1 | DISCONTINUED. CHANGE TO SP232279 . ONE-WAY REPLACEMENT |
+| 41 | [[SP123111]] | Уплотнительное кольцо | 1 |  |
+| 42 | [[SP123150]] | Лист | 4 |  |
+| 43 |  | SHEET | 1 | Not produce parts, repair through subordinate parts |
+| 44 | [[SP123114]] | Болт | 1 | CHANGE TO SP155068 |
+| 60 | [[SP100027]] | SHIM RING 18×25×1.4 | 3 |  |
+| 60 | [[SP106492]] | SHIM RING 18×25×1.5 | 3 | Change to SP100027 |
+| 60 |  | SHIM RING 18×25×1.2 | 3 | Discontinued,change to SP100027 |
+| 60 | [[SP107490]] | SHIM RING 18×25×1.0 | 3 |  |
+| 60 |  | SHIM RING | 3 | Not produce parts, repair through subordinate parts |

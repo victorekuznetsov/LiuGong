@@ -1,0 +1,1 @@
+window.__DATA__["u:23F00630017B002/20C3237_000_00"]={"id":"20C3237_000_00","t":"RADIATOR","r":"20C3237","g":"20C3237_000_00","d":"2022-12-22","w":510.2,"h":652.0,"rows":[["1","20C3237P02","RADIATOR","1","Not produce parts, repair through subordinate parts","","20C3237P02",32],["2","20C3237P01","RADIATOR","1","Not produce parts","5 Years","20C3237P01",32]],"spots":[]};

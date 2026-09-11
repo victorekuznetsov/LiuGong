@@ -1,0 +1,58 @@
+---
+type: "Узел"
+unit: "SP165166_000_00"
+machine: "CLG890H"
+assembly: "SP165166"
+parts_count: 32
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-system"
+---
+
+# CYLINDER BLOCK
+*CLG890H · раздел «POWER SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP165166_000_00`
+> **Номер сборки:** `SP165166`
+> **Редакция чертежа:** 2017-03-06
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP165166_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 2 |  | PIN | 2 | REPEATED P/N. CHANGE TO 40C7312 . INTERCHANGEABLE. |
+| 3 |  | LATCH | 1 | REPEATED P/N. CHANGE TO 40C7313 . INTERCHANGEABLE. |
+| 4 |  | WASHER | 1 | REPEATED P/N. CHANGE TO 40C7314 . INTERCHANGEABLE. |
+| 5 |  | RING | 1 | REPEATED P/N. CHANGE TO 40C7315 . INTERCHANGEABLE. |
+| 6 | [[SP116054]] | Пружина | 1 |  |
+| 7 | [[SP132776]] | BUSHING CAMSHAFT | 7 | CHANGE TO 40C7317 . INTERCHANGEABLE. |
+| 8 | [[SP108792]] | Заглушка | 2 | CHANGED FROM SP117157 |
+| 9 |  | VALVE SEAT | 1 | REPEATED P/N. CHANGE TO 40C7318 . INTERCHANGEABLE. |
+| 10 |  | CRANK SHAFT BEARING COVER | 5 | REPEATED P/N. CHANGE TO 40C7321 . INTERCHANGEABLE. |
+| 10 |  | CRANK SHAFT BEARING COVER | 1 | REPEATED P/N. CHANGE TO 40C7320 . INTERCHANGEABLE. |
+| 11 |  | PLAIN WASHERS RING | 1 | REPEATED P/N. CHANGE TO 40C7324 . INTERCHANGEABLE. |
+| 12 |  | BOLT | 1 | REPEATED P/N. CHANGE TO 40C7323 . INTERCHANGEABLE. |
+| 13 |  | DOUBLE HEADED BOLT | 7 | REPEATED P/N. CHANGE TO 40C7325 . INTERCHANGEABLE. |
+| 14 |  | DOWEL PIN | 1 | REPEATED P/N. CHANGE TO 40C7326 . INTERCHANGEABLE. |
+| 15 |  | PIN | 2 | REPEATED P/N. CHANGE TO 40C7327 . INTERCHANGEABLE. |
+| 16 | [[SP139475]] | Заглушка | 4 | CHANGED FROM SP105813 |
+| 17 | [[SP137608]] | Заглушка | 5 |  |
+| 18 |  | PIN | 3 | REPEATED P/N. CHANGE TO 40C7328 . INTERCHANGEABLE. |
+| 19 | [[SP108793]] | Заглушка | 1 | CHANGED FROM SP109514 |
+| 20 |  | PIN | 3 | REPEATED P/N. CHANGE TO 40C7329 . INTERCHANGEABLE. |
+| 22 | [[SP123739]] | Уплотнительное кольцо | 1 |  |
+| 23 | [[40C7336]] | Заглушка | 1 |  |
+| 24 | [[40C7338]] | Уплотнительное кольцо | 1 |  |
+| 25 |  | SENSOR | 1 | REPEATED P/N. CHANGE TO 40C7339 . INTERCHANGEABLE. |
+| 26 | [[SP111234]] | Плунжер | 1 | DISCONTINUED. |
+| 27 | [[SP116055]] | Пружина | 1 |  |
+| 28 | [[SP138624]] | Заглушка | 1 |  |
+| 29 |  | JOINT | 1 | REPEATED P/N. CHANGE TO 40C7530 . INTERCHANGEABLE. |
+| 30 |  | CYLINDER BLOCK | 1 | REPEATED P/N. CHANGE TO 40C7345 . INTERCHANGEABLE. |
+| 31 |  | PLUG THREADED | 4 | REPEATED P/N. CHANGE TO 40C7331 . INTERCHANGEABLE. |
+| 32 |  | SEAL RECTANGULAR RING | 1 | REPEATED P/N. CHANGE TO 40C7273 . INTERCHANGEABLE. |
+| 33 |  | PIN | 1 | REPEATED P/N. CHANGE TO 40C7344 . INTERCHANGEABLE. |

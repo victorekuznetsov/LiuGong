@@ -1,0 +1,1 @@
+window.__DATA__["u:23F00630017B002/SP142040_000_00"]={"id":"SP142040_000_00","t":"SHIPPING ARRANGEMENT","r":"SP142040","g":"SP142040_000_00","d":"2015-06-04","w":510.2,"h":652.0,"rows":[["1","","LABEL PLATE","1","Not produce parts"],["2","SP109029","BRACKET","1","Not produce parts","Not recommend"]],"spots":[]};

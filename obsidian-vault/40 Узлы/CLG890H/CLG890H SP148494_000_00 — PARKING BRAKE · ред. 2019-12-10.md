@@ -1,0 +1,52 @@
+---
+type: "Узел"
+unit: "SP148494_000_00"
+machine: "CLG890H"
+assembly: "SP148494"
+parts_count: 26
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-train-system"
+---
+
+# PARKING BRAKE · ред. 2019-12-10
+*CLG890H · раздел «POWER TRAIN SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP148494_000_00`
+> **Номер сборки:** `SP148494`
+> **Редакция чертежа:** 2019-12-10
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP148494_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 | [[SP106729]] | BRAKE SHOE AS. | 1 |  |
+| 2 | [[SP106786]] | Тормоз | 1 |  |
+| 3 | [[SP106789]] | Поршень | 1 |  |
+| 4 | [[SP106790]] | Кольцо | 1 |  |
+| 5 | [[SP106484]] | Болт | 1 |  |
+| 6 | [[SP106485]] | Магнит | 2 |  |
+| 7 | [[SP106486]] | Кольцо | 2 |  |
+| 8 | [[SP106791]] | SPRING PLATE | 5 |  |
+| 9 | [[SP106487]] | Уплотнительное кольцо | 1 |  |
+| 10 | [[SP106795]] | Кольцо | 1 |  |
+| 11 | [[SP106793]] | Болт | 1 | CHANGE TO SP249513 . ONE-WAY REPLACEMENT |
+| 12 | [[SP106794]] | Уплотнительное кольцо | 1 |  |
+| 13 | [[SP106781]] | EXHAUST VALVE | 1 |  |
+| 14 | [[SP106792]] | POSITIONING SCREW | 1 |  |
+| 15 | [[SP106799]] | Гайка | 1 |  |
+| 16 | [[SP106488]] | Палец | 2 |  |
+| 17 | [[SP106489]] | Палец | 2 |  |
+| 18 | [[SP115547]] | Колодки тормозные | 1 | The price is for a single set,1 set include 2 pcs brake shoes |
+| 19 | [[SP106481]] | Втулка | 1 | CHANGED FROM SP107483 |
+| 20 |  | DUST COVER | 1 | Discontinued,change to its superior part SP106481 |
+| 21 |  | U-RING | 1 | Not produce parts |
+| 22 |  | U-RING | 1 | Not produce parts, repair through upper parts |
+| 23 |  | CO WASHER | 1 | Not produce parts, repair through upper parts |
+| 24 | [[SP106788]] | FIXING PLATE | 1 |  |
+| 25 | [[SP107567]] | Болт | 4 |  |
+| 26 | [[SP157424]] | SCREW-IN SLEEVE | 1 |  |

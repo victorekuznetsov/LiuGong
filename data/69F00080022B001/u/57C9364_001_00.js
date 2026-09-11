@@ -1,0 +1,1 @@
+window.__DATA__["u:69F00080022B001/57C9364_001_00"]={"id":"57C9364_001_00","t":"REAR FRAME WIRING","r":"57C9364","g":"57C9364_001_00","d":"2024-08-07","w":510.2,"h":652.0,"rows":[["1","57C8449","BATTERY  WIRING","1","Not produce parts, repair through subordinate parts","","57C8449",8],["2","57C9366","REAR FRAME WIRING","1","Not produce parts","","57C9366",32]],"spots":[]};

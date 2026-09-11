@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/SP284211_000_01"]={"id":"SP284211_000_01","t":"TURBOCHARGER PLUMBING","r":"SP284211","g":"SP284211_000_01","d":"2023-11-18","w":510.2,"h":652.0,"rows":[["4","SP155677","SCREW HEX FLANGE HEAD CAP","6","","Not recommend"],["5","SP135830","HEXAGON BOLT","1","","Not recommend"]],"spots":[["5",354.1,179.7,360.0,189.6],["4",319.3,89.9,325.1,99.8]]};

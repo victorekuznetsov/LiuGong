@@ -1,0 +1,1 @@
+window.__DATA__["u:10F0302C007B001/48Y5141_000_00"]={"id":"48Y5141_000_00","t":"DECAL GROUP","r":"48Y5141","g":"48Y5141_000_00","d":"2024-12-27","w":510.2,"h":652.0,"rows":[["1","56C4768","DECAL GROUP","1","Not produce parts","","56C4768",32],["2","53B0883","REFLECTOR","4","","Not recommend","",32],["3","53B0891","REFLECTOR","4","","Not recommend","",32]],"spots":[]};

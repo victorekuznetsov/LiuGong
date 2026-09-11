@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Каталог запасных частей LiuGong — парк АО «Полюс»</title>
+<link rel="icon" href="brand/razvitie-mark.svg">
+<link rel="stylesheet" href="styles.css?v=1">
+<link rel="stylesheet" href="catalog.css?v=1">
+<link rel="stylesheet" href="liugong.css?v=1">
+<script>
+  /* тема применяется до отрисовки, чтобы не мигало */
+  (function(){try{
+    var t=localStorage.getItem("liugong_theme");
+    if(!t)t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";
+    document.documentElement.setAttribute("data-theme",t);
+  }catch(e){document.documentElement.setAttribute("data-theme","light");}})();
+</script>
+</head>
+<body>
+
+<div class="contacts">
+  По вопросам работы каталога запасных частей, ошибок и замечаний обращаться к
+  Кузнецову&nbsp;В.Е. <a href="mailto:KuznetsovVE@industrservice.ru">KuznetsovVE@industrservice.ru</a>
+</div>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-logo" aria-label="Развитие">
+      <img class="logo-light" src="brand/razvitie-light.svg" alt="Развитие" width="82" height="34">
+      <img class="logo-dark"  src="brand/razvitie-dark.svg"  alt="Развитие" width="82" height="34">
+    </span>
+    <div class="brand-text">
+      <div class="brand-title">Каталог запасных частей LiuGong</div>
+      <div class="brand-sub">
+        <select id="site-select" title="Предприятие"></select>
+        <select id="book-select" title="Каталог машины"></select>
+      </div>
+    </div>
+  </div>
+  <div class="search-box">
+    <input id="search" type="search" autocomplete="off"
+           placeholder="Поиск по номеру детали во всех каталогах…">
+    <button id="search-clear" class="btn-plain" title="Очистить">✕</button>
+  </div>
+  <div class="topbar-tools">
+    <button id="theme-toggle" class="btn-icon" title="Светлая / тёмная тема" aria-label="Переключить тему">
+      <svg class="ico-sun" viewBox="0 0 24 24" width="18" height="18" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="4.2"/>
+        <path d="M12 2.5v2.5M12 19v2.5M2.5 12h2.5M19 12h2.5M5 5l1.8 1.8M17.2 17.2 19 19M19 5l-1.8 1.8M6.8 17.2 5 19"/>
+      </svg>
+      <svg class="ico-moon" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+        <path d="M21 13.2A8.5 8.5 0 1 1 10.8 3 6.8 6.8 0 0 0 21 13.2Z"/>
+      </svg>
+    </button>
+    <div class="lang-switch" id="lang-switch" title="Язык наименований">
+      <button data-lang="zh">中文</button><button data-lang="en">EN</button><button data-lang="ru">РУС</button>
+    </div>
+    <a class="btn-tool" href="kb.html" title="База знаний LiuGong: детали, узлы, машины, темы">База знаний</a>
+    <button id="show-fleet" class="btn-tool"
+            title="Парк LiuGong АО «Полюс» и каталоги, которые ему отвечают">Парк</button>
+    <button id="check-list" class="btn-tool"
+            title="Проверить свой список номеров по всем каталогам">Проверить список</button>
+    <button id="cart-toggle" class="btn-cart">
+      Заказ <span id="cart-count" class="badge">0</span>
+    </button>
+  </div>
+</header>
+
+<div class="passport" id="passport"></div>
+
+<main class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-export">
+      <button id="dl-unit" class="btn-export"
+              title="Скачать состав открытого узла">↓ Состав открытого узла (CSV)</button>
+      <button id="dl-book" class="btn-export"
+              title="Все номера открытого каталога">↓ Все номера этой машины (CSV)</button>
+    </div>
+    <div class="sidebar-head">Разделы каталога</div>
+    <div class="tree-filter">
+      <input id="tree-search" type="search" autocomplete="off"
+             placeholder="Фильтр по названию или номеру сборки…">
+    </div>
+    <nav id="tree" class="tree"></nav>
+  </aside>
+
+  <section class="content">
+    <div id="navbar" class="navbar hidden">
+      <button id="go-back" class="btn-back" title="Вернуться к предыдущему экрану">← Назад</button>
+    </div>
+
+    <div id="view-welcome" class="welcome">
+      <h1 id="w-title">Каталог запасных частей LiuGong</h1>
+      <p id="w-lead"></p>
+      <p>Слева — разделы каталога, внутри каждого узлы. Откройте узел: рядом
+         с чертежом появится список позиций. Номер позиции на чертеже
+         кликабельный — щелчок по нему подсвечивает строку таблицы, щелчок
+         по строке подсвечивает номер на чертеже. Щелчок по номеру детали
+         открывает карточку: паспорт из EPC, фотографии, цена по прайс-листу,
+         цепочка замен и все узлы всех каталогов, где эта деталь применяется.</p>
+      <div id="w-stats" class="stats"></div>
+      <h2>Машины этого каталога</h2>
+      <p class="sub" id="w-mach-lead"></p>
+      <div id="w-machines" class="doclist"></div>
+    </div>
+
+    <div id="view-search" class="hidden">
+      <h2 class="view-title" id="search-title"></h2>
+      <div id="search-results"></div>
+    </div>
+
+    <div id="view-fleet" class="hidden">
+      <h2 class="view-title">Парк LiuGong АО «Полюс»</h2>
+      <p class="sub" id="fleet-lead"></p>
+      <div class="an-filters" id="fleet-filters"></div>
+      <div class="table-wrap"><table class="parts an-table" id="fleet-table"></table></div>
+    </div>
+
+    <div id="view-part" class="hidden">
+      <div class="part-card" id="part-card"></div>
+    </div>
+
+    <div id="view-check" class="hidden">
+      <h2 class="view-title">Проверка списка номеров</h2>
+      <p class="sub">Вставьте номера — по одному в строке или через запятую.
+         Проверяются все каталоги сразу. Кириллические двойники латинских букв
+         (<code>44С2104</code> и <code>44C2104</code>) считаются одним номером.</p>
+      <textarea id="check-input" class="check-input" rows="8"
+                placeholder="12B0428&#10;SP139575"></textarea>
+      <div class="sec-actions">
+        <button id="check-run" class="btn-tool">Проверить</button>
+        <button id="check-csv" class="an-chip">↓ результат (CSV)</button>
+      </div>
+      <div id="check-results"></div>
+    </div>
+
+    <div id="view-unit" class="hidden">
+      <div class="option-head">
+        <div>
+          <div class="crumbs" id="opt-crumbs"></div>
+          <h2 class="view-title" id="opt-name"></h2>
+          <div class="opt-meta" id="opt-meta"></div>
+        </div>
+      </div>
+
+      <div class="option-body">
+        <div class="drawing-pane" id="drawing-pane">
+          <div class="drawing-wrap" id="drawing-wrap">
+            <img id="drawing" alt="Чертёж узла">
+            <div class="spots" id="spots"></div>
+          </div>
+          <div class="drawing-hint" id="drawing-hint"></div>
+        </div>
+
+        <div class="table-pane">
+          <div class="applic-bar" id="applic-bar"></div>
+          <table class="parts">
+            <thead>
+              <tr>
+                <th class="c-pos">№</th>
+                <th class="c-no">Номер детали</th>
+                <th class="c-name">Наименование</th>
+                <th class="c-qty">Кол-во<br><span class="th-sub">на узел</span></th>
+                <th class="c-note">Примечание<br><span class="th-sub">из EPC</span></th>
+                <th class="c-store">Запас<br><span class="th-sub">рекомендация</span></th>
+                <th class="c-chain">Замена</th>
+                <th class="c-p1">Цена, базис 1<br><span class="th-sub">₽ без НДС</span></th>
+                <th class="c-p2">Цена, базис 2<br><span class="th-sub">₽ без НДС</span></th>
+                <th class="c-need">Нужно</th>
+                <th class="c-add"></th>
+              </tr>
+            </thead>
+            <tbody id="parts-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<aside id="cart-panel" class="cart hidden">
+  <div class="cart-head">
+    <h2>Заказ</h2>
+    <button class="btn-plain" id="cart-close" title="Закрыть">✕</button>
+  </div>
+  <div class="cart-body">
+    <table class="cart-table">
+      <thead>
+        <tr><th>Номер</th><th>Наименование</th><th>Кол-во</th><th>Каталог</th><th></th></tr>
+      </thead>
+      <tbody id="cart-body"></tbody>
+    </table>
+    <p id="cart-empty" class="cart-empty">Заказ пуст. Добавляйте позиции кнопкой «＋ в заказ».</p>
+  </div>
+  <div class="cart-foot">
+    <div class="cart-total">Позиций: <b id="cart-total">0</b></div>
+    <div class="cart-actions">
+      <button class="btn" id="cart-csv">Выгрузить CSV</button>
+      <button class="btn" id="cart-print">Печать</button>
+      <button class="btn btn-danger" id="cart-clear">Очистить</button>
+    </div>
+  </div>
+</aside>
+
+<div class="lightbox hidden" id="lightbox">
+  <div class="lb-wrap" id="lightbox-wrap">
+    <img id="lightbox-img" alt="Чертёж">
+    <div class="spots" id="lightbox-spots"></div>
+  </div>
+</div>
+
+<script src="books.js?v=1"></script>
+<script src="fleet.js?v=1"></script>
+<script src="codes.js?v=1"></script>
+<script src="data/supply/meta.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>

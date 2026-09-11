@@ -1,0 +1,1 @@
+window.__DATA__["u:12F02860006B001/52C0520_000_00"]={"id":"52C0520_000_00","t":"SHAFT GP","r":"52C0520","g":"52C0520_000_00","d":"2026-04-03","w":510.2,"h":652.0,"rows":[["2","","BUSHING","1","Not produce parts, repair through upper parts"],["3","","PIN","1","Not produce parts, repair through upper parts"]],"spots":[["3",154.9,549.8,162.2,559.7],["2",342.6,285.9,349.9,295.8]]};

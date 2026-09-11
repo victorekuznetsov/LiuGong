@@ -1,0 +1,1 @@
+window.__DATA__["u:68F00030217B001/SP202879_000_00"]={"id":"SP202879_000_00","t":"OIL LEVEL GAUGE","r":"SP202879","g":"SP202879_000_00","d":"2019-07-12","w":510.2,"h":652.0,"rows":[["1","SP123386","CONNECTOR","1","","Not recommend","",4],["2","SP138869","DIPSTICK","1","CHANGED FROM SP132805","5 Years","",4]],"spots":[]};

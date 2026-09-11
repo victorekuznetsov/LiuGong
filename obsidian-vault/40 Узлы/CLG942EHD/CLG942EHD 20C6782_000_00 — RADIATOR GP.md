@@ -1,0 +1,43 @@
+---
+type: "Узел"
+unit: "20C6782_000_00"
+machine: "CLG942EHD"
+assembly: "20C6782"
+parts_count: 17
+tags:
+  - "узел"
+  - "машина/clg942ehd"
+  - "раздел/power-system"
+---
+
+# RADIATOR GP
+*CLG942EHD · раздел «POWER SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG942EHD]]
+> **Узел:** `20C6782_000_00`
+> **Номер сборки:** `20C6782`
+> **Редакция чертежа:** 2025-04-21
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/12F02860006B001/20C6782_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 | [[20C6787]] | Кожух в сборе | 1 |  |
+| 2 | [[20C6789]] | Радиатор, группа | 1 |  |
+| 3 | [[09C2978]] | Зажим | 2 |  |
+| 4 | [[85A5351]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 5 | [[85A5352]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 6 | [[82A2704]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 7 | [[82A2705]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 8 | [[82A2706]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 9 | [[82A2707]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 10 | [[82A2708]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 11 | [[82A2773]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 12 |  | SPONGE | 1 | Not produce parts separately, supply parts by new parts number |
+| 13 | [[06B0666]] | Шайба | 11 |  |
+| 14 | [[06B0472]] | Шайба | 4 | CHANGED FROM 06B0001 |
+| 15 | [[00B1142]] | Болт | 1 | REPEATED P/N. CHANGE TO 00B0005 . INTERCHANGEABLE. |
+| 16 | [[00B1143]] | Болт | 15 |  |
+| 17 | [[20C6790]] | Бак | 1 |  |

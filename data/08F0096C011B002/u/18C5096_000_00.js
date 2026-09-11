@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/18C5096_000_00"]={"id":"18C5096_000_00","t":"HOSE AS","r":"18C5096","g":"18C5096_000_00","d":"2024-11-25","w":510.2,"h":652.0,"rows":[["1","SP346680","HOSE","1","","3 Years"],["2","30C2478","CONNECTOR","2","CHANGE TO ITS SUPERIOR PART . ONE-WAY REPLACEMENT"]],"spots":[]};

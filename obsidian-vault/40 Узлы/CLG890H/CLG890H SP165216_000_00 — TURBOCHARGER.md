@@ -1,0 +1,64 @@
+---
+type: "Узел"
+unit: "SP165216_000_00"
+machine: "CLG890H"
+assembly: "SP165216"
+parts_count: 38
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-system"
+---
+
+# TURBOCHARGER
+*CLG890H · раздел «POWER SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP165216_000_00`
+> **Номер сборки:** `SP165216`
+> **Редакция чертежа:** 2017-03-06
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP165216_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 | [[SP123757]] | TURBO CHARGER | 1 |  |
+| 2 |  | OIL RETAINING RING | 1 | REPEATED P/N. CHANGE TO 40C7725 . INTERCHANGEABLE. |
+| 3 |  | BOLT | 3 | REPEATED P/N. CHANGE TO 40C7726 . INTERCHANGEABLE. |
+| 4 | [[SP136891]] | Шайба | 3 | AFTER THE INVENTORY IS CONSUMED, DISCONTINUED. CHANGE TO UPPER PART |
+| 5 |  | SPACER | 3 | REPEATED P/N. CHANGE TO 40C7727 . INTERCHANGEABLE. |
+| 6 |  | SCREW | 2 | Not produce parts |
+| 7 |  | MULTILAYER GASKET | 1 | REPEATED P/N. CHANGE TO 40C7728 . INTERCHANGEABLE. |
+| 8 | [[SP109396]] | ROLLER?PIN | 2 | AFTER THE INVENTORY IS CONSUMED, DISCONTINUED. CHANGE TO UPPER PART |
+| 10 |  | COVER | 1 | REPEATED P/N. CHANGE TO 40C7729 . INTERCHANGEABLE. |
+| 11 |  | BAFFLE PLATE | 1 | REPEATED P/N. CHANGE TO 40C7730 . INTERCHANGEABLE. |
+| 12 |  | SEAL | 1 | REPEATED P/N. CHANGE TO 40C7731 . INTERCHANGEABLE. |
+| 13 |  | NUT | 2 | REPEATED P/N. CHANGE TO 40C7732 . INTERCHANGEABLE. |
+| 14 |  | JUMP RING | 1 | REPEATED P/N. CHANGE TO 40C6795 . INTERCHANGEABLE. |
+| 16 |  | NUT | 2 | REPEATED P/N. CHANGE TO 40C7734 . INTERCHANGEABLE. |
+| 17 | [[SP125496]] | Зажим | 1 |  |
+| 18 |  | ASSEMBLING SPACER BUSH | 3 | REPEATED P/N. CHANGE TO 40C6799 . INTERCHANGEABLE. |
+| 19 |  | BOLT | 3 | Discontinued,change to its superior part |
+| 20 |  | HEAT SHIELD | 1 | REPEATED P/N. CHANGE TO 40C7737 . INTERCHANGEABLE. |
+| 21 |  | THRUST BEARING | 1 | REPEATED P/N. CHANGE TO 40C7738 . INTERCHANGEABLE. |
+| 22 |  | THRUST BALL BEARING | 2 | REPEATED P/N. CHANGE TO 40C7739 . INTERCHANGEABLE. |
+| 23 |  | CLAMP | 1 | REPEATED P/N. CHANGE TO 40C7740 . INTERCHANGEABLE. |
+| 26 |  | GEARSHAFT | 1 | REPEATED P/N. CHANGE TO 40C7743 . INTERCHANGEABLE. |
+| 29 |  | THRUST BEARING | 1 | REPEATED P/N. CHANGE TO 40C7746 . INTERCHANGEABLE. |
+| 33 |  | CLIP | 4 | REPEATED P/N. CHANGE TO 40C7750 . INTERCHANGEABLE. |
+| 34 |  | CLIP | 1 | REPEATED P/N. CHANGE TO 40C7751 . INTERCHANGEABLE. |
+| 35 | [[SP109534]] | Уплотнительное кольцо | 1 | CHANGE TO UPPER PART . |
+| 36 |  | NUT | 1 | REPEATED P/N. CHANGE TO 40C7752 . INTERCHANGEABLE. |
+| 37 |  | O-RING | 1 | REPEATED P/N. CHANGE TO 40C7753 . INTERCHANGEABLE. |
+| 38 | [[SP111280]] | Прокладка | 1 | REPEATED P/N. CHANGE TO 40C7229 . INTERCHANGEABLE. |
+| 40 |  | HOSE | 1 | Discontinued,change to its superior part |
+| 41 |  | CLAMP | 2 | REPEATED P/N. CHANGE TO 40C7868 . INTERCHANGEABLE. |
+| 43 | [[SP130364]] | Прокладка | 1 |  |
+| 44 |  | STUD | 2 | REPEATED P/N. CHANGE TO 40C7759 . INTERCHANGEABLE. |
+| 45 | [[SP109456]] | Гайка | 4 | Not produce parts |
+| 46 | [[40C7222]] | Уплотнительное кольцо | 4 |  |
+| 47 |  | O-RING | 1 | REPEATED P/N. CHANGE TO 40C7871 . INTERCHANGEABLE. |
+| 48 | [[SP138595]] | Уплотнительное кольцо | 1 |  |
+| 49 |  | O-RING | 1 | Discontinued,change to its superior part |

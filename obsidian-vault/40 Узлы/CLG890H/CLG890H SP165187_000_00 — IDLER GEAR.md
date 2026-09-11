@@ -1,0 +1,43 @@
+---
+type: "Узел"
+unit: "SP165187_000_00"
+machine: "CLG890H"
+assembly: "SP165187"
+parts_count: 17
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/power-system"
+---
+
+# IDLER GEAR
+*CLG890H · раздел «POWER SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `SP165187_000_00`
+> **Номер сборки:** `SP165187`
+> **Редакция чертежа:** 2017-01-26
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/SP165187_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 |  | GEAR IDLER | 1 | REPEATED P/N. CHANGE TO 40C7389 . INTERCHANGEABLE. |
+| 2 |  | SLIDING BEARING | 1 | REPEATED P/N. CHANGE TO 40C7399 . INTERCHANGEABLE. |
+| 3 |  | IDLER SHAFT | 1 | REPEATED P/N. CHANGE TO 40C7392 . INTERCHANGEABLE. |
+| 4 |  | BRACKET | 1 | REPEATED P/N. CHANGE TO 40C7393 . INTERCHANGEABLE. |
+| 5 |  | THRUST BEARING | 2 | REPEATED P/N. CHANGE TO 40C7394 . INTERCHANGEABLE. |
+| 6 |  | THRUST BEARING | 1 | REPEATED P/N. CHANGE TO 40C7395 . INTERCHANGEABLE. |
+| 7 |  | BOLT | 3 | REPEATED P/N. CHANGE TO 40C7396 . INTERCHANGEABLE. |
+| 8 | [[SP132800]] | GEAR IDLER | 1 | REPEATED P/N. CHANGE TO 40C7397 . INTERCHANGEABLE. |
+| 9 |  | SLIDING BEARING | 1 | REPEATED P/N. CHANGE TO 40C7391 . INTERCHANGEABLE. |
+| 10 |  | IDLER SHAFT | 1 | REPEATED P/N. CHANGE TO 40C7401 . INTERCHANGEABLE. |
+| 11 | [[SP132799]] | GEAR IDLER | 1 |  |
+| 12 | [[SP138627]] | Кронштейн | 2 |  |
+| 13 |  | BOLT | 1 | REPEATED P/N. CHANGE TO 40C7403 . INTERCHANGEABLE. |
+| 14 |  | GASKET | 3 | REPEATED P/N. CHANGE TO 40C7279 . INTERCHANGEABLE. |
+| 15 |  | SPACER | 1 | REPEATED P/N. CHANGE TO 40C7405 . INTERCHANGEABLE. |
+| 16 |  | SEAL RECTANGULAR RING | 1 | REPEATED P/N. CHANGE TO 40C7273 . INTERCHANGEABLE. |
+| 17 | [[SP138484]] | IDLER SHAFT | 1 |  |

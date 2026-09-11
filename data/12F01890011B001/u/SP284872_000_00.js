@@ -1,0 +1,1 @@
+window.__DATA__["u:12F01890011B001/SP284872_000_00"]={"id":"SP284872_000_00","t":"THERMOSTAT HOUSING ARRANGEMENT","r":"SP284872","g":"SP284872_000_00","d":"2023-09-15","w":510.2,"h":652.0,"rows":[["1","SP135677","HEXAGON FLANGE BOLT","1","","Not recommend","",4],["2","SP277072","WATER BYPASS TUBE","1","","Not recommend"]],"spots":[["1",418.8,296.8,426.6,310.0]]};

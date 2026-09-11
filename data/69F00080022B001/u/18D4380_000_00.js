@@ -1,0 +1,1 @@
+window.__DATA__["u:69F00080022B001/18D4380_000_00"]={"id":"18D4380_000_00","t":"MOUNTING SUPPORT","r":"18D4380","g":"18D4380_000_00","d":"2019-09-20","w":510.2,"h":652.0,"rows":[["1","","VIRCUAL PART","1","Not produce parts"]],"spots":[]};

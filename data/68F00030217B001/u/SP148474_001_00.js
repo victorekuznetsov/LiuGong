@@ -1,0 +1,1 @@
+window.__DATA__["u:68F00030217B001/SP148474_001_00"]={"id":"SP148474_001_00","t":"TRANSMISSION HOUSING","r":"SP148474","g":"SP148474_001_00","d":"2017-07-04","w":510.2,"h":652.0,"rows":[["1","SP164958","HEXAGON SCREW","2","","Not recommend"],["2","SP165047","FIXING PLATE","2","","Not recommend"]],"spots":[]};

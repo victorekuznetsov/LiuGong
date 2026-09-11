@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/18C8535_000_00"]={"id":"18C8535_000_00","t":"HOSE AS","r":"18C8535","g":"18C8535_000_00","d":"2025-01-02","w":510.2,"h":652.0,"rows":[["1","30C1023","CONNECTOR","1","","Not recommend"],["2","31C0654","CONNECTOR","1","Not produce parts, repair through upper parts","Not recommend"]],"spots":[]};

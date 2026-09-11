@@ -1,0 +1,1 @@
+window.__DATA__["u:23F00630017B002/SP141643_000_00"]={"id":"SP141643_000_00","t":"AIR INTAKE CONNECTION","r":"SP141643","g":"SP141643_000_00","d":"2015-06-04","w":510.2,"h":652.0,"rows":[["1","SP137277","SCREW","4","","Not recommend"],["1","SP146311","SCREW HEX FLANGE HEAD CA","4","","Not recommend"]],"spots":[["1",190.0,274.8,199.7,288.0]]};

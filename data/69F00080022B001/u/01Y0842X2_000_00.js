@@ -1,0 +1,1 @@
+window.__DATA__["u:69F00080022B001/01Y0842X2_000_00"]={"id":"01Y0842X2_000_00","t":"REAR AXLE AS","r":"01Y0842X2","g":"01Y0842X2_000_00","d":"2022-11-07","w":510.2,"h":652.0,"rows":[["1","00C3990","REAR AXLE LINES","1","Not produce parts, repair through subordinate parts","","00C3990"]],"spots":[["1",188.8,444.6,196.6,457.8]]};

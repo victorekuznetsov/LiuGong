@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/50Y1766_000_00"]={"id":"50Y1766_000_00","t":"ELECTRICAL SCHEMATIC","r":"50Y1766","g":"50Y1766_000_00","d":"2020-12-28","w":510.2,"h":652.0,"rows":[["1","","ILLUSTRATIVE DIAGRAM","1","Not produce parts"]],"spots":[]};

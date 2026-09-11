@@ -1,0 +1,1 @@
+window.__DATA__["u:65F01260034B001/84A5738_000_00"]={"id":"84A5738_000_00","t":"SEAL","r":"84A5738","g":"84A5738_000_00","d":"2020-10-20","w":510.2,"h":652.0,"rows":[["1","35C0059","SEAL","1","CHANGED FROM 35C0097","Not recommend","",4],["1","MX100900","ADHESIVE TAPE","1","The sales unit is meters","3 Years","",36]],"spots":[]};

@@ -1,0 +1,32 @@
+---
+type: "Узел"
+unit: "08C8340_000_00"
+machine: "CLG942EHD"
+assembly: "08C8340"
+parts_count: 6
+tags:
+  - "узел"
+  - "машина/clg942ehd"
+  - "раздел/electrical-system"
+---
+
+# BATTERY CABLE(-)
+*CLG942EHD · раздел «ELECTRICAL SYSTEM»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG942EHD]]
+> **Узел:** `08C8340_000_00`
+> **Номер сборки:** `08C8340`
+> **Редакция чертежа:** 2018-04-11
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/12F02860006B001/08C8340_000_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 | [[84A0219]] | Пыльник | 1 | Not produce parts, repair through upper parts |
+| 2 | [[36B1063]] | Фитинг | 1 |  |
+| 3 |  | PIPE | 2 | NOT FOR SALE AS PARTS.CHANGE TO THE ASSEMBLY |
+| 4 |  | BELLOWS | 1 | Unavailable separately,change to its superior part-Harness |
+| 5 |  | CABLE | 1 | Not produce parts, repair through upper parts |
+| 7 |  | SLEEVE | 1 | WIRING，CANNOT BREAK DOWN，CHANGE TO ASSEMBLY |

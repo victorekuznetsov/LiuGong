@@ -1,0 +1,1 @@
+window.__DATA__["u:10F0302C007B001/67C8202_000_00"]={"id":"67C8202_000_00","t":"HOSE AS","r":"67C8202","g":"67C8202_000_00","d":"2024-12-05","w":510.2,"h":652.0,"rows":[["1","30C2113","CONNECTOR","1","","Not recommend","30C2113"],["2","","CONNECTOR","1","DISCONTINUED. CHANGE TO 31C2748 . INTERCHANGEABLE.","Not recommend","",8]],"spots":[]};

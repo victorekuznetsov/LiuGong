@@ -1,0 +1,1 @@
+window.__DATA__["u:08F0096C011B002/30C0181_000_00"]={"id":"30C0181_000_00","t":"CONNECTOR","r":"30C0181","g":"30C0181_000_00","d":"2017-07-19","w":510.2,"h":652.0,"rows":[["1","83A1994","SEALING WASHER","1","Not produce parts, repair through upper parts","Not recommend"]],"spots":[["1",364.3,185.5,370.8,196.5]]};

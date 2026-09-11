@@ -1,0 +1,50 @@
+---
+type: "Узел"
+unit: "47C5322_001_00"
+machine: "CLG890H"
+assembly: "47C5322"
+parts_count: 24
+tags:
+  - "узел"
+  - "машина/clg890h"
+  - "раздел/cab"
+---
+
+# ATTACHMENT
+*CLG890H · раздел «CAB»*
+
+> [!abstract] Узел каталога
+> **Машина:** [[CLG890H]]
+> **Узел:** `47C5322_001_00`
+> **Номер сборки:** `47C5322`
+> **Редакция чертежа:** 2022-05-11
+> **Чертёж и выноски:** [открыть в каталоге](../../../kb.html#/unit/68F00030217B001/47C5322_001_00)
+
+## Состав
+
+| Поз. | Номер | Наименование | Кол-во | Примечание |
+|---|---|---|---|---|
+| 1 | [[82A0168]] | Блок | 4 |  |
+| 2 | [[84A3849]] | Заглушка | 1 |  |
+| 3 | [[47C5070]] | Стекло | 1 | Clear glass,47C5912 with green glass |
+| 4 | [[34C7721]] | Замок двери | 1 | REPEATED P/N. CHANGE TO 34C7687T2 . INTERCHANGEABLE. |
+| 5 | [[84A5580]] | Сальник | 1 |  |
+| 6 | [[47C5565]] | Молоток | 1 | Not produce parts, repair through subordinate parts |
+| 7 | [[34C5351]] | Зеркало заднего вида | 1 | Change to LOWER PART |
+| 8 | [[34C5344]] | Крюк | 2 | Not produce parts, repair through subordinate parts |
+| 10 | [[34C6927]] | Сальник | 1 | Not produce parts, repair through subordinate parts |
+| 11 | [[34C5349]] | Поручень, левый | 1 | Not produce parts, repair through subordinate parts |
+| 12 | [[34C9670]] | Пневморессора | 1 |  |
+| 13 | [[47C2841]] | Козырёк | 1 | UNAVAILABLE SEPARATELY CHANGE TO SUB-PART/LOWER PART . |
+| 14 | [[47C8585]] | Стекло в сборе | 1 | Not produce parts, repair through subordinate parts |
+| 15 | [[47C2391]] | Замок двери | 1 |  |
+| 16 |  | SEAL | 1 | Unavailable |
+| 17 | [[47C4050]] | Стекло | 1 | UNAVAILABLE SEPARATELY CHANGE TO SUB-PART/LOWER PART . |
+| 18 | [[47C2755]] | Стекло | 1 | Not produce parts, repair through subordinate parts |
+| 19 | [[47C3722]] | Замок двери | 1 | INTERCHANGEABLE WITH 47C3890 |
+| 20 | [[47C2756]] | Блок | 1 | Not produce parts, repair through subordinate parts |
+| 21 | [[47C2835]] | Козырёк | 1 | Not produce parts, repair through subordinate parts |
+| 24 | [[34C5640]] | Кронштейн | 1 | Not produce parts, repair through subordinate parts |
+| 25 | [[82A4907]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 26 | [[85A7214]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |
+| 27 | [[85A7215]] | Губка | 1 | CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS. |

@@ -1,0 +1,1 @@
+window.__DATA__["u:68F00030217B001/SP144044_000_00"]={"id":"SP144044_000_00","t":"PISTON COOLING NOZZLE","r":"SP144044","g":"SP144044_000_00","d":"2015-07-07","w":510.2,"h":652.0,"rows":[["1","SP130076","\"SCREW","6","","Not recommend","",4],["2","SP111239","NOZZLE","6","","Not recommend","",4]],"spots":[]};

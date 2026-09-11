@@ -1,0 +1,170 @@
+/* Дополнения этого каталога поверх общего стиля «Развитие».
+   Всё, чего нет у каталогов Schramm, Cat и Cummins: выноски на чертеже,
+   полоса выбора борта, колонки примечания, запаса и замены, список парка. */
+
+/* --- выноски на чертеже ------------------------------------------------
+   Отличие от каталога Komatsu: там номера позиций на чертеже не
+   нарисованы — на их месте пустые рамки, и номер ставит сама программа
+   просмотра. В чертеже LiuGong номер нарисован. Поэтому выноска здесь —
+   прозрачная область поверх нарисованного номера: рисовать номер поверх
+   номера незачем, а связь «чертёж ↔ таблица» нужна такая же.
+   Координаты — в процентах от размера листа, чтобы область не разъезжалась
+   ни при каком масштабе картинки. */
+.drawing-wrap{position:relative; display:inline-block; max-width:100%}
+.spots{position:absolute; inset:0; pointer-events:none}
+.spot{
+  position:absolute; display:block;
+  font-size:0; color:transparent;          /* номер уже нарисован на чертеже */
+  border:1px solid transparent; border-radius:3px;
+  cursor:pointer; pointer-events:auto;
+  transition:background .12s, border-color .12s, box-shadow .12s;
+}
+.spot:hover{border-color:var(--accent-2); background:rgba(0,0,0,.04)}
+.spot.hit{
+  border-color:var(--accent); background:var(--accent);
+  mix-blend-mode:multiply; box-shadow:0 0 0 2px var(--accent);
+}
+[data-theme="dark"] .spot.hit{mix-blend-mode:screen}
+.spot.spot-off{opacity:.25}              /* позиция скрыта фильтром по борту */
+
+/* --- полоса выбора борта ----------------------------------------------- */
+.applic-bar{
+  display:flex; align-items:center; gap:12px; flex-wrap:wrap;
+  padding:6px 8px; margin-bottom:8px;
+  border:1px solid var(--line-soft); border-radius:6px; background:var(--panel);
+  font-size:12.5px;
+}
+.applic-toggle{display:flex; align-items:center; gap:6px; cursor:pointer; white-space:nowrap}
+.applic-note{color:var(--muted)}
+.applic-ok{color:var(--ok, var(--accent-2)); font-weight:600; white-space:nowrap}
+.applic-rev{color:var(--accent); font-weight:600; white-space:nowrap}
+/* Позиция не отмечена в исполнении выбранного борта: приглушена, но не
+   спрятана — фильтр включается отдельной галочкой. */
+tr.row-other td{opacity:.5}
+tr.row-other.hit-row td{opacity:1}
+
+/* --- колонки таблицы позиций -------------------------------------------- */
+.c-note{max-width:220px; font-size:12px; color:var(--muted)}
+.note-cell{display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.c-store{width:88px}
+.c-chain{width:210px}
+.c-p1,.c-p2{width:104px; text-align:right; white-space:nowrap}
+.store-pill{
+  display:inline-block; padding:1px 6px; border-radius:10px; font-size:11.5px;
+  background:var(--panel); border:1px solid var(--line-soft); color:var(--muted);
+}
+.chain-pill{
+  display:inline-block; margin:1px 3px 1px 0; padding:1px 6px; border-radius:10px;
+  font-size:11.5px; cursor:pointer;
+  background:var(--hover); border:1px solid var(--line-soft); color:var(--text);
+}
+.chain-pill:hover{border-color:var(--accent-2)}
+/* Замена на номер, которого в наших книгах нет: показать надо, а
+   открывать нечего — поэтому не ссылка. */
+.chain-pill.chain-out{cursor:help; color:var(--muted); border-style:dashed}
+.chain-more{font-size:11px; color:var(--muted)}
+.flag-pill{
+  display:inline-block; margin:1px 3px 1px 0; padding:1px 6px; border-radius:10px;
+  font-size:11.5px; background:var(--danger-soft, var(--hover));
+  border:1px solid var(--line-soft); color:var(--danger, var(--text));
+}
+.flag-off,.flag-na{font-weight:600}
+.price{white-space:nowrap}
+.mpq{margin-left:5px; font-size:11px; color:var(--muted)}
+.mark{
+  display:inline-block; margin-left:5px; width:15px; height:15px; line-height:15px;
+  text-align:center; font-size:10.5px; font-weight:700; border-radius:3px;
+  background:var(--hover); border:1px solid var(--line-soft); color:var(--muted);
+}
+.mark.kit{color:var(--accent)}
+.mark.noorder{color:var(--danger, var(--muted))}
+
+/* --- карточка детали ---------------------------------------------------- */
+.photo-strip{display:flex; flex-wrap:wrap; gap:8px; margin:6px 0 14px}
+.photo-strip .photo{
+  max-width:220px; max-height:220px; border:1px solid var(--line-soft);
+  border-radius:6px; background:#fff;
+}
+.analog-row{
+  display:flex; gap:10px; align-items:baseline; padding:3px 0;
+  border-bottom:1px solid var(--line-soft);
+}
+.analog-row .at{font-size:12px; color:var(--muted)}
+
+/* --- дерево с вложенными узлами ---------------------------------------- */
+.tree-sub{margin-left:12px; border-left:1px solid var(--line-soft); padding-left:6px}
+.tree-opt.has-kids{font-weight:600}
+
+/* --- результаты поиска -------------------------------------------------- */
+.find-group{margin:0 0 14px}
+.find-no{font-size:14px; margin-bottom:4px}
+.find-hit{
+  display:flex; gap:14px; align-items:baseline; padding:4px 8px; cursor:pointer;
+  border:1px solid transparent; border-radius:5px;
+}
+.find-hit:hover{border-color:var(--accent-2); background:var(--hover)}
+.fh-book{flex:0 0 190px; font-weight:600}
+.fh-unit{flex:0 0 160px; color:var(--muted); font-family:var(--mono, monospace)}
+.fh-item{color:var(--muted); font-size:12px}
+
+/* --- парк --------------------------------------------------------------- */
+.row-link{cursor:pointer}
+.row-link:hover td{background:var(--hover)}
+/* Каталог выкачан по VIN этой машины — или по VIN другой машины той же
+   модели. Разница существенная: исполнения (materialNo) совпадают не
+   всегда, и по «почти той» книге закажут не ту деталь. */
+.fit{display:inline-block; padding:1px 7px; border-radius:10px; font-size:11.5px}
+.fit-vin{background:var(--ok-soft, var(--hover)); color:var(--ok, var(--accent-2)); font-weight:600}
+.fit-model{background:var(--hover); color:var(--muted)}
+.fit-none{color:var(--muted)}
+
+/* --- прочее ------------------------------------------------------------- */
+.check-input{
+  width:100%; max-width:620px; font-family:var(--mono, monospace); font-size:13px;
+  padding:8px; border:1px solid var(--line); border-radius:6px;
+  background:var(--panel); color:var(--text);
+}
+body.busy{cursor:progress}
+.fatal{padding:40px; font-size:15px; text-align:center}
+.lightbox{
+  position:fixed; inset:0; z-index:60; background:rgba(0,0,0,.82);
+  display:flex; align-items:center; justify-content:center; padding:24px; cursor:zoom-out;
+}
+.lb-wrap{position:relative; max-width:100%; max-height:100%}
+.lightbox img{width:100%; height:100%; display:block; background:#fff}
+.lb-wrap .spot{cursor:zoom-out}
+.lb-wrap .spot.spot-off{opacity:.4}
+
+/* --- переключатель языка наименований -----------------------------------
+   В EPC LiuGong каталог ведётся сразу на двух языках, и оба заводские:
+   «中文» и «EN» — как в книге. «РУС» — перевод: где деталь есть в
+   прайс-листе с русским наименованием, взято оттуда, остальное переведено
+   по словарю техники. Непереведённое остаётся по-английски: показать
+   исходное честнее, чем угадать. */
+.lang-switch{display:inline-flex; border:1px solid var(--line); border-radius:6px; overflow:hidden}
+.lang-switch button{
+  border:0; background:var(--panel); color:var(--muted); cursor:pointer;
+  font:600 11.5px/1 inherit; padding:7px 9px; letter-spacing:.3px;
+}
+.lang-switch button + button{border-left:1px solid var(--line)}
+.lang-switch button:hover{background:var(--hover); color:var(--text)}
+.lang-switch button.on{background:var(--accent); color:#fff}
+a.btn-tool{text-decoration:none; display:inline-flex; align-items:center}
+/* Узел без чертежа: в EPC такие есть, состава у них нет — это заголовок
+   группы, а не страница. Курсор и подсветка не обещают перехода. */
+.tree-opt.tree-group{cursor:default; color:var(--muted); font-weight:600}
+.tree-opt.tree-group:hover{background:none}
+
+/* --- паспорт каталога в шапке -------------------------------------------
+   Общий стиль «Развитие» рассчитан на `<span>` и `<b>`; здесь у пары
+   «ключ — значение» свои классы, и без них подпись слипается со
+   значением: «Вид техникиэкскаватор среднего класса». */
+.passport .pp{display:inline-flex; align-items:baseline; gap:6px}
+.passport .pp-k{color:var(--muted)}
+.passport .pp-v{color:var(--text); font-weight:600}
+
+/* Карточка детали — панель во всю высоту справа (общий стиль «Развитие»).
+   Она закрывает шапку, поэтому у неё своя кнопка закрытия; Esc работает
+   так же. */
+.pc-head{position:relative; padding:14px 18px 6px; border-bottom:1px solid var(--line-soft)}
+.pc-close{position:absolute; top:10px; right:12px; font-size:15px; line-height:1}

@@ -1,0 +1,1 @@
+window.__DATA__["u:10F0302C007B001/82C0526_000_00"]={"id":"82C0526_000_00","t":"HOSE AS","r":"82C0526","g":"82C0526_000_00","d":"2025-06-24","w":510.2,"h":652.0,"rows":[["1","","CONNECTOR","1","After consuming the inventory,change to 31C2838+39A1850","Not recommend"],["2","31C1482","CONNECTOR","1"]],"spots":[]};
