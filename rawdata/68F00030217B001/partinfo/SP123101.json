@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123101",
+ "parentPartNO": "SP148482",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123101",
+    "partName": "摩擦片",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "197.0*197.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP123101",
+    "配件名称": "摩擦片",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "197.0* 197.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353435353833353435343535",
+    "/part/zp/373737343535353635373535353435353833353435343535"
+   ],
+   "parentPartNO": "SP148482"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OCLUTCH DISC",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123101",
+    "Part Name": "OCLUTCH DISC",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "197.0* 197.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353435353833353435343535",
+    "/part/zp/373737343535353635373535353435353833353435343535"
+   ],
+   "parentPartNO": "SP148482"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

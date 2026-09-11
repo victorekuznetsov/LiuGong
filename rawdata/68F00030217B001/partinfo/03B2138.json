@@ -1,0 +1,74 @@
+{
+ "partNO": "03B2138",
+ "parentPartNO": "30Y0077",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B2138",
+    "partName": "螺母",
+    "spec": "M16-8-DK",
+    "weightKg": "0.047",
+    "sizeMm": "32.0*32.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "03B2138",
+    "配件名称": "螺母",
+    "规格": "M16-8-DK",
+    "重量(KG)": "0.047",
+    "尺寸(mm)": "32.0* 32.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343537363635363535353735633833353435343536",
+    "/part/zp/35343537363635363535353735633833353435343536"
+   ],
+   "parentPartNO": "30Y0077"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "M16-8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B2138",
+    "Part Name": "NUT",
+    "Specification": "M16-8-DK",
+    "Weight": "0.047",
+    "Size": "32.0* 32.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343537363635363535353735633833353435343536",
+    "/part/zp/35343537363635363535353735633833353435343536"
+   ],
+   "parentPartNO": "30Y0077"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

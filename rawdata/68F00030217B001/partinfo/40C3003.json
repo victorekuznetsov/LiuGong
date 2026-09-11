@@ -1,0 +1,68 @@
+{
+ "partNO": "40C3003",
+ "parentPartNO": "40C6026",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C3003",
+    "partName": "柴油机",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用60C6696;需要同时加装30A2563+09C1341各1件"
+   },
+   "attrsRaw": {
+    "配件编码": "40C3003",
+    "配件名称": "柴油机",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用60C6696;需要同时加装30A2563+09C1341各1件"
+   },
+   "photos": [],
+   "parentPartNO": "40C6026"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DIESEL ENGINE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C3003",
+    "Part Name": "DIESEL ENGINE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 60C6696, NEED TO INSTALL THE 30A2563(1PC)+09C1341(1PC) AT THE SAME TIME"
+   },
+   "photos": [],
+   "parentPartNO": "40C6026"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

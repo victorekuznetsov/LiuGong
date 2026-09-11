@@ -1,0 +1,74 @@
+{
+ "partNO": "41C2499",
+ "parentPartNO": "03Y0094",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41C2499",
+    "partName": "中间传动轴",
+    "spec": "8.5C/8.5C-1250-7350-3500",
+    "weightKg": "36.321",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41C2499",
+    "配件名称": "中间传动轴",
+    "规格": "8.5C/8.5C-1250-7350-3500",
+    "重量(KG)": "36.321",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383535363735363538356435643833353435343535",
+    "/part/zp/35383535363735363538356435643833353435343535"
+   ],
+   "parentPartNO": "03Y0094"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MIDDLE DRIVE SHAFT",
+    "spec": "8.5C/8.5C-1250-7350-3500",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41C2499",
+    "Part Name": "MIDDLE DRIVE SHAFT",
+    "Specification": "8.5C/8.5C-1250-7350-3500",
+    "Weight": "36.321",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383535363735363538356435643833353435343535",
+    "/part/zp/35383535363735363538356435643833353435343535"
+   ],
+   "parentPartNO": "03Y0094"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

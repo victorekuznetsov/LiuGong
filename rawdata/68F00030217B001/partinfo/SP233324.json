@@ -1,0 +1,68 @@
+{
+ "partNO": "SP233324",
+ "parentPartNO": "SP192767",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP233324",
+    "partName": "附件驱动皮带轮",
+    "spec": "",
+    "weightKg": "0.85",
+    "sizeMm": "143.0*144.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP233324",
+    "配件名称": "附件驱动皮带轮",
+    "规格": "",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "143.0* 144.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP192767"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PULLEYACCESSORY DRIVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP233324",
+    "Part Name": "PULLEYACCESSORY DRIVE",
+    "Specification": "",
+    "Weight": "0.85",
+    "Size": "143.0* 144.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP192767"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

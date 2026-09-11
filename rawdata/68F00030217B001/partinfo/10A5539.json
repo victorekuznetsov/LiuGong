@@ -1,0 +1,68 @@
+{
+ "partNO": "10A5539",
+ "parentPartNO": "30C0225",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "10A5539",
+    "partName": "垫圈",
+    "spec": "",
+    "weightKg": "0.005",
+    "sizeMm": "2.0*35.0*35.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "提供机型机号确认"
+   },
+   "attrsRaw": {
+    "配件编码": "10A5539",
+    "配件名称": "垫圈",
+    "规格": "",
+    "重量(KG)": "0.005",
+    "尺寸(mm)": "2.0* 35.0* 35.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "提供机型机号确认"
+   },
+   "photos": [],
+   "parentPartNO": "30C0225"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "10A5539",
+    "Part Name": "WASHER",
+    "Specification": "",
+    "Weight": "0.005",
+    "Size": "2.0* 35.0* 35.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "PLEASE OFFER MACHINE SERIAL NUMBER"
+   },
+   "photos": [],
+   "parentPartNO": "30C0225"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

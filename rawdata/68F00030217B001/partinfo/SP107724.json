@@ -1,0 +1,74 @@
+{
+ "partNO": "SP107724",
+ "parentPartNO": "SP148487",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP107724",
+    "partName": "调整垫片",
+    "spec": "",
+    "weightKg": "0.02",
+    "sizeMm": "80.0*80.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP107724",
+    "配件名称": "调整垫片",
+    "规格": "",
+    "重量(KG)": "0.02",
+    "尺寸(mm)": "80.0* 80.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b353b353635383833353435343536",
+    "/part/zp/3737373435353534353b353b353635383833353435343536"
+   ],
+   "parentPartNO": "SP148487"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ADJUSTING SHIM",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP107724",
+    "Part Name": "ADJUSTING SHIM",
+    "Specification": "",
+    "Weight": "0.02",
+    "Size": "80.0* 80.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b353b353635383833353435343536",
+    "/part/zp/3737373435353534353b353b353635383833353435343536"
+   ],
+   "parentPartNO": "SP148487"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

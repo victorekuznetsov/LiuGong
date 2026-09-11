@@ -1,0 +1,72 @@
+{
+ "partNO": "09C1447",
+ "parentPartNO": "00C3858",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C1447",
+    "partName": "垫片卡箍",
+    "spec": "Φ32-Φ54",
+    "weightKg": "0.0",
+    "sizeMm": "21.0*73.0*62.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "09C1447",
+    "配件名称": "垫片卡箍",
+    "规格": "Φ32-Φ54",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "21.0* 73.0* 62.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353435643637353535383538353b3833353435343536"
+   ],
+   "parentPartNO": "00C3858"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ32-Φ54",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C1447",
+    "Part Name": "CLAMP",
+    "Specification": "Φ32-Φ54",
+    "Weight": "0.0",
+    "Size": "21.0* 73.0* 62.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353435643637353535383538353b3833353435343536"
+   ],
+   "parentPartNO": "00C3858"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

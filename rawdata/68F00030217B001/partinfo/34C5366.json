@@ -1,0 +1,68 @@
+{
+ "partNO": "34C5366",
+ "parentPartNO": "34C9598",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C5366",
+    "partName": "前侧围内饰组件",
+    "spec": "",
+    "weightKg": "0.692",
+    "sizeMm": "481.0*1230.0*552.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用下级散件"
+   },
+   "attrsRaw": {
+    "配件编码": "34C5366",
+    "配件名称": "前侧围内饰组件",
+    "规格": "",
+    "重量(KG)": "0.692",
+    "尺寸(mm)": "481.0* 1230.0* 552.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用下级散件"
+   },
+   "photos": [],
+   "parentPartNO": "34C9598"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECORATION AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C5366",
+    "Part Name": "DECORATION AS",
+    "Specification": "",
+    "Weight": "0.692",
+    "Size": "481.0* 1230.0* 552.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "Change to its subordinate parts"
+   },
+   "photos": [],
+   "parentPartNO": "34C9598"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

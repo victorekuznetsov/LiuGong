@@ -1,0 +1,68 @@
+{
+ "partNO": "40C7220",
+ "parentPartNO": "SP106451",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C7220",
+    "partName": "密封圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "36.0*36.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C7220",
+    "配件名称": "密封圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "36.0* 36.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP106451"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C7220",
+    "Part Name": "SEAL RING",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "36.0* 36.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP106451"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

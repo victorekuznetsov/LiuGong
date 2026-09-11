@@ -1,0 +1,40 @@
+{
+ "partNO": "30C0813",
+ "parentPartNO": "00C5108",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C0813/00C5108 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0813",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.228",
+    "Size": "34.0* 46.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735343563353535373833353435343536",
+    "/part/zp/35373534363735343563353535373833353435343538",
+    "/part/zp/35373534363735343563353535373833353435343539"
+   ],
+   "parentPartNO": "00C5108"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

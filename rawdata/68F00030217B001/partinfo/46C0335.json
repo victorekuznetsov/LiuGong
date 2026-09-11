@@ -1,0 +1,68 @@
+{
+ "partNO": "46C0335",
+ "parentPartNO": "23Y0116",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46C0335",
+    "partName": "水管φ16",
+    "spec": "",
+    "weightKg": "1.13",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "用下级部件84A0248+15B0080"
+   },
+   "attrsRaw": {
+    "配件编码": "46C0335",
+    "配件名称": "水管φ16",
+    "规格": "",
+    "重量(KG)": "1.13",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "用下级部件84A0248+15B0080"
+   },
+   "photos": [],
+   "parentPartNO": "23Y0116"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46C0335",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "1.13",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 84A0248 + 15B0080"
+   },
+   "photos": [],
+   "parentPartNO": "23Y0116"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

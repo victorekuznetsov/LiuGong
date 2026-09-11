@@ -1,0 +1,68 @@
+{
+ "partNO": "56C0008",
+ "parentPartNO": "55C1358",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56C0008",
+    "partName": "刮水器组件",
+    "spec": "",
+    "weightKg": "2.55",
+    "sizeMm": "255.0*189.0*124.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "56C0008",
+    "配件名称": "刮水器组件",
+    "规格": "",
+    "重量(KG)": "2.55",
+    "尺寸(mm)": "255.0* 189.0* 124.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C1358"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WIPER GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "56C0008",
+    "Part Name": "WIPER GP",
+    "Specification": "",
+    "Weight": "2.55",
+    "Size": "255.0* 189.0* 124.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C1358"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

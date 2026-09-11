@@ -1,0 +1,36 @@
+{
+ "partNO": "30Y0077",
+ "parentPartNO": "08Y2058",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30Y0077/08Y2058 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUPPORT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30Y0077",
+    "Part Name": "SUPPORT",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "4631.0* 2090.0* 1411.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "08Y2058"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

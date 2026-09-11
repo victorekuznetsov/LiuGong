@@ -1,0 +1,39 @@
+{
+ "partNO": "31C0088",
+ "parentPartNO": "00C5518",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31C0088/00C5518 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ELBOW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31C0088",
+    "Part Name": "ELBOW",
+    "Specification": "",
+    "Weight": "0.566",
+    "Size": "97.0* 63.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Can be replaced with 31C1199; bidirectional interchangeable"
+   },
+   "photos": [
+    "/part/zp/35373535363735343534356335633833353435343535",
+    "/part/zp/35373535363735343534356335633833353435343536"
+   ],
+   "parentPartNO": "00C5518"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

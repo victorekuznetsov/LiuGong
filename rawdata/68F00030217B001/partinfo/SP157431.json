@@ -1,0 +1,72 @@
+{
+ "partNO": "SP157431",
+ "parentPartNO": "SP148479",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP157431",
+    "partName": "0形密封圈",
+    "spec": "",
+    "weightKg": "0.005",
+    "sizeMm": "61.0*13.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP157431",
+    "配件名称": "0形密封圈",
+    "规格": "",
+    "重量(KG)": "0.005",
+    "尺寸(mm)": "61.0* 13.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353539353b3538353735353833353435343536"
+   ],
+   "parentPartNO": "SP148479"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "O-RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP157431",
+    "Part Name": "O-RING",
+    "Specification": "",
+    "Weight": "0.005",
+    "Size": "61.0* 13.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353539353b3538353735353833353435343536"
+   ],
+   "parentPartNO": "SP148479"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

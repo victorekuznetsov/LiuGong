@@ -1,0 +1,36 @@
+{
+ "partNO": "30D8567",
+ "parentPartNO": "08Y3147",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30D8567/08Y3147 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRONT FRAME",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30D8567",
+    "Part Name": "FRONT FRAME",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "08Y3147"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

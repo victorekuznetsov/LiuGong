@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP115882",
+  "partName": "电锁钥匙",
+  "qty": "1",
+  "storeTypeName": "2Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "34B0118",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

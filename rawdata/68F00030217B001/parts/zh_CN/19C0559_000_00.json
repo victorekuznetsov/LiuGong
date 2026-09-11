@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "30C3698",
+  "partName": "软管接头",
+  "qty": "2",
+  "storeTypeName": "不建议储备",
+  "note": "消耗完库存后;改用00A8928+39A1355",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "19C0559",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

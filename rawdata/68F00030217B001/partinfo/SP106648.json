@@ -1,0 +1,76 @@
+{
+ "partNO": "SP106648",
+ "parentPartNO": "SP148489",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP106648",
+    "partName": "轴",
+    "spec": "",
+    "weightKg": "2.122",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用SP149302"
+   },
+   "attrsRaw": {
+    "配件编码": "SP106648",
+    "配件名称": "轴",
+    "规格": "",
+    "重量(KG)": "2.122",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用SP149302"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a353835633833353435343535",
+    "/part/zp/3737373435353534353a353a353835633833353435343536",
+    "/part/zp/3737373435353534353a353a353835633833353435343536"
+   ],
+   "parentPartNO": "SP148489"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHAFT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP106648",
+    "Part Name": "SHAFT",
+    "Specification": "",
+    "Weight": "2.122",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP149302"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a353835633833353435343535",
+    "/part/zp/3737373435353534353a353a353835633833353435343536",
+    "/part/zp/3737373435353534353a353a353835633833353435343536"
+   ],
+   "parentPartNO": "SP148489"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

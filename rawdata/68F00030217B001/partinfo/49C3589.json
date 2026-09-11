@@ -1,0 +1,68 @@
+{
+ "partNO": "49C3589",
+ "parentPartNO": "57C2713",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49C3589",
+    "partName": "左前大灯总成",
+    "spec": "",
+    "weightKg": "9.142",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49C3589",
+    "配件名称": "左前大灯总成",
+    "规格": "",
+    "重量(KG)": "9.142",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C2713"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRONT FLOODLIGHT AS-LH",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49C3589",
+    "Part Name": "FRONT FLOODLIGHT AS-LH",
+    "Specification": "",
+    "Weight": "9.142",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C2713"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

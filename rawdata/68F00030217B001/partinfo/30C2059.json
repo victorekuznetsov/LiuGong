@@ -1,0 +1,36 @@
+{
+ "partNO": "30C2059",
+ "parentPartNO": "13C1518",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C2059/13C1518 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C2059",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 34C0380"
+   },
+   "photos": [],
+   "parentPartNO": "13C1518"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

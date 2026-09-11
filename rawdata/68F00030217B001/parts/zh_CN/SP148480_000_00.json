@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 400,
+  "partNO": "SP123157",
+  "partName": "齿轮",
+  "qty": "1",
+  "storeTypeName": "不建议储备",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP148480",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "partNO": "12B1272",
+ "parentPartNO": "30C0350",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12B1272",
+    "partName": "O形圈",
+    "spec": "02021，20.8×2.4",
+    "weightKg": "0.01",
+    "sizeMm": "25.0*25.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12B1272",
+    "配件名称": "O形圈",
+    "规格": "02021，20.8×2.4",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "25.0* 25.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "30C0350"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "O-RING",
+    "spec": "02021，20.8×2.4",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12B1272",
+    "Part Name": "O-RING",
+    "Specification": "02021，20.8×2.4",
+    "Weight": "0.01",
+    "Size": "25.0* 25.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "30C0350"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

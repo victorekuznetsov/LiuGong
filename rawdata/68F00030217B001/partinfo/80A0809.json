@@ -1,0 +1,78 @@
+{
+ "partNO": "80A0809",
+ "parentPartNO": "10C1774",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "80A0809",
+    "partName": "支承环",
+    "spec": "145X150X25",
+    "weightKg": "0.031",
+    "sizeMm": "91.0*17.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "80A0809",
+    "配件名称": "支承环",
+    "规格": "145X150X25",
+    "重量(KG)": "0.031",
+    "尺寸(mm)": "91.0* 17.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35633534363535343563353435643833353435343536",
+    "/part/zp/35633534363535343563353435643833353435343536",
+    "/part/zp/35633534363535343563353435643833353435343537",
+    "/part/zp/35633534363535343563353435643833353435343537"
+   ],
+   "parentPartNO": "10C1774"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUPPORT RING",
+    "spec": "145X150X25",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "80A0809",
+    "Part Name": "SUPPORT RING",
+    "Specification": "145X150X25",
+    "Weight": "0.031",
+    "Size": "91.0* 17.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35633534363535343563353435643833353435343536",
+    "/part/zp/35633534363535343563353435643833353435343536",
+    "/part/zp/35633534363535343563353435643833353435343537",
+    "/part/zp/35633534363535343563353435643833353435343537"
+   ],
+   "parentPartNO": "10C1774"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

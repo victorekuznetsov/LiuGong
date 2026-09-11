@@ -1,0 +1,68 @@
+{
+ "partNO": "SP147748",
+ "parentPartNO": "SP165170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147748",
+    "partName": "电子控制单元",
+    "spec": "",
+    "weightKg": "2.4",
+    "sizeMm": "320.0*203.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "此物料不含程序，需刷程序请下单服务号SP371960+物料号，并提供发动机序列号及控制器铭牌照片"
+   },
+   "attrsRaw": {
+    "配件编码": "SP147748",
+    "配件名称": "电子控制单元",
+    "规格": "",
+    "重量(KG)": "2.4",
+    "尺寸(mm)": "320.0* 203.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "此物料不含程序，需刷程序请下单服务号SP371960+物料号，并提供发动机序列号及控制器铭牌照片"
+   },
+   "photos": [],
+   "parentPartNO": "SP165170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MODULE ELECTRONIC CONTROL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147748",
+    "Part Name": "MODULE ELECTRONIC CONTROL",
+    "Specification": "",
+    "Weight": "2.4",
+    "Size": "320.0* 203.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Excluding program.Pls place an order as SP371960+part no., and provide engine serial no.+ controller nameplate photo for program"
+   },
+   "photos": [],
+   "parentPartNO": "SP165170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

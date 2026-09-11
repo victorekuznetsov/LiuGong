@@ -1,0 +1,74 @@
+{
+ "partNO": "40C1029",
+ "parentPartNO": "SP165224",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C1029",
+    "partName": "发电机",
+    "spec": "",
+    "weightKg": "8.3",
+    "sizeMm": "270.0*270.0*250.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "重号;改用40C6543;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "40C1029",
+    "配件名称": "发电机",
+    "规格": "",
+    "重量(KG)": "8.3",
+    "尺寸(mm)": "270.0* 270.0* 250.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "重号;改用40C6543;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/35383534363735353534353635643833353435343536",
+    "/part/zp/35383534363735353534353635643833353435343536"
+   ],
+   "parentPartNO": "SP165224"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ALTERNATOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C1029",
+    "Part Name": "ALTERNATOR",
+    "Specification": "",
+    "Weight": "8.3",
+    "Size": "270.0* 270.0* 250.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 40C6543 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/35383534363735353534353635643833353435343536",
+    "/part/zp/35383534363735353534353635643833353435343536"
+   ],
+   "parentPartNO": "SP165224"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

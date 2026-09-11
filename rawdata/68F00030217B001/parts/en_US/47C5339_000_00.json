@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "47C5340",
+  "partName": "REARVIEW MIRROR AS",
+  "qty": "2",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "47C5339",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

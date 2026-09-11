@@ -1,0 +1,68 @@
+{
+ "partNO": "SP123757",
+ "parentPartNO": "SP165216",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123757",
+    "partName": "涡轮增压器",
+    "spec": "",
+    "weightKg": "24.1",
+    "sizeMm": "445.0*295.0*241.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP123757",
+    "配件名称": "涡轮增压器",
+    "规格": "",
+    "重量(KG)": "24.1",
+    "尺寸(mm)": "445.0* 295.0* 241.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165216"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TURBO CHARGER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123757",
+    "Part Name": "TURBO CHARGER",
+    "Specification": "",
+    "Weight": "24.1",
+    "Size": "445.0* 295.0* 241.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165216"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

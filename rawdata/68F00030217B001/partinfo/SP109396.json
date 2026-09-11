@@ -1,0 +1,74 @@
+{
+ "partNO": "SP109396",
+ "parentPartNO": "SP165216",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP109396",
+    "partName": "销",
+    "spec": "",
+    "weightKg": "0.003",
+    "sizeMm": "3.18*3.18*3.18",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "消耗完库存后;停止供货;改用上级件"
+   },
+   "attrsRaw": {
+    "配件编码": "SP109396",
+    "配件名称": "销",
+    "规格": "",
+    "重量(KG)": "0.003",
+    "尺寸(mm)": "3.18* 3.18* 3.18",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;停止供货;改用上级件"
+   },
+   "photos": [
+    "/part/zp/3737373435353534356435373564353a3833353435343536",
+    "/part/zp/3737373435353534356435373564353a3833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROLLER?PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP109396",
+    "Part Name": "ROLLER?PIN",
+    "Specification": "",
+    "Weight": "0.003",
+    "Size": "3.18* 3.18* 3.18",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "AFTER THE INVENTORY IS CONSUMED, DISCONTINUED. CHANGE TO UPPER PART"
+   },
+   "photos": [
+    "/part/zp/3737373435353534356435373564353a3833353435343536",
+    "/part/zp/3737373435353534356435373564353a3833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

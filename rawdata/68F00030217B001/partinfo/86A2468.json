@@ -1,0 +1,68 @@
+{
+ "partNO": "86A2468",
+ "parentPartNO": "34C5369",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A2468",
+    "partName": "装饰罩",
+    "spec": "SHOUSHA",
+    "weightKg": "0.045",
+    "sizeMm": "176.0*157.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A2468",
+    "配件名称": "装饰罩",
+    "规格": "SHOUSHA",
+    "重量(KG)": "0.045",
+    "尺寸(mm)": "176.0* 157.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C5369"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "SHOUSHA",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A2468",
+    "Part Name": "COVER",
+    "Specification": "SHOUSHA",
+    "Weight": "0.045",
+    "Size": "176.0* 157.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C5369"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

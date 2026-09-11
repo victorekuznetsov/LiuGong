@@ -1,0 +1,68 @@
+{
+ "partNO": "SP138760",
+ "parentPartNO": "SP165171",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP138760",
+    "partName": "发动机活塞修理包",
+    "spec": "",
+    "weightKg": "4.45",
+    "sizeMm": "133.0*130.0*151.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "SET",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP138760",
+    "配件名称": "发动机活塞修理包",
+    "规格": "",
+    "重量(KG)": "4.45",
+    "尺寸(mm)": "133.0* 130.0* 151.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "SET",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165171"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SERVICE KIT",
+    "spec": "",
+    "unit": "SET"
+   },
+   "attrsRaw": {
+    "Part No": "SP138760",
+    "Part Name": "SERVICE KIT",
+    "Specification": "",
+    "Weight": "4.45",
+    "Size": "133.0* 130.0* 151.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "SET",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165171"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

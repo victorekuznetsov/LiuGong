@@ -1,0 +1,74 @@
+{
+ "partNO": "SP109534",
+ "parentPartNO": "SP165216",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP109534",
+    "partName": "密封环",
+    "spec": "",
+    "weightKg": "0.05",
+    "sizeMm": "12.7*12.7*12.7",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用上级件"
+   },
+   "attrsRaw": {
+    "配件编码": "SP109534",
+    "配件名称": "密封环",
+    "规格": "",
+    "重量(KG)": "0.05",
+    "尺寸(mm)": "12.7* 12.7* 12.7",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用上级件"
+   },
+   "photos": [
+    "/part/zp/373737343535353435643539353735383833353435343536",
+    "/part/zp/373737343535353435643539353735383833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEALING RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP109534",
+    "Part Name": "SEALING RING",
+    "Specification": "",
+    "Weight": "0.05",
+    "Size": "12.7* 12.7* 12.7",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO UPPER PART ."
+   },
+   "photos": [
+    "/part/zp/373737343535353435643539353735383833353435343536",
+    "/part/zp/373737343535353435643539353735383833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

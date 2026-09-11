@@ -1,0 +1,74 @@
+{
+ "partNO": "MX100900",
+ "parentPartNO": "84A3316",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "MX100900",
+    "partName": "密封胶条",
+    "spec": "",
+    "weightKg": "0.2",
+    "sizeMm": "297.0*265.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "M",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "MX100900",
+    "配件名称": "密封胶条",
+    "规格": "",
+    "重量(KG)": "0.2",
+    "尺寸(mm)": "297.0* 265.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "M",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/366837633535353435343564353435343833353435343535",
+    "/part/zp/366837633535353435343564353435343833353435343537"
+   ],
+   "parentPartNO": "84A3316"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ADHESIVE TAPE",
+    "spec": "",
+    "unit": "M"
+   },
+   "attrsRaw": {
+    "Part No": "MX100900",
+    "Part Name": "ADHESIVE TAPE",
+    "Specification": "",
+    "Weight": "0.2",
+    "Size": "297.0* 265.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "M",
+    "Remark": "The sales unit is meters"
+   },
+   "photos": [
+    "/part/zp/366837633535353435343564353435343833353435343535",
+    "/part/zp/366837633535353435343564353435343833353435343537"
+   ],
+   "parentPartNO": "84A3316"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

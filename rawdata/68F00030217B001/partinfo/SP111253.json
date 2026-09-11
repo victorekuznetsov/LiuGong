@@ -1,0 +1,74 @@
+{
+ "partNO": "SP111253",
+ "parentPartNO": "SP112210",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP111253",
+    "partName": "油底壳密封垫",
+    "spec": "",
+    "weightKg": "0.27",
+    "sizeMm": "1000.0*400.0*2.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "重号;改用85A5114;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP111253",
+    "配件名称": "油底壳密封垫",
+    "规格": "",
+    "重量(KG)": "0.27",
+    "尺寸(mm)": "1000.0* 400.0* 2.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "重号;改用85A5114;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/373737343535353535353536353935373833353435343537",
+    "/part/zp/373737343535353535353536353935373833353435343537"
+   ],
+   "parentPartNO": "SP112210"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP111253",
+    "Part Name": "GASKET",
+    "Specification": "",
+    "Weight": "0.27",
+    "Size": "1000.0* 400.0* 2.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 85A5114 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/373737343535353535353536353935373833353435343537",
+    "/part/zp/373737343535353535353536353935373833353435343537"
+   ],
+   "parentPartNO": "SP112210"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

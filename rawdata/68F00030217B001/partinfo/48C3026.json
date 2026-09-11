@@ -1,0 +1,68 @@
+{
+ "partNO": "48C3026",
+ "parentPartNO": "47C9864",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48C3026",
+    "partName": "盖板",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "323.0*234.0*290.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货;改用1件 23D3156 和 1件 47C2391，单向替换"
+   },
+   "attrsRaw": {
+    "配件编码": "48C3026",
+    "配件名称": "盖板",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "323.0* 234.0* 290.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货;改用1件 23D3156 和 1件 47C2391，单向替换"
+   },
+   "photos": [],
+   "parentPartNO": "47C9864"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48C3026",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "323.0* 234.0* 290.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 23D3156(1PC)+47C2391(1PC);ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "47C9864"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

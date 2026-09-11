@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP109813",
+  "partName": "PULLEY",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP282640",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

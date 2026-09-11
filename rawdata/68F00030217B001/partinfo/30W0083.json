@@ -1,0 +1,38 @@
+{
+ "partNO": "30W0083",
+ "parentPartNO": "61C2154",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30W0083/61C2154 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30W0083",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.159",
+    "Size": "50.0* 47.0* 42.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534373b35343534356335373833353435343536"
+   ],
+   "parentPartNO": "61C2154"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "SP136891",
+ "parentPartNO": "SP165216",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP136891",
+    "partName": "垫圈",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "20.0*20.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "消耗完库存后;停止供货;改用上级件"
+   },
+   "attrsRaw": {
+    "配件编码": "SP136891",
+    "配件名称": "垫圈",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "20.0* 20.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;停止供货;改用上级件"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353a3563356435353833353435343536",
+    "/part/zp/3737373435353537353a3563356435353833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP136891",
+    "Part Name": "WASHER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "20.0* 20.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "AFTER THE INVENTORY IS CONSUMED, DISCONTINUED. CHANGE TO UPPER PART"
+   },
+   "photos": [
+    "/part/zp/3737373435353537353a3563356435353833353435343536",
+    "/part/zp/3737373435353537353a3563356435353833353435343536"
+   ],
+   "parentPartNO": "SP165216"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

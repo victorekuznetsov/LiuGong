@@ -1,0 +1,72 @@
+{
+ "partNO": "SP116055",
+ "parentPartNO": "SP143941",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP116055",
+    "partName": "压缩弹簧",
+    "spec": "",
+    "weightKg": "0.02",
+    "sizeMm": "86.0*19.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP116055",
+    "配件名称": "压缩弹簧",
+    "规格": "",
+    "重量(KG)": "0.02",
+    "尺寸(mm)": "86.0* 19.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353535353a3534353935393833353435343535"
+   ],
+   "parentPartNO": "SP143941"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPRING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP116055",
+    "Part Name": "SPRING",
+    "Specification": "",
+    "Weight": "0.02",
+    "Size": "86.0* 19.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353535353a3534353935393833353435343535"
+   ],
+   "parentPartNO": "SP143941"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

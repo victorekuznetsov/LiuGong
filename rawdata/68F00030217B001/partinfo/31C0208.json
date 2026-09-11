@@ -1,0 +1,38 @@
+{
+ "partNO": "31C0208",
+ "parentPartNO": "44C1254",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31C0208/44C1254 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31C0208",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.085",
+    "Size": "50.0* 40.0* 23.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "AFTER THE INVENTORY IS CONSUMED, DISCONTINUED."
+   },
+   "photos": [
+    "/part/zp/35373535363735343536353435633833353435343535"
+   ],
+   "parentPartNO": "44C1254"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

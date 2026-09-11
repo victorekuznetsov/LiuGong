@@ -1,0 +1,72 @@
+{
+ "partNO": "21B0041",
+ "parentPartNO": "41C0066",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "21B0041",
+    "partName": "进口球轴承6312",
+    "spec": "60×130×31",
+    "weightKg": "1.725",
+    "sizeMm": "145.0*145.0*35.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "21B0041",
+    "配件名称": "进口球轴承6312",
+    "规格": "60×130×31",
+    "重量(KG)": "1.725",
+    "尺寸(mm)": "145.0* 145.0* 35.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35363535363635343534353835353833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BALL BEARING",
+    "spec": "60×130×31",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "21B0041",
+    "Part Name": "BALL BEARING",
+    "Specification": "60×130×31",
+    "Weight": "1.725",
+    "Size": "145.0* 145.0* 35.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35363535363635343534353835353833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

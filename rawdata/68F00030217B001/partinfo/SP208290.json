@@ -1,0 +1,68 @@
+{
+ "partNO": "SP208290",
+ "parentPartNO": "SP282836",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP208290",
+    "partName": "凸轮轴止推支撑",
+    "spec": "",
+    "weightKg": "0.088",
+    "sizeMm": "100.0*86.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP208290",
+    "配件名称": "凸轮轴止推支撑",
+    "规格": "",
+    "重量(KG)": "0.088",
+    "尺寸(mm)": "100.0* 86.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP282836"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUPPORT CAMSHAFTTHRUST",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP208290",
+    "Part Name": "SUPPORT CAMSHAFTTHRUST",
+    "Specification": "",
+    "Weight": "0.088",
+    "Size": "100.0* 86.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP282836"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

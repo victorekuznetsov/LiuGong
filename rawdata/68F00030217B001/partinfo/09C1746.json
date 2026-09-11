@@ -1,0 +1,68 @@
+{
+ "partNO": "09C1746",
+ "parentPartNO": "00C3851",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C1746",
+    "partName": "软管夹",
+    "spec": "Φ22",
+    "weightKg": "0.042",
+    "sizeMm": "58.0*30.0*31.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用35C0314;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "09C1746",
+    "配件名称": "软管夹",
+    "规格": "Φ22",
+    "重量(KG)": "0.042",
+    "尺寸(mm)": "58.0* 30.0* 31.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用35C0314;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "00C3851"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "Φ22",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C1746",
+    "Part Name": "CLAMP",
+    "Specification": "Φ22",
+    "Weight": "0.042",
+    "Size": "58.0* 30.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 35C0314 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "00C3851"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

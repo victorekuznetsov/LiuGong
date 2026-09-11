@@ -1,0 +1,39 @@
+{
+ "partNO": "31B0457",
+ "parentPartNO": "12C4412",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31B0457/12C4412 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COIL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31B0457",
+    "Part Name": "COIL",
+    "Specification": "",
+    "Weight": "0.292",
+    "Size": "70.0* 51.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353735353636353435383539353b3833353435343536",
+    "/part/zp/353735353636353435383539353b3833353435343536"
+   ],
+   "parentPartNO": "12C4412"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

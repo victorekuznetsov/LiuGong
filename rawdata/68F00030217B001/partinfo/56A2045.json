@@ -1,0 +1,68 @@
+{
+ "partNO": "56A2045",
+ "parentPartNO": "01E0398",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56A2045",
+    "partName": "压板",
+    "spec": "",
+    "weightKg": "5.05",
+    "sizeMm": "189.0*186.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "56A2045",
+    "配件名称": "压板",
+    "规格": "",
+    "重量(KG)": "5.05",
+    "尺寸(mm)": "189.0* 186.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "01E0398"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "56A2045",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "5.05",
+    "Size": "189.0* 186.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "01E0398"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "partNO": "20A9297",
+ "parentPartNO": "57C2713",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "20A9297",
+    "partName": "插板",
+    "spec": "T=1.0MM",
+    "weightKg": "0.0",
+    "sizeMm": "33.0*59.0*8.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用20A8767;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "20A9297",
+    "配件名称": "插板",
+    "规格": "T=1.0MM",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "33.0* 59.0* 8.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用20A8767;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/353635343635356435363564353b3833353435343535"
+   ],
+   "parentPartNO": "57C2713"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "INSERT",
+    "spec": "T=1.0MM",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "20A9297",
+    "Part Name": "INSERT",
+    "Specification": "T=1.0MM",
+    "Weight": "0.0",
+    "Size": "33.0* 59.0* 8.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 20A8767 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/353635343635356435363564353b3833353435343535"
+   ],
+   "parentPartNO": "57C2713"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

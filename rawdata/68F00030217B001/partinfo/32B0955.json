@@ -1,0 +1,68 @@
+{
+ "partNO": "32B0955",
+ "parentPartNO": "49C4663",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0955",
+    "partName": "牌照灯",
+    "spec": "LED(1W)",
+    "weightKg": "0.045",
+    "sizeMm": "147.0*126.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "32B0955",
+    "配件名称": "牌照灯",
+    "规格": "LED(1W)",
+    "重量(KG)": "0.045",
+    "尺寸(mm)": "147.0* 126.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "49C4663"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LICENCE PLATE LIGHT",
+    "spec": "LED(1W)",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0955",
+    "Part Name": "LICENCE PLATE LIGHT",
+    "Specification": "LED(1W)",
+    "Weight": "0.045",
+    "Size": "147.0* 126.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "49C4663"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

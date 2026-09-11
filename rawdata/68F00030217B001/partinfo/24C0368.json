@@ -1,0 +1,74 @@
+{
+ "partNO": "24C0368",
+ "parentPartNO": "40C6042",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "24C0368",
+    "partName": "限位销",
+    "spec": "",
+    "weightKg": "0.154",
+    "sizeMm": "46.0*159.0*39.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "24C0368",
+    "配件名称": "限位销",
+    "规格": "",
+    "重量(KG)": "0.154",
+    "尺寸(mm)": "46.0* 159.0* 39.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35363538363735343537353a35633833353435343536",
+    "/part/zp/35363538363735343537353a35633833353435343536"
+   ],
+   "parentPartNO": "40C6042"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "24C0368",
+    "Part Name": "PIN",
+    "Specification": "",
+    "Weight": "0.154",
+    "Size": "46.0* 159.0* 39.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35363538363735343537353a35633833353435343536",
+    "/part/zp/35363538363735343537353a35633833353435343536"
+   ],
+   "parentPartNO": "40C6042"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

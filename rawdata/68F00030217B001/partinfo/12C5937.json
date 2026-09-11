@@ -1,0 +1,68 @@
+{
+ "partNO": "12C5937",
+ "parentPartNO": "00C5518",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C5937",
+    "partName": "比例阀",
+    "spec": "",
+    "weightKg": "6.567",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C5937",
+    "配件名称": "比例阀",
+    "规格": "",
+    "重量(KG)": "6.567",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C5518"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PROPORTIONAL VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C5937",
+    "Part Name": "PROPORTIONAL VALVE",
+    "Specification": "",
+    "Weight": "6.567",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C5518"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

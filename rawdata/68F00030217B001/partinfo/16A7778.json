@@ -1,0 +1,74 @@
+{
+ "partNO": "16A7778",
+ "parentPartNO": "38Y1200X0",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "16A7778",
+    "partName": "防磨底板",
+    "spec": "",
+    "weightKg": "54.672",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "16A7778",
+    "配件名称": "防磨底板",
+    "规格": "",
+    "重量(KG)": "54.672",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3535353a3635353b353b353b35633833353435343535",
+    "/part/zp/3535353a3635353b353b353b35633833353435343535"
+   ],
+   "parentPartNO": "38Y1200X0"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WEAR PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "16A7778",
+    "Part Name": "WEAR PLATE",
+    "Specification": "",
+    "Weight": "54.672",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3535353a3635353b353b353b35633833353435343535",
+    "/part/zp/3535353a3635353b353b353b35633833353435343535"
+   ],
+   "parentPartNO": "38Y1200X0"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "04B0972",
+ "parentPartNO": "00C5110",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B0972",
+    "partName": "螺钉",
+    "spec": "M10×80-10.9-DK",
+    "weightKg": "0.055",
+    "sizeMm": "92.0*12.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用04B0701;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "04B0972",
+    "配件名称": "螺钉",
+    "规格": "M10×80-10.9-DK",
+    "重量(KG)": "0.055",
+    "尺寸(mm)": "92.0* 12.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用04B0701;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35343538363635343564353b35363833353435343536",
+    "/part/zp/35343538363635343564353b35363833353435343536"
+   ],
+   "parentPartNO": "00C5110"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "M10×80-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B0972",
+    "Part Name": "SCREW",
+    "Specification": "M10×80-10.9-DK",
+    "Weight": "0.055",
+    "Size": "92.0* 12.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 04B0701;One-way replacement"
+   },
+   "photos": [
+    "/part/zp/35343538363635343564353b35363833353435343536",
+    "/part/zp/35343538363635343564353b35363833353435343536"
+   ],
+   "parentPartNO": "00C5110"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

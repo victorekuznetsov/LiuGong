@@ -1,0 +1,68 @@
+{
+ "partNO": "14D0318",
+ "parentPartNO": "10C1773",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "14D0318",
+    "partName": "活塞杆",
+    "spec": "",
+    "weightKg": "126.63",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "14D0318",
+    "配件名称": "活塞杆",
+    "规格": "",
+    "重量(KG)": "126.63",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C1773"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PISTON ROD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "14D0318",
+    "Part Name": "PISTON ROD",
+    "Specification": "",
+    "Weight": "126.63",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C1773"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "40C4277",
+ "parentPartNO": "SP112210",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C4277",
+    "partName": "垫片",
+    "spec": "",
+    "weightKg": "0.015",
+    "sizeMm": "144.0*120.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "由SP112046更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "40C4277",
+    "配件名称": "垫片",
+    "规格": "",
+    "重量(KG)": "0.015",
+    "尺寸(mm)": "144.0* 120.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "由SP112046更改而来"
+   },
+   "photos": [
+    "/part/zp/35383534363735383536353b353b3833353435343536",
+    "/part/zp/35383534363735383536353b353b3833353435343536"
+   ],
+   "parentPartNO": "SP112210"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C4277",
+    "Part Name": "GASKET",
+    "Specification": "",
+    "Weight": "0.015",
+    "Size": "144.0* 120.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP112046"
+   },
+   "photos": [
+    "/part/zp/35383534363735383536353b353b3833353435343536",
+    "/part/zp/35383534363735383536353b353b3833353435343536"
+   ],
+   "parentPartNO": "SP112210"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

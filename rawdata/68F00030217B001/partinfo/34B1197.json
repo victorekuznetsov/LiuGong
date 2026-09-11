@@ -1,0 +1,78 @@
+{
+ "partNO": "34B1197",
+ "parentPartNO": "57C3606",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34B1197",
+    "partName": "后雨刮开关",
+    "spec": "",
+    "weightKg": "0.025",
+    "sizeMm": "52.0*49.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34B1197",
+    "配件名称": "后雨刮开关",
+    "规格": "",
+    "重量(KG)": "0.025",
+    "尺寸(mm)": "52.0* 49.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353735383636353535353564353b3833353435343536",
+    "/part/zp/353735383636353535353564353b3833353435343536",
+    "/part/zp/353735383636353535353564353b3833353435343537",
+    "/part/zp/353735383636353535353564353b3833353435343537"
+   ],
+   "parentPartNO": "57C3606"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "REAR WIPER SWITCH",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34B1197",
+    "Part Name": "REAR WIPER SWITCH",
+    "Specification": "",
+    "Weight": "0.025",
+    "Size": "52.0* 49.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353735383636353535353564353b3833353435343536",
+    "/part/zp/353735383636353535353564353b3833353435343536",
+    "/part/zp/353735383636353535353564353b3833353435343537",
+    "/part/zp/353735383636353535353564353b3833353435343537"
+   ],
+   "parentPartNO": "57C3606"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

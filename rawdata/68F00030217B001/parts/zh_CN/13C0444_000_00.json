@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 18,
+  "partNO": "SP157347",
+  "partName": "制动阀修理包",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "13C0444",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

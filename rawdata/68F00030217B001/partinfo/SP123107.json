@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123107",
+ "parentPartNO": "SP148504",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123107",
+    "partName": "温度传感器",
+    "spec": "",
+    "weightKg": "0.035",
+    "sizeMm": "65.0*22.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由SP106787更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP123107",
+    "配件名称": "温度传感器",
+    "规格": "",
+    "重量(KG)": "0.035",
+    "尺寸(mm)": "65.0* 22.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由SP106787更改而来"
+   },
+   "photos": [
+    "/part/zp/3737373435353536353735353534353b3833353435343537",
+    "/part/zp/3737373435353536353735353534353b3833353435343537"
+   ],
+   "parentPartNO": "SP148504"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEMP SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123107",
+    "Part Name": "TEMP SENSOR",
+    "Specification": "",
+    "Weight": "0.035",
+    "Size": "65.0* 22.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP106787"
+   },
+   "photos": [
+    "/part/zp/3737373435353536353735353534353b3833353435343537",
+    "/part/zp/3737373435353536353735353534353b3833353435343537"
+   ],
+   "parentPartNO": "SP148504"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

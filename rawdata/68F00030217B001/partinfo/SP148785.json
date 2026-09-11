@@ -1,0 +1,74 @@
+{
+ "partNO": "SP148785",
+ "parentPartNO": "SP148470",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP148785",
+    "partName": "弹性板",
+    "spec": "",
+    "weightKg": "1.1",
+    "sizeMm": "449.0*447.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由52A1552更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP148785",
+    "配件名称": "弹性板",
+    "规格": "",
+    "重量(KG)": "1.1",
+    "尺寸(mm)": "449.0* 447.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由52A1552更改而来"
+   },
+   "photos": [
+    "/part/zp/37373734353535383563353b356335393833353435343536",
+    "/part/zp/37373734353535383563353b356335393833353435343537"
+   ],
+   "parentPartNO": "SP148470"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DIAPHRAGM",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP148785",
+    "Part Name": "DIAPHRAGM",
+    "Specification": "",
+    "Weight": "1.1",
+    "Size": "449.0* 447.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 52A1552"
+   },
+   "photos": [
+    "/part/zp/37373734353535383563353b356335393833353435343536",
+    "/part/zp/37373734353535383563353b356335393833353435343537"
+   ],
+   "parentPartNO": "SP148470"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "partNO": "30C3994",
+ "parentPartNO": "00C4052",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C3994/00C4052 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRANSITION CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C3994",
+    "Part Name": "TRANSITION CONNECTOR",
+    "Specification": "",
+    "Weight": "1.244",
+    "Size": "141.0* 56.0* 49.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C4052"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

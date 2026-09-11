@@ -1,0 +1,78 @@
+{
+ "partNO": "SP106791",
+ "parentPartNO": "SP148494",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP106791",
+    "partName": "弹性垫板",
+    "spec": "",
+    "weightKg": "0.29",
+    "sizeMm": "100.0*100.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP106791",
+    "配件名称": "弹性垫板",
+    "规格": "",
+    "重量(KG)": "0.29",
+    "尺寸(mm)": "100.0* 100.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353b356435353833353435343535",
+    "/part/zp/3737373435353534353a353b356435353833353435343535",
+    "/part/zp/3737373435353534353a353b356435353833353435343536",
+    "/part/zp/3737373435353534353a353b356435353833353435343536"
+   ],
+   "parentPartNO": "SP148494"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPRING PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP106791",
+    "Part Name": "SPRING PLATE",
+    "Specification": "",
+    "Weight": "0.29",
+    "Size": "100.0* 100.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353b356435353833353435343535",
+    "/part/zp/3737373435353534353a353b356435353833353435343535",
+    "/part/zp/3737373435353534353a353b356435353833353435343536",
+    "/part/zp/3737373435353534353a353b356435353833353435343536"
+   ],
+   "parentPartNO": "SP148494"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

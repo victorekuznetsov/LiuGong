@@ -1,0 +1,68 @@
+{
+ "partNO": "34C2022",
+ "parentPartNO": "32E1471",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C2022",
+    "partName": "限位块组件",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "ST",
+    "note": "改用 97A3781 单向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "34C2022",
+    "配件名称": "限位块组件",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "ST",
+    "配件备注": "改用 97A3781 单向互换"
+   },
+   "photos": [],
+   "parentPartNO": "32E1471"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BLOCK GP",
+    "spec": "",
+    "unit": "ST"
+   },
+   "attrsRaw": {
+    "Part No": "34C2022",
+    "Part Name": "BLOCK GP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "ST",
+    "Remark": "CHANGE TO 97A3781"
+   },
+   "photos": [],
+   "parentPartNO": "32E1471"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

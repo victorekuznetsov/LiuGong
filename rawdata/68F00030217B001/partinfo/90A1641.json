@@ -1,0 +1,72 @@
+{
+ "partNO": "90A1641",
+ "parentPartNO": "46C9939",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "90A1641",
+    "partName": "线夹",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "70.0*26.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用09C1745;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "90A1641",
+    "配件名称": "线夹",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "70.0* 26.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用09C1745;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3564353436353535353a353835353833353435343536"
+   ],
+   "parentPartNO": "46C9939"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLIP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "90A1641",
+    "Part Name": "CLIP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "70.0* 26.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 09C1745;One-way replacement"
+   },
+   "photos": [
+    "/part/zp/3564353436353535353a353835353833353435343536"
+   ],
+   "parentPartNO": "46C9939"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

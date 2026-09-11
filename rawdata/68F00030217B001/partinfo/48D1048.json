@@ -1,0 +1,68 @@
+{
+ "partNO": "48D1048",
+ "parentPartNO": "48C6719",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48D1048",
+    "partName": "后门",
+    "spec": "",
+    "weightKg": "13.352",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "48D1048",
+    "配件名称": "后门",
+    "规格": "",
+    "重量(KG)": "13.352",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C6719"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48D1048",
+    "Part Name": "DOOR",
+    "Specification": "",
+    "Weight": "13.352",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C6719"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

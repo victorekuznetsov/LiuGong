@@ -1,0 +1,68 @@
+{
+ "partNO": "SP208354",
+ "parentPartNO": "SP192854",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP208354",
+    "partName": "商标",
+    "spec": "",
+    "weightKg": "0.004",
+    "sizeMm": "122.0*85.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP208354",
+    "配件名称": "商标",
+    "规格": "",
+    "重量(KG)": "0.004",
+    "尺寸(mm)": "122.0* 85.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP192854"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP208354",
+    "Part Name": "DECAL",
+    "Specification": "",
+    "Weight": "0.004",
+    "Size": "122.0* 85.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP192854"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

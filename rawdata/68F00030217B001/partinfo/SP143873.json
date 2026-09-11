@@ -1,0 +1,68 @@
+{
+ "partNO": "SP143873",
+ "parentPartNO": "SP112210",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP143873",
+    "partName": "螺栓",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "重号;改用40C7288;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP143873",
+    "配件名称": "螺栓",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "重号;改用40C7288;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP112210"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW ROUND HEAD CAP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP143873",
+    "Part Name": "SCREW ROUND HEAD CAP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 40C7288 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "SP112210"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

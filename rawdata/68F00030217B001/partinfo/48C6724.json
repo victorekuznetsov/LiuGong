@@ -1,0 +1,68 @@
+{
+ "partNO": "48C6724",
+ "parentPartNO": "48C6719",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48C6724",
+    "partName": "侧罩",
+    "spec": "",
+    "weightKg": "38.449",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "48C6724",
+    "配件名称": "侧罩",
+    "规格": "",
+    "重量(KG)": "38.449",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C6719"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SIDE HOOD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48C6724",
+    "Part Name": "SIDE HOOD",
+    "Specification": "",
+    "Weight": "38.449",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C6719"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

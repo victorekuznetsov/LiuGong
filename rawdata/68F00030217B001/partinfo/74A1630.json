@@ -1,0 +1,74 @@
+{
+ "partNO": "74A1630",
+ "parentPartNO": "48Y3159",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74A1630",
+    "partName": "动臂装饰条",
+    "spec": "",
+    "weightKg": "0.114",
+    "sizeMm": "1559.0*239.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "由74A1095更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "74A1630",
+    "配件名称": "动臂装饰条",
+    "规格": "",
+    "重量(KG)": "0.114",
+    "尺寸(mm)": "1559.0* 239.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "由74A1095更改而来"
+   },
+   "photos": [
+    "/part/zp/353b353836353535353a353735343833353435343536",
+    "/part/zp/353b353836353535353a353735343833353435343536"
+   ],
+   "parentPartNO": "48Y3159"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECORATION",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74A1630",
+    "Part Name": "DECORATION",
+    "Specification": "",
+    "Weight": "0.114",
+    "Size": "1559.0* 239.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 74A1095"
+   },
+   "photos": [
+    "/part/zp/353b353836353535353a353735343833353435343536",
+    "/part/zp/353b353836353535353a353735343833353435343536"
+   ],
+   "parentPartNO": "48Y3159"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

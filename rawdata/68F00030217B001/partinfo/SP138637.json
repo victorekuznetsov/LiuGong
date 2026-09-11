@@ -1,0 +1,82 @@
+{
+ "partNO": "SP138637",
+ "parentPartNO": "SP143956",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP138637",
+    "partName": "皮带轮",
+    "spec": "",
+    "weightKg": "0.93",
+    "sizeMm": "150.0*40.0*150.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP138637",
+    "配件名称": "皮带轮",
+    "规格": "",
+    "重量(KG)": "0.93",
+    "尺寸(mm)": "150.0* 40.0* 150.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535373563353a3537353b3833353435343536",
+    "/part/zp/37373734353535373563353a3537353b3833353435343536",
+    "/part/zp/37373734353535373563353a3537353b3833353435343537",
+    "/part/zp/37373734353535373563353a3537353b3833353435343537",
+    "/part/zp/37373734353535373563353a3537353b3833353435343538",
+    "/part/zp/37373734353535373563353a3537353b3833353435343538"
+   ],
+   "parentPartNO": "SP143956"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PULLEY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP138637",
+    "Part Name": "PULLEY",
+    "Specification": "",
+    "Weight": "0.93",
+    "Size": "150.0* 40.0* 150.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535373563353a3537353b3833353435343536",
+    "/part/zp/37373734353535373563353a3537353b3833353435343536",
+    "/part/zp/37373734353535373563353a3537353b3833353435343537",
+    "/part/zp/37373734353535373563353a3537353b3833353435343537",
+    "/part/zp/37373734353535373563353a3537353b3833353435343538",
+    "/part/zp/37373734353535373563353a3537353b3833353435343538"
+   ],
+   "parentPartNO": "SP143956"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

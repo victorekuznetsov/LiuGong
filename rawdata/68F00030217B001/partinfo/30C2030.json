@@ -1,0 +1,36 @@
+{
+ "partNO": "30C2030",
+ "parentPartNO": "00C3852",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C2030/00C3852 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C2030",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C3852"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

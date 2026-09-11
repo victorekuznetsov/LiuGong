@@ -1,0 +1,41 @@
+{
+ "partNO": "30C0894",
+ "parentPartNO": "00C5110",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C0894/00C5110 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0894",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.071",
+    "Size": "30.0* 30.0* 23.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735343563356435383833353435343536",
+    "/part/zp/35373534363735343563356435383833353435343536",
+    "/part/zp/35373534363735343563356435383833353435343537",
+    "/part/zp/35373534363735343563356435383833353435343537"
+   ],
+   "parentPartNO": "00C5110"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

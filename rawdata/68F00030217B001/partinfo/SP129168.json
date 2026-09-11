@@ -1,0 +1,68 @@
+{
+ "partNO": "SP129168",
+ "parentPartNO": "SP148590",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP129168",
+    "partName": "半轴齿轮垫片",
+    "spec": "",
+    "weightKg": "0.081",
+    "sizeMm": "87.0*88.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP129168",
+    "配件名称": "半轴齿轮垫片",
+    "规格": "",
+    "重量(KG)": "0.081",
+    "尺寸(mm)": "87.0* 88.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148590"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "THRUST WASHER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP129168",
+    "Part Name": "THRUST WASHER",
+    "Specification": "",
+    "Weight": "0.081",
+    "Size": "87.0* 88.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148590"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

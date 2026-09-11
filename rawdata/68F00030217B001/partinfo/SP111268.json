@@ -1,0 +1,74 @@
+{
+ "partNO": "SP111268",
+ "parentPartNO": "SP165165",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP111268",
+    "partName": "油封",
+    "spec": "",
+    "weightKg": "0.13",
+    "sizeMm": "95.0*95.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP111268",
+    "配件名称": "油封",
+    "规格": "",
+    "重量(KG)": "0.13",
+    "尺寸(mm)": "95.0* 95.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353535353536353a35633833353435343537",
+    "/part/zp/373737343535353535353536353a35633833353435343537"
+   ],
+   "parentPartNO": "SP165165"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP111268",
+    "Part Name": "SEAL",
+    "Specification": "",
+    "Weight": "0.13",
+    "Size": "95.0* 95.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353535353536353a35633833353435343537",
+    "/part/zp/373737343535353535353536353a35633833353435343537"
+   ],
+   "parentPartNO": "SP165165"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

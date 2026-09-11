@@ -1,0 +1,68 @@
+{
+ "partNO": "SP149084",
+ "parentPartNO": "SP148598",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP149084",
+    "partName": "法兰",
+    "spec": "",
+    "weightKg": "32.8",
+    "sizeMm": "410.0*411.0*139.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP149084",
+    "配件名称": "法兰",
+    "规格": "",
+    "重量(KG)": "32.8",
+    "尺寸(mm)": "410.0* 411.0* 139.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148598"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DIFF.COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP149084",
+    "Part Name": "DIFF.COVER",
+    "Specification": "",
+    "Weight": "32.8",
+    "Size": "410.0* 411.0* 139.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148598"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "42B0004",
+ "parentPartNO": "34C6639",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "42B0004",
+    "partName": "西卡底涂剂",
+    "spec": "",
+    "weightKg": "0.34",
+    "sizeMm": "57.0*57.0*157.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "规格是1000ML/瓶；与42B0066配套销售，比例为1：100"
+   },
+   "attrsRaw": {
+    "配件编码": "42B0004",
+    "配件名称": "西卡底涂剂",
+    "规格": "",
+    "重量(KG)": "0.34",
+    "尺寸(mm)": "57.0* 57.0* 157.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "规格是1000ML/瓶；与42B0066配套销售，比例为1：100"
+   },
+   "photos": [
+    "/part/zp/35383536363635343534353435383833353435343538",
+    "/part/zp/35383536363635343534353435383833353435343538"
+   ],
+   "parentPartNO": "34C6639"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PRIMER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "42B0004",
+    "Part Name": "PRIMER",
+    "Specification": "",
+    "Weight": "0.34",
+    "Size": "57.0* 57.0* 157.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "SPECIFICATION IS 1000ML PER BOTTLE, SELLED WITH 42B0066， PROPORTION 1：:100"
+   },
+   "photos": [
+    "/part/zp/35383536363635343534353435383833353435343538",
+    "/part/zp/35383536363635343534353435383833353435343538"
+   ],
+   "parentPartNO": "34C6639"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "SP100017",
+ "parentPartNO": "SP148501",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP100017",
+    "partName": "测速传感器",
+    "spec": "",
+    "weightKg": "0.042",
+    "sizeMm": "76.0*56.0*27.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "停止供货;改用SP232279;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP100017",
+    "配件名称": "测速传感器",
+    "规格": "",
+    "重量(KG)": "0.042",
+    "尺寸(mm)": "76.0* 56.0* 27.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP232279;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353435343535353b3833353435343536",
+    "/part/zp/3737373435353534353435343535353b3833353435343536"
+   ],
+   "parentPartNO": "SP148501"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP100017",
+    "Part Name": "SENSOR",
+    "Specification": "",
+    "Weight": "0.042",
+    "Size": "76.0* 56.0* 27.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO SP232279 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353435343535353b3833353435343536",
+    "/part/zp/3737373435353534353435343535353b3833353435343536"
+   ],
+   "parentPartNO": "SP148501"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP127019",
+ "parentPartNO": "SP165191",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP127019",
+    "partName": "机油冷却器节温器",
+    "spec": "",
+    "weightKg": "0.172",
+    "sizeMm": "77.0*57.0*57.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP127019",
+    "配件名称": "机油冷却器节温器",
+    "规格": "",
+    "重量(KG)": "0.172",
+    "尺寸(mm)": "77.0* 57.0* 57.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165191"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "THERMOSTAT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP127019",
+    "Part Name": "THERMOSTAT",
+    "Specification": "",
+    "Weight": "0.172",
+    "Size": "77.0* 57.0* 57.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165191"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

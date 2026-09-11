@@ -1,0 +1,68 @@
+{
+ "partNO": "SP156315",
+ "parentPartNO": "SP148493",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP156315",
+    "partName": "驱动轴Z=14",
+    "spec": "",
+    "weightKg": "2.35",
+    "sizeMm": "108.0*69.0*67.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP156315",
+    "配件名称": "驱动轴Z=14",
+    "规格": "",
+    "重量(KG)": "2.35",
+    "尺寸(mm)": "108.0* 69.0* 67.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148493"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRIVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP156315",
+    "Part Name": "DRIVER",
+    "Specification": "",
+    "Weight": "2.35",
+    "Size": "108.0* 69.0* 67.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148493"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

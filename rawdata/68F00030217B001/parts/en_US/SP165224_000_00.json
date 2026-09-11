@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "40C1029",
+  "partName": "ALTERNATOR",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "REPEATED P/N. CHANGE TO 40C6543 . INTERCHANGEABLE.",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP165224",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

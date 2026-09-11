@@ -1,0 +1,74 @@
+{
+ "partNO": "16B0029P01",
+ "parentPartNO": "01E0386",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "16B0029P01",
+    "partName": "轮胎",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "L-3、无内胎"
+   },
+   "attrsRaw": {
+    "配件编码": "16B0029P01",
+    "配件名称": "轮胎",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "L-3、无内胎"
+   },
+   "photos": [
+    "/part/zp/3535353a363635343534353635643734353435353833353435343535",
+    "/part/zp/3535353a363635343534353635643734353435353833353435343535"
+   ],
+   "parentPartNO": "01E0386"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "16B0029P01",
+    "Part Name": "",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "L-3、Tubeless"
+   },
+   "photos": [
+    "/part/zp/3535353a363635343534353635643734353435353833353435343535",
+    "/part/zp/3535353a363635343534353635643734353435353833353435343535"
+   ],
+   "parentPartNO": "01E0386"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

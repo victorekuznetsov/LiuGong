@@ -1,0 +1,68 @@
+{
+ "partNO": "82A1995",
+ "parentPartNO": "09C1772",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "82A1995",
+    "partName": "管夹",
+    "spec": "",
+    "weightKg": "0.089",
+    "sizeMm": "26.0*104.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "82A1995",
+    "配件名称": "管夹",
+    "规格": "",
+    "重量(KG)": "0.089",
+    "尺寸(mm)": "26.0* 104.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "09C1772"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CLAMP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "82A1995",
+    "Part Name": "CLAMP",
+    "Specification": "",
+    "Weight": "0.089",
+    "Size": "26.0* 104.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "09C1772"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

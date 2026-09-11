@@ -1,0 +1,74 @@
+{
+ "partNO": "53C0167",
+ "parentPartNO": "53C1071",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C0167",
+    "partName": "先导油滤",
+    "spec": "",
+    "weightKg": "3.1",
+    "sizeMm": "174.0*120.0*91.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "由53C0141更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "53C0167",
+    "配件名称": "先导油滤",
+    "规格": "",
+    "重量(KG)": "3.1",
+    "尺寸(mm)": "174.0* 120.0* 91.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "由53C0141更改而来"
+   },
+   "photos": [
+    "/part/zp/35393537363735343535353a353b3833353435343539",
+    "/part/zp/35393537363735343535353a353b3833353435343539"
+   ],
+   "parentPartNO": "53C1071"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PILOT OIL FILTER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C0167",
+    "Part Name": "PILOT OIL FILTER",
+    "Specification": "",
+    "Weight": "3.1",
+    "Size": "174.0* 120.0* 91.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 53C0141"
+   },
+   "photos": [
+    "/part/zp/35393537363735343535353a353b3833353435343539",
+    "/part/zp/35393537363735343535353a353b3833353435343539"
+   ],
+   "parentPartNO": "53C1071"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP155069",
+  "partName": "变速箱过滤器滤芯",
+  "qty": "1",
+  "storeTypeName": "1000H",
+  "note": "由SP123109更改而来",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C0529",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

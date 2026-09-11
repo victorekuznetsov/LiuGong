@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123120",
+ "parentPartNO": "SP148479",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123120",
+    "partName": "调整挡圈A=2.35",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "184.0*184.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "停止供货;改用SP100190"
+   },
+   "attrsRaw": {
+    "配件编码": "SP123120",
+    "配件名称": "调整挡圈A=2.35",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "184.0* 184.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP100190"
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353635343833353435343536",
+    "/part/zp/373737343535353635373535353635343833353435343536"
+   ],
+   "parentPartNO": "SP148479"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SNAP RINGA=2.35",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123120",
+    "Part Name": "SNAP RINGA=2.35",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "184.0* 184.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Discontinued,change to SP100190"
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353635343833353435343536",
+    "/part/zp/373737343535353635373535353635343833353435343536"
+   ],
+   "parentPartNO": "SP148479"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

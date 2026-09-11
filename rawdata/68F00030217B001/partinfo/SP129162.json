@@ -1,0 +1,78 @@
+{
+ "partNO": "SP129162",
+ "parentPartNO": "SP148593",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP129162",
+    "partName": "摩擦片",
+    "spec": "",
+    "weightKg": "1.87",
+    "sizeMm": "445.0*445.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP129162",
+    "配件名称": "摩擦片",
+    "规格": "",
+    "重量(KG)": "1.87",
+    "尺寸(mm)": "445.0* 445.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643535353a35363833353435343536",
+    "/part/zp/373737343535353635643535353a35363833353435343536",
+    "/part/zp/373737343535353635643535353a35363833353435343537",
+    "/part/zp/373737343535353635643535353a35363833353435343537"
+   ],
+   "parentPartNO": "SP148593"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FRICTION PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP129162",
+    "Part Name": "FRICTION PLATE",
+    "Specification": "",
+    "Weight": "1.87",
+    "Size": "445.0* 445.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643535353a35363833353435343536",
+    "/part/zp/373737343535353635643535353a35363833353435343536",
+    "/part/zp/373737343535353635643535353a35363833353435343537",
+    "/part/zp/373737343535353635643535353a35363833353435343537"
+   ],
+   "parentPartNO": "SP148593"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP208283",
+ "parentPartNO": "SP207292",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP208283",
+    "partName": "挡塞",
+    "spec": "",
+    "weightKg": "0.224",
+    "sizeMm": "51.0*36.0*32.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP208283",
+    "配件名称": "挡塞",
+    "规格": "",
+    "重量(KG)": "0.224",
+    "尺寸(mm)": "51.0* 36.0* 32.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP207292"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG RETAINER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP208283",
+    "Part Name": "PLUG RETAINER",
+    "Specification": "",
+    "Weight": "0.224",
+    "Size": "51.0* 36.0* 32.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP207292"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

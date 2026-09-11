@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123169",
+ "parentPartNO": "SP127918",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123169",
+    "partName": "盖",
+    "spec": "",
+    "weightKg": "0.3",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "停止供货改用SP238916"
+   },
+   "attrsRaw": {
+    "配件编码": "SP123169",
+    "配件名称": "盖",
+    "规格": "",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "停止供货改用SP238916"
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353a35643833353435343535",
+    "/part/zp/373737343535353635373535353a35643833353435343535"
+   ],
+   "parentPartNO": "SP127918"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123169",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO SP238916 ."
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353a35643833353435343535",
+    "/part/zp/373737343535353635373535353a35643833353435343535"
+   ],
+   "parentPartNO": "SP127918"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

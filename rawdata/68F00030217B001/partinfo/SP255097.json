@@ -1,0 +1,68 @@
+{
+ "partNO": "SP255097",
+ "parentPartNO": "SP263759",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP255097",
+    "partName": "柔性软管",
+    "spec": "",
+    "weightKg": "0.4",
+    "sizeMm": "445.0*228.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP255097",
+    "配件名称": "柔性软管",
+    "规格": "",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "445.0* 228.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP263759"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE FLEXIBLE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP255097",
+    "Part Name": "HOSE FLEXIBLE",
+    "Specification": "",
+    "Weight": "0.4",
+    "Size": "445.0* 228.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP263759"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

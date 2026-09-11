@@ -1,0 +1,68 @@
+{
+ "partNO": "23D7392",
+ "parentPartNO": "47C4603",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "23D7392",
+    "partName": "弯板组件",
+    "spec": "",
+    "weightKg": "2.55",
+    "sizeMm": "233.0*134.0*97.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "23D7392",
+    "配件名称": "弯板组件",
+    "规格": "",
+    "重量(KG)": "2.55",
+    "尺寸(mm)": "233.0* 134.0* 97.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C4603"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "23D7392",
+    "Part Name": "PLATE GP",
+    "Specification": "",
+    "Weight": "2.55",
+    "Size": "233.0* 134.0* 97.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C4603"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

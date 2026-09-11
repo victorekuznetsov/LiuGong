@@ -1,0 +1,72 @@
+{
+ "partNO": "86A0084",
+ "parentPartNO": "46C1833",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A0084",
+    "partName": "出风口",
+    "spec": "",
+    "weightKg": "0.03",
+    "sizeMm": "115.0*45.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "奥兰号，豫新号用SP121048"
+   },
+   "attrsRaw": {
+    "配件编码": "86A0084",
+    "配件名称": "出风口",
+    "规格": "",
+    "重量(KG)": "0.03",
+    "尺寸(mm)": "115.0* 45.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "奥兰号，豫新号用SP121048"
+   },
+   "photos": [
+    "/part/zp/3563353a363535343534356335383833353435343535"
+   ],
+   "parentPartNO": "46C1833"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A0084",
+    "Part Name": "VENT",
+    "Specification": "",
+    "Weight": "0.03",
+    "Size": "115.0* 45.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "HANZHOU，YUXIN USE SP121048"
+   },
+   "photos": [
+    "/part/zp/3563353a363535343534356335383833353435343535"
+   ],
+   "parentPartNO": "46C1833"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

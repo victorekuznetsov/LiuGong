@@ -1,0 +1,36 @@
+{
+ "partNO": "30C0364",
+ "parentPartNO": "12C4348",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C0364/12C4348 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0364",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.057",
+    "Size": "35.0* 28.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C4348"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

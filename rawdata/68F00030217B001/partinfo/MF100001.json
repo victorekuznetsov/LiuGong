@@ -1,0 +1,72 @@
+{
+ "partNO": "MF100001",
+ "parentPartNO": "SP148495",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "MF100001",
+    "partName": "手制动盘",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "443.0*443.0*112.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用04A0472;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "MF100001",
+    "配件名称": "手制动盘",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "443.0* 443.0* 112.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用04A0472;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/3668363a3535353435343534353435353833353435343539"
+   ],
+   "parentPartNO": "SP148495"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "MF100001",
+    "Part Name": "",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "443.0* 443.0* 112.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 04A0472 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/3668363a3535353435343534353435353833353435343539"
+   ],
+   "parentPartNO": "SP148495"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

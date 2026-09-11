@@ -1,0 +1,68 @@
+{
+ "partNO": "SP277310",
+ "parentPartNO": "SP296754",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP277310",
+    "partName": "防滑圈",
+    "spec": "",
+    "weightKg": "2.25",
+    "sizeMm": "360.0*361.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP277310",
+    "配件名称": "防滑圈",
+    "规格": "",
+    "重量(KG)": "2.25",
+    "尺寸(mm)": "360.0* 361.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP296754"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SLIDE RING SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP277310",
+    "Part Name": "SLIDE RING SEAL",
+    "Specification": "",
+    "Weight": "2.25",
+    "Size": "360.0* 361.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP296754"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

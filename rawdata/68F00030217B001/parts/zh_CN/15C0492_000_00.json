@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 0,
+  "partNO": "SP160153",
+  "partName": "蓄能器修理包",
+  "qty": "1",
+  "storeTypeName": "3Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "15C0492",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP139582",
+ "parentPartNO": "SP165843",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP139582",
+    "partName": "进水管",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "570.0*134.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "由SP138663更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP139582",
+    "配件名称": "进水管",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "570.0* 134.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "由SP138663更改而来"
+   },
+   "photos": [],
+   "parentPartNO": "SP165843"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TUBE WATER INLET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP139582",
+    "Part Name": "TUBE WATER INLET",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "570.0* 134.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP138663"
+   },
+   "photos": [],
+   "parentPartNO": "SP165843"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

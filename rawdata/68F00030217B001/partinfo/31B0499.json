@@ -1,0 +1,39 @@
+{
+ "partNO": "31B0499",
+ "parentPartNO": "55C0223",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31B0499/55C0223 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLASH RELAY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31B0499",
+    "Part Name": "FLASH RELAY",
+    "Specification": "",
+    "Weight": "0.029",
+    "Size": "42.0* 28.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373535363635343538356435643833353435343536",
+    "/part/zp/35373535363635343538356435643833353435343536"
+   ],
+   "parentPartNO": "55C0223"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

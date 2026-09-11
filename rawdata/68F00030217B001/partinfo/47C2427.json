@@ -1,0 +1,74 @@
+{
+ "partNO": "47C2427",
+ "parentPartNO": "34C5347",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C2427",
+    "partName": "锁",
+    "spec": "856H",
+    "weightKg": "0.24",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用34C7687;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "47C2427",
+    "配件名称": "锁",
+    "规格": "856H",
+    "重量(KG)": "0.24",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用34C7687;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3538353b3637353635383536353b3833353435343536",
+    "/part/zp/3538353b3637353635383536353b3833353435343537"
+   ],
+   "parentPartNO": "34C5347"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCK",
+    "spec": "856H",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C2427",
+    "Part Name": "LOCK",
+    "Specification": "856H",
+    "Weight": "0.24",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 34C7687，but not the other way around"
+   },
+   "photos": [
+    "/part/zp/3538353b3637353635383536353b3833353435343536",
+    "/part/zp/3538353b3637353635383536353b3833353435343537"
+   ],
+   "parentPartNO": "34C5347"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

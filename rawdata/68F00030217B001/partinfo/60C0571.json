@@ -1,0 +1,74 @@
+{
+ "partNO": "60C0571",
+ "parentPartNO": "60C3073",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "60C0571",
+    "partName": "消音器",
+    "spec": "60C0571",
+    "weightKg": "45.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "60C0571",
+    "配件名称": "消音器",
+    "规格": "60C0571",
+    "重量(KG)": "45.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353a3534363735343539353b35353833353435343535",
+    "/part/zp/353a3534363735343539353b35353833353435343535"
+   ],
+   "parentPartNO": "60C3073"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MUFFLER",
+    "spec": "60C0571",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "60C0571",
+    "Part Name": "MUFFLER",
+    "Specification": "60C0571",
+    "Weight": "45.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353a3534363735343539353b35353833353435343535",
+    "/part/zp/353a3534363735343539353b35353833353435343535"
+   ],
+   "parentPartNO": "60C3073"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

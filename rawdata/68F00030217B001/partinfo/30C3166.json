@@ -1,0 +1,36 @@
+{
+ "partNO": "30C3166",
+ "parentPartNO": "61C1972",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C3166/61C1972 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C3166",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.008",
+    "Size": "11.0* 11.0* 11.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C1972"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

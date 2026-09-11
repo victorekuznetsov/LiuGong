@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "MX100293",
+  "partName": null,
+  "qty": "0.345",
+  "storeTypeName": "3 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "84A3295",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "partNO": "40C7519",
+ "parentPartNO": "SP125663",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C7519",
+    "partName": "矩形密封圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "41.0*41.0*1.5",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C7519",
+    "配件名称": "矩形密封圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "41.0* 41.0* 1.5",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP125663"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RECTANGULAR SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C7519",
+    "Part Name": "RECTANGULAR SEAL",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "41.0* 41.0* 1.5",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP125663"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

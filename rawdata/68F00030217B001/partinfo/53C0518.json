@@ -1,0 +1,74 @@
+{
+ "partNO": "53C0518",
+ "parentPartNO": "SP165843",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C0518",
+    "partName": "滤芯",
+    "spec": "",
+    "weightKg": "0.75",
+    "sizeMm": "147.0*94.0*94.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": "由SP144732更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "53C0518",
+    "配件名称": "滤芯",
+    "规格": "",
+    "重量(KG)": "0.75",
+    "尺寸(mm)": "147.0* 94.0* 94.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": "由SP144732更改而来"
+   },
+   "photos": [
+    "/part/zp/35393537363735343539353535633833353435343536",
+    "/part/zp/35393537363735343539353535633833353435343536"
+   ],
+   "parentPartNO": "SP165843"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WATER FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C0518",
+    "Part Name": "WATER FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "0.75",
+    "Size": "147.0* 94.0* 94.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP144732"
+   },
+   "photos": [
+    "/part/zp/35393537363735343539353535633833353435343536",
+    "/part/zp/35393537363735343539353535633833353435343536"
+   ],
+   "parentPartNO": "SP165843"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

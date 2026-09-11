@@ -1,0 +1,74 @@
+{
+ "partNO": "47C2511",
+ "parentPartNO": "47C2840",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C2511",
+    "partName": "右窗定位锁",
+    "spec": "",
+    "weightKg": "3.1",
+    "sizeMm": "334.0*146.0*133.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C2511",
+    "配件名称": "右窗定位锁",
+    "规格": "",
+    "重量(KG)": "3.1",
+    "尺寸(mm)": "334.0* 146.0* 133.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538353b363735363539353535353833353435343535",
+    "/part/zp/3538353b363735363539353535353833353435343535"
+   ],
+   "parentPartNO": "47C2840"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LATCH AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C2511",
+    "Part Name": "LATCH AS",
+    "Specification": "",
+    "Weight": "3.1",
+    "Size": "334.0* 146.0* 133.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538353b363735363539353535353833353435343535",
+    "/part/zp/3538353b363735363539353535353833353435343535"
+   ],
+   "parentPartNO": "47C2840"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

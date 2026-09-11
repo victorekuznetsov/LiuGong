@@ -1,0 +1,68 @@
+{
+ "partNO": "SP148769",
+ "parentPartNO": "SP148590",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP148769",
+    "partName": "滚锥轴承",
+    "spec": "",
+    "weightKg": "3.2",
+    "sizeMm": "217.0*219.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP148769",
+    "配件名称": "滚锥轴承",
+    "规格": "",
+    "重量(KG)": "3.2",
+    "尺寸(mm)": "217.0* 219.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148590"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TAPERED ROLLER BEARING 160 000×220 000×32 000",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP148769",
+    "Part Name": "TAPERED ROLLER BEARING 160 000×220 000×32 000",
+    "Specification": "",
+    "Weight": "3.2",
+    "Size": "217.0* 219.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP148590"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

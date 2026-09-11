@@ -1,0 +1,36 @@
+{
+ "partNO": "31B0501",
+ "parentPartNO": "55C0223",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31B0501/55C0223 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RELAY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31B0501",
+    "Part Name": "RELAY",
+    "Specification": "",
+    "Weight": "0.028",
+    "Size": "36.0* 26.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C0223"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "47C2524",
+ "parentPartNO": "47C9864",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C2524",
+    "partName": "装饰罩",
+    "spec": "",
+    "weightKg": "10.52",
+    "sizeMm": "778.0*149.0*684.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "不包含锁，需同时下单装饰罩锁+左门锁（保证钥匙统一）"
+   },
+   "attrsRaw": {
+    "配件编码": "47C2524",
+    "配件名称": "装饰罩",
+    "规格": "",
+    "重量(KG)": "10.52",
+    "尺寸(mm)": "778.0* 149.0* 684.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "不包含锁，需同时下单装饰罩锁+左门锁（保证钥匙统一）"
+   },
+   "photos": [
+    "/part/zp/3538353b363735363539353635383833353435343536",
+    "/part/zp/3538353b363735363539353635383833353435343536",
+    "/part/zp/3538353b363735363539353635383833353435343537",
+    "/part/zp/3538353b363735363539353635383833353435343537"
+   ],
+   "parentPartNO": "47C9864"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C2524",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "10.52",
+    "Size": "778.0* 149.0* 684.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "EXCLUDING LOCKS, BOTH DECORATIVE COVER LOCKS AND LEFT DOOR LOCKS NEED TO BE ORDERED (ENSURING UNIFORM KEYS)"
+   },
+   "photos": [
+    "/part/zp/3538353b363735363539353635383833353435343536",
+    "/part/zp/3538353b363735363539353635383833353435343536",
+    "/part/zp/3538353b363735363539353635383833353435343537",
+    "/part/zp/3538353b363735363539353635383833353435343537"
+   ],
+   "parentPartNO": "47C9864"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

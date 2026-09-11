@@ -1,0 +1,38 @@
+{
+ "partNO": "30C0581",
+ "parentPartNO": "13C0921",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C0581/13C0921 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COMBINATION CONNECTOR",
+    "spec": "3C-18",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0581",
+    "Part Name": "COMBINATION CONNECTOR",
+    "Specification": "3C-18",
+    "Weight": "0.08",
+    "Size": "34.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735343539356335353833353435343536"
+   ],
+   "parentPartNO": "13C0921"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "partNO": "31C0114",
+ "parentPartNO": "00C5518",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/31C0114/00C5518 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31C0114",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "48.0* 46.0* 31.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373535363735343535353535383833353435343535"
+   ],
+   "parentPartNO": "00C5518"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

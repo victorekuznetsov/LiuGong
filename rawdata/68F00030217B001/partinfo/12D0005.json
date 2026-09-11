@@ -1,0 +1,74 @@
+{
+ "partNO": "12D0005",
+ "parentPartNO": "40C5530",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12D0005",
+    "partName": "滤筒",
+    "spec": "",
+    "weightKg": "0.132",
+    "sizeMm": "164.0*70.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12D0005",
+    "配件名称": "滤筒",
+    "规格": "",
+    "重量(KG)": "0.132",
+    "尺寸(mm)": "164.0* 70.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353536363835343534353435393833353435343537",
+    "/part/zp/35353536363835343534353435393833353435343537"
+   ],
+   "parentPartNO": "40C5530"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "STRAINER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12D0005",
+    "Part Name": "STRAINER",
+    "Specification": "",
+    "Weight": "0.132",
+    "Size": "164.0* 70.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353536363835343534353435393833353435343537",
+    "/part/zp/35353536363835343534353435393833353435343537"
+   ],
+   "parentPartNO": "40C5530"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

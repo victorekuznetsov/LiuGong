@@ -1,0 +1,74 @@
+{
+ "partNO": "03B0406",
+ "parentPartNO": "41C0066",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B0406",
+    "partName": "通气塞",
+    "spec": "Z1/8-27",
+    "weightKg": "0.021",
+    "sizeMm": "31.0*15.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "03B0406",
+    "配件名称": "通气塞",
+    "规格": "Z1/8-27",
+    "重量(KG)": "0.021",
+    "尺寸(mm)": "31.0* 15.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353435373636353435383534353a3833353435343535",
+    "/part/zp/353435373636353435383534353a3833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BREATHER PLUG",
+    "spec": "Z1/8-27",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B0406",
+    "Part Name": "BREATHER PLUG",
+    "Specification": "Z1/8-27",
+    "Weight": "0.021",
+    "Size": "31.0* 15.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353435373636353435383534353a3833353435343535",
+    "/part/zp/353435373636353435383534353a3833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

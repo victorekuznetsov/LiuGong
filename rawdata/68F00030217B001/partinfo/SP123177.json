@@ -1,0 +1,78 @@
+{
+ "partNO": "SP123177",
+ "parentPartNO": "SP127918",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123177",
+    "partName": "阀块",
+    "spec": "",
+    "weightKg": "2.05",
+    "sizeMm": "233.0*160.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP123177",
+    "配件名称": "阀块",
+    "规格": "",
+    "重量(KG)": "2.05",
+    "尺寸(mm)": "233.0* 160.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353b353b3833353435343535",
+    "/part/zp/373737343535353635373535353b353b3833353435343535",
+    "/part/zp/373737343535353635373535353b353b3833353435343536",
+    "/part/zp/373737343535353635373535353b353b3833353435343536"
+   ],
+   "parentPartNO": "SP127918"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VALVE BLOCK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123177",
+    "Part Name": "VALVE BLOCK",
+    "Specification": "",
+    "Weight": "2.05",
+    "Size": "233.0* 160.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353b353b3833353435343535",
+    "/part/zp/373737343535353635373535353b353b3833353435343535",
+    "/part/zp/373737343535353635373535353b353b3833353435343536",
+    "/part/zp/373737343535353635373535353b353b3833353435343536"
+   ],
+   "parentPartNO": "SP127918"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

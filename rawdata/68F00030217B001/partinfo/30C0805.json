@@ -1,0 +1,36 @@
+{
+ "partNO": "30C0805",
+ "parentPartNO": "02C1433",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C0805/02C1433 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0805",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.047",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "02C1433"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

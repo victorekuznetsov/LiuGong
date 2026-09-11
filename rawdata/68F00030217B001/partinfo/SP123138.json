@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123138",
+ "parentPartNO": "SP148482",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123138",
+    "partName": "滚子轴承",
+    "spec": "",
+    "weightKg": "3.91",
+    "sizeMm": "137.0*137.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP107829更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP123138",
+    "配件名称": "滚子轴承",
+    "规格": "",
+    "重量(KG)": "3.91",
+    "尺寸(mm)": "137.0* 137.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP107829更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353735633833353435343536",
+    "/part/zp/373737343535353635373535353735633833353435343536"
+   ],
+   "parentPartNO": "SP148482"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TAROLLBEARING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123138",
+    "Part Name": "TAROLLBEARING",
+    "Specification": "",
+    "Weight": "3.91",
+    "Size": "137.0* 137.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Change from SP107829"
+   },
+   "photos": [
+    "/part/zp/373737343535353635373535353735633833353435343536",
+    "/part/zp/373737343535353635373535353735633833353435343536"
+   ],
+   "parentPartNO": "SP148482"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

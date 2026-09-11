@@ -1,0 +1,74 @@
+{
+ "partNO": "SP112163",
+ "parentPartNO": "SP148507",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP112163",
+    "partName": "软管",
+    "spec": "",
+    "weightKg": "0.01",
+    "sizeMm": "205.0*20.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用SP191311"
+   },
+   "attrsRaw": {
+    "配件编码": "SP112163",
+    "配件名称": "软管",
+    "规格": "",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "205.0* 20.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用SP191311"
+   },
+   "photos": [
+    "/part/zp/373737343535353535363535353a35373833353435343536",
+    "/part/zp/373737343535353535363535353a35373833353435343536"
+   ],
+   "parentPartNO": "SP148507"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP112163",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "0.01",
+    "Size": "205.0* 20.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP191311"
+   },
+   "photos": [
+    "/part/zp/373737343535353535363535353a35373833353435343536",
+    "/part/zp/373737343535353535363535353a35373833353435343536"
+   ],
+   "parentPartNO": "SP148507"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

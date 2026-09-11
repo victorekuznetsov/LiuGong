@@ -1,0 +1,68 @@
+{
+ "partNO": "82A2006",
+ "parentPartNO": "20C1960",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "82A2006",
+    "partName": "海绵",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用通用海绵SP240456∽SP240464，厚度不同，根据需求选择"
+   },
+   "attrsRaw": {
+    "配件编码": "82A2006",
+    "配件名称": "海绵",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用通用海绵SP240456∽SP240464，厚度不同，根据需求选择"
+   },
+   "photos": [],
+   "parentPartNO": "20C1960"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPONGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "82A2006",
+    "Part Name": "SPONGE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO USE GENERAL SPONGE SP240456 TO SP240464 INSTEAD, THE THICKNESS IS DIFFERENT, CHOOSE ACCORDING TO YOUR NEEDS."
+   },
+   "photos": [],
+   "parentPartNO": "20C1960"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

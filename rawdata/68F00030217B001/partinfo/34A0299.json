@@ -1,0 +1,78 @@
+{
+ "partNO": "34A0299",
+ "parentPartNO": "00C5522",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34A0299",
+    "partName": "支撑管",
+    "spec": "30",
+    "weightKg": "0.0",
+    "sizeMm": "30.0*19.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34A0299",
+    "配件名称": "支撑管",
+    "规格": "30",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "30.0* 19.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373538363535343536356435643833353435343536",
+    "/part/zp/35373538363535343536356435643833353435343536",
+    "/part/zp/35373538363535343536356435643833353435343537",
+    "/part/zp/35373538363535343536356435643833353435343537"
+   ],
+   "parentPartNO": "00C5522"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIPE",
+    "spec": "30",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34A0299",
+    "Part Name": "PIPE",
+    "Specification": "30",
+    "Weight": "0.0",
+    "Size": "30.0* 19.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373538363535343536356435643833353435343536",
+    "/part/zp/35373538363535343536356435643833353435343536",
+    "/part/zp/35373538363535343536356435643833353435343537",
+    "/part/zp/35373538363535343536356435643833353435343537"
+   ],
+   "parentPartNO": "00C5522"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

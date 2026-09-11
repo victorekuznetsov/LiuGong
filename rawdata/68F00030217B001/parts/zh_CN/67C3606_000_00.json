@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "12B0514",
+  "partName": "O形圈",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "由SP139575更改而来",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "67C3606",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

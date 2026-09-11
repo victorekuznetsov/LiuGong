@@ -1,0 +1,68 @@
+{
+ "partNO": "SP139534",
+ "parentPartNO": "SP143932",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP139534",
+    "partName": "管塞",
+    "spec": "",
+    "weightKg": "0.009",
+    "sizeMm": "15.0*13.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP117159更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP139534",
+    "配件名称": "管塞",
+    "规格": "",
+    "重量(KG)": "0.009",
+    "尺寸(mm)": "15.0* 13.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP117159更改而来"
+   },
+   "photos": [],
+   "parentPartNO": "SP143932"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG PIPE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP139534",
+    "Part Name": "PLUG PIPE",
+    "Specification": "",
+    "Weight": "0.009",
+    "Size": "15.0* 13.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP117159"
+   },
+   "photos": [],
+   "parentPartNO": "SP143932"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

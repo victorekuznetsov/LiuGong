@@ -1,0 +1,68 @@
+{
+ "partNO": "SP155669",
+ "parentPartNO": "10C4092",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP155669",
+    "partName": "八字钢套",
+    "spec": "",
+    "weightKg": "0.6",
+    "sizeMm": "132.0*81.0*79.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP155669",
+    "配件名称": "八字钢套",
+    "规格": "",
+    "重量(KG)": "0.6",
+    "尺寸(mm)": "132.0* 81.0* 79.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C4092"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SLEEVE Φ60×Φ75×5",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP155669",
+    "Part Name": "SLEEVE Φ60×Φ75×5",
+    "Specification": "",
+    "Weight": "0.6",
+    "Size": "132.0* 81.0* 79.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C4092"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

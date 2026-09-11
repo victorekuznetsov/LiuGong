@@ -1,0 +1,76 @@
+{
+ "partNO": "30B0081",
+ "parentPartNO": "SP148501",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30B0081",
+    "partName": "涡轮速度传感器",
+    "spec": "",
+    "weightKg": "0.055",
+    "sizeMm": "60.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由SP111844更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "30B0081",
+    "配件名称": "涡轮速度传感器",
+    "规格": "",
+    "重量(KG)": "0.055",
+    "尺寸(mm)": "60.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由SP111844更改而来"
+   },
+   "photos": [
+    "/part/zp/35373534363635343534356335353833353435343536",
+    "/part/zp/35373534363635343534356335353833353435343537",
+    "/part/zp/35373534363635343534356335353833353435343537"
+   ],
+   "parentPartNO": "SP148501"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPEED SENSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30B0081",
+    "Part Name": "SPEED SENSOR",
+    "Specification": "",
+    "Weight": "0.055",
+    "Size": "60.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP111844"
+   },
+   "photos": [
+    "/part/zp/35373534363635343534356335353833353435343536",
+    "/part/zp/35373534363635343534356335353833353435343537",
+    "/part/zp/35373534363635343534356335353833353435343537"
+   ],
+   "parentPartNO": "SP148501"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

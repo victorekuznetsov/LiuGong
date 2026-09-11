@@ -1,0 +1,74 @@
+{
+ "partNO": "03B0205",
+ "parentPartNO": "40C5530",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "03B0205",
+    "partName": "锁紧螺母",
+    "spec": "M20-8",
+    "weightKg": "0.0",
+    "sizeMm": "30.0*35.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "由03B0188更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "03B0205",
+    "配件名称": "锁紧螺母",
+    "规格": "M20-8",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "30.0* 35.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "由03B0188更改而来"
+   },
+   "photos": [
+    "/part/zp/35343537363635343536353435393833353435343536",
+    "/part/zp/35343537363635343536353435393833353435343536"
+   ],
+   "parentPartNO": "40C5530"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCKNUT",
+    "spec": "M20-8",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "03B0205",
+    "Part Name": "LOCKNUT",
+    "Specification": "M20-8",
+    "Weight": "0.0",
+    "Size": "30.0* 35.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 03B0188"
+   },
+   "photos": [
+    "/part/zp/35343537363635343536353435393833353435343536",
+    "/part/zp/35343537363635343536353435393833353435343536"
+   ],
+   "parentPartNO": "40C5530"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

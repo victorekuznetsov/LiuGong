@@ -1,0 +1,68 @@
+{
+ "partNO": "SP170656",
+ "parentPartNO": "12C5256",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP170656",
+    "partName": "压力补偿器",
+    "spec": "",
+    "weightKg": "0.65",
+    "sizeMm": "104.0*44.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP170656",
+    "配件名称": "压力补偿器",
+    "规格": "",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "104.0* 44.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C5256"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PRESSURE COMPENSATOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP170656",
+    "Part Name": "PRESSURE COMPENSATOR",
+    "Specification": "",
+    "Weight": "0.65",
+    "Size": "104.0* 44.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C5256"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

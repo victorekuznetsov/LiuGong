@@ -1,0 +1,68 @@
+{
+ "partNO": "34C9600",
+ "parentPartNO": "34C9599",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C9600",
+    "partName": "顶内饰组件",
+    "spec": "9600",
+    "weightKg": "0.0",
+    "sizeMm": "1236.0*1286.0*164.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C9600",
+    "配件名称": "顶内饰组件",
+    "规格": "9600",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1236.0* 1286.0* 164.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C9599"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOME DECORATION AS",
+    "spec": "9600",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C9600",
+    "Part Name": "DOME DECORATION AS",
+    "Specification": "9600",
+    "Weight": "0.0",
+    "Size": "1236.0* 1286.0* 164.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C9599"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

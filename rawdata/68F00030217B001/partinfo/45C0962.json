@@ -1,0 +1,74 @@
+{
+ "partNO": "45C0962",
+ "parentPartNO": "13C1518",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "45C0962",
+    "partName": "制动阀块",
+    "spec": "",
+    "weightKg": "2.65",
+    "sizeMm": "171.0*168.0*58.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "45C0962",
+    "配件名称": "制动阀块",
+    "规格": "",
+    "重量(KG)": "2.65",
+    "尺寸(mm)": "171.0* 168.0* 58.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383539363735343564353a35363833353435343535",
+    "/part/zp/35383539363735343564353a35363833353435343535"
+   ],
+   "parentPartNO": "13C1518"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRAKE VALVE GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "45C0962",
+    "Part Name": "BRAKE VALVE GP",
+    "Specification": "",
+    "Weight": "2.65",
+    "Size": "171.0* 168.0* 58.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383539363735343564353a35363833353435343535",
+    "/part/zp/35383539363735343564353a35363833353435343535"
+   ],
+   "parentPartNO": "13C1518"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "04A0834",
+ "parentPartNO": "21C1017",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04A0834",
+    "partName": "法兰",
+    "spec": "",
+    "weightKg": "3.965",
+    "sizeMm": "240.0*240.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "04A0834",
+    "配件名称": "法兰",
+    "规格": "",
+    "重量(KG)": "3.965",
+    "尺寸(mm)": "240.0* 240.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [
+    "/part/zp/35343538363535343563353735383833353435343536",
+    "/part/zp/35343538363535343563353735383833353435343536"
+   ],
+   "parentPartNO": "21C1017"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLANGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04A0834",
+    "Part Name": "FLANGE",
+    "Specification": "",
+    "Weight": "3.965",
+    "Size": "240.0* 240.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [
+    "/part/zp/35343538363535343563353735383833353435343536",
+    "/part/zp/35343538363535343563353735383833353435343536"
+   ],
+   "parentPartNO": "21C1017"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

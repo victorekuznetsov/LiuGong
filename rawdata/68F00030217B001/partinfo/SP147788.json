@@ -1,0 +1,72 @@
+{
+ "partNO": "SP147788",
+ "parentPartNO": "SP148496",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147788",
+    "partName": "螺栓",
+    "spec": "",
+    "weightKg": "0.02",
+    "sizeMm": "80.0*13.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP123131更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP147788",
+    "配件名称": "螺栓",
+    "规格": "",
+    "重量(KG)": "0.02",
+    "尺寸(mm)": "80.0* 13.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP123131更改而来"
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b353b356335633833353435343535"
+   ],
+   "parentPartNO": "SP148496"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147788",
+    "Part Name": "BOLT",
+    "Specification": "",
+    "Weight": "0.02",
+    "Size": "80.0* 13.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP123131"
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b353b356335633833353435343535"
+   ],
+   "parentPartNO": "SP148496"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

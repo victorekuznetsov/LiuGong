@@ -1,0 +1,36 @@
+{
+ "partNO": "30D6374",
+ "parentPartNO": "08Y2058",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30D6374/08Y2058 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "REAR FRAME",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30D6374",
+    "Part Name": "REAR FRAME",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "4632.0* 2165.0* 1459.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "08Y2058"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "partNO": "18A5672",
+ "parentPartNO": "46C1833",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "18A5672",
+    "partName": "压板",
+    "spec": "",
+    "weightKg": "0.239",
+    "sizeMm": "304.0*261.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "18A5672",
+    "配件名称": "压板",
+    "规格": "",
+    "重量(KG)": "0.239",
+    "尺寸(mm)": "304.0* 261.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3535356336353539353a353b35363833353435343536"
+   ],
+   "parentPartNO": "46C1833"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "18A5672",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "0.239",
+    "Size": "304.0* 261.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3535356336353539353a353b35363833353435343536"
+   ],
+   "parentPartNO": "46C1833"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "72A1917",
+ "parentPartNO": "47C2524",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72A1917",
+    "partName": "缓冲座",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "75.0*19.0*26.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "72A1917",
+    "配件名称": "缓冲座",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "75.0* 19.0* 26.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353b35363635353535643535353b3833353435343536",
+    "/part/zp/353b35363635353535643535353b3833353435343536",
+    "/part/zp/353b35363635353535643535353b3833353435343537",
+    "/part/zp/353b35363635353535643535353b3833353435343537"
+   ],
+   "parentPartNO": "47C2524"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CUSHION HEAD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72A1917",
+    "Part Name": "CUSHION HEAD",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "75.0* 19.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353b35363635353535643535353b3833353435343536",
+    "/part/zp/353b35363635353535643535353b3833353435343536",
+    "/part/zp/353b35363635353535643535353b3833353435343537",
+    "/part/zp/353b35363635353535643535353b3833353435343537"
+   ],
+   "parentPartNO": "47C2524"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

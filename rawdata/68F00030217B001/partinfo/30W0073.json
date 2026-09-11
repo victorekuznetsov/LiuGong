@@ -1,0 +1,38 @@
+{
+ "partNO": "30W0073",
+ "parentPartNO": "00C5518",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30W0073/00C5518 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30W0073",
+    "Part Name": "TEE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "46.0* 82.0* 65.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534373b35343534353b35373833353435343535"
+   ],
+   "parentPartNO": "00C5518"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP132786",
+ "parentPartNO": "SP165182",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP132786",
+    "partName": "驱动器",
+    "spec": "",
+    "weightKg": "5.68",
+    "sizeMm": "237.0*177.0*206.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "重号;改用40C7439;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP132786",
+    "配件名称": "驱动器",
+    "规格": "",
+    "重量(KG)": "5.68",
+    "尺寸(mm)": "237.0* 177.0* 206.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "重号;改用40C7439;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP165182"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRIVE ACCESSORY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP132786",
+    "Part Name": "DRIVE ACCESSORY",
+    "Specification": "",
+    "Weight": "5.68",
+    "Size": "237.0* 177.0* 206.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 40C7439 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "SP165182"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

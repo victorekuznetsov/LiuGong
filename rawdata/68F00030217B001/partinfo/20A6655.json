@@ -1,0 +1,74 @@
+{
+ "partNO": "20A6655",
+ "parentPartNO": "55C9382",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "20A6655",
+    "partName": "插板",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "20.0*15.0*60.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "20A6655",
+    "配件名称": "插板",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "20.0* 15.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353635343635353a353a353935393833353435343536",
+    "/part/zp/353635343635353a353a353935393833353435343536"
+   ],
+   "parentPartNO": "55C9382"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "INSERT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "20A6655",
+    "Part Name": "INSERT",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "20.0* 15.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353635343635353a353a353935393833353435343536",
+    "/part/zp/353635343635353a353a353935393833353435343536"
+   ],
+   "parentPartNO": "55C9382"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

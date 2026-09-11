@@ -1,0 +1,68 @@
+{
+ "partNO": "SP132776",
+ "parentPartNO": "SP165166",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP132776",
+    "partName": "衬套",
+    "spec": "",
+    "weightKg": "0.13",
+    "sizeMm": "165.0*165.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;改用40C7317;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP132776",
+    "配件名称": "衬套",
+    "规格": "",
+    "重量(KG)": "0.13",
+    "尺寸(mm)": "165.0* 165.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用40C7317;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP165166"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING CAMSHAFT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP132776",
+    "Part Name": "BUSHING CAMSHAFT",
+    "Specification": "",
+    "Weight": "0.13",
+    "Size": "165.0* 165.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 40C7317 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "SP165166"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "18A3935",
+ "parentPartNO": "43C6241",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "18A3935",
+    "partName": "活动刀板",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "360.0*318.0*40.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "18A3935",
+    "配件名称": "活动刀板",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "360.0* 318.0* 40.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353563363535373564353735393833353435343535",
+    "/part/zp/35353563363535373564353735393833353435343535"
+   ],
+   "parentPartNO": "43C6241"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "18A3935",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "360.0* 318.0* 40.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353563363535373564353735393833353435343535",
+    "/part/zp/35353563363535373564353735393833353435343535"
+   ],
+   "parentPartNO": "43C6241"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "SP146080",
+ "parentPartNO": "10C1795",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP146080",
+    "partName": "转向油缸修理包",
+    "spec": "",
+    "weightKg": "0.8",
+    "sizeMm": "109.0*110.0*67.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP146080",
+    "配件名称": "转向油缸修理包",
+    "规格": "",
+    "重量(KG)": "0.8",
+    "尺寸(mm)": "109.0* 110.0* 67.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353a3534356335343833353435343536",
+    "/part/zp/3737373435353538353a3534356335343833353435343537"
+   ],
+   "parentPartNO": "10C1795"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP146080",
+    "Part Name": "SEAL KIT",
+    "Specification": "",
+    "Weight": "0.8",
+    "Size": "109.0* 110.0* 67.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353a3534356335343833353435343536",
+    "/part/zp/3737373435353538353a3534356335343833353435343537"
+   ],
+   "parentPartNO": "10C1795"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

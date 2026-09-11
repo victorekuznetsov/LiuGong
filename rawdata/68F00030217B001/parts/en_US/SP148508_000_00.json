@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP157398",
+  "partName": "UNION SCREW",
+  "qty": "1",
+  "storeTypeName": "Not recommend",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP148508",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

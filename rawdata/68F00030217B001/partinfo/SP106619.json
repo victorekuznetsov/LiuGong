@@ -1,0 +1,74 @@
+{
+ "partNO": "SP106619",
+ "parentPartNO": "SP148489",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP106619",
+    "partName": "滚柱轴承",
+    "spec": "",
+    "weightKg": "0.545",
+    "sizeMm": "90.0*90.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "停止供货;改用SP243245;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP106619",
+    "配件名称": "滚柱轴承",
+    "规格": "",
+    "重量(KG)": "0.545",
+    "尺寸(mm)": "90.0* 90.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP243245;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a353535643833353435343536",
+    "/part/zp/3737373435353534353a353a353535643833353435343536"
+   ],
+   "parentPartNO": "SP148489"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROLLER BEARING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP106619",
+    "Part Name": "ROLLER BEARING",
+    "Specification": "",
+    "Weight": "0.545",
+    "Size": "90.0* 90.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO SP243245 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a353535643833353435343536",
+    "/part/zp/3737373435353534353a353a353535643833353435343536"
+   ],
+   "parentPartNO": "SP148489"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

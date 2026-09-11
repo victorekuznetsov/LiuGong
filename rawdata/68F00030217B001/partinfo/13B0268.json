@@ -1,0 +1,72 @@
+{
+ "partNO": "13B0268",
+ "parentPartNO": "10C1795",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B0268",
+    "partName": "支承环",
+    "spec": "60×65×15",
+    "weightKg": "0.0",
+    "sizeMm": "65.0*65.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B0268",
+    "配件名称": "支承环",
+    "规格": "60×65×15",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "65.0* 65.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353537363635343536353a35633833353435343535"
+   ],
+   "parentPartNO": "10C1795"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUPPORT RING",
+    "spec": "60×65×15",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B0268",
+    "Part Name": "SUPPORT RING",
+    "Specification": "60×65×15",
+    "Weight": "0.0",
+    "Size": "65.0* 65.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353537363635343536353a35633833353435343535"
+   ],
+   "parentPartNO": "10C1795"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "36B1063",
+ "parentPartNO": "08C7138",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B1063",
+    "partName": "接头",
+    "spec": "M10",
+    "weightKg": "0.037",
+    "sizeMm": "68.0*23.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "36B1063",
+    "配件名称": "接头",
+    "规格": "M10",
+    "重量(KG)": "0.037",
+    "尺寸(mm)": "68.0* 23.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "08C7138"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "M10",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B1063",
+    "Part Name": "CONNECTOR",
+    "Specification": "M10",
+    "Weight": "0.037",
+    "Size": "68.0* 23.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "08C7138"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

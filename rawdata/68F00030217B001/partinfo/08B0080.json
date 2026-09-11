@@ -1,0 +1,72 @@
+{
+ "partNO": "08B0080",
+ "parentPartNO": "44Y0907",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08B0080",
+    "partName": "销",
+    "spec": "4×20-DK",
+    "weightKg": "0.01",
+    "sizeMm": "4.0*4.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "08B0080",
+    "配件名称": "销",
+    "规格": "4×20-DK",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "4.0* 4.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343563363635343534356335343833353435343535"
+   ],
+   "parentPartNO": "44Y0907"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "4×20-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08B0080",
+    "Part Name": "PIN",
+    "Specification": "4×20-DK",
+    "Weight": "0.01",
+    "Size": "4.0* 4.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343563363635343534356335343833353435343535"
+   ],
+   "parentPartNO": "44Y0907"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

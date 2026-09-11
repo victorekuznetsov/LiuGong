@@ -1,0 +1,76 @@
+{
+ "partNO": "SP106784",
+ "parentPartNO": "SP148507",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP106784",
+    "partName": "软管",
+    "spec": "",
+    "weightKg": "0.27",
+    "sizeMm": "710.0*28.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用SP179880"
+   },
+   "attrsRaw": {
+    "配件编码": "SP106784",
+    "配件名称": "软管",
+    "规格": "",
+    "重量(KG)": "0.27",
+    "尺寸(mm)": "710.0* 28.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用SP179880"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353b356335383833353435343535",
+    "/part/zp/3737373435353534353a353b356335383833353435343536",
+    "/part/zp/3737373435353534353a353b356335383833353435343536"
+   ],
+   "parentPartNO": "SP148507"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP106784",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "0.27",
+    "Size": "710.0* 28.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP179880"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353b356335383833353435343535",
+    "/part/zp/3737373435353534353a353b356335383833353435343536",
+    "/part/zp/3737373435353534353a353b356335383833353435343536"
+   ],
+   "parentPartNO": "SP148507"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

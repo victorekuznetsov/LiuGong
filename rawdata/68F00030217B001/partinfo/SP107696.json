@@ -1,0 +1,72 @@
+{
+ "partNO": "SP107696",
+ "parentPartNO": "SP148492",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP107696",
+    "partName": "垫片",
+    "spec": "",
+    "weightKg": "0.015",
+    "sizeMm": "55.0*55.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货;改用SP107697"
+   },
+   "attrsRaw": {
+    "配件编码": "SP107696",
+    "配件名称": "垫片",
+    "规格": "",
+    "重量(KG)": "0.015",
+    "尺寸(mm)": "55.0* 55.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP107697"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b353a3564353a3833353435343536"
+   ],
+   "parentPartNO": "SP148492"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP107696",
+    "Part Name": "GASKET",
+    "Specification": "",
+    "Weight": "0.015",
+    "Size": "55.0* 55.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Discontinued,change to SP107697"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b353a3564353a3833353435343536"
+   ],
+   "parentPartNO": "SP148492"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

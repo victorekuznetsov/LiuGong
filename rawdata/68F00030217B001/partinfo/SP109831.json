@@ -1,0 +1,72 @@
+{
+ "partNO": "SP109831",
+ "parentPartNO": "SP165833",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP109831",
+    "partName": "螺栓M10×1.50×70",
+    "spec": "",
+    "weightKg": "0.05",
+    "sizeMm": "76.0*18.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP109831",
+    "配件名称": "螺栓M10×1.50×70",
+    "规格": "",
+    "重量(KG)": "0.05",
+    "尺寸(mm)": "76.0* 18.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643563353735353833353435343536"
+   ],
+   "parentPartNO": "SP165833"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP109831",
+    "Part Name": "BOLT",
+    "Specification": "",
+    "Weight": "0.05",
+    "Size": "76.0* 18.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643563353735353833353435343536"
+   ],
+   "parentPartNO": "SP165833"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

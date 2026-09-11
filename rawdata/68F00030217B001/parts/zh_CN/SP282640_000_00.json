@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP109813",
+  "partName": "充电机皮带轮",
+  "qty": "1",
+  "storeTypeName": "3Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP282640",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

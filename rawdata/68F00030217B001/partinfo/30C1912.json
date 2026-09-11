@@ -1,0 +1,39 @@
+{
+ "partNO": "30C1912",
+ "parentPartNO": "12C5939",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C1912/12C5939 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C1912",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.029",
+    "Size": "19.0* 21.0* 21.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735353564353535363833353435343536",
+    "/part/zp/35373534363735353564353535363833353435343536"
+   ],
+   "parentPartNO": "12C5939"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

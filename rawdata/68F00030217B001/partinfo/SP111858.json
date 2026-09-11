@@ -1,0 +1,72 @@
+{
+ "partNO": "SP111858",
+ "parentPartNO": "SP148601",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP111858",
+    "partName": "档位选择器",
+    "spec": "",
+    "weightKg": "1.1",
+    "sizeMm": "281.0*158.0*76.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP100004更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP111858",
+    "配件名称": "档位选择器",
+    "规格": "",
+    "重量(KG)": "1.1",
+    "尺寸(mm)": "281.0* 158.0* 76.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP100004更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353535353563353935633833353435343535"
+   ],
+   "parentPartNO": "SP148601"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEAR SELECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP111858",
+    "Part Name": "GEAR SELECTOR",
+    "Specification": "",
+    "Weight": "1.1",
+    "Size": "281.0* 158.0* 76.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP100004"
+   },
+   "photos": [
+    "/part/zp/373737343535353535353563353935633833353435343535"
+   ],
+   "parentPartNO": "SP148601"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

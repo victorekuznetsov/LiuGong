@@ -1,0 +1,80 @@
+{
+ "partNO": "SP115547",
+ "parentPartNO": "SP148494",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP115547",
+    "partName": "制动蹄片",
+    "spec": "",
+    "weightKg": "0.9",
+    "sizeMm": "137.0*82.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "SET",
+    "note": "本价格为单套价，1套含2件制动蹄片"
+   },
+   "attrsRaw": {
+    "配件编码": "SP115547",
+    "配件名称": "制动蹄片",
+    "规格": "",
+    "重量(KG)": "0.9",
+    "尺寸(mm)": "137.0* 82.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "SET",
+    "配件备注": "本价格为单套价，1套含2件制动蹄片"
+   },
+   "photos": [
+    "/part/zp/3737373435353535353935393538353b3833353435343535",
+    "/part/zp/3737373435353535353935393538353b3833353435343536",
+    "/part/zp/3737373435353535353935393538353b3833353435343536",
+    "/part/zp/3737373435353535353935393538353b3833353435343537",
+    "/part/zp/3737373435353535353935393538353b3833353435343537"
+   ],
+   "parentPartNO": "SP148494"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRAKE SHOE",
+    "spec": "",
+    "unit": "SET"
+   },
+   "attrsRaw": {
+    "Part No": "SP115547",
+    "Part Name": "BRAKE SHOE",
+    "Specification": "",
+    "Weight": "0.9",
+    "Size": "137.0* 82.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "SET",
+    "Remark": "The price is for a single set,1 set include 2 pcs brake shoes"
+   },
+   "photos": [
+    "/part/zp/3737373435353535353935393538353b3833353435343535",
+    "/part/zp/3737373435353535353935393538353b3833353435343536",
+    "/part/zp/3737373435353535353935393538353b3833353435343536",
+    "/part/zp/3737373435353535353935393538353b3833353435343537",
+    "/part/zp/3737373435353535353935393538353b3833353435343537"
+   ],
+   "parentPartNO": "SP148494"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

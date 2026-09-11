@@ -1,0 +1,74 @@
+{
+ "partNO": "41C1188",
+ "parentPartNO": "01E0386",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41C1188",
+    "partName": "轮辋总成",
+    "spec": "25-25.00/3.5",
+    "weightKg": "247.914",
+    "sizeMm": "810.0*810.0*740.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41C1188",
+    "配件名称": "轮辋总成",
+    "规格": "25-25.00/3.5",
+    "重量(KG)": "247.914",
+    "尺寸(mm)": "810.0* 810.0* 740.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383535363735353535356335633833353435343535",
+    "/part/zp/35383535363735353535356335633833353435343535"
+   ],
+   "parentPartNO": "01E0386"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RIM AS",
+    "spec": "25-25.00/3.5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41C1188",
+    "Part Name": "RIM AS",
+    "Specification": "25-25.00/3.5",
+    "Weight": "247.914",
+    "Size": "810.0* 810.0* 740.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383535363735353535356335633833353435343535",
+    "/part/zp/35383535363735353535356335633833353435343535"
+   ],
+   "parentPartNO": "01E0386"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "partNO": "30C2778",
+ "parentPartNO": "00C5518",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C2778/00C5518 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FITTING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C2778",
+    "Part Name": "FITTING",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "55.0* 42.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00C5518"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

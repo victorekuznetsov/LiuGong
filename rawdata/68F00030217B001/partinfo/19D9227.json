@@ -1,0 +1,68 @@
+{
+ "partNO": "19D9227",
+ "parentPartNO": "22C8949",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "19D9227",
+    "partName": "防护栏",
+    "spec": "",
+    "weightKg": "188.0",
+    "sizeMm": "527.0*2620.0*1101.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "19D9227",
+    "配件名称": "防护栏",
+    "规格": "",
+    "重量(KG)": "188.0",
+    "尺寸(mm)": "527.0* 2620.0* 1101.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "22C8949"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PROTECTIVE BARRIER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "19D9227",
+    "Part Name": "PROTECTIVE BARRIER",
+    "Specification": "",
+    "Weight": "188.0",
+    "Size": "527.0* 2620.0* 1101.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "22C8949"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "41B0239Y18L",
+ "parentPartNO": "47Y1663",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41B0239Y18L",
+    "partName": "湿式驱动桥专用齿轮油",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C2",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "该油为低温油，常温油为：41B0014、41B0188"
+   },
+   "attrsRaw": {
+    "配件编码": "41B0239Y18L",
+    "配件名称": "湿式驱动桥专用齿轮油",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C2",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "该油为低温油，常温油为：41B0014、41B0188"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1663"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRIVE AXLE GEAR OIL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41B0239Y18L",
+    "Part Name": "DRIVE AXLE GEAR OIL",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C2",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "This oil is a low-temperature oil, and the normal-temperature oils are: 41B0014,41B0188"
+   },
+   "photos": [],
+   "parentPartNO": "47Y1663"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

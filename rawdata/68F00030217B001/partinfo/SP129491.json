@@ -1,0 +1,74 @@
+{
+ "partNO": "SP129491",
+ "parentPartNO": "SP112210",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP129491",
+    "partName": "O形密封圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "12.7*12.7*3.18",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP129491",
+    "配件名称": "O形密封圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "12.7* 12.7* 3.18",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643538356435353833353435343536",
+    "/part/zp/373737343535353635643538356435353833353435343536"
+   ],
+   "parentPartNO": "SP112210"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP129491",
+    "Part Name": "SEAL",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "12.7* 12.7* 3.18",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643538356435353833353435343536",
+    "/part/zp/373737343535353635643538356435353833353435343536"
+   ],
+   "parentPartNO": "SP112210"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

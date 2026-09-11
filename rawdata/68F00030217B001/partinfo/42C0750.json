@@ -1,0 +1,78 @@
+{
+ "partNO": "42C0750",
+ "parentPartNO": "42C1685",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "42C0750",
+    "partName": "变矩器-变速箱总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "42C0750",
+    "配件名称": "变矩器-变速箱总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [
+    "/part/zp/3538353636373534353b353935343833353435343535",
+    "/part/zp/3538353636373534353b353935343833353435343535",
+    "/part/zp/3538353636373534353b353935343833353435343536",
+    "/part/zp/3538353636373534353b353935343833353435343536"
+   ],
+   "parentPartNO": "42C1685"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEARBOX & TORQUE CONVERTER AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "42C0750",
+    "Part Name": "GEARBOX & TORQUE CONVERTER AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [
+    "/part/zp/3538353636373534353b353935343833353435343535",
+    "/part/zp/3538353636373534353b353935343833353435343535",
+    "/part/zp/3538353636373534353b353935343833353435343536",
+    "/part/zp/3538353636373534353b353935343833353435343536"
+   ],
+   "parentPartNO": "42C1685"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

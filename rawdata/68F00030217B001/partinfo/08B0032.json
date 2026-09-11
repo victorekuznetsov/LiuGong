@@ -1,0 +1,72 @@
+{
+ "partNO": "08B0032",
+ "parentPartNO": "41C0066",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08B0032",
+    "partName": "销",
+    "spec": "6.3×60-ZN.D",
+    "weightKg": "0.0",
+    "sizeMm": "6.3*6.3*60.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用08B0017"
+   },
+   "attrsRaw": {
+    "配件编码": "08B0032",
+    "配件名称": "销",
+    "规格": "6.3×60-ZN.D",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "6.3* 6.3* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用08B0017"
+   },
+   "photos": [
+    "/part/zp/35343563363635343534353735363833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "6.3×60-ZN.D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08B0032",
+    "Part Name": "PIN",
+    "Specification": "6.3×60-ZN.D",
+    "Weight": "0.0",
+    "Size": "6.3* 6.3* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "Change to 08B0017"
+   },
+   "photos": [
+    "/part/zp/35343563363635343534353735363833353435343535"
+   ],
+   "parentPartNO": "41C0066"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

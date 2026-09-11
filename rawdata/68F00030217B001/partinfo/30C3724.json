@@ -1,0 +1,36 @@
+{
+ "partNO": "30C3724",
+ "parentPartNO": "25Y0181",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C3724/25Y0181 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C3724",
+    "Part Name": "CONNECTOR",
+    "Specification": "",
+    "Weight": "0.047",
+    "Size": "48.0* 21.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "25Y0181"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

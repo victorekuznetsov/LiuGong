@@ -1,0 +1,74 @@
+{
+ "partNO": "46C8131",
+ "parentPartNO": "23Y0116",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46C8131",
+    "partName": "暖风进水阀",
+    "spec": "NPT3/4-0°",
+    "weightKg": "0.0",
+    "sizeMm": "80.0*42.0*40.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "46C8131",
+    "配件名称": "暖风进水阀",
+    "规格": "NPT3/4-0°",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "80.0* 42.0* 40.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538353a363735633535353735353833353435343537",
+    "/part/zp/3538353a363735633535353735353833353435343537"
+   ],
+   "parentPartNO": "23Y0116"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WATER INLET VALVE",
+    "spec": "NPT3/4-0°",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46C8131",
+    "Part Name": "WATER INLET VALVE",
+    "Specification": "NPT3/4-0°",
+    "Weight": "0.0",
+    "Size": "80.0* 42.0* 40.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538353a363735633535353735353833353435343537",
+    "/part/zp/3538353a363735633535353735353833353435343537"
+   ],
+   "parentPartNO": "23Y0116"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

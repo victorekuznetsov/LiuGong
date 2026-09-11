@@ -1,0 +1,68 @@
+{
+ "partNO": "SP233333",
+ "parentPartNO": "SP263783",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP233333",
+    "partName": "接头",
+    "spec": "",
+    "weightKg": "0.281",
+    "sizeMm": "64.0*60.0*37.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP233333",
+    "配件名称": "接头",
+    "规格": "",
+    "重量(KG)": "0.281",
+    "尺寸(mm)": "64.0* 60.0* 37.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP263783"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ELBOWMALE UNION",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP233333",
+    "Part Name": "ELBOWMALE UNION",
+    "Specification": "",
+    "Weight": "0.281",
+    "Size": "64.0* 60.0* 37.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP263783"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

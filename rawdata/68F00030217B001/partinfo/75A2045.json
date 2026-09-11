@@ -1,0 +1,68 @@
+{
+ "partNO": "75A2045",
+ "parentPartNO": "61C1972",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75A2045",
+    "partName": "弹簧",
+    "spec": "Ф2.8*16.8*4.5*9.5N",
+    "weightKg": "0.0",
+    "sizeMm": "17.0*45.0*17.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "75A2045",
+    "配件名称": "弹簧",
+    "规格": "Ф2.8*16.8*4.5*9.5N",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "17.0* 45.0* 17.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C1972"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPRING",
+    "spec": "Ф2.8*16.8*4.5*9.5N",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "75A2045",
+    "Part Name": "SPRING",
+    "Specification": "Ф2.8*16.8*4.5*9.5N",
+    "Weight": "0.0",
+    "Size": "17.0* 45.0* 17.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "61C1972"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

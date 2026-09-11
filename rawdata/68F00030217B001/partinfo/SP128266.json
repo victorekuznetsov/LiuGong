@@ -1,0 +1,72 @@
+{
+ "partNO": "SP128266",
+ "parentPartNO": "SP150327",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP128266",
+    "partName": "螺塞",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "15.0*15.0*12.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP125415更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP128266",
+    "配件名称": "螺塞",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "15.0* 15.0* 12.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP125415更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353635633536353a353a3833353435343535"
+   ],
+   "parentPartNO": "SP150327"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP128266",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "15.0* 15.0* 12.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP125415"
+   },
+   "photos": [
+    "/part/zp/373737343535353635633536353a353a3833353435343535"
+   ],
+   "parentPartNO": "SP150327"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

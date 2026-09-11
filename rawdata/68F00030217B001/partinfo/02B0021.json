@@ -1,0 +1,74 @@
+{
+ "partNO": "02B0021",
+ "parentPartNO": "12C5935",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "02B0021",
+    "partName": "六角头螺钉",
+    "spec": "3/8-16UNC×7/8,SAE J429 8 GRADE,DK",
+    "weightKg": "0.0",
+    "sizeMm": "18.0*30.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "02B0021",
+    "配件名称": "六角头螺钉",
+    "规格": "3/8-16UNC×7/8,SAE J429 8 GRADE,DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "18.0* 30.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343536363635343534353635353833353435343535",
+    "/part/zp/35343536363635343534353635353833353435343535"
+   ],
+   "parentPartNO": "12C5935"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "3/8-16UNC×7/8,SAE J429 8 GRADE,DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "02B0021",
+    "Part Name": "BOLT",
+    "Specification": "3/8-16UNC×7/8,SAE J429 8 GRADE,DK",
+    "Weight": "0.0",
+    "Size": "18.0* 30.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343536363635343534353635353833353435343535",
+    "/part/zp/35343536363635343534353635353833353435343535"
+   ],
+   "parentPartNO": "12C5935"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

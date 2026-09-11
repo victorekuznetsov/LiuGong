@@ -1,0 +1,68 @@
+{
+ "partNO": "SP138385",
+ "parentPartNO": "SP165170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP138385",
+    "partName": "线束",
+    "spec": "",
+    "weightKg": "3.5",
+    "sizeMm": "460.0*460.0*150.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP138385",
+    "配件名称": "线束",
+    "规格": "",
+    "重量(KG)": "3.5",
+    "尺寸(mm)": "460.0* 460.0* 150.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WIRE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP138385",
+    "Part Name": "WIRE",
+    "Specification": "",
+    "Weight": "3.5",
+    "Size": "460.0* 460.0* 150.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

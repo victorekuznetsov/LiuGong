@@ -1,0 +1,39 @@
+{
+ "partNO": "30C2701",
+ "parentPartNO": "00C5864",
+ "locales": {
+  "zh_CN": {
+   "error": "GET /part/30C2701/00C5864 failed: HTTP 401"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "4H-18",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C2701",
+    "Part Name": "PLUG",
+    "Specification": "4H-18",
+    "Weight": "0.057",
+    "Size": "25.0* 26.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3537353436373536353b353435353833353435343536",
+    "/part/zp/3537353436373536353b353435353833353435343537"
+   ],
+   "parentPartNO": "00C5864"
+  }
+ },
+ "supersession": {
+  "error": "POST /supersession/detail failed: HTTP 401"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "SP107536",
+ "parentPartNO": "SP148472",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP107536",
+    "partName": "0形圈",
+    "spec": "",
+    "weightKg": "0.01",
+    "sizeMm": "130.0*110.0*5.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP107536",
+    "配件名称": "0形圈",
+    "规格": "",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "130.0* 110.0* 5.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b35393537353a3833353435343536",
+    "/part/zp/3737373435353534353b35393537353a3833353435343536",
+    "/part/zp/3737373435353534353b35393537353a3833353435343535",
+    "/part/zp/3737373435353534353b35393537353a3833353435343535"
+   ],
+   "parentPartNO": "SP148472"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "0-RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP107536",
+    "Part Name": "0-RING",
+    "Specification": "",
+    "Weight": "0.01",
+    "Size": "130.0* 110.0* 5.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b35393537353a3833353435343536",
+    "/part/zp/3737373435353534353b35393537353a3833353435343536",
+    "/part/zp/3737373435353534353b35393537353a3833353435343535",
+    "/part/zp/3737373435353534353b35393537353a3833353435343535"
+   ],
+   "parentPartNO": "SP148472"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

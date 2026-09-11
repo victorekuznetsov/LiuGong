@@ -1,0 +1,74 @@
+{
+ "partNO": "43C8593",
+ "parentPartNO": "32Y2790",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "43C8593",
+    "partName": "右摇臂",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1990.0*240.0*584.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "43C8593",
+    "配件名称": "右摇臂",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1990.0* 240.0* 584.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383537363735633539356435373833353435343535",
+    "/part/zp/35383537363735633539356435373833353435343535"
+   ],
+   "parentPartNO": "32Y2790"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUCKET LEVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "43C8593",
+    "Part Name": "BUCKET LEVER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1990.0* 240.0* 584.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383537363735633539356435373833353435343535",
+    "/part/zp/35383537363735633539356435373833353435343535"
+   ],
+   "parentPartNO": "32Y2790"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

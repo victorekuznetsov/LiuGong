@@ -1,0 +1,68 @@
+{
+ "partNO": "40C4161",
+ "parentPartNO": "SP165153",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C4161",
+    "partName": "软管",
+    "spec": "",
+    "weightKg": "0.32",
+    "sizeMm": "190.0*110.0*110.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用SP139577"
+   },
+   "attrsRaw": {
+    "配件编码": "40C4161",
+    "配件名称": "软管",
+    "规格": "",
+    "重量(KG)": "0.32",
+    "尺寸(mm)": "190.0* 110.0* 110.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用SP139577"
+   },
+   "photos": [],
+   "parentPartNO": "SP165153"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C4161",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "0.32",
+    "Size": "190.0* 110.0* 110.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP139577"
+   },
+   "photos": [],
+   "parentPartNO": "SP165153"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

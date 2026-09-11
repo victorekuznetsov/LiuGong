@@ -1,0 +1,68 @@
+{
+ "partNO": "SP225907",
+ "parentPartNO": "47C5070P01",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP225907",
+    "partName": "上固定玻璃",
+    "spec": "",
+    "weightKg": "3.5",
+    "sizeMm": "786.0*380.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP225907",
+    "配件名称": "上固定玻璃",
+    "规格": "",
+    "重量(KG)": "3.5",
+    "尺寸(mm)": "786.0* 380.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5070P01"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TOP FIXED GLASS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP225907",
+    "Part Name": "TOP FIXED GLASS",
+    "Specification": "",
+    "Weight": "3.5",
+    "Size": "786.0* 380.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C5070P01"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

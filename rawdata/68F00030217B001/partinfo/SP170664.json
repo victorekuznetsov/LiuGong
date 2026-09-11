@@ -1,0 +1,68 @@
+{
+ "partNO": "SP170664",
+ "parentPartNO": "10C3121",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP170664",
+    "partName": "过滤网",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "SP170664",
+    "配件名称": "过滤网",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "10C3121"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER SCREEN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP170664",
+    "Part Name": "FILTER SCREEN",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED."
+   },
+   "photos": [],
+   "parentPartNO": "10C3121"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

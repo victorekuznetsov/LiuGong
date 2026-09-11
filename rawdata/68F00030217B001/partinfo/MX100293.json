@@ -1,0 +1,72 @@
+{
+ "partNO": "MX100293",
+ "parentPartNO": "84A3295",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "MX100293",
+    "partName": "密封胶条",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "200.0*38.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "M",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "MX100293",
+    "配件名称": "密封胶条",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "200.0* 38.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "M",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/366837633535353435343536356435373833353435343536"
+   ],
+   "parentPartNO": "84A3295"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "",
+    "spec": "",
+    "unit": "M"
+   },
+   "attrsRaw": {
+    "Part No": "MX100293",
+    "Part Name": "",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "200.0* 38.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "M",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/366837633535353435343536356435373833353435343536"
+   ],
+   "parentPartNO": "84A3295"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

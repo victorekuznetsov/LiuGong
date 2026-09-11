@@ -1,0 +1,74 @@
+{
+ "partNO": "SP107954",
+ "parentPartNO": "SP148505",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP107954",
+    "partName": "盖板",
+    "spec": "",
+    "weightKg": "0.126",
+    "sizeMm": "74.0*44.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP107954",
+    "配件名称": "盖板",
+    "规格": "",
+    "重量(KG)": "0.126",
+    "尺寸(mm)": "74.0* 44.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b3564353935383833353435343536",
+    "/part/zp/3737373435353534353b3564353935383833353435343536"
+   ],
+   "parentPartNO": "SP148505"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP107954",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.126",
+    "Size": "74.0* 44.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b3564353935383833353435343536",
+    "/part/zp/3737373435353534353b3564353935383833353435343536"
+   ],
+   "parentPartNO": "SP148505"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

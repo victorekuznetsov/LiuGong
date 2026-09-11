@@ -1,0 +1,78 @@
+{
+ "partNO": "SP138759",
+ "parentPartNO": "SP165171",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP138759",
+    "partName": "活塞销",
+    "spec": "",
+    "weightKg": "0.01",
+    "sizeMm": "60.0*60.0*150.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用SP158006"
+   },
+   "attrsRaw": {
+    "配件编码": "SP138759",
+    "配件名称": "活塞销",
+    "规格": "",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "60.0* 60.0* 150.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用SP158006"
+   },
+   "photos": [
+    "/part/zp/37373734353535373563353b353935643833353435343536",
+    "/part/zp/37373734353535373563353b353935643833353435343536",
+    "/part/zp/37373734353535373563353b353935643833353435343537",
+    "/part/zp/37373734353535373563353b353935643833353435343537"
+   ],
+   "parentPartNO": "SP165171"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP138759",
+    "Part Name": "PIN",
+    "Specification": "",
+    "Weight": "0.01",
+    "Size": "60.0* 60.0* 150.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to SP158006"
+   },
+   "photos": [
+    "/part/zp/37373734353535373563353b353935643833353435343536",
+    "/part/zp/37373734353535373563353b353935643833353435343536",
+    "/part/zp/37373734353535373563353b353935643833353435343537",
+    "/part/zp/37373734353535373563353b353935643833353435343537"
+   ],
+   "parentPartNO": "SP165171"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

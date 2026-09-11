@@ -1,0 +1,68 @@
+{
+ "partNO": "40C7610",
+ "parentPartNO": "SP165176",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C7610",
+    "partName": "密封板",
+    "spec": "",
+    "weightKg": "0.108",
+    "sizeMm": "104.0*93.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C7610",
+    "配件名称": "密封板",
+    "规格": "",
+    "重量(KG)": "0.108",
+    "尺寸(mm)": "104.0* 93.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165176"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C7610",
+    "Part Name": "SEAL PLATE",
+    "Specification": "",
+    "Weight": "0.108",
+    "Size": "104.0* 93.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP165176"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

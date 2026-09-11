@@ -1,0 +1,72 @@
+{
+ "partNO": "SP109830",
+ "parentPartNO": "SP165833",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP109830",
+    "partName": "螺栓M12×1.75×30",
+    "spec": "",
+    "weightKg": "0.04",
+    "sizeMm": "40.0*20.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP109830",
+    "配件名称": "螺栓M12×1.75×30",
+    "规格": "",
+    "重量(KG)": "0.04",
+    "尺寸(mm)": "40.0* 20.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643563353735343833353435343536"
+   ],
+   "parentPartNO": "SP165833"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP109830",
+    "Part Name": "BOLT",
+    "Specification": "",
+    "Weight": "0.04",
+    "Size": "40.0* 20.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353435643563353735343833353435343536"
+   ],
+   "parentPartNO": "SP165833"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

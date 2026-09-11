@@ -1,0 +1,74 @@
+{
+ "partNO": "SP107490",
+ "parentPartNO": "SP148501",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP107490",
+    "partName": "调整垫圈18×25×1.0",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "25.0*25.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP107490",
+    "配件名称": "调整垫圈18×25×1.0",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "25.0* 25.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b3538356435343833353435343536",
+    "/part/zp/3737373435353534353b3538356435343833353435343536"
+   ],
+   "parentPartNO": "SP148501"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM RING 18×25×1.0",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP107490",
+    "Part Name": "SHIM RING 18×25×1.0",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "25.0* 25.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353534353b3538356435343833353435343536",
+    "/part/zp/3737373435353534353b3538356435343833353435343536"
+   ],
+   "parentPartNO": "SP148501"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

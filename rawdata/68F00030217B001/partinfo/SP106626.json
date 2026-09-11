@@ -1,0 +1,74 @@
+{
+ "partNO": "SP106626",
+ "parentPartNO": "SP148492",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP106626",
+    "partName": "调整垫片A=1.0",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "120.0*120.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "停止供货;改用SP100144"
+   },
+   "attrsRaw": {
+    "配件编码": "SP106626",
+    "配件名称": "调整垫片A=1.0",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "120.0* 120.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP100144"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a3536353a3833353435343535",
+    "/part/zp/3737373435353534353a353a3536353a3833353435343535"
+   ],
+   "parentPartNO": "SP148492"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SHIM A =1.0",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP106626",
+    "Part Name": "SHIM A =1.0",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "120.0* 120.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "Discontinued,change to SP100144"
+   },
+   "photos": [
+    "/part/zp/3737373435353534353a353a3536353a3833353435343535",
+    "/part/zp/3737373435353534353a353a3536353a3833353435343535"
+   ],
+   "parentPartNO": "SP148492"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

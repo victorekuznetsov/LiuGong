@@ -1,0 +1,68 @@
+{
+ "partNO": "40C7528",
+ "parentPartNO": "SP125663",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C7528",
+    "partName": "接头",
+    "spec": "",
+    "weightKg": "0.025",
+    "sizeMm": "31.0*18.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C7528",
+    "配件名称": "接头",
+    "规格": "",
+    "重量(KG)": "0.025",
+    "尺寸(mm)": "31.0* 18.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP125663"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "JOINT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C7528",
+    "Part Name": "JOINT",
+    "Specification": "",
+    "Weight": "0.025",
+    "Size": "31.0* 18.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP125663"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

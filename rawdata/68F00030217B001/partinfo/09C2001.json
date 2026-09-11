@@ -1,0 +1,68 @@
+{
+ "partNO": "09C2001",
+ "parentPartNO": "25Y0181",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "09C2001",
+    "partName": "双管夹",
+    "spec": "Φ15/Φ15",
+    "weightKg": "0.043",
+    "sizeMm": "65.0*31.0*33.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "09C2001",
+    "配件名称": "双管夹",
+    "规格": "Φ15/Φ15",
+    "重量(KG)": "0.043",
+    "尺寸(mm)": "65.0* 31.0* 33.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "25Y0181"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOUBLE CLAMP",
+    "spec": "Φ15/Φ15",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "09C2001",
+    "Part Name": "DOUBLE CLAMP",
+    "Specification": "Φ15/Φ15",
+    "Weight": "0.043",
+    "Size": "65.0* 31.0* 33.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "25Y0181"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

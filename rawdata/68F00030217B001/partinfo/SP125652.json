@@ -1,0 +1,72 @@
+{
+ "partNO": "SP125652",
+ "parentPartNO": "SP165170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP125652",
+    "partName": "控制线束",
+    "spec": "",
+    "weightKg": "0.37",
+    "sizeMm": "255.0*220.0*50.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用SP130925"
+   },
+   "attrsRaw": {
+    "配件编码": "SP125652",
+    "配件名称": "控制线束",
+    "规格": "",
+    "重量(KG)": "0.37",
+    "尺寸(mm)": "255.0* 220.0* 50.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用SP130925"
+   },
+   "photos": [
+    "/part/zp/37373734353535363539353a353935363833353435343537"
+   ],
+   "parentPartNO": "SP165170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HARNESS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP125652",
+    "Part Name": "HARNESS",
+    "Specification": "",
+    "Weight": "0.37",
+    "Size": "255.0* 220.0* 50.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP130925"
+   },
+   "photos": [
+    "/part/zp/37373734353535363539353a353935363833353435343537"
+   ],
+   "parentPartNO": "SP165170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

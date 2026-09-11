@@ -1,0 +1,78 @@
+{
+ "partNO": "SP123137",
+ "parentPartNO": "SP148485",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123137",
+    "partName": "滚子轴承",
+    "spec": "",
+    "weightKg": "1.28",
+    "sizeMm": "52.0*52.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP123137",
+    "配件名称": "滚子轴承",
+    "规格": "",
+    "重量(KG)": "1.28",
+    "尺寸(mm)": "52.0* 52.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353536353735353537353b3833353435343536",
+    "/part/zp/3737373435353536353735353537353b3833353435343536",
+    "/part/zp/3737373435353536353735353537353b3833353435343537",
+    "/part/zp/3737373435353536353735353537353b3833353435343537"
+   ],
+   "parentPartNO": "SP148485"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROLLER BEARING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123137",
+    "Part Name": "ROLLER BEARING",
+    "Specification": "",
+    "Weight": "1.28",
+    "Size": "52.0* 52.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353536353735353537353b3833353435343536",
+    "/part/zp/3737373435353536353735353537353b3833353435343536",
+    "/part/zp/3737373435353536353735353537353b3833353435343537",
+    "/part/zp/3737373435353536353735353537353b3833353435343537"
+   ],
+   "parentPartNO": "SP148485"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

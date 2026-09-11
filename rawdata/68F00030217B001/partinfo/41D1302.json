@@ -1,0 +1,68 @@
+{
+ "partNO": "41D1302",
+ "parentPartNO": "48C8473X0",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41D1302",
+    "partName": "扶手",
+    "spec": "",
+    "weightKg": "1.1",
+    "sizeMm": "311.0*133.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41D1302",
+    "配件名称": "扶手",
+    "规格": "",
+    "重量(KG)": "1.1",
+    "尺寸(mm)": "311.0* 133.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C8473X0"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HANDRAIL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41D1302",
+    "Part Name": "HANDRAIL",
+    "Specification": "",
+    "Weight": "1.1",
+    "Size": "311.0* 133.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "48C8473X0"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

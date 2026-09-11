@@ -1,0 +1,72 @@
+{
+ "partNO": "SP100059",
+ "parentPartNO": "SP296754",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP100059",
+    "partName": "O形圈",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "30.0*30.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C3",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "SP100059",
+    "配件名称": "O形圈",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "30.0* 30.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C3",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;停止供货"
+   },
+   "photos": [
+    "/part/zp/373737343535353435343534353935643833353435343535"
+   ],
+   "parentPartNO": "SP296754"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "O-RING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP100059",
+    "Part Name": "O-RING",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "30.0* 30.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C3",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "AFTER THE INVENTORY IS CONSUMED, DISCONTINUED."
+   },
+   "photos": [
+    "/part/zp/373737343535353435343534353935643833353435343535"
+   ],
+   "parentPartNO": "SP296754"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

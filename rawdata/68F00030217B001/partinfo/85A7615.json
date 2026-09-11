@@ -1,0 +1,68 @@
+{
+ "partNO": "85A7615",
+ "parentPartNO": "60C3073",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "85A7615",
+    "partName": "隔热罩",
+    "spec": "___",
+    "weightKg": "2.9",
+    "sizeMm": "615.0*531.0*166.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "85A7615",
+    "配件名称": "隔热罩",
+    "规格": "___",
+    "重量(KG)": "2.9",
+    "尺寸(mm)": "615.0* 531.0* 166.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C3073"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HEAT SHIELD",
+    "spec": "___",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "85A7615",
+    "Part Name": "HEAT SHIELD",
+    "Specification": "___",
+    "Weight": "2.9",
+    "Size": "615.0* 531.0* 166.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "60C3073"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
