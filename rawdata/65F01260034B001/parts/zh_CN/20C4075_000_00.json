@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP227611",
+  "partName": "水箱盖",
+  "qty": "1",
+  "storeTypeName": "2Y",
+  "note": "停止供货;改用SP403176;旧件不可替代新件（单向替换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "20C4075",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

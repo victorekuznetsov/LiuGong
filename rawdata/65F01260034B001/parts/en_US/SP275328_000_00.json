@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP275329",
+  "partName": "ELECTRONIC FUEL CONTROL ACTUATOR",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "DISCONTINUED.",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP275328",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

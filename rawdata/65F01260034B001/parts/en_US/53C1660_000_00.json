@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP230003",
+  "partName": "FUEL TANK BREATHER FILTER",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "53C1660",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

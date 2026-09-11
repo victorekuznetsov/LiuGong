@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP196346",
+  "partName": "CONNECTING PIPE",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "49C3426",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

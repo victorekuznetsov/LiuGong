@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "01G1551",
+  "partName": "PLATE",
+  "qty": "2",
+  "storeTypeName": null,
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": true,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "49Y0685",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "09C1153",
+  "partName": "V-CLAMP",
+  "qty": "1",
+  "storeTypeName": "Not recommend",
+  "note": " CHANGE TO SP322352 . ONE-WAY REPLACEMENT",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP205611",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

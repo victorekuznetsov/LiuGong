@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "MX100567",
+  "partName": null,
+  "qty": "1.165",
+  "storeTypeName": "3 Years",
+  "note": "CHANGED FROM 84A1280",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "84A1764",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

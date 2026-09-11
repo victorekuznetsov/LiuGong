@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP160246",
+  "partName": "变矩器",
+  "qty": "1",
+  "storeTypeName": "5Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP316649",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

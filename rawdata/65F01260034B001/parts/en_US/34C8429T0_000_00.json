@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "34C8429",
+  "partName": "AXLE DRIVE HOUSING",
+  "qty": "1",
+  "storeTypeName": "3 Years",
+  "note": "CHANGE TO 34C8429T0",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "34C8429T0",
+  "serviceSupportType": "Not produce parts separately, supply parts by new parts number",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

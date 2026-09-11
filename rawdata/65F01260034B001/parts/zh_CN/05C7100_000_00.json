@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "12B1709",
+  "partName": "O形圈",
+  "qty": "2",
+  "storeTypeName": "1Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "05C7100",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

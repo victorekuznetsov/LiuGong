@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "34C8429",
+  "partName": "桥托架",
+  "qty": "1",
+  "storeTypeName": "3Y",
+  "note": "改用34C8429T0",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "34C8429T0",
+  "serviceSupportType": "不做配件销售，由新件号提供配件；",
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

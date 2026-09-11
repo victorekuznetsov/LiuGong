@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP142512",
+  "partName": "发电机",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "停止供货;改用SP210560;可互换（双向互换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP205559",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

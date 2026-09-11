@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP170280",
+  "partName": "齿轮泵修理包",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "重号;改用SP207555;可互换（双向互换）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "11C2467",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

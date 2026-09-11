@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 10,
+  "partNO": "SP206970",
+  "partName": "CABLE OFF-ROAD",
+  "qty": "1",
+  "storeTypeName": "5 Years",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP206234",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]
