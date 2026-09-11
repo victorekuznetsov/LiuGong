@@ -1,0 +1,68 @@
+{
+ "partNO": "61C2081",
+ "parentPartNO": "61C2062",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "61C2081",
+    "partName": "比例阀",
+    "spec": "24V",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "重号;改用SP269773;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "61C2081",
+    "配件名称": "比例阀",
+    "规格": "24V",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "重号;改用SP269773;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "61C2062"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PROPORTIONAL VALVE",
+    "spec": "24V",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "61C2081",
+    "Part Name": "PROPORTIONAL VALVE",
+    "Specification": "24V",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO SP269773 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "61C2062"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "SP150254",
+ "parentPartNO": "20C4296",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150254",
+    "partName": "水箱盖",
+    "spec": "",
+    "weightKg": "0.061",
+    "sizeMm": "88.0*59.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "压力0.9Bar,外径58mm"
+   },
+   "attrsRaw": {
+    "配件编码": "SP150254",
+    "配件名称": "水箱盖",
+    "规格": "",
+    "重量(KG)": "0.061",
+    "尺寸(mm)": "88.0* 59.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "压力0.9Bar,外径58mm"
+   },
+   "photos": [
+    "/part/zp/373737343535353935343536353935383833353435343536",
+    "/part/zp/373737343535353935343536353935383833353435343536",
+    "/part/zp/373737343535353935343536353935383833353435343537",
+    "/part/zp/373737343535353935343536353935383833353435343537"
+   ],
+   "parentPartNO": "20C4296"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150254",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.061",
+    "Size": "88.0* 59.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "PRESSURE IS 0.9BAR , OUTER DIAMETER: 58MM"
+   },
+   "photos": [
+    "/part/zp/373737343535353935343536353935383833353435343536",
+    "/part/zp/373737343535353935343536353935383833353435343536",
+    "/part/zp/373737343535353935343536353935383833353435343537",
+    "/part/zp/373737343535353935343536353935383833353435343537"
+   ],
+   "parentPartNO": "20C4296"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

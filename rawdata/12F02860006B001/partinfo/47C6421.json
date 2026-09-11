@@ -1,0 +1,68 @@
+{
+ "partNO": "47C6421",
+ "parentPartNO": "47C8927",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C6421",
+    "partName": "滑道总成",
+    "spec": "47C6421",
+    "weightKg": "2.35",
+    "sizeMm": "333.0*136.0*40.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C6421",
+    "配件名称": "滑道总成",
+    "规格": "47C6421",
+    "重量(KG)": "2.35",
+    "尺寸(mm)": "333.0* 136.0* 40.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8927"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SLIDE TRACK AS",
+    "spec": "47C6421",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C6421",
+    "Part Name": "SLIDE TRACK AS",
+    "Specification": "47C6421",
+    "Weight": "2.35",
+    "Size": "333.0* 136.0* 40.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8927"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

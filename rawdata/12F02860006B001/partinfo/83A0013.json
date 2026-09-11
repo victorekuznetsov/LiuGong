@@ -1,0 +1,72 @@
+{
+ "partNO": "83A0013",
+ "parentPartNO": "34Y1478",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83A0013",
+    "partName": "橡胶圈",
+    "spec": "58*4.5*Δ12",
+    "weightKg": "0.0",
+    "sizeMm": "85.0*85.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "83A0013",
+    "配件名称": "橡胶圈",
+    "规格": "58*4.5*Δ12",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "85.0* 85.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35633537363535343534353535373833353435343535"
+   ],
+   "parentPartNO": "34Y1478"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RUBBER RING",
+    "spec": "58*4.5*Δ12",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "83A0013",
+    "Part Name": "RUBBER RING",
+    "Specification": "58*4.5*Δ12",
+    "Weight": "0.0",
+    "Size": "85.0* 85.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35633537363535343534353535373833353435343535"
+   ],
+   "parentPartNO": "34Y1478"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

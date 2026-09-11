@@ -1,0 +1,74 @@
+{
+ "partNO": "38B0304",
+ "parentPartNO": "93C3494",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "38B0304",
+    "partName": "喇叭",
+    "spec": "",
+    "weightKg": "0.257",
+    "sizeMm": "123.0*91.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用38B0510;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "38B0304",
+    "配件名称": "喇叭",
+    "规格": "",
+    "重量(KG)": "0.257",
+    "尺寸(mm)": "123.0* 91.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用38B0510;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35373563363635343537353435383833353435343536",
+    "/part/zp/35373563363635343537353435383833353435343536"
+   ],
+   "parentPartNO": "93C3494"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HORN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "38B0304",
+    "Part Name": "HORN",
+    "Specification": "",
+    "Weight": "0.257",
+    "Size": "123.0* 91.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 38B0510 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35373563363635343537353435383833353435343536",
+    "/part/zp/35373563363635343537353435383833353435343536"
+   ],
+   "parentPartNO": "93C3494"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

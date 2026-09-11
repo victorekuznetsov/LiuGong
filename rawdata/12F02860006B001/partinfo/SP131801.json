@@ -1,0 +1,72 @@
+{
+ "partNO": "SP131801",
+ "parentPartNO": "SP249529",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP131801",
+    "partName": "放水阀",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "30.0*30.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由SP109031更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP131801",
+    "配件名称": "放水阀",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "30.0* 30.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由SP109031更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353735353563353435353833353435343538"
+   ],
+   "parentPartNO": "SP249529"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRAINCOCK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP131801",
+    "Part Name": "DRAINCOCK",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "30.0* 30.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP109031"
+   },
+   "photos": [
+    "/part/zp/373737343535353735353563353435353833353435343538"
+   ],
+   "parentPartNO": "SP249529"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

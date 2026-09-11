@@ -1,0 +1,74 @@
+{
+ "partNO": "SP147583",
+ "parentPartNO": "SP250964",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147583",
+    "partName": "气阀室垫片",
+    "spec": "",
+    "weightKg": "0.06",
+    "sizeMm": "270.0*163.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "改用SP292085;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP147583",
+    "配件名称": "气阀室垫片",
+    "规格": "",
+    "重量(KG)": "0.06",
+    "尺寸(mm)": "270.0* 163.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "改用SP292085;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539356335373833353435343536",
+    "/part/zp/3737373435353538353b3539356335373833353435343536"
+   ],
+   "parentPartNO": "SP250964"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET VALVE COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147583",
+    "Part Name": "GASKET VALVE COVER",
+    "Specification": "",
+    "Weight": "0.06",
+    "Size": "270.0* 163.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP292085 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539356335373833353435343536",
+    "/part/zp/3737373435353538353b3539356335373833353435343536"
+   ],
+   "parentPartNO": "SP250964"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

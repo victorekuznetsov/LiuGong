@@ -1,0 +1,68 @@
+{
+ "partNO": "72A3543P01",
+ "parentPartNO": "72C0016",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72A3543P01",
+    "partName": "斗齿套",
+    "spec": "",
+    "weightKg": "12.95",
+    "sizeMm": "343.0*135.0*115.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "72A3543P01",
+    "配件名称": "斗齿套",
+    "规格": "",
+    "重量(KG)": "12.95",
+    "尺寸(mm)": "343.0* 135.0* 115.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C0016"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TIP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72A3543P01",
+    "Part Name": "TIP",
+    "Specification": "",
+    "Weight": "12.95",
+    "Size": "343.0* 135.0* 115.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "72C0016"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

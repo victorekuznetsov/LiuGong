@@ -1,0 +1,72 @@
+{
+ "partNO": "SP147510",
+ "parentPartNO": "SP249529",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147510",
+    "partName": "活塞冷却喷钩",
+    "spec": "",
+    "weightKg": "0.021",
+    "sizeMm": "57.0*22.0*29.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP147510",
+    "配件名称": "活塞冷却喷钩",
+    "规格": "",
+    "重量(KG)": "0.021",
+    "尺寸(mm)": "57.0* 22.0* 29.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539353535343833353435343536"
+   ],
+   "parentPartNO": "SP249529"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NOZZLE PISTON COOLING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147510",
+    "Part Name": "NOZZLE PISTON COOLING",
+    "Specification": "",
+    "Weight": "0.021",
+    "Size": "57.0* 22.0* 29.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539353535343833353435343536"
+   ],
+   "parentPartNO": "SP249529"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

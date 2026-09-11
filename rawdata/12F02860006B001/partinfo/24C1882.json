@@ -1,0 +1,74 @@
+{
+ "partNO": "24C1882",
+ "parentPartNO": "47C1878",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "24C1882",
+    "partName": "手柄",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "233.0*248.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "24C1882",
+    "配件名称": "手柄",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "233.0* 248.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35363538363735353563356335363833353435343536",
+    "/part/zp/35363538363735353563356335363833353435343536"
+   ],
+   "parentPartNO": "47C1878"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HANDLE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "24C1882",
+    "Part Name": "HANDLE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "233.0* 248.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35363538363735353563356335363833353435343536",
+    "/part/zp/35363538363735353563356335363833353435343536"
+   ],
+   "parentPartNO": "47C1878"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

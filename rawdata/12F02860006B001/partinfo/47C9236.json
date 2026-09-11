@@ -1,0 +1,68 @@
+{
+ "partNO": "47C9236",
+ "parentPartNO": "41Y2140",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C9236",
+    "partName": "地板架总成",
+    "spec": "47C9236",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C9236",
+    "配件名称": "地板架总成",
+    "规格": "47C9236",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "41Y2140"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLOOR PLATE AS",
+    "spec": "47C9236",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "47C9236",
+    "Part Name": "FLOOR PLATE AS",
+    "Specification": "47C9236",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "41Y2140"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

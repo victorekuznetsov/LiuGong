@@ -1,0 +1,74 @@
+{
+ "partNO": "32B0530",
+ "parentPartNO": "49C1084",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0530",
+    "partName": "旋转警示灯",
+    "spec": "",
+    "weightKg": "0.65",
+    "sizeMm": "230.0*146.0*142.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用32B1122;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "32B0530",
+    "配件名称": "旋转警示灯",
+    "规格": "",
+    "重量(KG)": "0.65",
+    "尺寸(mm)": "230.0* 146.0* 142.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用32B1122;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35373536363635343539353735343833353435343536",
+    "/part/zp/35373536363635343539353735343833353435343536"
+   ],
+   "parentPartNO": "49C1084"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROTATING BEACON",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0530",
+    "Part Name": "ROTATING BEACON",
+    "Specification": "",
+    "Weight": "0.65",
+    "Size": "230.0* 146.0* 142.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 32B1122 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35373536363635343539353735343833353435343536",
+    "/part/zp/35373536363635343539353735343833353435343536"
+   ],
+   "parentPartNO": "49C1084"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

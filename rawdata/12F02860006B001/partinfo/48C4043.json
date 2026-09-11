@@ -1,0 +1,68 @@
+{
+ "partNO": "48C4043",
+ "parentPartNO": "44Y2831",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48C4043",
+    "partName": "机罩总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1081.0*883.0*2191.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "消耗完库存后;停止供货;改用下级件"
+   },
+   "attrsRaw": {
+    "配件编码": "48C4043",
+    "配件名称": "机罩总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1081.0* 883.0* 2191.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;停止供货;改用下级件"
+   },
+   "photos": [],
+   "parentPartNO": "44Y2831"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE HOOD AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48C4043",
+    "Part Name": "ENGINE HOOD AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1081.0* 883.0* 2191.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "AFTER THE INVENTORY IS CONSUMED, DISCONTINUED. CHANGE TO LOWER PARTS"
+   },
+   "photos": [],
+   "parentPartNO": "44Y2831"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

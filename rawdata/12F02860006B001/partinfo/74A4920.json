@@ -1,0 +1,72 @@
+{
+ "partNO": "74A4920",
+ "parentPartNO": "48Y2455",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74A4920",
+    "partName": "标贴",
+    "spec": "",
+    "weightKg": "0.111",
+    "sizeMm": "1310.0*220.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "74A4920",
+    "配件名称": "标贴",
+    "规格": "",
+    "重量(KG)": "0.111",
+    "尺寸(mm)": "1310.0* 220.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353b3538363535383564353635343833353435343535"
+   ],
+   "parentPartNO": "48Y2455"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74A4920",
+    "Part Name": "DECAL",
+    "Specification": "",
+    "Weight": "0.111",
+    "Size": "1310.0* 220.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353b3538363535383564353635343833353435343535"
+   ],
+   "parentPartNO": "48Y2455"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

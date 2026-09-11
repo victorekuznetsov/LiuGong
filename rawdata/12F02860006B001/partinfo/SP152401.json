@@ -1,0 +1,68 @@
+{
+ "partNO": "SP152401",
+ "parentPartNO": "SP272759",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP152401",
+    "partName": "阀门夹",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "10.0*9.0*4.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP152401",
+    "配件名称": "阀门夹",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "10.0* 9.0* 4.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP272759"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COLLET VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP152401",
+    "Part Name": "COLLET VALVE",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "10.0* 9.0* 4.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP272759"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

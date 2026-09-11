@@ -1,0 +1,68 @@
+{
+ "partNO": "55A6454",
+ "parentPartNO": "10C5832",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55A6454",
+    "partName": "轴套",
+    "spec": "Ø110×Ø125×60.5",
+    "weightKg": "1.1",
+    "sizeMm": "121.0*123.0*58.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "55A6454",
+    "配件名称": "轴套",
+    "规格": "Ø110×Ø125×60.5",
+    "重量(KG)": "1.1",
+    "尺寸(mm)": "121.0* 123.0* 58.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C5832"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "Ø110×Ø125×60.5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55A6454",
+    "Part Name": "BUSHING",
+    "Specification": "Ø110×Ø125×60.5",
+    "Weight": "1.1",
+    "Size": "121.0* 123.0* 58.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C5832"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "51C0306",
+ "parentPartNO": "33Y1102",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "51C0306",
+    "partName": "支重轮",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "445.0*250.0*250.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "认证件51C0306C；（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "51C0306",
+    "配件名称": "支重轮",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "445.0* 250.0* 250.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "认证件51C0306C；（双向互换）"
+   },
+   "photos": [
+    "/part/zp/353935353637353435373534353a3833353435343536",
+    "/part/zp/353935353637353435373534353a3833353435343536"
+   ],
+   "parentPartNO": "33Y1102"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRACK ROLLER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "51C0306",
+    "Part Name": "TRACK ROLLER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "445.0* 250.0* 250.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CERTIFICATION PART 51C0306C; (BIDIRECTIONAL INTERCHANGE)"
+   },
+   "photos": [
+    "/part/zp/353935353637353435373534353a3833353435343536",
+    "/part/zp/353935353637353435373534353a3833353435343536"
+   ],
+   "parentPartNO": "33Y1102"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

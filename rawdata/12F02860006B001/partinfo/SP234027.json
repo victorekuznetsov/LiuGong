@@ -1,0 +1,68 @@
+{
+ "partNO": "SP234027",
+ "parentPartNO": "SP249532",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP234027",
+    "partName": "风扇支架",
+    "spec": "",
+    "weightKg": "5.3",
+    "sizeMm": "138.0*119.0*136.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用SP278382;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP234027",
+    "配件名称": "风扇支架",
+    "规格": "",
+    "重量(KG)": "5.3",
+    "尺寸(mm)": "138.0* 119.0* 136.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用SP278382;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP249532"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FAN SUPPORT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP234027",
+    "Part Name": "FAN SUPPORT",
+    "Specification": "",
+    "Weight": "5.3",
+    "Size": "138.0* 119.0* 136.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP278382 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "SP249532"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

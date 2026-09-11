@@ -1,0 +1,74 @@
+{
+ "partNO": "06C9011",
+ "parentPartNO": "65C2984",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "06C9011",
+    "partName": "柴油管",
+    "spec": "",
+    "weightKg": "0.302",
+    "sizeMm": "1041.0*444.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "06C9011",
+    "配件名称": "柴油管",
+    "规格": "",
+    "重量(KG)": "0.302",
+    "尺寸(mm)": "1041.0* 444.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3534353a363735643534353535353833353435343535",
+    "/part/zp/3534353a363735643534353535353833353435343535"
+   ],
+   "parentPartNO": "65C2984"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "06C9011",
+    "Part Name": "FUEL HOSE",
+    "Specification": "",
+    "Weight": "0.302",
+    "Size": "1041.0* 444.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3534353a363735643534353535353833353435343535",
+    "/part/zp/3534353a363735643534353535353833353435343535"
+   ],
+   "parentPartNO": "65C2984"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

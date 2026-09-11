@@ -1,0 +1,74 @@
+{
+ "partNO": "SP105152",
+ "parentPartNO": "SP205581",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP105152",
+    "partName": "密封垫",
+    "spec": "",
+    "weightKg": "0.075",
+    "sizeMm": "301.0*136.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "由SP108942更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP105152",
+    "配件名称": "密封垫",
+    "规格": "",
+    "重量(KG)": "0.075",
+    "尺寸(mm)": "301.0* 136.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "由SP108942更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353435393535353935363833353435343535",
+    "/part/zp/373737343535353435393535353935363833353435343535"
+   ],
+   "parentPartNO": "SP205581"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP105152",
+    "Part Name": "GASKET",
+    "Specification": "",
+    "Weight": "0.075",
+    "Size": "301.0* 136.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM SP108942"
+   },
+   "photos": [
+    "/part/zp/373737343535353435393535353935363833353435343535",
+    "/part/zp/373737343535353435393535353935363833353435343535"
+   ],
+   "parentPartNO": "SP205581"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

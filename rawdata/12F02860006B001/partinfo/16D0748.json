@@ -1,0 +1,74 @@
+{
+ "partNO": "16D0748",
+ "parentPartNO": "44Y2831",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "16D0748",
+    "partName": "撑杆",
+    "spec": "",
+    "weightKg": "1.85",
+    "sizeMm": "914.0*38.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "16D0748",
+    "配件名称": "撑杆",
+    "规格": "",
+    "重量(KG)": "1.85",
+    "尺寸(mm)": "914.0* 38.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3535353a36383534353b353835633833353435343536",
+    "/part/zp/3535353a36383534353b353835633833353435343536"
+   ],
+   "parentPartNO": "44Y2831"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOLDER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "16D0748",
+    "Part Name": "HOLDER",
+    "Specification": "",
+    "Weight": "1.85",
+    "Size": "914.0* 38.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3535353a36383534353b353835633833353435343536",
+    "/part/zp/3535353a36383534353b353835633833353435343536"
+   ],
+   "parentPartNO": "44Y2831"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

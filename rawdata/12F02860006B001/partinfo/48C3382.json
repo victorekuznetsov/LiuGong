@@ -1,0 +1,74 @@
+{
+ "partNO": "48C3382",
+ "parentPartNO": "44Y2831",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48C3382",
+    "partName": "立柱",
+    "spec": "",
+    "weightKg": "8.25",
+    "sizeMm": "1100.0*199.0*118.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "48C3382",
+    "配件名称": "立柱",
+    "规格": "",
+    "重量(KG)": "8.25",
+    "尺寸(mm)": "1100.0* 199.0* 118.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383563363735373537356335363833353435343535",
+    "/part/zp/35383563363735373537356335363833353435343535"
+   ],
+   "parentPartNO": "44Y2831"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "UPRIGHT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48C3382",
+    "Part Name": "UPRIGHT",
+    "Specification": "",
+    "Weight": "8.25",
+    "Size": "1100.0* 199.0* 118.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383563363735373537356335363833353435343535",
+    "/part/zp/35383563363735373537356335363833353435343535"
+   ],
+   "parentPartNO": "44Y2831"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

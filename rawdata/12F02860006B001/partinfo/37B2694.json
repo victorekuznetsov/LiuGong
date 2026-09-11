@@ -1,0 +1,68 @@
+{
+ "partNO": "37B2694",
+ "parentPartNO": "55C5827",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37B2694",
+    "partName": "保险丝",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "16.0*11.0*4.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "改用37B2018;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "37B2694",
+    "配件名称": "保险丝",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "16.0* 11.0* 4.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "改用37B2018;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "55C5827"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37B2694",
+    "Part Name": "FUSE",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "16.0* 11.0* 4.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "Changed to 37B2018;Interchangedable"
+   },
+   "photos": [],
+   "parentPartNO": "55C5827"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

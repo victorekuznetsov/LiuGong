@@ -1,0 +1,68 @@
+{
+ "partNO": "25C2121P01",
+ "parentPartNO": "25C2121",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "25C2121P01",
+    "partName": "履带总成",
+    "spec": "50×215.9×15.5×600",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "25C2121P01",
+    "配件名称": "履带总成",
+    "规格": "50×215.9×15.5×600",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "25C2121"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRACK AS",
+    "spec": "50×215.9×15.5×600",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "25C2121P01",
+    "Part Name": "TRACK AS",
+    "Specification": "50×215.9×15.5×600",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "25C2121"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

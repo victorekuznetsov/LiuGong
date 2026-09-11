@@ -1,0 +1,68 @@
+{
+ "partNO": "00A4692",
+ "parentPartNO": "30C4590",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00A4692",
+    "partName": "过渡接头",
+    "spec": "G3/8A-G3/8",
+    "weightKg": "0.068",
+    "sizeMm": "45.0*23.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用00A4692X1"
+   },
+   "attrsRaw": {
+    "配件编码": "00A4692",
+    "配件名称": "过渡接头",
+    "规格": "G3/8A-G3/8",
+    "重量(KG)": "0.068",
+    "尺寸(mm)": "45.0* 23.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用00A4692X1"
+   },
+   "photos": [],
+   "parentPartNO": "30C4590"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "G3/8A-G3/8",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00A4692",
+    "Part Name": "CONNECTOR",
+    "Specification": "G3/8A-G3/8",
+    "Weight": "0.068",
+    "Size": "45.0* 23.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 00A4692X1"
+   },
+   "photos": [],
+   "parentPartNO": "30C4590"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

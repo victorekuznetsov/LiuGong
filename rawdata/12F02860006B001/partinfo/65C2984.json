@@ -1,0 +1,68 @@
+{
+ "partNO": "65C2984",
+ "parentPartNO": "00Y4743",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "65C2984",
+    "partName": "燃油系统",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "3763.0*5313.0*3379.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "65C2984",
+    "配件名称": "燃油系统",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "3763.0* 5313.0* 3379.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00Y4743"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL SYSTEM",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "65C2984",
+    "Part Name": "FUEL SYSTEM",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "3763.0* 5313.0* 3379.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00Y4743"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

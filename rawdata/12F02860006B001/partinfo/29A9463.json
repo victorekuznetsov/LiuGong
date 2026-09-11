@@ -1,0 +1,68 @@
+{
+ "partNO": "29A9463",
+ "parentPartNO": "93C3655",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "29A9463",
+    "partName": "灯支架",
+    "spec": "",
+    "weightKg": "3.9",
+    "sizeMm": "320.0*208.0*151.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "29A9463",
+    "配件名称": "灯支架",
+    "规格": "",
+    "重量(KG)": "3.9",
+    "尺寸(mm)": "320.0* 208.0* 151.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "93C3655"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LIGHT BRACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "29A9463",
+    "Part Name": "LIGHT BRACKET",
+    "Specification": "",
+    "Weight": "3.9",
+    "Size": "320.0* 208.0* 151.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "93C3655"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

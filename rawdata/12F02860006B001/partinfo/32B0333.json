@@ -1,0 +1,72 @@
+{
+ "partNO": "32B0333",
+ "parentPartNO": "49C5641",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0333",
+    "partName": "牌照灯",
+    "spec": "",
+    "weightKg": "0.1",
+    "sizeMm": "172.0*113.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由32B0334更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "32B0333",
+    "配件名称": "牌照灯",
+    "规格": "",
+    "重量(KG)": "0.1",
+    "尺寸(mm)": "172.0* 113.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由32B0334更改而来"
+   },
+   "photos": [
+    "/part/zp/35373536363635343537353735373833353435343537"
+   ],
+   "parentPartNO": "49C5641"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LICENCE LIGHT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0333",
+    "Part Name": "LICENCE LIGHT",
+    "Specification": "",
+    "Weight": "0.1",
+    "Size": "172.0* 113.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 32B0334"
+   },
+   "photos": [
+    "/part/zp/35373536363635343537353735373833353435343537"
+   ],
+   "parentPartNO": "49C5641"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

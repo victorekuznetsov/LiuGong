@@ -1,0 +1,74 @@
+{
+ "partNO": "SP129262",
+ "parentPartNO": "SP205556",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP129262",
+    "partName": "黏性减震器",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "280.0*280.0*44.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP129262",
+    "配件名称": "黏性减震器",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "280.0* 280.0* 44.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643536353a35363833353435343536",
+    "/part/zp/373737343535353635643536353a35363833353435343536"
+   ],
+   "parentPartNO": "SP205556"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DAMPER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP129262",
+    "Part Name": "DAMPER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "280.0* 280.0* 44.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353635643536353a35363833353435343536",
+    "/part/zp/373737343535353635643536353a35363833353435343536"
+   ],
+   "parentPartNO": "SP205556"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "84A1336",
+ "parentPartNO": "72C7290",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A1336",
+    "partName": "橡胶条",
+    "spec": "4002R（L6180）",
+    "weightKg": "1.75",
+    "sizeMm": "398.0*378.0*103.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A1336",
+    "配件名称": "橡胶条",
+    "规格": "4002R（L6180）",
+    "重量(KG)": "1.75",
+    "尺寸(mm)": "398.0* 378.0* 103.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/356335383635353535373537353a3833353435343536",
+    "/part/zp/356335383635353535373537353a3833353435343536"
+   ],
+   "parentPartNO": "72C7290"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "4002R（L6180）",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A1336",
+    "Part Name": "SEAL",
+    "Specification": "4002R（L6180）",
+    "Weight": "1.75",
+    "Size": "398.0* 378.0* 103.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/356335383635353535373537353a3833353435343536",
+    "/part/zp/356335383635353535373537353a3833353435343536"
+   ],
+   "parentPartNO": "72C7290"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

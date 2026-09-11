@@ -1,0 +1,72 @@
+{
+ "partNO": "SP147845",
+ "parentPartNO": "SP205576",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147845",
+    "partName": "进气连接管",
+    "spec": "",
+    "weightKg": "1.15",
+    "sizeMm": "219.0*158.0*103.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP147845",
+    "配件名称": "进气连接管",
+    "规格": "",
+    "重量(KG)": "1.15",
+    "尺寸(mm)": "219.0* 158.0* 103.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3563353835393833353435343536"
+   ],
+   "parentPartNO": "SP205576"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTION AIR TRANSFER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147845",
+    "Part Name": "CONNECTION AIR TRANSFER",
+    "Specification": "",
+    "Weight": "1.15",
+    "Size": "219.0* 158.0* 103.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3563353835393833353435343536"
+   ],
+   "parentPartNO": "SP205576"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

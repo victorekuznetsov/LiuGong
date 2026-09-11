@@ -1,0 +1,74 @@
+{
+ "partNO": "00D2078",
+ "parentPartNO": "41Y2140",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00D2078",
+    "partName": "支承杆",
+    "spec": "",
+    "weightKg": "1.45",
+    "sizeMm": "437.0*183.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "灰色。黄色的为00D1083"
+   },
+   "attrsRaw": {
+    "配件编码": "00D2078",
+    "配件名称": "支承杆",
+    "规格": "",
+    "重量(KG)": "1.45",
+    "尺寸(mm)": "437.0* 183.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "灰色。黄色的为00D1083"
+   },
+   "photos": [
+    "/part/zp/35343534363835363534353b35633833353435343536",
+    "/part/zp/35343534363835363534353b35633833353435343536"
+   ],
+   "parentPartNO": "41Y2140"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SUPPORT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00D2078",
+    "Part Name": "SUPPORT",
+    "Specification": "",
+    "Weight": "1.45",
+    "Size": "437.0* 183.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "WITH COLOR GRAY, THE P/N WITH COLOR YELLOW IS 00D1083"
+   },
+   "photos": [
+    "/part/zp/35343534363835363534353b35633833353435343536",
+    "/part/zp/35343534363835363534353b35633833353435343536"
+   ],
+   "parentPartNO": "41Y2140"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

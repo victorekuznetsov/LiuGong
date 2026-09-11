@@ -1,0 +1,78 @@
+{
+ "partNO": "05A1059",
+ "parentPartNO": "42C2438T2",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "05A1059",
+    "partName": "放油螺塞",
+    "spec": "",
+    "weightKg": "0.027",
+    "sizeMm": "20.0*20.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "可互换（双向互换）;与05A0478双向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "05A1059",
+    "配件名称": "放油螺塞",
+    "规格": "",
+    "重量(KG)": "0.027",
+    "尺寸(mm)": "20.0* 20.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "可互换（双向互换）;与05A0478双向互换"
+   },
+   "photos": [
+    "/part/zp/35343539363535353534353935643833353435343536",
+    "/part/zp/35343539363535353534353935643833353435343536",
+    "/part/zp/35343539363535353534353935643833353435343537",
+    "/part/zp/35343539363535353534353935643833353435343537"
+   ],
+   "parentPartNO": "42C2438T2"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRAIN PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "05A1059",
+    "Part Name": "DRAIN PLUG",
+    "Specification": "",
+    "Weight": "0.027",
+    "Size": "20.0* 20.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "INTERCHANGEABLE WITH 05A0478"
+   },
+   "photos": [
+    "/part/zp/35343539363535353534353935643833353435343536",
+    "/part/zp/35343539363535353534353935643833353435343536",
+    "/part/zp/35343539363535353534353935643833353435343537",
+    "/part/zp/35343539363535353534353935643833353435343537"
+   ],
+   "parentPartNO": "42C2438T2"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

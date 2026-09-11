@@ -1,0 +1,68 @@
+{
+ "partNO": "SP335632",
+ "parentPartNO": "SP335653",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP335632",
+    "partName": "滚针轴承",
+    "spec": "",
+    "weightKg": "0.8",
+    "sizeMm": "103.0*81.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP335632",
+    "配件名称": "滚针轴承",
+    "规格": "",
+    "重量(KG)": "0.8",
+    "尺寸(mm)": "103.0* 81.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP335653"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NEEDLE ROLLER BEARING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP335632",
+    "Part Name": "NEEDLE ROLLER BEARING",
+    "Specification": "",
+    "Weight": "0.8",
+    "Size": "103.0* 81.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP335653"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

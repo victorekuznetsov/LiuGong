@@ -1,0 +1,72 @@
+{
+ "partNO": "13B0428",
+ "parentPartNO": "10C4601",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "13B0428",
+    "partName": "防尘圈",
+    "spec": "Φ90×Φ105×5",
+    "weightKg": "0.0",
+    "sizeMm": "105.0*105.0*5.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "13B0428",
+    "配件名称": "防尘圈",
+    "规格": "Φ90×Φ105×5",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "105.0* 105.0* 5.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353537363635343538353635633833353435343536"
+   ],
+   "parentPartNO": "10C4601"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DUST RING",
+    "spec": "Φ90×Φ105×5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "13B0428",
+    "Part Name": "DUST RING",
+    "Specification": "Φ90×Φ105×5",
+    "Weight": "0.0",
+    "Size": "105.0* 105.0* 5.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353537363635343538353635633833353435343536"
+   ],
+   "parentPartNO": "10C4601"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

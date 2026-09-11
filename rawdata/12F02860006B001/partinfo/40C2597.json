@@ -1,0 +1,72 @@
+{
+ "partNO": "40C2597",
+ "parentPartNO": "65C2858",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C2597",
+    "partName": "水壶",
+    "spec": "",
+    "weightKg": "0.3",
+    "sizeMm": "255.0*154.0*136.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C2597",
+    "配件名称": "水壶",
+    "规格": "",
+    "重量(KG)": "0.3",
+    "尺寸(mm)": "255.0* 154.0* 136.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353635393564353b3833353435343535"
+   ],
+   "parentPartNO": "65C2858"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER RESERVOIR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C2597",
+    "Part Name": "WASHER RESERVOIR",
+    "Specification": "",
+    "Weight": "0.3",
+    "Size": "255.0* 154.0* 136.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353635393564353b3833353435343535"
+   ],
+   "parentPartNO": "65C2858"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

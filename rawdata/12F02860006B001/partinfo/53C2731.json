@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2731",
+ "parentPartNO": "65C2984",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2731",
+    "partName": "油水分离器",
+    "spec": "M16",
+    "weightKg": "3.8",
+    "sizeMm": "425.0*162.0*157.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C2731",
+    "配件名称": "油水分离器",
+    "规格": "M16",
+    "重量(KG)": "3.8",
+    "尺寸(mm)": "425.0* 162.0* 157.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C2984"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL-WATER SEPARATOR",
+    "spec": "M16",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2731",
+    "Part Name": "OIL-WATER SEPARATOR",
+    "Specification": "M16",
+    "Weight": "3.8",
+    "Size": "425.0* 162.0* 157.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C2984"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

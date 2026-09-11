@@ -1,0 +1,72 @@
+{
+ "partNO": "32C0655",
+ "parentPartNO": "12Y0906",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32C0655",
+    "partName": "三通接头",
+    "spec": "",
+    "weightKg": "0.168",
+    "sizeMm": "56.0*61.0*27.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用32C0655X1"
+   },
+   "attrsRaw": {
+    "配件编码": "32C0655",
+    "配件名称": "三通接头",
+    "规格": "",
+    "重量(KG)": "0.168",
+    "尺寸(mm)": "56.0* 61.0* 27.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用32C0655X1"
+   },
+   "photos": [
+    "/part/zp/3537353636373534353a353935393833353435343536"
+   ],
+   "parentPartNO": "12Y0906"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32C0655",
+    "Part Name": "TEE",
+    "Specification": "",
+    "Weight": "0.168",
+    "Size": "56.0* 61.0* 27.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 32C0655X1"
+   },
+   "photos": [
+    "/part/zp/3537353636373534353a353935393833353435343536"
+   ],
+   "parentPartNO": "12Y0906"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

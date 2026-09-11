@@ -1,0 +1,74 @@
+{
+ "partNO": "25C0926",
+ "parentPartNO": "SP222526",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "25C0926",
+    "partName": "副链轨总成",
+    "spec": "",
+    "weightKg": "15.4",
+    "sizeMm": "320.0*246.0*124.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "不含密封圈和销轴"
+   },
+   "attrsRaw": {
+    "配件编码": "25C0926",
+    "配件名称": "副链轨总成",
+    "规格": "",
+    "重量(KG)": "15.4",
+    "尺寸(mm)": "320.0* 246.0* 124.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "不含密封圈和销轴"
+   },
+   "photos": [
+    "/part/zp/353635393637353435643536353a3833353435343536",
+    "/part/zp/353635393637353435643536353a3833353435343536"
+   ],
+   "parentPartNO": "SP222526"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRACK LINK AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "25C0926",
+    "Part Name": "TRACK LINK AS",
+    "Specification": "",
+    "Weight": "15.4",
+    "Size": "320.0* 246.0* 124.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "Not including the seal and pin."
+   },
+   "photos": [
+    "/part/zp/353635393637353435643536353a3833353435343536",
+    "/part/zp/353635393637353435643536353a3833353435343536"
+   ],
+   "parentPartNO": "SP222526"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

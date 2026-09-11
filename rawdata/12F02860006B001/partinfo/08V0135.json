@@ -1,0 +1,72 @@
+{
+ "partNO": "08V0135",
+ "parentPartNO": "33Y1102",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08V0135",
+    "partName": "销",
+    "spec": "A20×40",
+    "weightKg": "0.0",
+    "sizeMm": "40.0*10.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "08V0135",
+    "配件名称": "销",
+    "规格": "A20×40",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "40.0* 10.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343563373a35343535353735393833353435343535"
+   ],
+   "parentPartNO": "33Y1102"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "A20×40",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08V0135",
+    "Part Name": "PIN",
+    "Specification": "A20×40",
+    "Weight": "0.0",
+    "Size": "40.0* 10.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343563373a35343535353735393833353435343535"
+   ],
+   "parentPartNO": "33Y1102"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

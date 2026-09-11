@@ -1,0 +1,68 @@
+{
+ "partNO": "20C6782",
+ "parentPartNO": "65C2858",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "20C6782",
+    "partName": "散热器组件",
+    "spec": "WO5248L",
+    "weightKg": "0.0",
+    "sizeMm": "1427.0*542.0*1250.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "20C6782",
+    "配件名称": "散热器组件",
+    "规格": "WO5248L",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1427.0* 542.0* 1250.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C2858"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RADIATOR GP",
+    "spec": "WO5248L",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "20C6782",
+    "Part Name": "RADIATOR GP",
+    "Specification": "WO5248L",
+    "Weight": "0.0",
+    "Size": "1427.0* 542.0* 1250.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C2858"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

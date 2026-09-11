@@ -1,0 +1,72 @@
+{
+ "partNO": "84A0216",
+ "parentPartNO": "33Y1102",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A0216",
+    "partName": "橡胶护罩",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "208.0*95.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A0216",
+    "配件名称": "橡胶护罩",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "208.0* 95.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/356335383635353435363535353a3833353435343535"
+   ],
+   "parentPartNO": "33Y1102"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GUARD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A0216",
+    "Part Name": "GUARD",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "208.0* 95.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/356335383635353435363535353a3833353435343535"
+   ],
+   "parentPartNO": "33Y1102"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

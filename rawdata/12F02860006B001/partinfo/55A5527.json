@@ -1,0 +1,74 @@
+{
+ "partNO": "55A5527",
+ "parentPartNO": "43C3706",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55A5527",
+    "partName": "衬套",
+    "spec": "",
+    "weightKg": "2.55",
+    "sizeMm": "128.0*115.0*115.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "55A5527",
+    "配件名称": "衬套",
+    "规格": "",
+    "重量(KG)": "2.55",
+    "尺寸(mm)": "128.0* 115.0* 115.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353935393635353935393536353b3833353435343536",
+    "/part/zp/353935393635353935393536353b3833353435343537"
+   ],
+   "parentPartNO": "43C3706"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55A5527",
+    "Part Name": "BUSHING",
+    "Specification": "",
+    "Weight": "2.55",
+    "Size": "128.0* 115.0* 115.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353935393635353935393536353b3833353435343536",
+    "/part/zp/353935393635353935393536353b3833353435343537"
+   ],
+   "parentPartNO": "43C3706"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

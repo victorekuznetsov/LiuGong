@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP250815",
+  "partName": "V BAND CLAMP",
+  "qty": "1",
+  "storeTypeName": "Not recommend",
+  "note": "DISCONTINUED. CHANGE TO SP322354 . ONE-WAY REPLACEMENT",
+  "haveSupersession": true,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": false,
+  "parentPartNO": "SP249559",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

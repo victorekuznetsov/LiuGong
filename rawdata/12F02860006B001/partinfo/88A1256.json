@@ -1,0 +1,72 @@
+{
+ "partNO": "88A1256",
+ "parentPartNO": "10C3255",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "88A1256",
+    "partName": "密封包",
+    "spec": "",
+    "weightKg": "0.32",
+    "sizeMm": "150.0*150.0*45.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "88A1256",
+    "配件名称": "密封包",
+    "规格": "",
+    "重量(KG)": "0.32",
+    "尺寸(mm)": "150.0* 150.0* 45.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/356335633635353535363539353a38333638353435343536"
+   ],
+   "parentPartNO": "10C3255"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "88A1256",
+    "Part Name": "SEAL KIT",
+    "Specification": "",
+    "Weight": "0.32",
+    "Size": "150.0* 150.0* 45.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/356335633635353535363539353a38333638353435343536"
+   ],
+   "parentPartNO": "10C3255"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

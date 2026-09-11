@@ -1,0 +1,74 @@
+{
+ "partNO": "47C1343",
+ "parentPartNO": "47C9099",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C1343",
+    "partName": "窗",
+    "spec": "",
+    "weightKg": "28.0",
+    "sizeMm": "1384.0*161.0*693.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C1343",
+    "配件名称": "窗",
+    "规格": "",
+    "重量(KG)": "28.0",
+    "尺寸(mm)": "1384.0* 161.0* 693.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538353b363735353537353835373833353435343535",
+    "/part/zp/3538353b363735353537353835373833353435343535"
+   ],
+   "parentPartNO": "47C9099"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WINDOW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C1343",
+    "Part Name": "WINDOW",
+    "Specification": "",
+    "Weight": "28.0",
+    "Size": "1384.0* 161.0* 693.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538353b363735353537353835373833353435343535",
+    "/part/zp/3538353b363735353537353835373833353435343535"
+   ],
+   "parentPartNO": "47C9099"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "41A1033X0",
+ "parentPartNO": "42C2438T2",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41A1033X0",
+    "partName": "行星齿轮",
+    "spec": "",
+    "weightKg": "4.1",
+    "sizeMm": "139.0*138.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41A1033X0",
+    "配件名称": "行星齿轮",
+    "规格": "",
+    "重量(KG)": "4.1",
+    "尺寸(mm)": "139.0* 138.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2438T2"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLANETARY GEAR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41A1033X0",
+    "Part Name": "PLANETARY GEAR",
+    "Specification": "",
+    "Weight": "4.1",
+    "Size": "139.0* 138.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2438T2"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

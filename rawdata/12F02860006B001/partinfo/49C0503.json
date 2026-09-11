@@ -1,0 +1,74 @@
+{
+ "partNO": "49C0503",
+ "parentPartNO": "46C6254",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49C0503",
+    "partName": "张紧轮",
+    "spec": "",
+    "weightKg": "0.645",
+    "sizeMm": "115.0*90.0*65.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49C0503",
+    "配件名称": "张紧轮",
+    "规格": "",
+    "重量(KG)": "0.645",
+    "尺寸(mm)": "115.0* 90.0* 65.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383564363735343539353435373833353435343536",
+    "/part/zp/35383564363735343539353435373833353435343537"
+   ],
+   "parentPartNO": "46C6254"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TENSION PULLY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49C0503",
+    "Part Name": "TENSION PULLY",
+    "Specification": "",
+    "Weight": "0.645",
+    "Size": "115.0* 90.0* 65.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383564363735343539353435373833353435343536",
+    "/part/zp/35383564363735343539353435373833353435343537"
+   ],
+   "parentPartNO": "46C6254"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "86A1000",
+ "parentPartNO": "47C3271",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A1000",
+    "partName": "锁盖",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "39.0*558.0*181.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "装机时间在20年4月以前用此号，6月以后用86A5403，5~6月间需提供整机号确认"
+   },
+   "attrsRaw": {
+    "配件编码": "86A1000",
+    "配件名称": "锁盖",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "39.0* 558.0* 181.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "装机时间在20年4月以前用此号，6月以后用86A5403，5~6月间需提供整机号确认"
+   },
+   "photos": [
+    "/part/zp/3563353a363535353534353435343833353435343536",
+    "/part/zp/3563353a363535353534353435343833353435343536"
+   ],
+   "parentPartNO": "47C3271"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCK COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A1000",
+    "Part Name": "LOCK COVER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "39.0* 558.0* 181.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "PLEASE PROVIDE MACHINE S/N TO CONFIRM"
+   },
+   "photos": [
+    "/part/zp/3563353a363535353534353435343833353435343536",
+    "/part/zp/3563353a363535353534353435343833353435343536"
+   ],
+   "parentPartNO": "47C3271"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

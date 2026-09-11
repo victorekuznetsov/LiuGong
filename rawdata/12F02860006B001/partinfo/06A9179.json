@@ -1,0 +1,74 @@
+{
+ "partNO": "06A9179",
+ "parentPartNO": "23Y0230",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "06A9179",
+    "partName": "弯板",
+    "spec": "",
+    "weightKg": "0.4",
+    "sizeMm": "236.0*163.0*13.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "06A9179",
+    "配件名称": "弯板",
+    "规格": "",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "236.0* 163.0* 13.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3534353a363535643535353b35643833353435343536",
+    "/part/zp/3534353a363535643535353b35643833353435343536"
+   ],
+   "parentPartNO": "23Y0230"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "06A9179",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "0.4",
+    "Size": "236.0* 163.0* 13.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3534353a363535643535353b35643833353435343536",
+    "/part/zp/3534353a363535643535353b35643833353435343536"
+   ],
+   "parentPartNO": "23Y0230"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

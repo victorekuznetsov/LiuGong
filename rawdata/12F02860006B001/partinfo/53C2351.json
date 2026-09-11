@@ -1,0 +1,68 @@
+{
+ "partNO": "53C2351",
+ "parentPartNO": "47Y2383",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C2351",
+    "partName": "柴油滤芯",
+    "spec": "10L/MIN,10ΜM",
+    "weightKg": "1.5",
+    "sizeMm": "261.0*119.0*121.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C2351",
+    "配件名称": "柴油滤芯",
+    "规格": "10L/MIN,10ΜM",
+    "重量(KG)": "1.5",
+    "尺寸(mm)": "261.0* 119.0* 121.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2383"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER ELEMENT",
+    "spec": "10L/MIN,10ΜM",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C2351",
+    "Part Name": "FUEL FILTER ELEMENT",
+    "Specification": "10L/MIN,10ΜM",
+    "Weight": "1.5",
+    "Size": "261.0* 119.0* 121.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47Y2383"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

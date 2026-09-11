@@ -1,0 +1,68 @@
+{
+ "partNO": "53C0210P01",
+ "parentPartNO": "53C0210",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C0210P01",
+    "partName": "回油滤滤芯LX386U",
+    "spec": "",
+    "weightKg": "3.7",
+    "sizeMm": "480.0*143.0*142.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": "53C0210P01+02D1133与53C0210P02通用"
+   },
+   "attrsRaw": {
+    "配件编码": "53C0210P01",
+    "配件名称": "回油滤滤芯LX386U",
+    "规格": "",
+    "重量(KG)": "3.7",
+    "尺寸(mm)": "480.0* 143.0* 142.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": "53C0210P01+02D1133与53C0210P02通用"
+   },
+   "photos": [],
+   "parentPartNO": "53C0210"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C0210P01",
+    "Part Name": "FILTER",
+    "Specification": "",
+    "Weight": "3.7",
+    "Size": "480.0* 143.0* 142.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": "53C0210P01&02D1133 CAN BE EXCHANG WITH 53C0210P02"
+   },
+   "photos": [],
+   "parentPartNO": "53C0210"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

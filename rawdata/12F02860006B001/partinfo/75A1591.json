@@ -1,0 +1,68 @@
+{
+ "partNO": "75A1591",
+ "parentPartNO": "44Y2831",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75A1591",
+    "partName": "扭力弹簧",
+    "spec": "",
+    "weightKg": "2.05",
+    "sizeMm": "1390.0*303.0*22.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "75A1591",
+    "配件名称": "扭力弹簧",
+    "规格": "",
+    "重量(KG)": "2.05",
+    "尺寸(mm)": "1390.0* 303.0* 22.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "44Y2831"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TORSION SPRING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "75A1591",
+    "Part Name": "TORSION SPRING",
+    "Specification": "",
+    "Weight": "2.05",
+    "Size": "1390.0* 303.0* 22.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "44Y2831"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP250202",
+ "parentPartNO": "47C8928",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP250202",
+    "partName": "左扶手组件",
+    "spec": "",
+    "weightKg": "1.15",
+    "sizeMm": "331.0*149.0*109.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP250202",
+    "配件名称": "左扶手组件",
+    "规格": "",
+    "重量(KG)": "1.15",
+    "尺寸(mm)": "331.0* 149.0* 109.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8928"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ARMREST-LH",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP250202",
+    "Part Name": "ARMREST-LH",
+    "Specification": "",
+    "Weight": "1.15",
+    "Size": "331.0* 149.0* 109.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8928"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

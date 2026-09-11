@@ -1,0 +1,68 @@
+{
+ "partNO": "55A6461",
+ "parentPartNO": "10C6207",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55A6461",
+    "partName": "轴套",
+    "spec": "Ø110×Ø125×58",
+    "weightKg": "1.9",
+    "sizeMm": "123.0*123.0*115.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "2015年更改为石墨铜套，现供货规格为Φ110×Φ125×116"
+   },
+   "attrsRaw": {
+    "配件编码": "55A6461",
+    "配件名称": "轴套",
+    "规格": "Ø110×Ø125×58",
+    "重量(KG)": "1.9",
+    "尺寸(mm)": "123.0* 123.0* 115.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "2015年更改为石墨铜套，现供货规格为Φ110×Φ125×116"
+   },
+   "photos": [],
+   "parentPartNO": "10C6207"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "Ø110×Ø125×58",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55A6461",
+    "Part Name": "BUSHING",
+    "Specification": "Ø110×Ø125×58",
+    "Weight": "1.9",
+    "Size": "123.0* 123.0* 115.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "Changed to graphite copper sleeve in 2015, the current supply specification is Φ110×Φ125×116"
+   },
+   "photos": [],
+   "parentPartNO": "10C6207"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

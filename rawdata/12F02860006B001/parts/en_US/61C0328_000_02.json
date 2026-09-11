@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 90,
+  "partNO": "SP214961",
+  "partName": "SEAL KIT MAIN CONTROL VALVE",
+  "qty": "1",
+  "storeTypeName": "1 Year",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "61C0328",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

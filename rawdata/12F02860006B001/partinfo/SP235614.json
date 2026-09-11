@@ -1,0 +1,68 @@
+{
+ "partNO": "SP235614",
+ "parentPartNO": "SP249545",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP235614",
+    "partName": "外螺纹适配器弯管",
+    "spec": "",
+    "weightKg": "0.55",
+    "sizeMm": "98.0*66.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP235614",
+    "配件名称": "外螺纹适配器弯管",
+    "规格": "",
+    "重量(KG)": "0.55",
+    "尺寸(mm)": "98.0* 66.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249545"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ADAPTER ELBOW PIPE WITH EXTERNAL THREAD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP235614",
+    "Part Name": "ADAPTER ELBOW PIPE WITH EXTERNAL THREAD",
+    "Specification": "",
+    "Weight": "0.55",
+    "Size": "98.0* 66.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249545"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

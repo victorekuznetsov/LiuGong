@@ -1,0 +1,68 @@
+{
+ "partNO": "64C0242",
+ "parentPartNO": "47C8927",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "64C0242",
+    "partName": "司机椅",
+    "spec": "47C8928-D",
+    "weightKg": "0.0",
+    "sizeMm": "648.0*718.0*1110.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "64C0242",
+    "配件名称": "司机椅",
+    "规格": "47C8928-D",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "648.0* 718.0* 1110.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8927"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAT",
+    "spec": "47C8928-D",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "64C0242",
+    "Part Name": "SEAT",
+    "Specification": "47C8928-D",
+    "Weight": "0.0",
+    "Size": "648.0* 718.0* 1110.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C8927"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

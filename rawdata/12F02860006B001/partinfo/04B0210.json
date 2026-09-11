@@ -1,0 +1,68 @@
+{
+ "partNO": "04B0210",
+ "parentPartNO": "34C1707",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B0210",
+    "partName": "螺钉",
+    "spec": "ST3.5×16-C-H-DK",
+    "weightKg": "1.86",
+    "sizeMm": "138.0*110.0*330.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B0210",
+    "配件名称": "螺钉",
+    "规格": "ST3.5×16-C-H-DK",
+    "重量(KG)": "1.86",
+    "尺寸(mm)": "138.0* 110.0* 330.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C1707"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "ST3.5×16-C-H-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B0210",
+    "Part Name": "SCREW",
+    "Specification": "ST3.5×16-C-H-DK",
+    "Weight": "1.86",
+    "Size": "138.0* 110.0* 330.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C1707"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

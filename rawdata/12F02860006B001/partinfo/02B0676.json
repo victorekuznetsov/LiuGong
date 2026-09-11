@@ -1,0 +1,74 @@
+{
+ "partNO": "02B0676",
+ "parentPartNO": "25C2121P02",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "02B0676",
+    "partName": "螺栓",
+    "spec": "",
+    "weightKg": "0.369",
+    "sizeMm": "123.0*37.0*34.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用SP276664"
+   },
+   "attrsRaw": {
+    "配件编码": "02B0676",
+    "配件名称": "螺栓",
+    "规格": "",
+    "重量(KG)": "0.369",
+    "尺寸(mm)": "123.0* 37.0* 34.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用SP276664"
+   },
+   "photos": [
+    "/part/zp/3534353636363534353a353b353a3833353435343536",
+    "/part/zp/3534353636363534353a353b353a3833353435343536"
+   ],
+   "parentPartNO": "25C2121P02"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "02B0676",
+    "Part Name": "BOLT",
+    "Specification": "",
+    "Weight": "0.369",
+    "Size": "123.0* 37.0* 34.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO SP276664 ."
+   },
+   "photos": [
+    "/part/zp/3534353636363534353a353b353a3833353435343536",
+    "/part/zp/3534353636363534353a353b353a3833353435343536"
+   ],
+   "parentPartNO": "25C2121P02"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

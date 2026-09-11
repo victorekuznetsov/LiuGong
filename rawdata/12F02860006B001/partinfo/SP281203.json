@@ -1,0 +1,68 @@
+{
+ "partNO": "SP281203",
+ "parentPartNO": "11C4020",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP281203",
+    "partName": "安全阀物料组",
+    "spec": "",
+    "weightKg": "0.148",
+    "sizeMm": "73.0*20.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP281203",
+    "配件名称": "安全阀物料组",
+    "规格": "",
+    "重量(KG)": "0.148",
+    "尺寸(mm)": "73.0* 20.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C4020"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SAFETY VALVE MATERIAL GROUP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP281203",
+    "Part Name": "SAFETY VALVE MATERIAL GROUP",
+    "Specification": "",
+    "Weight": "0.148",
+    "Size": "73.0* 20.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C4020"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

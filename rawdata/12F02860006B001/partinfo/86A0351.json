@@ -1,0 +1,68 @@
+{
+ "partNO": "86A0351",
+ "parentPartNO": "38C0119",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A0351",
+    "partName": "右锁盖",
+    "spec": "",
+    "weightKg": "0.045",
+    "sizeMm": "94.0*83.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A0351",
+    "配件名称": "右锁盖",
+    "规格": "",
+    "重量(KG)": "0.045",
+    "尺寸(mm)": "94.0* 83.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "38C0119"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A0351",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "0.045",
+    "Size": "94.0* 83.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "38C0119"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

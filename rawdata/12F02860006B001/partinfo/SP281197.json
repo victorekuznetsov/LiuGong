@@ -1,0 +1,68 @@
+{
+ "partNO": "SP281197",
+ "parentPartNO": "11C4020",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP281197",
+    "partName": "旋转骨架油封",
+    "spec": "",
+    "weightKg": "0.001",
+    "sizeMm": "16.0*16.0*4.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP281197",
+    "配件名称": "旋转骨架油封",
+    "规格": "",
+    "重量(KG)": "0.001",
+    "尺寸(mm)": "16.0* 16.0* 4.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C4020"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP281197",
+    "Part Name": "OIL SEAL",
+    "Specification": "",
+    "Weight": "0.001",
+    "Size": "16.0* 16.0* 4.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C4020"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

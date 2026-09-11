@@ -1,0 +1,74 @@
+{
+ "partNO": "12C2005",
+ "parentPartNO": "58C2168",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12C2005",
+    "partName": "三通阀",
+    "spec": "KH3K-DN32-SAE420-112A-L-T",
+    "weightKg": "6.11",
+    "sizeMm": "110.0*110.0*155.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12C2005",
+    "配件名称": "三通阀",
+    "规格": "KH3K-DN32-SAE420-112A-L-T",
+    "重量(KG)": "6.11",
+    "尺寸(mm)": "110.0* 110.0* 155.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735363534353435393833353435343538",
+    "/part/zp/35353536363735363534353435393833353435343538"
+   ],
+   "parentPartNO": "58C2168"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TEE VALVE",
+    "spec": "KH3K-DN32-SAE420-112A-L-T",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12C2005",
+    "Part Name": "TEE VALVE",
+    "Specification": "KH3K-DN32-SAE420-112A-L-T",
+    "Weight": "6.11",
+    "Size": "110.0* 110.0* 155.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35353536363735363534353435393833353435343538",
+    "/part/zp/35353536363735363534353435393833353435343538"
+   ],
+   "parentPartNO": "58C2168"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

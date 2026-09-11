@@ -1,0 +1,68 @@
+{
+ "partNO": "SP233981",
+ "parentPartNO": "SP249548",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP233981",
+    "partName": "管支架",
+    "spec": "",
+    "weightKg": "0.4",
+    "sizeMm": "225.0*152.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP233981",
+    "配件名称": "管支架",
+    "规格": "",
+    "重量(KG)": "0.4",
+    "尺寸(mm)": "225.0* 152.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249548"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TUBE BRACE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP233981",
+    "Part Name": "TUBE BRACE",
+    "Specification": "",
+    "Weight": "0.4",
+    "Size": "225.0* 152.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249548"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

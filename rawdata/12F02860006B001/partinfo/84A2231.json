@@ -1,0 +1,78 @@
+{
+ "partNO": "84A2231",
+ "parentPartNO": "47C9099",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A2231",
+    "partName": "限位块",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "30.0*78.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "可互换（双向互换）;与86A0654双向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "84A2231",
+    "配件名称": "限位块",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "30.0* 78.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "可互换（双向互换）;与86A0654双向互换"
+   },
+   "photos": [
+    "/part/zp/35633538363535363536353735353833353435343536",
+    "/part/zp/35633538363535363536353735353833353435343536",
+    "/part/zp/35633538363535363536353735353833353435343537",
+    "/part/zp/35633538363535363536353735353833353435343537"
+   ],
+   "parentPartNO": "47C9099"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BLOCK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A2231",
+    "Part Name": "BLOCK",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "30.0* 78.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "INTERCHANGEABLE WITH 86A0654"
+   },
+   "photos": [
+    "/part/zp/35633538363535363536353735353833353435343536",
+    "/part/zp/35633538363535363536353735353833353435343536",
+    "/part/zp/35633538363535363536353735353833353435343537",
+    "/part/zp/35633538363535363536353735353833353435343537"
+   ],
+   "parentPartNO": "47C9099"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

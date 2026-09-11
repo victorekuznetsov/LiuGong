@@ -1,0 +1,78 @@
+{
+ "partNO": "SP147598",
+ "parentPartNO": "SP241319",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147598",
+    "partName": "喷油器夹头",
+    "spec": "",
+    "weightKg": "0.036",
+    "sizeMm": "26.0*26.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP147598",
+    "配件名称": "喷油器夹头",
+    "规格": "",
+    "重量(KG)": "0.036",
+    "尺寸(mm)": "26.0* 26.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539356435633833353435343536",
+    "/part/zp/3737373435353538353b3539356435633833353435343536",
+    "/part/zp/3737373435353538353b3539356435633833353435343537",
+    "/part/zp/3737373435353538353b3539356435633833353435343537"
+   ],
+   "parentPartNO": "SP241319"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RETAINER INJ FUL SUP CNR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147598",
+    "Part Name": "RETAINER INJ FUL SUP CNR",
+    "Specification": "",
+    "Weight": "0.036",
+    "Size": "26.0* 26.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3539356435633833353435343536",
+    "/part/zp/3737373435353538353b3539356435633833353435343536",
+    "/part/zp/3737373435353538353b3539356435633833353435343537",
+    "/part/zp/3737373435353538353b3539356435633833353435343537"
+   ],
+   "parentPartNO": "SP241319"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

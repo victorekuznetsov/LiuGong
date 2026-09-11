@@ -1,0 +1,76 @@
+{
+ "partNO": "87A0982",
+ "parentPartNO": "47C1341",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "87A0982",
+    "partName": "玻璃",
+    "spec": "",
+    "weightKg": "3.46",
+    "sizeMm": "762.0*400.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "87A0982",
+    "配件名称": "玻璃",
+    "规格": "",
+    "重量(KG)": "3.46",
+    "尺寸(mm)": "762.0* 400.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3563353b363535343564356335363833353435343536",
+    "/part/zp/3563353b36353534356435633536383335343534353638333535",
+    "/part/zp/3563353b36353534356435633536383335343534353638333535"
+   ],
+   "parentPartNO": "47C1341"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GLASS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "87A0982",
+    "Part Name": "GLASS",
+    "Specification": "",
+    "Weight": "3.46",
+    "Size": "762.0* 400.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3563353b363535343564356335363833353435343536",
+    "/part/zp/3563353b36353534356435633536383335343534353638333535",
+    "/part/zp/3563353b36353534356435633536383335343534353638333535"
+   ],
+   "parentPartNO": "47C1341"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

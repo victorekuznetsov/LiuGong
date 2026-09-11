@@ -1,0 +1,68 @@
+{
+ "partNO": "56C2002",
+ "parentPartNO": "47C9100",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "56C2002",
+    "partName": "内饰件总成",
+    "spec": "56C2002",
+    "weightKg": "0.0",
+    "sizeMm": "997.0*1715.0*1755.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "56C2002",
+    "配件名称": "内饰件总成",
+    "规格": "56C2002",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "997.0* 1715.0* 1755.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C9100"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DECORATION AS",
+    "spec": "56C2002",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "56C2002",
+    "Part Name": "DECORATION AS",
+    "Specification": "56C2002",
+    "Weight": "0.0",
+    "Size": "997.0* 1715.0* 1755.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C9100"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

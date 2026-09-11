@@ -1,0 +1,68 @@
+{
+ "partNO": "51C0962",
+ "parentPartNO": "33Y1102",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "51C0962",
+    "partName": "托链轮",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "188.0*325.0*188.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "认证件51C0962C1；（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "51C0962",
+    "配件名称": "托链轮",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "188.0* 325.0* 188.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "认证件51C0962C1；（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "33Y1102"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CARRIER ROLLER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "51C0962",
+    "Part Name": "CARRIER ROLLER",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "188.0* 325.0* 188.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CERTIFICATION PART 51C0962C1; (BIDIRECTIONAL INTERCHANGE)"
+   },
+   "photos": [],
+   "parentPartNO": "33Y1102"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

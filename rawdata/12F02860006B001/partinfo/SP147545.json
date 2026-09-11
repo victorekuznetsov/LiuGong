@@ -1,0 +1,68 @@
+{
+ "partNO": "SP147545",
+ "parentPartNO": "SP205579",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147545",
+    "partName": "螺栓",
+    "spec": "",
+    "weightKg": "0.04",
+    "sizeMm": "37.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP147545",
+    "配件名称": "螺栓",
+    "规格": "",
+    "重量(KG)": "0.04",
+    "尺寸(mm)": "37.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP205579"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW HEX FLANGE HEAD C",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147545",
+    "Part Name": "SCREW HEX FLANGE HEAD C",
+    "Specification": "",
+    "Weight": "0.04",
+    "Size": "37.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP205579"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

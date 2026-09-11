@@ -1,0 +1,68 @@
+{
+ "partNO": "SP222525",
+ "parentPartNO": "SP222526",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP222525",
+    "partName": "主销",
+    "spec": "",
+    "weightKg": "3.05",
+    "sizeMm": "243.0*45.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用60A4900;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP222525",
+    "配件名称": "主销",
+    "规格": "",
+    "重量(KG)": "3.05",
+    "尺寸(mm)": "243.0* 45.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用60A4900;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP222526"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "MASTER PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP222525",
+    "Part Name": "MASTER PIN",
+    "Specification": "",
+    "Weight": "3.05",
+    "Size": "243.0* 45.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 60A4900 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "SP222526"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

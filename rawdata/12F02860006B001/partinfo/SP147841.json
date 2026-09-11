@@ -1,0 +1,74 @@
+{
+ "partNO": "SP147841",
+ "parentPartNO": "SP249536",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP147841",
+    "partName": "挠性软管",
+    "spec": "",
+    "weightKg": "0.095",
+    "sizeMm": "341.0*30.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP147841",
+    "配件名称": "挠性软管",
+    "规格": "",
+    "重量(KG)": "0.095",
+    "尺寸(mm)": "341.0* 30.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3563353835353833353435343536",
+    "/part/zp/3737373435353538353b3563353835353833353435343537"
+   ],
+   "parentPartNO": "SP249536"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE FLEXIBLE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP147841",
+    "Part Name": "HOSE FLEXIBLE",
+    "Specification": "",
+    "Weight": "0.095",
+    "Size": "341.0* 30.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353538353b3563353835353833353435343536",
+    "/part/zp/3737373435353538353b3563353835353833353435343537"
+   ],
+   "parentPartNO": "SP249536"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

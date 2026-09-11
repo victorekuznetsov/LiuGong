@@ -1,0 +1,68 @@
+{
+ "partNO": "83A3013",
+ "parentPartNO": "15Y3651",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83A3013",
+    "partName": "护套",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "137.0*67.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "83A3013",
+    "配件名称": "护套",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "137.0* 67.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y3651"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "JACKET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "83A3013",
+    "Part Name": "JACKET",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "137.0* 67.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "15Y3651"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

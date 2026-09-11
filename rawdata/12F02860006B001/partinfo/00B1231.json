@@ -1,0 +1,68 @@
+{
+ "partNO": "00B1231",
+ "parentPartNO": "47C1845",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "00B1231",
+    "partName": "螺栓",
+    "spec": "M18×110-8.8-DK",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货;改用00B0361;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "00B1231",
+    "配件名称": "螺栓",
+    "规格": "M18×110-8.8-DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货;改用00B0361;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "47C1845"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M18×110-8.8-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "00B1231",
+    "Part Name": "BOLT",
+    "Specification": "M18×110-8.8-DK",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO 00B0361 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "47C1845"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

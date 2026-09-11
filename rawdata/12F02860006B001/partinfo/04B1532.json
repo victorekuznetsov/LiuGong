@@ -1,0 +1,68 @@
+{
+ "partNO": "04B1532",
+ "parentPartNO": "10C6151",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "04B1532",
+    "partName": "螺钉",
+    "spec": "M12×45-12.9-DK",
+    "weightKg": "0.05",
+    "sizeMm": "57.0*18.0*18.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "04B1532",
+    "配件名称": "螺钉",
+    "规格": "M12×45-12.9-DK",
+    "重量(KG)": "0.05",
+    "尺寸(mm)": "57.0* 18.0* 18.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C6151"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "M12×45-12.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "04B1532",
+    "Part Name": "SCREW",
+    "Specification": "M12×45-12.9-DK",
+    "Weight": "0.05",
+    "Size": "57.0* 18.0* 18.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10C6151"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

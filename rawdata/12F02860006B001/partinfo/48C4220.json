@@ -1,0 +1,74 @@
+{
+ "partNO": "48C4220",
+ "parentPartNO": "48C4043",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "48C4220",
+    "partName": "左门",
+    "spec": "",
+    "weightKg": "16.516",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "停止供货;改用48C7667;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "48C4220",
+    "配件名称": "左门",
+    "规格": "",
+    "重量(KG)": "16.516",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用48C7667;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35383563363735383536353635343833353435343535",
+    "/part/zp/35383563363735383536353635343833353435343535"
+   ],
+   "parentPartNO": "48C4043"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOOR-LH",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "48C4220",
+    "Part Name": "DOOR-LH",
+    "Specification": "",
+    "Weight": "16.516",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO 48C7667 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35383563363735383536353635343833353435343535",
+    "/part/zp/35383563363735383536353635343833353435343535"
+   ],
+   "parentPartNO": "48C4043"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

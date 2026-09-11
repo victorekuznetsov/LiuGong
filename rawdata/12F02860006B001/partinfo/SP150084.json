@@ -1,0 +1,68 @@
+{
+ "partNO": "SP150084",
+ "parentPartNO": "SP249529",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP150084",
+    "partName": "凸轮轴衬套",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "停止供货;改用SP206240;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP150084",
+    "配件名称": "凸轮轴衬套",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "停止供货;改用SP206240;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "SP249529"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP150084",
+    "Part Name": "BUSHING",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO SP206240 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [],
+   "parentPartNO": "SP249529"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

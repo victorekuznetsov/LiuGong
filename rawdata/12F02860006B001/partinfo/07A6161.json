@@ -1,0 +1,68 @@
+{
+ "partNO": "07A6161",
+ "parentPartNO": "80C3689",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "07A6161",
+    "partName": "弯板",
+    "spec": "",
+    "weightKg": "0.692",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "改用07A7908;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "07A6161",
+    "配件名称": "弯板",
+    "规格": "",
+    "重量(KG)": "0.692",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "改用07A7908;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "80C3689"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "07A6161",
+    "Part Name": "PLATE",
+    "Specification": "",
+    "Weight": "0.692",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Change to 07A7908，one-way replacement"
+   },
+   "photos": [],
+   "parentPartNO": "80C3689"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

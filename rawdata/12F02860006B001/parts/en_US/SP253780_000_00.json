@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP108796",
+  "partName": "PLUG",
+  "qty": "1",
+  "storeTypeName": "Not recommend",
+  "note": "THE SAME TO （SP108797+SP108798）",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": true,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP253780",
+  "serviceSupportType": null,
+  "preServed4": null,
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

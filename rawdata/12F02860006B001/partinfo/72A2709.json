@@ -1,0 +1,74 @@
+{
+ "partNO": "72A2709",
+ "parentPartNO": "10C3147",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "72A2709",
+    "partName": "压板",
+    "spec": "YB-03",
+    "weightKg": "0.85",
+    "sizeMm": "130.0*54.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "72A2709",
+    "配件名称": "压板",
+    "规格": "YB-03",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "130.0* 54.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353b353636353536353b353435643833353435343536",
+    "/part/zp/353b353636353536353b353435643833353435343536"
+   ],
+   "parentPartNO": "10C3147"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE",
+    "spec": "YB-03",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "72A2709",
+    "Part Name": "PLATE",
+    "Specification": "YB-03",
+    "Weight": "0.85",
+    "Size": "130.0* 54.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353b353636353536353b353435643833353435343536",
+    "/part/zp/353b353636353536353b353435643833353435343536"
+   ],
+   "parentPartNO": "10C3147"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

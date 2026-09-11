@@ -1,0 +1,72 @@
+{
+ "partNO": "08C8340",
+ "parentPartNO": "93C3494",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08C8340",
+    "partName": "蓄电池负极电缆",
+    "spec": "",
+    "weightKg": "0.5",
+    "sizeMm": "349.0*198.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "改用70C2507;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "08C8340",
+    "配件名称": "蓄电池负极电缆",
+    "规格": "",
+    "重量(KG)": "0.5",
+    "尺寸(mm)": "349.0* 198.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "改用70C2507;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/35343563363735633537353835343833353435343536"
+   ],
+   "parentPartNO": "93C3494"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BATTERY CABLE(-)",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08C8340",
+    "Part Name": "BATTERY CABLE(-)",
+    "Specification": "",
+    "Weight": "0.5",
+    "Size": "349.0* 198.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "Changed to 70C2507; Interchangeable"
+   },
+   "photos": [
+    "/part/zp/35343563363735633537353835343833353435343536"
+   ],
+   "parentPartNO": "93C3494"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

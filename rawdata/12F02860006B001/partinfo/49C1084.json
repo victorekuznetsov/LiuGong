@@ -1,0 +1,68 @@
+{
+ "partNO": "49C1084",
+ "parentPartNO": "22Y8922",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49C1084",
+    "partName": "警示灯线路总成",
+    "spec": "",
+    "weightKg": "1.6",
+    "sizeMm": "809.0*1592.0*1141.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49C1084",
+    "配件名称": "警示灯线路总成",
+    "规格": "",
+    "重量(KG)": "1.6",
+    "尺寸(mm)": "809.0* 1592.0* 1141.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "22Y8922"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ROTATING BEACON WIRING AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49C1084",
+    "Part Name": "ROTATING BEACON WIRING AS",
+    "Specification": "",
+    "Weight": "1.6",
+    "Size": "809.0* 1592.0* 1141.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "22Y8922"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

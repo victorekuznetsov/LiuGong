@@ -1,0 +1,68 @@
+{
+ "partNO": "SP161922",
+ "parentPartNO": "12C7940",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP161922",
+    "partName": "测压接头",
+    "spec": "",
+    "weightKg": "0.088",
+    "sizeMm": "53.0*28.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP161922",
+    "配件名称": "测压接头",
+    "规格": "",
+    "重量(KG)": "0.088",
+    "尺寸(mm)": "53.0* 28.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C7940"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "JOINT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP161922",
+    "Part Name": "JOINT",
+    "Specification": "",
+    "Weight": "0.088",
+    "Size": "53.0* 28.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C7940"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

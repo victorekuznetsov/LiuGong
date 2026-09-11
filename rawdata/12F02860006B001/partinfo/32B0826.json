@@ -1,0 +1,68 @@
+{
+ "partNO": "32B0826",
+ "parentPartNO": "55C3563",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0826",
+    "partName": "工作灯",
+    "spec": "",
+    "weightKg": "1.05",
+    "sizeMm": "190.0*156.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "32B0826",
+    "配件名称": "工作灯",
+    "规格": "",
+    "重量(KG)": "1.05",
+    "尺寸(mm)": "190.0* 156.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C3563"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WORK LIGHT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0826",
+    "Part Name": "WORK LIGHT",
+    "Specification": "",
+    "Weight": "1.05",
+    "Size": "190.0* 156.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C3563"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

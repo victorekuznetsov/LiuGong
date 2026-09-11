@@ -1,0 +1,68 @@
+{
+ "partNO": "SP235617",
+ "parentPartNO": "SP249545",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP235617",
+    "partName": "滤清器座盖",
+    "spec": "",
+    "weightKg": "0.6",
+    "sizeMm": "140.0*123.0*79.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP235617",
+    "配件名称": "滤清器座盖",
+    "规格": "",
+    "重量(KG)": "0.6",
+    "尺寸(mm)": "140.0* 123.0* 79.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249545"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER SEAT COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP235617",
+    "Part Name": "FILTER SEAT COVER",
+    "Specification": "",
+    "Weight": "0.6",
+    "Size": "140.0* 123.0* 79.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249545"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "partNO": "30C1364X1",
+ "parentPartNO": "12Y0906",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C1364X1",
+    "partName": "接头组件",
+    "spec": "",
+    "weightKg": "0.032",
+    "sizeMm": "34.0*21.0*21.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C1364X1",
+    "配件名称": "接头组件",
+    "规格": "",
+    "重量(KG)": "0.032",
+    "尺寸(mm)": "34.0* 21.0* 21.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735353537353a3538376335353833353435343536",
+    "/part/zp/35373534363735353537353a3538376335353833353435343538",
+    "/part/zp/35373534363735353537353a3538376335353833353435343539"
+   ],
+   "parentPartNO": "12Y0906"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FITTING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C1364X1",
+    "Part Name": "FITTING",
+    "Specification": "",
+    "Weight": "0.032",
+    "Size": "34.0* 21.0* 21.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735353537353a3538376335353833353435343536",
+    "/part/zp/35373534363735353537353a3538376335353833353435343538",
+    "/part/zp/35373534363735353537353a3538376335353833353435343539"
+   ],
+   "parentPartNO": "12Y0906"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

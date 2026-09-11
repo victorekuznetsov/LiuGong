@@ -1,0 +1,74 @@
+{
+ "partNO": "34C8604",
+ "parentPartNO": "53C1403",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C8604",
+    "partName": "滤芯",
+    "spec": "",
+    "weightKg": "1.55",
+    "sizeMm": "334.0*87.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "是",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1000H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C8604",
+    "配件名称": "滤芯",
+    "规格": "",
+    "重量(KG)": "1.55",
+    "尺寸(mm)": "334.0* 87.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "是",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1000H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3537353836373563353a353435383833353435343536",
+    "/part/zp/3537353836373563353a353435383833353435343536"
+   ],
+   "parentPartNO": "53C1403"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FILTER ELEMENT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C8604",
+    "Part Name": "FILTER ELEMENT",
+    "Specification": "",
+    "Weight": "1.55",
+    "Size": "334.0* 87.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "YES",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1000H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3537353836373563353a353435383833353435343536",
+    "/part/zp/3537353836373563353a353435383833353435343536"
+   ],
+   "parentPartNO": "53C1403"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

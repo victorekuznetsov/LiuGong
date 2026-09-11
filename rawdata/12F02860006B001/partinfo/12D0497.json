@@ -1,0 +1,74 @@
+{
+ "partNO": "12D0497",
+ "parentPartNO": "21C1955",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "12D0497",
+    "partName": "油箱盖",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "240.0*240.0*60.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "12D0497",
+    "配件名称": "油箱盖",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "240.0* 240.0* 60.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353535363638353435383564353b3833353435343536",
+    "/part/zp/353535363638353435383564353b3833353435343536"
+   ],
+   "parentPartNO": "21C1955"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TANK CAP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "12D0497",
+    "Part Name": "TANK CAP",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "240.0* 240.0* 60.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353535363638353435383564353b3833353435343536",
+    "/part/zp/353535363638353435383564353b3833353435343536"
+   ],
+   "parentPartNO": "21C1955"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

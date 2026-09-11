@@ -1,0 +1,68 @@
+{
+ "partNO": "SP145193",
+ "parentPartNO": "SP241305",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP145193",
+    "partName": "内六角头螺钉",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "16.0*5.0*5.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP145193",
+    "配件名称": "内六角头螺钉",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "16.0* 5.0* 5.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP241305"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP145193",
+    "Part Name": "SCREW",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "16.0* 5.0* 5.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP241305"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

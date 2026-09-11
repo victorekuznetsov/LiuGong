@@ -1,0 +1,68 @@
+{
+ "partNO": "87A1828",
+ "parentPartNO": "47C8395",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "87A1828",
+    "partName": "玻璃",
+    "spec": "87A1828",
+    "weightKg": "10.306",
+    "sizeMm": "815.0*999.0*205.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "若上级件是47C3167，则改用前用方角87A0748，改用后用圆角87A1828，两者不互换"
+   },
+   "attrsRaw": {
+    "配件编码": "87A1828",
+    "配件名称": "玻璃",
+    "规格": "87A1828",
+    "重量(KG)": "10.306",
+    "尺寸(mm)": "815.0* 999.0* 205.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "若上级件是47C3167，则改用前用方角87A0748，改用后用圆角87A1828，两者不互换"
+   },
+   "photos": [],
+   "parentPartNO": "47C8395"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GLASS",
+    "spec": "87A1828",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "87A1828",
+    "Part Name": "GLASS",
+    "Specification": "87A1828",
+    "Weight": "10.306",
+    "Size": "815.0* 999.0* 205.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "If its superior part is 47C3167,and 47C3167 has be changed, so use right-angle glass 87A0748 before changed, use round-corner glass 87A1828 after changed .Not interchaneable. If you are not sure, please confirm with Liugong."
+   },
+   "photos": [],
+   "parentPartNO": "47C8395"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

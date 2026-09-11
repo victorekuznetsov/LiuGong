@@ -1,0 +1,78 @@
+{
+ "partNO": "SP132131",
+ "parentPartNO": "SP205560",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP132131",
+    "partName": "六角法兰面螺母",
+    "spec": "",
+    "weightKg": "0.023",
+    "sizeMm": "25.0*25.0*20.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用SP225682"
+   },
+   "attrsRaw": {
+    "配件编码": "SP132131",
+    "配件名称": "六角法兰面螺母",
+    "规格": "",
+    "重量(KG)": "0.023",
+    "尺寸(mm)": "25.0* 25.0* 20.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用SP225682"
+   },
+   "photos": [
+    "/part/zp/373737343535353735363535353735353833353435343536",
+    "/part/zp/373737343535353735363535353735353833353435343536",
+    "/part/zp/373737343535353735363535353735353833353435343537",
+    "/part/zp/373737343535353735363535353735353833353435343537"
+   ],
+   "parentPartNO": "SP205560"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP132131",
+    "Part Name": "NUT",
+    "Specification": "",
+    "Weight": "0.023",
+    "Size": "25.0* 25.0* 20.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Changed to SP225682"
+   },
+   "photos": [
+    "/part/zp/373737343535353735363535353735353833353435343536",
+    "/part/zp/373737343535353735363535353735353833353435343536",
+    "/part/zp/373737343535353735363535353735353833353435343537",
+    "/part/zp/373737343535353735363535353735353833353435343537"
+   ],
+   "parentPartNO": "SP205560"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

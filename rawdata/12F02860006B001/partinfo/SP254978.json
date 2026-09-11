@@ -1,0 +1,68 @@
+{
+ "partNO": "SP254978",
+ "parentPartNO": "SP249534",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP254978",
+    "partName": "燃油滤清器总成",
+    "spec": "",
+    "weightKg": "1.45",
+    "sizeMm": "241.0*115.0*118.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "500H",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP254978",
+    "配件名称": "燃油滤清器总成",
+    "规格": "",
+    "重量(KG)": "1.45",
+    "尺寸(mm)": "241.0* 115.0* 118.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "500H",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249534"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUEL FILTER ASSY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP254978",
+    "Part Name": "FUEL FILTER ASSY",
+    "Specification": "",
+    "Weight": "1.45",
+    "Size": "241.0* 115.0* 118.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "500H",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP249534"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

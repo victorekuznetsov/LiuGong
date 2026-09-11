@@ -1,0 +1,68 @@
+{
+ "partNO": "65C2949",
+ "parentPartNO": "00Y4743",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "65C2949",
+    "partName": "发动机",
+    "spec": "214KW@2100RPM",
+    "weightKg": "0.0",
+    "sizeMm": "861.0*1230.0*1128.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "65C2949",
+    "配件名称": "发动机",
+    "规格": "214KW@2100RPM",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "861.0* 1230.0* 1128.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "00Y4743"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ENGINE",
+    "spec": "214KW@2100RPM",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "65C2949",
+    "Part Name": "ENGINE",
+    "Specification": "214KW@2100RPM",
+    "Weight": "0.0",
+    "Size": "861.0* 1230.0* 1128.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "00Y4743"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

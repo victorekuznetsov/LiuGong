@@ -1,0 +1,78 @@
+{
+ "partNO": "46C4971",
+ "parentPartNO": "46C5189",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46C4971",
+    "partName": "恒温器",
+    "spec": "",
+    "weightKg": "0.058",
+    "sizeMm": "64.0*39.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由46C5222更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "46C4971",
+    "配件名称": "恒温器",
+    "规格": "",
+    "重量(KG)": "0.058",
+    "尺寸(mm)": "64.0* 39.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由46C5222更改而来"
+   },
+   "photos": [
+    "/part/zp/3538353a363735383564353b353538333537",
+    "/part/zp/3538353a363735383564353b353538333537",
+    "/part/zp/3538353a363735383564353b353538333538",
+    "/part/zp/3538353a363735383564353b353538333538"
+   ],
+   "parentPartNO": "46C5189"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "THERMOSTAT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46C4971",
+    "Part Name": "THERMOSTAT",
+    "Specification": "",
+    "Weight": "0.058",
+    "Size": "64.0* 39.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 46C5222"
+   },
+   "photos": [
+    "/part/zp/3538353a363735383564353b353538333537",
+    "/part/zp/3538353a363735383564353b353538333537",
+    "/part/zp/3538353a363735383564353b353538333538",
+    "/part/zp/3538353a363735383564353b353538333538"
+   ],
+   "parentPartNO": "46C5189"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

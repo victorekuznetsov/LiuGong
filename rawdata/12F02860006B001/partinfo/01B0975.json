@@ -1,0 +1,72 @@
+{
+ "partNO": "01B0975",
+ "parentPartNO": "41Y2140",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "01B0975",
+    "partName": "螺栓",
+    "spec": "M30×200-10.9-DK",
+    "weightKg": "1.277",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "01B0975",
+    "配件名称": "螺栓",
+    "规格": "M30×200-10.9-DK",
+    "重量(KG)": "1.277",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35343535363635343564353b35393833353435343536"
+   ],
+   "parentPartNO": "41Y2140"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOLT",
+    "spec": "M30×200-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "01B0975",
+    "Part Name": "BOLT",
+    "Specification": "M30×200-10.9-DK",
+    "Weight": "1.277",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35343535363635343564353b35393833353435343536"
+   ],
+   "parentPartNO": "41Y2140"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

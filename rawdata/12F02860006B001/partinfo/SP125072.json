@@ -1,0 +1,72 @@
+{
+ "partNO": "SP125072",
+ "parentPartNO": "SP249545",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP125072",
+    "partName": "柔性软管",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1567.0*50.0*50.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由06C8106更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "SP125072",
+    "配件名称": "柔性软管",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1567.0* 50.0* 50.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由06C8106更改而来"
+   },
+   "photos": [
+    "/part/zp/373737343535353635393534353b35363833353435343536"
+   ],
+   "parentPartNO": "SP249545"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TUBE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP125072",
+    "Part Name": "TUBE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1567.0* 50.0* 50.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 06C8106"
+   },
+   "photos": [
+    "/part/zp/373737343535353635393534353b35363833353435343536"
+   ],
+   "parentPartNO": "SP249545"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

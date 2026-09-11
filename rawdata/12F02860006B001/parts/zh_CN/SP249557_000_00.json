@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP261138",
+  "partName": "V 形多楔带",
+  "qty": "1",
+  "storeTypeName": "1Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "SP249557",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

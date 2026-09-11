@@ -1,0 +1,68 @@
+{
+ "partNO": "36B2641",
+ "parentPartNO": "55C4835",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B2641",
+    "partName": "电源插座",
+    "spec": "24V/120W",
+    "weightKg": "0.432",
+    "sizeMm": "47.0*35.0*65.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "36B2641",
+    "配件名称": "电源插座",
+    "规格": "24V/120W",
+    "重量(KG)": "0.432",
+    "尺寸(mm)": "47.0* 35.0* 65.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C4835"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ELECTRICAL CONNECTOR",
+    "spec": "24V/120W",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B2641",
+    "Part Name": "ELECTRICAL CONNECTOR",
+    "Specification": "24V/120W",
+    "Weight": "0.432",
+    "Size": "47.0* 35.0* 65.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "55C4835"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

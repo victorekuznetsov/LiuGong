@@ -1,0 +1,68 @@
+{
+ "partNO": "08B0331",
+ "parentPartNO": "42C2438T2",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "08B0331",
+    "partName": "销",
+    "spec": "6×28",
+    "weightKg": "2.55",
+    "sizeMm": "40.0*10.0*10.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "08B0331",
+    "配件名称": "销",
+    "规格": "6×28",
+    "重量(KG)": "2.55",
+    "尺寸(mm)": "40.0* 10.0* 10.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2438T2"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "6×28",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "08B0331",
+    "Part Name": "PIN",
+    "Specification": "6×28",
+    "Weight": "2.55",
+    "Size": "40.0* 10.0* 10.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2438T2"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

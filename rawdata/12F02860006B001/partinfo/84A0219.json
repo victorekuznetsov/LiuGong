@@ -1,0 +1,68 @@
+{
+ "partNO": "84A0219",
+ "parentPartNO": "08C7481",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A0219",
+    "partName": "护套(黑)",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "85.0*24.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A0219",
+    "配件名称": "护套(黑)",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "85.0* 24.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "08C7481"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOOT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A0219",
+    "Part Name": "BOOT",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "85.0* 24.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "08C7481"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

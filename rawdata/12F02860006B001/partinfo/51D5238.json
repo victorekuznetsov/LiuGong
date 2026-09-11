@@ -1,0 +1,68 @@
+{
+ "partNO": "51D5238",
+ "parentPartNO": "47C9678",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "51D5238",
+    "partName": "扶手箱支架",
+    "spec": "51D5238",
+    "weightKg": "2.6",
+    "sizeMm": "498.0*260.0*110.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "51D5238",
+    "配件名称": "扶手箱支架",
+    "规格": "51D5238",
+    "重量(KG)": "2.6",
+    "尺寸(mm)": "498.0* 260.0* 110.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C9678"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRACKET",
+    "spec": "51D5238",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "51D5238",
+    "Part Name": "BRACKET",
+    "Specification": "51D5238",
+    "Weight": "2.6",
+    "Size": "498.0* 260.0* 110.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C9678"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "partNO": "51C0166",
+ "parentPartNO": "33Y1102",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "51C0166",
+    "partName": "引导轮总成",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "638.0*400.0*640.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "认证件 51C0166C1;双向互换"
+   },
+   "attrsRaw": {
+    "配件编码": "51C0166",
+    "配件名称": "引导轮总成",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "638.0* 400.0* 640.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "认证件 51C0166C1;双向互换"
+   },
+   "photos": [
+    "/part/zp/35393535363735343535353a353a3833353435343536",
+    "/part/zp/35393535363735343535353a353a3833353435343536"
+   ],
+   "parentPartNO": "33Y1102"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "IDLER AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "51C0166",
+    "Part Name": "IDLER AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "638.0* 400.0* 640.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CERTIFICATION PARTS IS 51C0166C1;INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/35393535363735343535353a353a3833353435343536",
+    "/part/zp/35393535363735343535353a353a3833353435343536"
+   ],
+   "parentPartNO": "33Y1102"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

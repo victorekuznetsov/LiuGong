@@ -1,0 +1,24 @@
+[
+ {
+  "callout": 1,
+  "partNO": "SP259317",
+  "partName": "钥匙40mm",
+  "qty": "1",
+  "storeTypeName": "2Y",
+  "note": "",
+  "haveSupersession": false,
+  "haveNote": false,
+  "havePartPicture": false,
+  "haveBulletin": false,
+  "checked": false,
+  "mpq": "1",
+  "sc": "Y",
+  "visible": true,
+  "parentPartNO": "21C0733",
+  "serviceSupportType": null,
+  "preServed4": " ",
+  "order": true,
+  "kit": false,
+  "saleReman": false
+ }
+]

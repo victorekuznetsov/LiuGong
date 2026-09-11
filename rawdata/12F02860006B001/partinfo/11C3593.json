@@ -1,0 +1,68 @@
+{
+ "partNO": "11C3593",
+ "parentPartNO": "42C2440",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "11C3593",
+    "partName": "回转马达",
+    "spec": "M5X180CHB-10A-B1A/330",
+    "weightKg": "68.288",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "11C3593",
+    "配件名称": "回转马达",
+    "规格": "M5X180CHB-10A-B1A/330",
+    "重量(KG)": "68.288",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2440"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SWING MOTOR",
+    "spec": "M5X180CHB-10A-B1A/330",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "11C3593",
+    "Part Name": "SWING MOTOR",
+    "Specification": "M5X180CHB-10A-B1A/330",
+    "Weight": "68.288",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C2440"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
