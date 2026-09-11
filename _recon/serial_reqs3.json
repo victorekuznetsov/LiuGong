@@ -1,0 +1,12 @@
+[
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/product/all",
+    "post": null
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/product/part-sn-type",
+    "post": null
+  }
+]

@@ -1,0 +1,17 @@
+ssoweb.liugong.com loginType = passaccount
+epc.liugong.com JSESSIONID = fab784d6-e392-4053-af76-b2a969bd0a45
+.epc.liugong.com Hm_lvt_2f25ef1b2943686e62b94fc1ed5559ad = 1789060504
+.epc.liugong.com HMACCOUNT = 59B83E401844A24D
+epc.liugong.com org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE = en_US
+.epc.liugong.com Hm_lpvt_2f25ef1b2943686e62b94fc1ed5559ad = 1789064469
+sis.liugong.com lang = zh-CN
+sis.liugong.com JSESSIONID = F171093BE7C3EA6E94C3875DE1345163
+sis.liugong.com token = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyM
+ssoweb.liugong.com JSESSIONID = 2B0E37D4E016C51B55D304CD6E4435F7
+ssoweb.liugong.com randTxt = 2785814b9be04b4aa7140797c3fc6ad4
+sso.liugong.com tgc = TGC-xuycRhDs4xF8wok0
+sso.liugong.com JSESSIONID = 251A1B597E6069CA04E28F7B2BE7AB6E
+netauthmanage.liugong.com tgc = TGC-xuycRhDs4xF8wok0
+pages:
+  https://sis.liugong.com/tis/#/struct?time=1789065620198 | SIS
+  https://ssoweb.liugong.com/jsp/custompage/0/usergateway/userapplist.jsp | 柳工统一认证系统

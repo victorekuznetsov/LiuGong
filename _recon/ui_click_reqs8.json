@@ -1,0 +1,32 @@
+[
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/usage/legend-file?url=liugongsbomfile/legend/svg_audit/60C6073_003_00.svg",
+    "post": null
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/usage/parts",
+    "post": "vin=LGC9125FARC135673&modelCode=08F0096C011B002&systemCode=Y05&legendCode=60C6073_003_00&parentPartNo="
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/usage/legend-file?url=liugongsbomfile/legend/svg_audit/60C6073_003_00.svg",
+    "post": null
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/legend-usage-group/childNode",
+    "post": "modelCode=LGC9125FARC135673&legendCode=60C6073_003_00&codeType=vin"
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/usage/parts",
+    "post": "vin=LGC9125FARC135673&modelCode=08F0096C011B002&systemCode=Y05&legendCode=60C6073_003_00&parentPartNo="
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/usage/legend-file?url=liugongsbomfile/legend/svg_audit/60C6073_003_00.svg",
+    "post": null
+  }
+]

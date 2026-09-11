@@ -1,0 +1,460 @@
+==========================================
+=== CLG942EHKSE917908  Fri Sep 11 00:26:55 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG942EHKSE917908 failed: HTTP 401
+!!! CLG942EHKSE917908 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG942EHKSE917908 failed: HTTP 401
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG942EHKSE917908 failed: HTTP 401
+!!! CLG942EHKSE917908 / photos FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG942EHKSE917908 failed: HTTP 401
+==========================================
+=== CLG890HZTSL831819  Fri Sep 11 00:28:37 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG890HZTSL831819 failed: HTTP 401
+!!! CLG890HZTSL831819 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG890HZTSL831819 failed: HTTP 401
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG890HZTSL831819 failed: HTTP 401
+!!! CLG890HZTSL831819 / photos FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG890HZTSL831819 failed: HTTP 401
+==========================================
+=== CLG8128HERL801592  Fri Sep 11 00:30:18 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG8128HERL801592 failed: HTTP 401
+!!! CLG8128HERL801592 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG8128HERL801592 failed: HTTP 401
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG8128HERL801592 failed: HTTP 401
+!!! CLG8128HERL801592 / photos FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG8128HERL801592 failed: HTTP 401
+==========================================
+=== CLG862HZLRL813829  Fri Sep 11 00:31:59 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG862HZLRL813829 failed: HTTP 401
+!!! CLG862HZLRL813829 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG862HZLRL813829 failed: HTTP 401
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG862HZLRL813829 failed: HTTP 401
+!!! CLG862HZLRL813829 / photos FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/CLG862HZLRL813829 failed: HTTP 401
+==========================================
+=== LGJ6614EHNR058121  Fri Sep 11 00:33:41 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGJ6614EHNR058121 failed: HTTP 401
+!!! LGJ6614EHNR058121 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGJ6614EHNR058121 failed: HTTP 401
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGJ6614EHNR058121 failed: HTTP 401
+!!! LGJ6614EHNR058121 / photos FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGJ6614EHNR058121 failed: ConnectionError
+==========================================
+=== LGC922FWHSC139999  Fri Sep 11 00:35:21 RTZ 2026
+==========================================
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGC922FWHSC139999 failed: HTTP 401
+!!! LGC922FWHSC139999 / details FAILED, retrying once
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 265, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 95, in main
+    meta, html = machine_meta(epc["zh_CN"], vin)
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 49, in machine_meta
+    r = epc._req("GET", f"/usage/vin/{vin}")
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 61, in _req
+    raise RuntimeError(f"{method} {path} failed: {last}")
+RuntimeError: GET /usage/vin/LGC922FWHSC139999 failed: ConnectionError
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+  details+photos 50/2725
+  details+photos 100/2725
+  details+photos 150/2725
+  details+photos 200/2725
+  details+photos 250/2725
+  details+photos 300/2725
+  details+photos 350/2725
+  details+photos 400/2725
+  details+photos 450/2725
+  details+photos 500/2725
+  details+photos 550/2725
+  details+photos 600/2725
+  details+photos 650/2725
+  details+photos 700/2725
+  details+photos 750/2725
+  details+photos 800/2725
+  details+photos 850/2725
+  details+photos 900/2725
+  details+photos 950/2725
+  details+photos 1000/2725
+  details+photos 1050/2725
+  details+photos 1100/2725
+  details+photos 1150/2725
+  details+photos 1200/2725
+  details+photos 1250/2725
+  details+photos 1300/2725
+  details+photos 1350/2725
+  details+photos 1400/2725
+  details+photos 1450/2725
+  details+photos 1500/2725
+  details+photos 1550/2725
+  details+photos 1600/2725
+  details+photos 1650/2725
+  details+photos 1700/2725
+  details+photos 1750/2725
+  details+photos 1800/2725
+  details+photos 1850/2725
+  details+photos 1900/2725
+  details+photos 1950/2725
+  details+photos 2000/2725
+  details+photos 2050/2725
+  details+photos 2100/2725
+  details+photos 2150/2725
+  details+photos 2200/2725
+  details+photos 2250/2725
+  details+photos 2300/2725
+  details+photos 2350/2725
+  details+photos 2400/2725
+  details+photos 2450/2725
+  details+photos 2500/2725
+  details+photos 2550/2725
+  details+photos 2600/2725
+  details+photos 2650/2725
+  details+photos 2700/2725
+  details+photos done
+==========================================
+=== CLG975FZASE912911  Fri Sep 11 00:52:15 RTZ 2026
+==========================================
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+  details+photos 50/2538
+  details+photos 100/2538
+  details+photos 150/2538
+  details+photos 200/2538
+  details+photos 250/2538
+  details+photos 300/2538
+  details+photos 350/2538
+  details+photos 400/2538
+  details+photos 450/2538
+  details+photos 500/2538
+  details+photos 550/2538
+  details+photos 600/2538
+  details+photos 650/2538
+  details+photos 700/2538
+  details+photos 750/2538
+  details+photos 800/2538
+  details+photos 850/2538
+  details+photos 900/2538
+  details+photos 950/2538
+  details+photos 1000/2538
+  details+photos 1050/2538
+  details+photos 1100/2538
+  details+photos 1150/2538
+  details+photos 1200/2538
+  details+photos 1250/2538
+  details+photos 1300/2538
+  details+photos 1350/2538
+  details+photos 1400/2538
+  details+photos 1450/2538
+  details+photos 1500/2538
+  details+photos 1550/2538
+  details+photos 1600/2538
+  details+photos 1650/2538
+  details+photos 1700/2538
+  details+photos 1750/2538
+  details+photos 1800/2538
+  details+photos 1850/2538
+  details+photos 1900/2538
+  details+photos 1950/2538
+  details+photos 2000/2538
+  details+photos 2050/2538
+  details+photos 2100/2538
+  details+photos 2150/2538
+  details+photos 2200/2538
+  details+photos 2250/2538
+  details+photos 2300/2538
+  details+photos 2350/2538
+  details+photos 2400/2538
+  details+photos 2450/2538
+  details+photos 2500/2538
+  details+photos done
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+  details+photos 50/2538
+  details+photos 100/2538
+  details+photos 150/2538
+  details+photos 200/2538
+  details+photos 250/2538
+  details+photos 300/2538
+  details+photos 350/2538
+  details+photos 400/2538
+  details+photos 450/2538
+  details+photos 500/2538
+  details+photos 550/2538
+  details+photos 600/2538
+  details+photos 650/2538
+  details+photos 700/2538
+  details+photos 750/2538
+  details+photos 800/2538
+  details+photos 850/2538
+  details+photos 900/2538
+  details+photos 950/2538
+  details+photos 1000/2538
+  details+photos 1050/2538
+  details+photos 1100/2538
+  details+photos 1150/2538
+  details+photos 1200/2538
+  details+photos 1250/2538
+  details+photos 1300/2538
+  details+photos 1350/2538
+  details+photos 1400/2538
+  details+photos 1450/2538
+  details+photos 1500/2538
+  details+photos 1550/2538
+  details+photos 1600/2538
+  details+photos 1650/2538
+  details+photos 1700/2538
+  details+photos 1750/2538
+  details+photos 1800/2538
+  details+photos 1850/2538
+  details+photos 1900/2538
+  details+photos 1950/2538
+  details+photos 2000/2538
+  details+photos 2050/2538
+  details+photos 2100/2538
+  details+photos 2150/2538
+  details+photos 2200/2538
+  details+photos 2250/2538
+  details+photos 2300/2538
+  details+photos 2350/2538
+  details+photos 2400/2538
+  details+photos 2450/2538
+  details+photos 2500/2538
+  details+photos done
+=== FLEET DETAILS+PHOTOS DONE Fri Sep 11 01:15:29 RTZ 2026 ===

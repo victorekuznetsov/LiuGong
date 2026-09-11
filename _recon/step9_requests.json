@@ -1,0 +1,512 @@
+[
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/usage/vin/LGC9125FARC135673",
+    "post": null,
+    "type": "document"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery-1.8.1.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/all.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/common.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/header.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/dialog.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/jquery-ui.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/usage.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/multiple-select.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/require.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/uploadifive.css",
+    "post": null,
+    "type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/main.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/usage/main.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/head_bg.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/nav_action_bg.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/icon.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/logo.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_c.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_l.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_b.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_r.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/crumbs_bg.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/ajax.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/search.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/applySearch.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/ecnSearch.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/notification.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/bulletin.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/manual.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/reserve.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/history.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/userInfo.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/modifyPassword.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/accountApplication.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/advancedSearch.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/crumbs.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/shoppingCart.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/collectDetail.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/partUnSaleList.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/replaceInfo.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/configInfo.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/partSerialNum.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/orderQty.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/hm.autocomplete.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/mustache.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.md5.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/domReady.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/usage/group.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/usage/parts.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/usage/legend_new.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/usage/layout.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/amplify.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/json2.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/layResizable/layResizable.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://hm.baidu.com/hm.js?2f25ef1b2943686e62b94fc1ed5559ad",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/private/grid.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/blockUI/jquery.blockUI.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/multipleSelect/jquery.multiple.select.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/linq.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/jquery.extend.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/uploadify/jquery.uploadifive.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.scrollIntoView.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/private/export.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery-ui-1.9.0.custom.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/base/base.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.ui.datepicker-zh_CN.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/d3.v3.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.showLoading.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/snap.svg.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/private/swfobject.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/svgOperator.min.js",
+    "post": null,
+    "type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217152",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217155",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217155",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217157",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217160",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217161",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/product/tree?_=1789060217168",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/shopping-cart/parts-count",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "http://epc.liugong.com:800/question/tips/list",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/copy.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/datepicker_btn_img.png",
+    "post": null,
+    "type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/check-pwd?_=1789060217275",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/bulletin-qty?_=1789060217276",
+    "post": null,
+    "type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/notice-qty?_=1789060217972",
+    "post": null,
+    "type": "xhr"
+  }
+]

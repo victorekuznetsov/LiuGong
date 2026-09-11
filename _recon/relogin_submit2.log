@@ -1,0 +1,6 @@
+n text inputs: 0
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\_recon\relogin_submit2.py", line 11, in <module>
+    texts[-1].fill("5899")
+    ~~~~~^^^^
+IndexError: list index out of range

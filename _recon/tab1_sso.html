@@ -1,0 +1,477 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="zh-CN"><head>
+	<!-- 用来防止别人在框架里调用你的页面 -->
+	<meta http-equiv="Window-target" content="_top">
+	<!-- 解决部分兼容性问题，如果安装了GCF，则使用GCF来渲染页面，如果未安装GCF，则使用最高版本的IE内核进行渲染。 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1; IE=edge"> 
+	<title>柳工统一认证系统</title>
+                <link rel="shortcut icon" type="image/x-icon" href="/image/login/favicon-16x16.png" media="screen">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/login/yanshistyle2.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/modal/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/common/sweetalert.css">
+	<script type="text/javascript" src="/modal/sweetalert/custom-sweetalert.js"></script>
+	<script type="text/javascript" src="/js/common/checkbrowser.js"></script>
+	<script type="text/javascript" src="/js/login/InfosecNetAuthSSOCNGAgent.min.js"></script>
+	<script type="text/javascript">
+		var version=getIEVersion();
+		if(version>9  || version==-1 ){
+			document.write("<"+"script language=javascript src="+"'/js/jQuery/jquery-3.4.1.min.js'>"+"<"+"/script>");
+			document.write("<"+"script language=javascript src="+"'/modal/bootstrap/js/bootstrap.min.js'>"+"<"+"/script>");
+			document.write("<"+"script language=javascript src="+"'/js/common/sweetalert.min.js'>"+"<"+"/script>");
+		}else{
+			document.write("<"+"script language=javascript src="+"'/js/jQuery/jquery-ie8.min.js'>"+"<"+"/script>");
+			document.write("<"+"script language=javascript src="+"'/js/common/html5shiv.js'>"+"<"+"/script>");
+			document.write("<"+"script language=javascript src="+"'/js/common/respond.min.js'>"+"<"+"/script>");
+		}
+	</script><script language="javascript" src="/js/jQuery/jquery-3.4.1.min.js"></script><script language="javascript" src="/modal/bootstrap/js/bootstrap.min.js"></script><script language="javascript" src="/js/common/sweetalert.min.js"></script>
+	<script type="text/javascript" src="/js/login/allowmanyaccount.js"></script>
+	<script type="text/javascript" src="/js/common/jquery.i18n.properties-min-1.0.9.js"></script>
+	<script type="text/javascript" src="/js/common/common.js"></script>
+	<script type="text/javascript" src="/js/login/sso.js"></script>
+	<style type="text/css">
+	</style>
+</head>
+
+<body>
+	<div class="topbox">
+		<div class="topbody">
+			<div class="fl" style="margin-top: 0px;">
+				<img src="/image/login/logo.jpg"> <span class="topname">柳工统一身份认证管理系统</span>
+			</div>
+			<!-- <div class="cls">82</div> -->
+		</div>
+	</div>
+	<div class="bodymid">
+		<div class="bodybox" style="width:100%;">
+			<input type="hidden" id="tempNo" name="tempNo" value="0" style="">
+		 	<input type="hidden" id="logintype" name="logintype" value="passaccount" style="">
+		 	<input id="openbrowser_inp" type="hidden" value="true" style="">
+			<div class="topstep" style="width: 100%">
+				<div class="topbox1" style="background-color: #6276a3; margin-top: 0px;">
+					<div class="topbox_r">
+						<div class="topmenu">
+							<a href="javascript:void(0);" onmouseover="this.style.color='#fff'" class="changePw" style="color: rgb(255, 255, 255);">个人信息修改</a> ｜ <a href="javascript:void(0);" onmouseover="this.style.color='#fff'" class="personzh" style="color: rgb(255, 255, 255);">帐号管理</a> ｜ <a href="javascript:;" onclick="loginout();" onmouseover="this.style.color='#fff'"> 退出</a>
+						</div>
+						<div class="username">
+							欢迎,
+							<strong id="currentuser">Виктор</strong>
+						</div>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+				<div style="background-color: #fc6301; height: 3px"></div>
+			</div>
+			<div class="contentcontainer">
+				<div class="appbody">
+					<div class="bodylist">
+						<input type="hidden" id="addappreview" value="添加应用账户" style="">
+						<div class="yingyong" style="padding:0px;position:relative;overflow-y:auto; height:90%;">
+							<table>
+								<tbody><tr>
+									<td>
+						         		<!-- cs系统展示 -->
+								         <ul id="csinfoul" class="tb" style="padding:0px;">
+								         
+								         </ul>
+				         			</td>
+				         		</tr>
+								<tr>
+									<td>
+										<!-- bs系统展示 -->
+				         				<ul id="bsinfoul" class="tb" style="padding:0px;">
+							
+				         				<li><a href="javascript:void(0);" onclick="javascript:swalerthello('mail263')"> <img src="/portalmanager/image/web_mail263.png" onerror="this.src='/image/yumao.png'" vspace="2" width="40px" height="35px" style="width:40px; height:35px"><font class="cs_showname" title="外邮">外邮</font></a></li><li><a href="javascript:void(0);" onclick="showMultipleAccounts('EPC','1','1','0')"><img src="/portalmanager/image/web_EPC.jpg" onerror="this.src='/image/yumao.png'" vspace="2" width="40px" height="35px" style="width:40px; height:35px"><font class="cs_showname" title="EPC">EPC</font></a></li><li><a href="javascript:void(0);" onclick="showMultipleAccounts('epc2202603','1','1','0')"><img src="/image/yumao.png" onerror="this.src='/image/yumao.png'" vspace="2" width="40px" height="35px" style="width:40px; height:35px"><font class="cs_showname" title="EPC2">EPC2</font></a></li><li><a href="javascript:void(0);" onclick="showMultipleAccounts('sis202510','1','1','0')"><img src="/image/yumao.png" onerror="this.src='/image/yumao.png'" vspace="2" width="40px" height="35px" style="width:40px; height:35px"><font class="cs_showname" title="SIS">SIS</font></a></li></ul>
+				        			</td>
+				        		</tr>
+							</tbody></table> 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		
+  
+	
+	<div class="footbox" style="background-color: #6276a3; margin: 0px 0px">
+		<div style="text-align: center; color: #fff">
+			版权所有：广西柳工机械股份有限公司
+			| 桂ICP备05004818号 | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45020402000008 
+		" style="display: inline-block; text-decoration: none; height: 20px; line-height: 20px;">
+				<img src="/image/20160705.png" style="float: left;"> <font color="#fff">桂公网安备 45020402000008号</font>
+			</a>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="myRoleModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+	    	<div class="modal-content">
+	      		<div class="modal-header">
+	        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+	        		<h4 class="modal-title">请选择账号</h4>
+	      		</div>
+	     		<div class="modal-body">
+	        		<table class="table  table-striped">
+	              		<tbody><tr><th width="10%"></th><th width="90%">账号名称</th></tr>
+	              		</tbody><tbody id="accountInfog"><input type="hidden" name="browetype" value="0" style=""><input type="hidden" name="loginAccountType" value="1" style=""><input type="hidden" name="loginType" value="1" style=""><input type="hidden" name="appName" value="EPC" style=""><input type="hidden" name="protocolLoginUrl" value="http://epc.liugong.com:800/account/login_sso" style=""><input type="hidden" name="failType" value="null" style=""><input type="hidden" name="windowTitle" value="undefined" style=""><input type="hidden" name="multipleAccounts" value="0" style=""><input type="hidden" name="appAccount" value="kuznetsovve@industrservice.ru" style=""></tbody>
+	        		</table>
+	      		</div>
+	      		<div class="modal-footer ">
+	         		<button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+	         		<button type="button" id="modal_suer" class="btn btn-primary" data-dismiss="modal">确定</button> 
+	      		</div>
+	    	</div>
+	  	</div>
+	</div>
+
+	<!-- 人脸插件窗口 -->
+	<div id="face-div" style="display: none;position: fixed;z-index: 999;top: 0;margin: 0 auto;left: 0;right: 0;" align="center"></div>
+	
+	<script type="text/javascript" src="/js/login/applisteach.js"></script>
+	<!-- 人脸JS -->
+	<script type="text/javascript" src="/js/login/detect-yc.js"></script>
+	<script type="text/javascript" src="/js/login/facecollect.js"></script>
+	<script type="text/javascript">
+		var base = "" ;
+		var ctxPath = "";
+		var gatewayurl = "https://netauthmanage.liugong.com";
+		var ssourl = "https://sso.liugong.com";
+		var apass = true;
+		var version=getIEVersion();
+		if(version>9  || version==-1 ){
+			function showMutiAccountChoice(){
+				$("#myRoleModal").modal('show');
+			}
+		}else{
+			function closeMutiAccountChoice(){
+				document.getElementById("myRoleModal").style.display='none';
+			}
+
+			function showMutiAccountChoice(){
+				document.getElementById("myRoleModal").style.display='block';
+			}
+		}
+		$(function(){
+			$.ajaxSetup({
+			    xhrFields: {
+			    withCredentials: true
+			    },
+			    crossDomain: true,
+			    complete:function(jqxhr){
+		    	  if(jqxhr.getResponseHeader("redirectUrl")){
+		    		 var url = jqxhr.getResponseHeader("redirectUrl") ;
+		             window.location.href = url ; 
+		          } 
+		        },
+			});
+			isIE();
+			// 用户访问系统，更新访问系统时间
+			$.get(gatewayurl+"/user/post/setfirstlogintime") ;
+			
+			function changpwd(){
+				window.open("/userchange/modifyshow/0?tempNo="+$("#tempNo").val()+"&logintype="+$("#logintype").val(), "_self");
+			}
+			//修改密码的click
+			$(".changePw").click(function(){
+				window.open("/userchange/modifyshow/1?tempNo="+$("#tempNo").val()+"&logintype="+$("#logintype").val(), "_self");
+			});
+			
+			$('.personzh').click(function(){
+				window.open("/jsp/custompage/" + $("#tempNo").val() + "/usergateway/accountmanage.jsp?ispublic=all", "_self");
+			});
+			
+			//人脸采集
+			$(".faceCollect").click(function(){
+				createPlugin();
+			});
+			
+			//人脸解绑
+			$(".faceUntied").click(function(){
+				untiedFace();
+			});
+			
+			var ajaxURL = gatewayurl+"/portalmanager/get/appconfig/appshow?showtype=csorbs";
+			$.ajax({
+				type : "POST",
+				dataType : "json",
+				xhrFields: {
+					withCredentials: true
+				},
+				crossDomain : true,
+				url : ajaxURL,
+				success : function(result) {
+					if(result!=null && result.flag == 'error'){
+						window.location.href = "/login/welcome";
+					}
+					
+					if(result == null || (result.flag != 'error' && result.flag != 'success')){
+						swal("",result.msg,"error");
+					}
+					
+					//加载logo
+					if(result.recopindexlogname != null && result.recopindexlogname != ''){
+						var logo = ctxPath + result.recopindexlogname;
+						$('#navbar__logo').attr("src", logo);
+					}
+					//回显是否开启指定浏览器开关
+					openbrowser = result.openbrowser;
+					$("#openbrowser_inp").val(openbrowser);
+					//页面配置信息
+					var pageconfig = result.temp;
+					if(pageconfig != null){
+						// 版权声明
+						if(pageconfig.indexCopyRight != null && pageconfig.indexCopyRight != ''){
+							$('#footbox1').html(pageconfig.indexCopyRight);
+						}
+					}
+					
+					$('#currentuser').html(result.username);
+					$('.footbox1').html(result.indexrecopyright);
+					$('#tempNo').val(result.temp.tempNo);
+					$('#logintype').val(result.logintype);
+					
+					var reason1 = result.reason1; // 首次登录
+					var reason2 = result.reason2;   // 密码过期
+					// 首次登录，强制修改密码生效 
+					if(reason1){
+						apass = false;
+						try {
+							swal({
+								title: $.i18n.prop("change_password"), 
+								text: $.i18n.prop("ensure_security_please_change_password"), 
+								type: "warning",
+								showCancelButton: true,
+								closeOnConfirm: false,
+								confirmButtonText: $.i18n.prop("ensure"),
+								confirmButtonColor: "#ec6c62"
+								}, 
+								function(isConfirm) {
+									if(isConfirm){
+										changpwd();
+										apass = false;
+									}else{
+										if(result == null || (result.flag != 'error' && result.flag != 'success')){
+											setTimeout(function (){
+												swal("",result.msg,"error");
+											},1000);
+										}
+									}
+								}
+							);
+						} catch (e) {
+							if(confirm($.i18n.prop("ensure_security_please_change_password"))){
+								changpwd();
+								apass = false; 
+							}
+						}
+					}else if(reason2){
+						try {
+							swal({
+								title: $.i18n.prop("password_expired"), 
+								text: $.i18n.prop("main_password_expired_please_update"), 
+								type: "warning",
+								showCancelButton: true,
+								closeOnConfirm: false,
+								confirmButtonText: $.i18n.prop("ensure"),
+								confirmButtonColor: "#ec6c62"
+								}, 
+								function(isConfirm) {
+									if(isConfirm){
+										changpwd();
+										apass = false;
+									}else{
+										if(result == null || (result.flag != 'error' && result.flag != 'success')){
+											setTimeout(function (){
+												swal("",result.msg,"error");
+											},1000);
+										}
+									}
+								}
+							);
+						} catch (e) {
+							if(confirm($.i18n.prop("ensure_security_please_change_password"))){
+								changpwd();
+								apass = false; 
+							}
+						}
+					}
+					if(result!=null && result.flag == 'success'){
+						csofbseach(result)
+					}
+				},
+				error : function(data) {
+					swal("","获取页面资源异常，请重新登录","error");
+					window.location.href = "/login/welcome";
+				}
+			});
+		});
+		function isIE() {
+		    if(!!window.ActiveXObject || "ActiveXObject" in window){
+		    	$("#face-dropdown").show();
+		    }
+		}
+		//应用账户添加
+		function swalerthello(appname){
+			if(appname){
+				try {
+					swal({
+						title: $.i18n.prop("suggest_you_add_account"), 
+						text: "", 
+						type: "warning",
+						showCancelButton: true,
+						closeOnConfirm: false,
+						confirmButtonText: $.i18n.prop("ensure"),
+						confirmButtonColor: "#ec6c62"
+						}, 
+						function() {
+							window.open("/jsp/custompage/" + $("#tempNo").val() + "/usergateway/accountview.jsp?type=add&addview=1&resName="+appname, "_self");
+						}
+					);
+				} catch (e) {
+					if(confirm($.i18n.prop("suggest_you_add_account"))){
+						window.open("/jsp/custompage/" + $("#tempNo").val() + "/usergateway/accountview.jsp?type=add&addview=1&resName="+appname, "_self");
+					}else{
+						return;
+					}
+				}
+			}
+		}
+		
+		//认证级别跳转登录页
+		$('.contentcontainer').on('click','.fwdlogin',function(){
+			var status = $(this).attr('restate');
+			if(status){
+				try {
+					swal({
+						title: $.i18n.prop("loginlevel_not_enough"), 
+						text: "", 
+						type: "warning",
+						showCancelButton: true,
+						closeOnConfirm: false,
+						confirmButtonText: $.i18n.prop("ensure"),
+						confirmButtonColor: "#ec6c62"
+						}, 
+						function() {
+							var expdate = new Date();
+							expdate.setTime(expdate.getTime() + 14 * (24 * 60 * 60 * 1000));
+							SetCookie("logintype", status, expdate);
+							parent.location.href = "/login/welcome?again=true&RelayState=" + status;
+						}
+					);
+				} catch (e) {
+					if(confirm($.i18n.prop("loginlevel_not_enough"))){
+						var expdate = new Date();
+						expdate.setTime(expdate.getTime() + 14 * (24 * 60 * 60 * 1000));
+						SetCookie("logintype", status, expdate);
+						parent.location.href = "/login/welcome?again=true&RelayState=" + status;
+					}
+				}
+			}
+		});
+		
+		//cookies保存
+		function SetCookie(name, value, expires) {
+			var argv = SetCookie.arguments;
+			var argc = SetCookie.arguments.length;
+			var expires = (argc > 2) ? argv[2] : null;
+			var path = (argc > 3) ? argv[3] : null;
+			var domain = (argc > 4) ? argv[4] : null;
+			var secure = (argc > 5) ? argv[5] : false;
+			document.cookie = name + "=" + escape(value)
+					+ ((expires == null) ? "" : ("; expires=" + expires.toGMTString()))
+					+ ((path == null) ? "" : ("; path=" + path))
+					+ ((domain == null) ? "" : ("; domain=" + domain))
+					+ ((secure == true) ? "; secure" : "");
+		}
+		
+		
+		// 根据appName获取 cs _mess方式信息 调控件登录
+		function cs_messs(appName,user,pwd){
+			document.getElementById("myRoleModal").style.display='none';
+			//$("#myRoleModal").modal('hide');
+			var userAndPwd = "";
+			if(user.indexOf(';') >= 0){
+				userAndPwd = $("input[name=certsel]:checked").val() ;
+				if(userAndPwd == null || userAndPwd == ""){
+					swal("",$.i18n.prop("please_select_user"),"info") ;
+					return ;
+				}
+				user = userAndPwd.split(";")[0];
+				pwd = userAndPwd.split(";")[1];
+			}
+			
+			
+			if(apass == false){
+				swalShow($.i18n.prop("password_expired_please_update"), $.i18n.prop("password_expired_please_update"), "warning");
+				return ;
+			}
+			$.ajax({
+				url: gatewayurl+"/portalmanager/get/CSSSOConfig/testCSSS/3.0",
+				type:'post',
+				dataType:'json',
+				data:'appName='+appName+"&testUser="+user+"&testPassword="+pwd,
+				success:function(jsonObj){
+					if(jsonObj.flag==1){
+						swalShow("",$.i18n.prop("server_exception"),"error");
+						return ;
+					}else if(jsonObj == "redirect@login#localtion"){ // session 过期重定向到登录页
+						parent.location.href = "/login/welcome";
+					}else if(jsonObj.flag==2){
+						swalShow("",jsonObj.error,"error");
+						return ;
+					}else if(jsonObj.flag==0){
+						var csVO = jsonObj.csVO ;
+		        		var title = csVO.title ;
+		        		var toolFormat = csVO.toolFormat;
+		        		var toolMessage = csVO.toolMessage;
+		        		var	path = csVO.url;
+		        		var param = jsonObj.param;
+		        		var failHandle = csVO.failHandle;
+		        		var failType = csVO.failType;
+		        		var failEigen = csVO.failEigen;
+		        		var failEigenvalue = csVO.failEigenvalue;
+		        		cslogin_message(appName,path,param,title,failHandle,failType,failEigen,failEigenvalue,toolFormat,toolMessage,title);
+					};
+				},
+				error:function(){
+					swalShow("",$.i18n.prop("request_timed_out_please_refresh_try_again"),"error");
+				}
+			})
+		}
+		
+		function bsautologin(url,appname){
+			// 记录日志
+			$.post(gatewayurl+"/portalmanager/post/CSSSOConfig/tabloginwritelog",{"appName":appname}) ;
+			// 打开新窗口，访问业务系统
+			window.open(url);  
+		}
+		
+		function loginout(){
+			var ajaxURL = ssourl + "/ssoserver/ignore/out/loginout";
+			$.ajax({
+				type : "POST",
+				dataType : "json",
+				xhrFields : {
+					withCredentials : true
+				},
+				crossDomain : true,
+				url : ajaxURL,
+				data : "",
+				success : function(result) {
+					if (result.code == 200) {
+						location.href="/login/welcome";
+					} else {
+						swalShow("",result.message,"error");
+						return;
+					}
+				},
+				error : function(data) {
+					location.href="/login/welcome";
+				}
+			});
+		}
+	</script>
+	
+
+</body></html>

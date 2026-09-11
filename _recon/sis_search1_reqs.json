@@ -1,0 +1,17 @@
+[
+  {
+    "method": "GET",
+    "url": "https://sis.liugong.com/api/tis/rest/home/vin?vin=LGC9125FARC135673&accurate=false",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "https://sis.liugong.com/api/tis/rest/home/vin?vin=LGC9125FARC135673&accurate=true",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "https://sis.liugong.com/api/tis/rest/home/applic?number=LGC9125FARC135673&vinSearch=true&type=SERIAL_NUMBER&code0=2&code1=4&code2=7777&code3=08F0096C011B002",
+    "post": null
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "EPC",
+    "href": "javascript:void(0);",
+    "onclick": "showMultipleAccounts('EPC','1','1','0')",
+    "id": "",
+    "outerHTML": "<a href=\"javascript:void(0);\" onclick=\"showMultipleAccounts('EPC','1','1','0')\"><img src=\"/portalmanager/image/web_EPC.jpg\" onerror=\"this.src='/image/yumao.png'\" vspace=\"2\" width=\"40px\" height=\"35px\" style=\"width:40px; height:35px\"><font class=\"cs_sh"
+  },
+  {
+    "text": "EPC2",
+    "href": "javascript:void(0);",
+    "onclick": "showMultipleAccounts('epc2202603','1','1','0')",
+    "id": "",
+    "outerHTML": "<a href=\"javascript:void(0);\" onclick=\"showMultipleAccounts('epc2202603','1','1','0')\"><img src=\"/image/yumao.png\" onerror=\"this.src='/image/yumao.png'\" vspace=\"2\" width=\"40px\" height=\"35px\" style=\"width:40px; height:35px\"><font class=\"cs_showname\" t"
+  },
+  {
+    "text": "SIS",
+    "href": "javascript:void(0);",
+    "onclick": "showMultipleAccounts('sis202510','1','1','0')",
+    "id": "",
+    "outerHTML": "<a href=\"javascript:void(0);\" onclick=\"showMultipleAccounts('sis202510','1','1','0')\"><img src=\"/image/yumao.png\" onerror=\"this.src='/image/yumao.png'\" vspace=\"2\" width=\"40px\" height=\"35px\" style=\"width:40px; height:35px\"><font class=\"cs_showname\" ti"
+  }
+]

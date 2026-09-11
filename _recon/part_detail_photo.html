@@ -1,0 +1,4059 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="/js/libs/public/jquery-1.8.1.min.js"></script>
+<link rel="shortcut icon" href="/favicon.ico"  type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" media="all" href="/css/all.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/common.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/header.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/dialog.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/usage.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/multiple-select.css" />
+
+ <link rel="stylesheet" type="text/css" media="all" href="/css/detail.css" />
+
+
+
+
+<script type="text/javascript" src="/js/libs/public/require.js"></script>
+
+<script type="text/javascript">
+	require.config({
+		baseUrl : "/js/",
+		paths : {
+			// libs public
+			jquery : 'libs/public/jquery-1.8.1.min.js',
+			jqueryUI : 'libs/public/jquery-ui-1.9.0.custom.min.js',
+			jqueryDatepickeri18n : "libs/public/jquery.ui.datepicker-zh_CN.js",
+			amplify : 'libs/public/amplify.min.js',
+			mustache : 'libs/public/mustache.js',
+			linq : 'libs/public/linq.js',
+			json2 : 'libs/public/json2.js',
+			domReady : 'libs/public/domReady.js',
+			css : 'libs/public/css.js',
+			text : 'libs/public/text.js',
+			jqueryScrollIntoView :"libs/public/jquery.scrollIntoView.min.js",
+			jqueryMd5 :"libs/public/jquery.md5.js",
+
+			// libs private
+			ajax : 'libs/private/ajax.js',
+			jqExtend : 'libs/private/jquery.extend.js',
+			autocomplete: 'libs/private/hm.autocomplete.js',
+
+			// plugins public
+			blockUI : 'plugins/public/blockUI/jquery.blockUI.js',
+			//uploadify: "plugins/public/uploadify/jquery.uploadify.js",
+			uploadify: "plugins/public/uploadify/jquery.uploadifive.js",
+			layResizable: "plugins/public/layResizable/layResizable.js",
+			jqueryForm: "plugins/public/jqueryForm/jquery.form.js",
+			multipleSelect: 'plugins/public/multipleSelect/jquery.multiple.select.js',
+
+			// plugins private
+			grid:'plugins/private/grid.js',
+			'export':'plugins/private/export.js',
+			unqueUserLogin : 'plugins/private/uniqueUserLogin.js',
+			swfobject : 'plugins/private/swfobject.js',
+			history : 'plugins/private/history.js',
+
+			// module
+			base: "module/base/base.js",
+			model:"module/model/model.js",
+			crumbs:"module/header/crumbs.js",
+			layout:"module/usage/layout.js",
+			group:"module/usage/group.js",
+			parts:"module/usage/parts.js",
+			legend:"module/usage/legend.js",
+			search: "module/header/search.js",
+			reserve: "module/header/reserve.js",
+			applySearch: "module/header/applySearch.js",
+			ecnSearch: "module/header/ecnSearch.js",
+			history: "module/header/history.js",
+			notification: "module/header/notification.js",
+			bulletin: "module/header/bulletin.js",
+			manual:"module/header/manual.js",
+			shoppingCart: "module/header/shoppingCart.js",
+			collectDetail: "module/header/collectDetail.js",
+			partUnSaleList: "module/header/partUnSaleList.js",
+			modifyPassword: "module/header/modifyPassword.js",
+			accountApplication: "module/header/accountApplication.js",
+			myquestion: "module/question/myquestion.js",
+			questionSearch: "module/question/questionSearch.js",
+			userInfo: "module/header/userInfo.js",
+			advancedSearch: "module/header/advancedSearch.js",
+			configInfo: "module/header/configInfo.js",
+			partSerialNum: "module/header/partSerialNum.js",
+			replaceInfo: "module/header/replaceInfo.js",
+			orderQty: "module/header/orderQty.js",
+			supersession: "module/detail/supersession.js",
+			note: "module/detail/note.js",
+			conjunction: "module/detail/conjunction.js",
+			kit: "module/detail/kit.js",
+			saleReman: "module/detail/saleReman.js",
+			declareInfo: "module/detail/declareInfo.js",
+			detailLegend: "module/detail/detailLegend.js",
+			
+			// svg wbw 20200103 begin 
+			legend_new:"module/usage/legend_new.js",
+			
+			d3: "libs/public/d3.v3.min.js",
+			showLoading: "libs/public/jquery.showLoading.min.js",
+			snap: "libs/public/snap.svg.min.js",
+			svgOperator: "libs/private/svgOperator.min.js"
+			//end
+		},
+		shim : {
+			jquery : {
+				exports : '$'
+			},
+			jqueryUI : ['jquery'],
+			jqueryScrollIntoView:['jquery'],
+			jqueryDatepickeri18n : ['jquery', 'jqueryUI'],
+			jqueryMd5: ['jquery'],
+			layResizable: ['jquery'],
+			amplify : ['jquery'],
+			blockUI : ['jquery'],
+			jqueryForm : ['jquery'],
+			jqExtend : ['jquery'],
+			uploadify: ['jquery'],
+			multipleSelect: ['jquery'],
+			
+			//svg wbw 20200103 add
+			svgOperator: ['jquery', 'd3', 'showLoading', 'snap']
+		}
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    define("settings", [], function () {
+        return {
+            context: {
+                host: "",
+                homePath: "/",
+                legendFTPPath:"liugongsbomfile/legend/swf_audit/",
+                svgLegendFTPPath:"liugongsbomfile/legend/svg_audit/",<!--svg 路径-->
+                sessionId: "fab784d6-e392-4053-af76-b2a969bd0a45",
+                modelCode:"",
+                vin:"",
+                currentLang : 'zh_CN',
+                isOverseas : false,
+                crumbs: '',
+                usageCondition: '',
+                crumbsUrl:["/", "/product/model/", "/product/machine/model/", "/product/machine/submachine/model/"],
+                searchStatus:{keyword:"", type:""},
+                isRequiredUK : false,
+                noUsbkeyTimeoutSecond : 600,
+                userType : "",
+                notSelect : "",
+                loginMix: '1784817403680617001'
+            },
+            actions: {
+            	modelLoadGroupUrl:"/legend-usage-group/tree",
+            	childNodeUrl:"/legend-usage-group/childNode",
+            	vinLoadGroupUrl:"/legend-usage-group/tree/vin/",
+                i18nUrl:'/i18n?lang=',
+        	    loadPartsUrl:"/usage/parts",
+        	    loadLegendUrl:"/usage/legend",
+        	    seachPartsUrl:"/usage/seachparts",
+        	    loginAuthUrl:"/account/auth-not-cas",
+        	    loginRedirectUrl: '' || "/",
+        	    readUrl:"/usage/list",
+        	    newReadUrl:"/usage/newlist",
+        	    loadProductListUrl:"/product/tree",
+				loadSearchUrl:"/usage",
+                loadModles : '/model/',
+                loadSubmachineUrl: '/submachine/',
+                loadModelUrl : "/model/submachine/",
+                modelLoadUsageUrl : "/usage/",
+                modelValidateUrl : "/model/exists/",
+                vinLoadUsageUrl : "/usage/vin/",
+                vinValidateUrl : "/vin/exists/",
+                remarkUrl:"/part-note/add",
+                shoppingCartSaveUrl : "/shopping-cart/save-update",
+                shoppingCartSaveListUrl : "/shopping-cart/save-updateList",
+                shoppingCartDelUrl: "/shopping-cart/delete",
+                shoppingCartUpdateQtyUrl: "/shopping-cart/update-qty",
+                shoppingCartUploadUrl: "/shopping-cart/upload",
+                shoppingSendOrderUrl:"/order/send-order",
+                partUnSaleSaveUrl:"/part-un-sale/save-update",
+                validatePartUrl: "/shopping-cart/validate-part",
+                userNoteSaveUrl: "/part-note/update",
+                deleteNoteUrl: "/part-note/delete",
+                getReplaceDialogPartVal: "/part/info",
+                getReplaceNewOldPartsUrl: "/supersession/detail",
+                getHistoryDetailUrl: "/shopping-cart-history/details",
+                historySave: "/history/save",
+                getPartSerialNumProductUrl: "/product/all",
+                getPartSerialNumTypeUrl: "/feature/types",
+                configModelUrl: "/feature/list",
+                typelistUrl: "/feature/type/list",
+                modifyPasswordUrl: "/account/change/password",
+                accountApplicationUrl:"/account/apply",
+                getUserInfoUrl: "/account/info",
+                shoppingCartExportUrl: "/shopping-cart-history/export",
+                getConfigDataUrl: "/feature/value/list",
+                partIntoListUrl: "/usage/vin",
+                shoppingCartCountUrl :"/shopping-cart/parts-count",
+                collectListUrl: "/favorite/list",
+                collectSaveUrl: "/favorite/save",
+                collectClearUrl: "/favorite/clear",
+                collectValidateUrl: "/favorite/exists",
+                loadLegendHotpointUrl : "/legend-hotpoint/",
+                questionReplyUrl: "/question/reply/list",
+                questionDetailUpdate: "/question/update",
+                questionSaveUrl: "/question/reply/save",
+                questionNumUrl: "/question/validate-question-status",
+                quizUrl: "/question/question-quiz",
+                quizEnUrl: "/question/question-quiz-en",
+                pageHeaderQuestionStatus:"/question/tips/list",
+                notificationTypeUrl:"/notice/types",
+                bulletinTypeCodeUrl:"/bulletin/types",
+                bulletinProductCodeUrl:"/product/all",
+                bulletinSysCodeUrl:"/system/list",
+                manualTypeCodeUrl:"/manual/types",
+                clearAllCollectUrl:"/favorite/clear",
+                newNotificationNumUrl:"/notice-qty",
+                checkPwdUrl:"/check-pwd",
+                newBulletinNumUrl:"/bulletin-qty",
+                historyClearUrl:"/history/clear",
+                allShoppingCart : "/shopping-cart/all",
+                createShoppingCart : "/shopping-cart/create",
+                updateShoppingCart : "/shopping-cart/update",
+                defaultShoppingCart : "/shopping-cart/update-default",
+                deleteShoppingCart: "/shopping-cart/delete-cart",
+                loadCategoryUrl: "/subsystem/part-category",
+                questionStatusUrl: "/question/validate-question",
+                validateUsbKeyUrl: "/account/check_usbkey",
+                touchUsbKeyUrl: "/account/touch_usbkey",
+                checkingUsbkeyUrl : '/account/checking_usbkey',
+                loadTypeUrl: "/product/part-sn-type",
+                qnGetUrl: "/qn-answer/get-qns",
+                qnSaveUrl: "/qn-answer/save",
+                autocompleteQueryMCUrl:"/model/query",
+                autocompleteQueryUrl:"/vin/query",
+                getModelByCodeUrl:"/model/getmodel",
+                getModelBySNUrl:"/vin/getmodel",
+                myQuestionUrl:"/question/my-question",
+                shoppingCartGetpreServed4Url:"/part/info",
+                partPhotoUrl:"/part/photo",
+                needEvaluateUrl:"/question/need-evaluate",
+                deletePUSUrl:"/part-un-sale/delete",
+                exportPUSUrl:"/part-un-sale/export"
+            },
+			hotpoint: {
+			    hotpointSwfUrl: "/js/plugins/private/hotpoint.swf",
+				playerSwfUrl:"/js/plugins/public/flashInstall/playerProductInstall.swf",
+				legendPath:"/usage/legend-file"
+			},
+            i18n : {
+                'please_input_username' : "请输入用户名",
+                'please_input_password' : "请输入密码",
+                'login_ing' : "登录中...",
+                'login' : "登录",
+                '10000' : "配件编码",   //   配件编码
+                '10001' : "配件名称",   //   配件名称
+                '10002' : "规格",   //   规格
+                '10003' : "重量(KG)",   //   重量
+                '10004' : "尺寸(mm)",   //   尺寸
+                '10005' : "成交折扣组",   //   成交折扣组
+                '10006' : "是否保养件",   //   是否保养件
+                '10007' : "是否易损件",   //   是否易损件
+                '10008' : "是否特殊采购件",   //   是否特殊采购件
+                '10009' : "储备建议",   //   储备建议
+                '10010' : "单位",   //   单位
+                '10011' : "配件备注",   //   配件备注
+                '10012' : "购买",   //   购买
+                '10013' : "替换关系",   //   替换关系
+                '10014' : "用户备注",   //   用户备注
+                '10015' : "配合使用",   //   配合使用
+                '10016' : "维修包",   //   维修包
+                '10017' : "促销",   //   促销
+                '10018' : "保外维修件",   //   再制造件
+                '10019' : "报关消息",   //   报关消息
+                '10020' : "序号",   //   序号
+                '10021' : "替换组编码",   //   替换组编码
+                '10022' : "替换时间",   //   替换时间
+                '10023' : "替换类型",   //   替换类型
+                '10024' : "替换备注",   //   替换备注
+                '10025' : "断点信息",   //   断点信息
+                '10026' : "替换前配件编码",   //   替换前配件编码
+                '10027' : "替换后配件编码",   //   替换前配件编码
+                '10028' : "操作",   //   操作
+                '10029' : "详细",   //   详细
+                '10030' : "备注",   //   备注
+                '10031' : "创建人",   //   创建人
+                '10032' : "创建时间",   //   创建时间
+                '10033' : "修改人",   //   修改人
+                '10034' : "修改时间",   //   修改时间
+                '10035' : "修改",   //   修改
+                '10036' : "删除",   //   删除
+                '10037' : "配合使用编号",   //   配合使用编号
+                '10038' : "配合使用备注",   //   配合使用备注
+                '10039' : "父配件编码",   //   父配件编码
+                '10040' : "父配件名称",   //   父配件名称
+                '10041' : "用量",   //   用量
+                '10042' : "维修包名称",   //   维修包名称
+                '10043' : "数量",   //   数量
+                '10044' : "类型",   //   类型
+                '10045' : "海关编码",   //   海关编码
+                '10046' : "海关编码商品描述",   //   海关编码商品描述
+                '10047' : "申报要素",   //   申报要素
+                '10048' : "替换信息",   //   替换信息
+                '10049' : "替换前信息",   //   替换前信息
+                '10050' : "替换后信息",   //   替换后信息
+                '10051' : "确认",   //   确认
+                '10052' : "修改成功",   //   修改成功 !
+                '10053' : "密码错误",   //   密码错误 !
+                '10054' : "取消",   //   取消
+                '10055' : "替换前图例",   //   替换前图例
+                '10056' : "图例编码",   //   图例编码
+                '10057' : "图例名称",   //   图例名称
+                '10058' : "高级搜索",   //   高级搜索
+                '10059' : "产品线",   //   产品线
+                '10060' : "机型",   //   机型
+                '10061' : "子机型",   //   子机型
+                '10062' : "整机物料号",   //   整机物料号
+                '10063' : "系统",   //   系统
+                '10064' : "配件分类",   //   配件分类
+                '10065' : "查询",   //   查询
+                '10066' : "清空",   //   清空
+                '10067' : "行号",   //   行号
+                '10068' : "进入目录",   //   进入目录
+                '10069' : "共",   //   共
+                '10070' : "页",   //   页
+                '10071' : "条记录",   //   条记录
+                '10072' : "当前页码",   //   当前页码
+                '10073' : "配置信息查询",   //   配置信息查询
+                '10074' : "收藏",   //   收藏
+                '10075' : "您好",   //   您好  !
+                '10076' : "首页",   //   首页
+                '10077' : "适用查询",   //   适用查询
+                '10078' : "购物车",   //   购物车
+                '10079' : "购物车历史",   //   购物车历史
+                '10080' : "历史",   //   历史
+                '10081' : "通知",   //   通知
+                '10082' : "公告",   //   公告
+                '10083' : "文档手册",   //   文档手册
+                '10084' : "信息反馈",   //   信息反馈
+                '10085' : "我的问题",   //   我的问题
+                '10086' : "我要提问",   //   我要提问
+                '10087' : "问题查询",   //   问题查询
+                '10088' : "语言切换",   //   语言切换
+                '10089' : "中文",   //   中文
+                '10090' : "用户信息",   //   用户信息
+                '10091' : "个人信息",   //   个人信息
+                '10092' : "修改密码",   //   修改密码
+                '10093' : "帮助227",   //   帮助
+                '10094' : "退出",   //   退出
+                '10095' : "整机序列号",   //   整机序列号
+                '10096' : "配置信息",   //   配置信息
+                '10097' : "零部件序列号",   //   零部件序列号
+                '10098' : "信息反馈状态",   //   信息反馈状态
+                '10099' : "已提交",   //   已提交
+                '10100' : "已回复",   //   已回复
+                '10101' : "已完成",   //   已完成
+                '10102' : "旧密码",   //   旧密码
+                '10103' : "新密码",   //   新密码
+                '10104' : "密码必须为6～12位，并且由字母,字符,数字组成。",   //   必须为
+                '10105' : "10105",   //   位
+                '10106' : "10106",   //   并且由字母和数字组成
+                '10107' : "确认密码",   //   确认密码
+                '10108' : "填写数量",   //   填写数量
+                '10109' : "零部件序列号查询",   //   零部件序列号查询
+                '10110' : "注：",   //   注
+                '10112' : "整机物料号描述",   //   整机物料号描述
+                '10113' : "配置",   //   配置
+                '10114' : "配置描述",   //   配置描述
+                '10115' : "替换后配件编码",   //   替换后配件编码
+                '10116' : "购物车详细",   //   购物车详细
+                '10117' : "加入时间",   //   加入时间
+                '10118' : "导出",   //   导出
+                '10119' : "上传清单",   //   上传清单
+                '10120' : "删除选中项",   //   删除选中项
+                '10121' : "最小包装单元",   //   最小包装单元
+                '10122' : "发送订单",   //   发送订单
+                '10123' : "购物车历史编码",   //   购物车历史编码
+                '10124' : "发送时间",   //   发送时间
+                '10125' : "共计种类",   //   共计种类
+                '10126' : "购物车历史详细",   //   购物车历史详细
+                '10127' : "账户信息和系统信息",   //   账户信息和系统信息
+                '10128' : "经销商编码",   //   经销商编码
+                '10129' : "经销商名称",   //   经销商名称
+                '10130' : "国家",   //   国家
+                '10131' : "省份",   //   省份
+                '10132' : "城市",   //   城市
+                '10133' : "地址",   //   地址
+                '10134' : "邮编",   //   邮编
+                '10135' : "当前用户",   //   当前用户
+                '10136' : "系统角色",   //   系统角色
+                '10137' : "系统版本",   //   系统版本
+                '10138' : "数据版本",   //   数据版本
+                '10139' : "柳工电子配件目录发布平台",   //   柳工电子配件目录发布平台
+                '10140' : "用户名",   //   用户名
+                '10141' : "密码",   //   密码
+                '10142' : "记住我",   //   记住我
+                '10143' : "广西柳工机械股份有限公司 Guangxi Liugong Machinery Co., Ltd.",   //   广西柳工机械股份有限公司 .
+                '10144' : "电话 Tel:0772-388XXXX",   //   电话
+                '10145' : "邮箱 Email:EPC@liugong.com",   //   邮箱
+                '10146' : "放大",   //   放大
+                '10147' : "还原",   //   还原
+                '10148' : "缩小",   //   缩小
+                '10149' : "逆时针旋转",   //   逆时针旋转
+                '10150' : "度",   //   度
+                '10151' : "顺时针旋转",   //   顺时针旋转
+                '10152' : "关闭",   //   关闭
+                '10153' : "通知详细",   //   通知详细
+                '10154' : "通知编码",   //   通知编码
+                '10155' : "通知主题",   //   通知主题
+                '10156' : "发布时间",   //   发布时间
+                '10157' : "有效时间",   //   有效时间
+                '10158' : "是否必读",   //   是否必读
+                '10159' : "通知内容",   //   通知内容
+                '10160' : "附件",   //   附件
+                '10161' : "我已阅读",   //   我已阅读
+                '10162' : "提示",   //   提示
+                '10163' : "清单已发送成功",   //   清单已发送成功
+                '10164' : "请至",   //   请至
+                '10165' : "进行下一步操作",   //   进行下一步操作
+                '10166' : "地质",   //   地质
+                '10167' : "区号",   //   区号
+                '10168' : "公告详细",   //   公告详细
+                '10169' : "公告编码",   //   公告编码
+                '10170' : "公告主题",   //   公告主题
+                '10171' : "公告类型",   //   公告类型
+                '10172' : "购买数量",   //   购买数量
+                '10173' : "名称",   //   名称
+                '10174' : "替换组信息",   //   替换组信息
+                '10175' : "欢迎使用柳工电子配件目录！",   //   欢迎使用柳工电子配件目录
+                '10176' : "具体请查阅本目录的帮助文件",   //   具体请查阅本目录的帮助文件
+                '10177' : "柳工保留对产品持续改进的权利",   //   柳工保留对产品持续改进的权利
+                '10178' : "在查阅过程中如有任何疑问",   //   在查阅过程中如有任何疑问
+                '10179' : "请与柳工联系",   //   请与柳工联系
+                '10180' : "装载机",   //   装载机
+                '10181' : "图例目录分组",   //   图例目录分组
+                '10182' : "组装图关系",   //   s组装图关系
+                '10183' : "反查",   //   反查
+                '10184' : "详情",   //   详情
+                '10194' : "全部",   //   全部
+                '10210' : "该配件未做维修判断，请与柳工确认是否可采购",   //   该配件未做维修判断，请与柳工确认是否可采购
+                '10212' : "保存失败",   //   保存失败
+                '10216' : "更新失败",   //   更新失败
+                '10234' : "提交到DMS",   //   提交
+                '10243' : "回复",   //   回复
+                '10244' : "保存成功",   //   保存成功
+                '10245' : "不能为空",   //   不能为空
+                '10246' : "最多只能上传8个文件",   //   最多只能上传5个文件
+                '10251' : "图例",   //   图例
+                '10255' : "确认要清空全部收藏记录?",   //   确认要清空全部收藏记录
+                '10256' : "清空成功",   //   清空成功
+                '10298' : "回复内容不能为空",   //   回复内容不能为空
+                '10299' : "请输内容不能超过400字",   //   输入内容不能超过400字
+                '10300' : "备注内容不可为空",   //   备注内容不可为空
+                '10258' : "请勾选查询项",   //   请勾选查询项
+                '10259' : "收藏成功",   //   收藏成功
+                '10260' : "收藏失败",   //   收藏失败
+                '10264' : "已圆整",   //   已圆整
+                '10265' : "订购成功",   //   订购成功
+                '10266' : "错误原因",   //   错误原因
+                '10268' : "请输入4位以上的零部件序列号",   //   请输入4位以上的零部件序列号
+                '10269' : "请输入查询信息",   //   请输入查询信息
+                '10270' : "整机序列号不存在",   //   整机序列号不存在
+                '10271' : "整机物料号不存在",   //   整机物料号不存在
+                '10272' : "上传支持格式为",   //   上传支持格式为
+                '10273' : "导入成功",   //   导入成功
+                '10274' : "导入失败",   //   导入失败
+                '10275' : "配件编码不能为空",   //   配件编码不能为空
+                '10276' : "更新成功",   //   更新成功
+                '10277' : "确认删除当前记录吗",   //   确认删除当前记录吗
+                '10278' : "您未选中需要删除项",   //   您未选中需要删除项
+                '10279' : "您确认需要删除当前选中记录",   //   您确认需要删除当前选中记录？
+                '10280' : "删除成功",   //   删除成功
+                '10281' : "您有未读通知，请阅读后在进行其他操作",   //   您有未读通知，请阅读后在进行其他操作
+                '10282' : "您有未读公告，请阅读后在进行其他操作",   //   您有未读公告，请阅读后再进行其他操作
+                '10283' : "请输入旧密码",   //   请输入旧密码
+                '10284' : "请输入新密码",   //   请输入新密码
+                '10285' : "请输入6-12位的新密码",   //   请输入6-12位的新密码
+                '10286' : "确认密码与新密码不一致",   //   确认密码与新密码不一致
+                '10287' : "请选择产品线",   //   请选择产品线
+                '10288' : "请选择类型",   //   请选择类型
+                '10301' : "手册文档",   //   文档手册
+                '10307' : "当前用户状态为冻结",   //
+                '12551' : "用户登录状态失效",   //   登录状态失效
+                '10308' : "请重新登录",   //   请重新登录
+                '10309' : "服务器端发生异常",   //   服务器端发生异常
+                '10310' : "未明确指出错误信息",   //   未明确指出错误信息
+                '10311' : "您的账号已被其他人登录",   //   您的账号已被其他人登录,
+                '10188' : "请输入用户名",   //   请输入用户名,
+                '10189' : "请输入密码",   //   请输入密码
+                '12271' : "该输入项为必输项",   //   输入项为必输项
+                '12273' : "问题回复",   //   问题回复
+                '12282' : "清空历史",   //   清空历史
+                '12283' : "确认要清空全部历史记录?",   //   确认要清空全部历史记录
+                '12284' : "请至少输入一个查询条件",   //   请至少输入一个查询条件
+                '12285' : "您还没有安装flash播放器",   //   您还没有安装flash播放器
+               	'12288' : "传真",   //   传真
+             	'10233' : "联系电话",   //   电话
+             	'12290' : "密码修改成功",   //   密码修改成功,
+             	'10215' : "服务器忙！",   // 	 服务器端忙
+             	'12292' : "请设置默认购物车",   //	请设置默认购物车
+             	'12305' : "购物车名称",   //	添加购物车
+             	'12325' : "设为默认",   //	设为默认
+             	'12326' : "更改名称",   //	更改名称
+             	'12327' : "新增",   //	新增
+             	'12328' : "当前购物车",   //	当前购物车
+             	'12329' : "最后修改时间",   //	最后修改时间
+             	'12330' : "请输入名称",   //	请输入名称
+             	'12331' : "修改购物车",   //	修改购物车
+             	'12332' : "新增购物车",   //	新增购物车
+             	'12333' : "您确认删除当前选中记录",   //	您确认删除当前选中记录
+             	'12334' : "收藏列表",   //   收藏列表
+             	'12336' : "默认",   //   收藏列表
+           		'12346' : "零部件序列号不能为空",   //   零部件序列号不能为空
+           		'12461' : "您有超过3条及以上服务质量没有评价，请先评价后再提问",   //   您有超过3条及以上服务质量没有评价，请先评价后再提问
+           		'12468' : "大于",   //   超过
+           		'12347' : "注销当前账户",   //   注销当前账户
+           		'12488' : "正在检测USB KEY...,3分钟内系统会再次自动检测...",   //   正在检测USB KEY...,3分钟内系统会再次自动检测...
+           		'12489' : "重新检测",   //   重新检测
+           		'12490' : "请确认已插入Usbkey并装好驱动程序",    //   请确认已插入Usbkey并装好驱动程序
+           		'12491' : "免责声明：<br/>本目录中的配件物料信息包括尺寸、图片、重量、规格等仅供参考之用，最终以柳工设计图纸为准，柳工拥有对配件信息随时更改的权利。<br/>柳工对本目录提供的资料的准确性和完整性也未做任何担保，对此类数据或信息的任何的不准确、错误或误述而导致的任何及所有责任均已被明确排除。不得以目录中内容差异进行索赔。",	//免责申明
+           		'20021' : "搜索",	//搜索
+           		'20032' : "订购提醒",	//订购提醒           
+           		'20033' : "请选择配件",	//请选择配件             
+           		'20034' : "替换后图例",	//替换后图例            
+           		'20035' : "图内序号",		//图内序号            
+           		'20042' : "欢迎使用柳工电子配件目录！ 本目录所包含的配件信息可能会因产品改进而随时变更,机器在持续改进过程中涉及到的配件信息有可能在本目录中无法一一体现。没有'√'标记意味着无法确定该零件可以使用在您的机器上，为避免采购的零件无法安装使用，请在下单前与柳工确认。",	//订购提示        	
+           		'20043' : "微信扫码登录",		//微信扫码登录      		        	
+           		'20052' : "请输入验证码",	//请输入验证码   	        	
+           		'20054' : "请修改密码",		//请修改密码 	        	
+           		'20055' : "验证码失效，请刷新验证码",		//验证码失效
+           		'20056' : "验证码",		//验证码
+           		'20057' : "系统故障: 3889107     账号权限: moj@liugong.com",		//验证码
+           		'20058' : "请选择图例",			//请选择图例
+           		'20059' : "国际",			//国际
+           		'20060' : "北京时间",			//北京时间
+           		'20061' : "中国上班时间是绿色，其它时间是灰色",			//
+           		'20062' : "如需准确核对零件号，必须提供设备序列号",			//
+           		'20063' : "常见问题处理",			//
+           		'20064' : "<a href='https://partselling.liugong.com/PricePortal/'  target='_blank'> 1.价格恢复</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href='http://osdcs1.liugong.com/inquireOrders/purchaseOrder/list'  target='_blank'> 2.咨询交货期、报价</a>",			//
+           		'20065' : "继续提问",			//继续提问
+           		'20066' : "问题未评价，您的评价可以让我们更努力的工作！",			//
+           		'20067' : "柳工审核,请注意核对是否一致",			//
+           		'20068' : "复制",			//
+           		'20069' : "我的清单",			//
+           		'20070' : "清空查询条件",			//
+           		'20071' : "清空记录",			//
+           		'20072' : "ECN查询",			//
+           		'20073' : "装配日期",			//
+           		'20074' : "变更前物料号",			//
+           		'20075' : "变更前物料号名称",			//
+           		'20076' : "变更后物料号",			//
+           		'20077' : "变更后物料号名称",			//
+           		'20078' : "替换类型编码",			//
+           		'20079' : "替换类型名称",			//
+           		'20080' : "变更编码"			//
+            }
+        };
+    });
+    
+    var _hmt = _hmt || [];
+    require(['jquery'], function(jQuery) {
+    	jQuery(function(){
+			var hm = document.createElement("script");
+			hm.src = "//hm.baidu.com/hm.js?2f25ef1b2943686e62b94fc1ed5559ad";
+			var s = document.getElementsByTagName("script")[0]; 
+			s.parentNode.insertBefore(hm, s);
+		});
+	});
+</script>
+
+<script type="text/javascript">
+var EPC = {path:"",
+	       pageCode:"product"};
+var authc = {};
+
+authc.notification = true;
+
+
+authc.bulletin = true;
+
+
+authc.manual = true;
+
+
+authc.question = true;
+
+</script>
+<title>
+	
+		
+		
+			配件详情-垫圈
+		
+	
+</title>
+</head>
+<body>
+	<div class="head" id="head">
+		<div class="nav">
+			<div class="nav-user">
+				<span>您好!</span><a>KUZNETSOVVE@INDUSTRSERVICE.RU</a>
+			</div>
+			<div class="nav-action">
+				<ul id="site-nav">
+					<li class="border-none"><a href="/">首页</a></li>
+					<li><a data-action="apply-search">适用查询</a></li>
+					<li><a data-action="ecn-search">ECN查询</a></li>
+					<li><a data-action="reserve">储备建议</a></li>
+					<li><a data-action="shopping-cart">购物车<em data-action="shopping-cart">(0)</em></a></li>
+					<li class="nav-select-show">
+						<a>收藏<span></span></a>
+						<div class="nav-user-info">
+							<p><a data-action="collect-detail">收藏</a></p>
+							<p><a data-action="part-un-sale-list">我的清单</a></p>
+						</div>
+						
+					</li>
+					<li><a data-action="site-history">历史</a></li>
+					<!-- 权限设置：临时用户、VIP用户、内部用户问题反馈不可见，临时用户、VIP用户通知不可见，临时用户公告、文档手册不可见 -->
+					
+					<li><a data-action="notification">通知</a></li>
+					
+					
+					<li><a data-action="bulletin">公告</a></li>
+					
+					
+					<li><a data-action="manual">文档手册</a></li>
+					
+					
+					<li class="nav-select-show">
+						<a>信息反馈<span></span></a>
+						<div class="nav-user-info">
+							<p><a target="_blank" href="/question/my-question">我的问题</a></p>
+							<p><a target="_blank" data-action="q-quiz">我要提问</a></p>
+							<p><a target="_blank" href="/question/question-search">问题查询</a></p>
+						</div>
+					</li>
+					
+					<li class="nav-select-show" >
+						<a>语言切换<span></span></a>
+						<div class="nav-user-info" style="z-index:1">
+							
+								<p data-action="en_US">English</p>
+							
+								<p data-action="zh_CN">简体中文</p>
+							
+								<p data-action="it_IT">italiano</p>
+							
+								<p data-action="fr_FR">français</p>
+							
+								<p data-action="de_DE">Deutsch</p>
+							
+								<p data-action="ru_RU">русский</p>
+							
+								<p data-action="es_ES">español</p>
+							
+								<p data-action="pt_PT">português</p>
+							
+						</div>
+					</li>
+					<li class="nav-select-show">
+						<a>用户信息<span></span></a>
+						<div class="nav-user-info">
+							<p data-action="user-info">个人信息</p>
+							<p data-action="modify-password">修改密码</p>
+							<p data-action="account-application">账号申请</p><!-- 账号申请  -->
+							<p><a target="_blank" href="/account/account-application-query">账号申请查询</p> <!-- 账号申请查询  -->
+						</div>
+					</li>
+					<li class="nav-select-show">
+						<a>帮助227<span></span></a>
+						<div class="nav-user-info">
+							<p><a href="http://epcfs.liugong.com:801/liugongsbomfile/download/help/lgepc_help_zh_CN.pdf" target="_blank">EPC操作手册</a></p>
+							<p><a href="http://epcfs.liugong.com:801/liugongsbomfile/download/help/lgepc_help_video_zh_CN.swf" target="_blank">EPC操作视频</a></p>
+						</div>
+					</li>
+					
+					<li class="nav-select-show">    
+						<a href="https://osdcs.liugong.com/" target="_blank">DMS</a>
+					</li>
+					
+					<li class="nav-select-show">    
+						<a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+					</li>
+					
+					<!--<li><a href="http://epcfs.liugong.com:801/liugongsbomfile/download/help/lgepc_help_zh_CN.pdf" target="_blank">帮助227</a></li> -->
+					<li><a href="/account/logout">退出</a></li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<a href="/"><h1></h1></a>
+			<div class="search-wrap">
+				<div class="nav_search">
+					<div>
+						<ul id="search-type" class="search-type">
+							<li data-action="vin" class="search-selected"><span class="type-left"></span><span class="type-name">整机序列号</span><span class="type-right"></span></li>
+							<li data-action="modelCode"><span class="type-left"></span><span class="type-name">整机物料号</span><span class="type-right"></span></li>
+							<li data-action="partNO"><span class="type-left"></span><span class="type-name">配件编码</span><span class="type-right"></span></li>
+							<li data-action="partName"><span class="type-left"></span><span class="type-name">配件名称</span><span class="type-right"></span></li>
+							<li data-action="partPhoto"><span class="type-left"></span><span class="type-name">零件信息</span><span class="type-right"></span></li>
+						</ul>
+						<div>
+							<div class="search">
+								<div>
+									<input type="text" id="search-box" autocomplete="off" /><span id="btn-search"></span>
+								</div>
+							</div>
+							<script id="autocomplete-template" type="text/template"><ul class="autocomplate-container">{{#data}}<li class="autocomplete-list-item" data-value="{{vin}}" title="{{modelName}}">{{vin}} - {{modelName}}</li>{{/data}}</ul></script>
+							<div class="search-action" id="search-toolbar-action">
+								<ul>
+									<li id="advanced-search">高级搜索</li>
+									<li data-action="replace-info-show">替换信息</li>
+									<li data-action="config-info-show">配置信息</li>
+									<li data-action="part-serial-num-show">零部件序列号</li>
+									<li><span id="num"></span></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+					<div class="search-info">
+						<ul id="tips-wrap">
+							<li>信息反馈状态:</li>
+						</ul>
+					</div>
+				
+
+			</div>
+
+		</div>
+	</div>
+
+	<!-- crumbs -->
+    
+<div class="crumbs" id="crumbs-wrap">
+	   <ul id="crumbs">
+	      <script type="text/template">
+		   {{#records}}
+             <li data-field="{{label}}">
+				<img src="/css/images/copy.png"  style="cursor:pointer;" 
+						onClick="copyToClipboard('{{label}}:{{text}}');"/>
+				<span>{{label}}:</span>
+				<a data-area="crumbs" href="{{url}}" title="{{text}}" >{{text}}
+				</a>
+			</li>
+           {{/records}}
+           </script>
+       </ul>
+	   <a id="crumbs-collect" class="crumbs-collect" style="display:none;">收藏</a>
+</div>
+
+<script type="text/javascript">
+function copyToClipboard(txt) {		
+	//alert(txt);	
+	prompt('',txt);//wbw 20190908
+}
+</script>
+
+    <!-- advanced search -->
+    
+
+
+
+
+<div id="advanced-search-dialog" class="dialog"
+		style="width: 1000px; display: none;height:565px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				高级搜索<a id="advanced-search-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="advanced-search-filter" class="common-search">
+			<div class="search-column">
+				<span>产品线:</span><select data-field="productCode" data-operator="EQ"
+					data-scope='filter'></select>
+			</div>
+			<div class="search-column">
+				<span>机型:</span><select data-field="machineCode" data-operator="EQ"
+					data-scope='filter'></select>
+			</div>
+			<div class="search-column">
+				<span>子机型:</span><select data-field="submachineCode"
+					data-operator="EQ" data-scope='filter'></select>
+			</div>
+			<div class="search-column">
+				<span title='整机物料号'>整机物料号:</span><input type="text" data-field="modelCode"
+					data-scope='filter' data-operator="IEQ"/>
+			</div>
+			<div class="search-column">
+				<span>系统:</span>
+				<select data-field="systemCode" data-scope='filter' data-operator="EQ">
+					<option value="">全部</option>
+					
+						<option value="Y13">传动行驶系统</option>
+					
+						<option value="Y14">底盘操纵系统</option>
+					
+						<option value="Y15">管路</option>
+					
+						<option value="Y16">泵、阀、锁</option>
+					
+						<option value="Y17">油缸、回转接头</option>
+					
+						<option value="Y18">机构</option>
+					
+						<option value="Y19">驾驶、操纵室 </option>
+					
+						<option value="Y20">其它装置</option>
+					
+						<option value="X00">部件</option>
+					
+						<option value="Y11">空调及暖风系统</option>
+					
+						<option value="Y12">机罩及其它覆盖件</option>
+					
+						<option value="Y21">门架系统</option>
+					
+						<option value="Y00">传动系统</option>
+					
+						<option value="Y01">液压系统</option>
+					
+						<option value="Y02">制动系统</option>
+					
+						<option value="Y03">结构</option>
+					
+						<option value="Y04">驾驶室</option>
+					
+						<option value="Y05">动力系统</option>
+					
+						<option value="Y06">电器系统</option>
+					
+						<option value="Y07">整机附件</option>
+					
+						<option value="Y08">原理图</option>
+					
+						<option value="Y09">主机</option>
+					
+						<option value="Y10">其它</option>
+					
+						<option value="Y22">拖车系统</option>
+					
+						<option value="SP306854">II砖块夹</option>
+					
+						<option value="SP296192">III旋转器</option>
+					
+						<option value="SP296123">II调距叉</option>
+					
+						<option value="SP296206">III调距叉</option>
+					
+						<option value="Y31">打桩机</option>
+					
+						<option value="Y33">鹰嘴剪</option>
+					
+						<option value="Y37">欧标</option>
+					
+						<option value="Y39">驱动系统</option>
+					
+						<option value="Y26">压缩系统</option>
+					
+						<option value="Y27">泵送系统</option>
+					
+						<option value="Y28">三角型破碎锤</option>
+					
+						<option value="SP296153">III软包夹</option>
+					
+						<option value="SP296191">II旋转器</option>
+					
+						<option value="SP306849">IV调距叉</option>
+					
+						<option value="Y34">粉碎钳</option>
+					
+						<option value="Y35">国标</option>
+					
+						<option value="Y42">附件系统</option>
+					
+						<option value="Y47">欧标商务</option>
+					
+						<option value="Y23">润滑系统</option>
+					
+						<option value="Y24">控制系统</option>
+					
+						<option value="Y25">加热器系统</option>
+					
+						<option value="Y29">直角型破碎锤</option>
+					
+						<option value="Y30">静音型破碎锤</option>
+					
+						<option value="SP264585">抓夹（叉车）</option>
+					
+						<option value="SP306847">II推拉器</option>
+					
+						<option value="SP306850">IV旋转器</option>
+					
+						<option value="SP296152">II软包夹</option>
+					
+						<option value="SP308726">III旋转叉夹</option>
+					
+						<option value="SP310331">II纸箱夹</option>
+					
+						<option value="Y45">属具系统</option>
+					
+						<option value="Y44">起重臂系统</option>
+					
+						<option value="Y46">转向系统</option>
+					
+						<option value="SP306853">II旋转叉夹</option>
+					
+						<option value="Y32">液压剪</option>
+					
+						<option value="Y36">国标出口版</option>
+					
+						<option value="Y38">美标</option>
+					
+						<option value="Y40">车架系统</option>
+					
+						<option value="Y41">电气系统</option>
+					
+						<option value="Y43">覆盖件系统</option>
+					
+				</select>
+			</div>
+			<div class="search-column">
+				<span>图例编码:</span><input data-field="legendCode" type="text"
+					data-scope='filter' data-operator="EQ"/>
+			</div>
+			<div class="search-column">
+				<span>图例名称:</span><input data-field="parentPartName" type="text"
+					data-scope='filter' data-operator="ALIKE"/>
+			</div>
+			<div class="search-column">
+				<span>配件分类:</span>
+				<select data-field="partCategoryCode" data-scope='filter'>
+					<script type="text/template">
+						<option value="">全部</option>
+						{{#records}}
+						<optgroup label="{{name}}">
+							{{#partCategories}}
+								<option value="{{code}}">{{name}}</option>
+							{{/partCategories}}
+						</optgroup>
+						{{/records}}
+					</script>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>配件编码:</span><input data-field="partNO" type="text"
+					data-scope='filter' data-operator="IEQ"/>
+			</div>
+			<div class="search-column">
+				<span>配件名称:</span><input data-field="partName" type="text"
+					data-scope='filter' data-operator="ALIKE"/>
+			</div>
+			<div class="search-column">
+				<span>配件备注:</span><input data-field="partNote" type="text"
+					data-scope='filter' data-operator="ALIKE"/>
+			</div>
+		</div>
+		<div class="common-btn-wrap">
+			<a id="advanced-search-btn-filter" class="btn-default">查询</a> <a
+				id="advanced-search-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common" style="width:84%;">
+				<table id="advanced-search-grid" style="width: 1680px;"
+					data-read-url="/usage/list">
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 120px;">产品线</th>
+							<th style="width: 120px;">机型</th>
+							<th style="width: 120px;">子机型</th>
+							<th style="width: 120px;">整机物料号</th>
+							<th style="width: 120px;">系统</th>
+							<th style="width: 120px;">图例编码</th>
+							<th style="width: 120px;">图例名称</th>
+							<th style="width: 140px;">配件分类</th>
+							<th style="width: 40px;">序号</th>
+							<th style="width: 160px;">配件编码</th>
+							<th style="width: 160px;">配件名称</th>
+							<th style="width: 160px;">备注</th>
+							<th style="width: 100px;">数量</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr data-keys='{"id":"{{id}}"}'>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{productName}}">{{productName}}</td>
+                            <td title="{{machineName}}">{{machineName}}</td>
+                            <td title="{{submachineName}}">{{submachineName}}</td>
+                            <td title="{{modelCode}}">{{modelCode}}</td>
+                            <td title="{{systemName}}">{{systemName}}</td>
+                            <td title="{{legendCode}}">{{legendCode}}</td>
+                            <td title="{{legendName}}">{{legendName}}</td>
+                            <td title="{{partCategoryName}}">{{partCategoryName}}</td>
+                            <td title="{{callout}}">{{callout}}</td>
+                            <td title="{{partNO}}"><a href="/part/{{partNO}}/{{#parentPartNO}}{{parentPartNO}}{{/parentPartNO}}{{^parentPartNO}}&{{/parentPartNO}}" target="_blank">{{partNO}}</a></td>
+                            <td title="{{partName}}" class="parts-text-left">{{partName}}</td>
+                            <td title="{{note}}" class="parts-text-left">{{note}}</td>
+                            <td title="{{qty}}">{{qty}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed" style="width:16%;">
+				<table id="advanced-search-fixed">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-order="{{order}}" data-submachineCode="{{submachineCode}}" data-partNO="{{partNO}}" data-mpq="{{mpq}}" data-preServed4="{{preServed4}}" >购买</a>
+                                &nbsp;&nbsp;
+                                <a data-action="catalog" target="_blank" href="/usage/legend/?modelCode={{modelCode}}&systemCode={{systemCode}}&legendCode={{legendCode}}&partNO={{partNO}}&&callout={{callout}}">进入目录</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="advanced-search-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total"><strong class="common-paging-over">大于</strong><b style="vertical-align: text-top;">共</b><span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><strong class="common-paging-over">大于</strong><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+<div id="new-search-dialog" class="dialog" 
+		style="width: 1000px; display: none;height:600px;position: absolute;z-index: 99999;margin:auto;top: 40; left: 0; bottom: 0; right: 0;  ">
+			<div class="common-head" data-action="drag">
+				<h3>
+					<a id="new-dialog-close"></a>
+				</h3>
+			</div>
+			<div class="common-grid-wrap">
+				<div style="width:950px;height:570px;margin: 4px 4px;overflow :auto;">
+					<table id="new-search-grid">
+						<thead>
+								<tr>
+									<th style="width: 100px;">行号</th>
+									<th style="width: 250px;">产品线</th>
+									<th style="width: 250px;">机型</th>
+									<th style="width: 250px;">子机型</th>
+								</tr>
+						</thead>
+						<tbody></tbody>
+					</table>
+				</div>
+			</div>
+</div>
+<script type="text/javascript">
+function newSearchUsage(ProductCode,MachineCode,SubmachineCode){
+	$("#new-search-dialog").hide();
+	$("#new-search-grid > tbody").html("");
+	$("select[data-field='productCode']").val(ProductCode);
+	$("select[data-field='productCode']").change();
+	$("select[data-field='machineCode']").val(MachineCode);
+	$("select[data-field='machineCode']").change();
+	$("select[data-field='submachineCode']").val(SubmachineCode);
+	$("#advanced-search-btn-filter").click();
+}
+</script>
+
+    <!-- config info -->
+    
+
+
+
+<div id="config-info-dialog" class="dialog" style="width: 1100px; height: 578px; display: none;">
+        <div class="common-head" data-action="drag">
+            <h3>配置信息查询<a id="config-info-dialog-close"></a>
+            </h3>
+        </div>
+        <div class="config-left">
+            <div class="config-left-select">
+	            <div>
+	                <span>产品线：</span>
+	                <select id="config-product-info"></select>
+                </div>
+                <div>
+	                <span>机型：</span>
+	                <select id="config-machine-info"></select>
+                </div>
+                <div>
+	                <span>子机型：</span>
+	                <select id="config-submachine-info"></select>
+                </div>
+            </div>
+            <div class="config-left-group group-content" id="config-group">
+            	<ul>
+                <script type="text/template" id="config-group-template">
+				{{#featureValues}}   				
+					<li>
+						<a>
+                            <span class="group-content-collapse{{#flag}}group-content-expand{{/flag}}" {{#flag}}style="display:none;"{{/flag}}></span>
+							<label {{^flag}}data-flag="false"{{/flag}}>
+								{{#flag}}<input type="checkbox" data-code="{{featureTypeCode}}" />{{/flag}}
+                            	<b>{{featureTypeName}}</b>
+							</label>
+                       	 </a>
+						<ul style="display: none;">
+						{{>subTemplate}}
+						</ul>
+					</li>				
+				{{/featureValues}}
+				</script>
+				</ul>
+            </div>
+            <div class="config-left-toolbar" id="config-group-toolbar">
+                <a class="btn-buy" data-action="search">查询</a>
+                <a class="btn-buy" data-action="clear">清空</a>
+            </div>
+        </div>
+        <div class="config-right">
+            <div class="config-right-title">
+                <p><span>——</span><label>整机物料号</label><span>——</span></p>
+            </div>
+            <div class="common-grid-wrap">
+                <div class="grid-common config-grid-tbody" style="overflow-x: auto;">
+                    <table style="width: 796px;">
+                    	<thead>
+                            <tr>
+                                <th style="width: 40px;">序号</th>
+                                <th style="width: 100px;">子机型</th>
+                                <th style="width: 100px;">机型</th>
+                                <th style="width: 120px;">整机物料号</th>
+                                <th style="width: 400px;">整机物料号描述</th>
+                                <th style="width: 85px;">操作</th>
+                            </tr>
+                        </thead>
+                        <tbody id="config-right-model" style="display:none;">
+                        <script type="text/template" id="config-right-model-template">
+						{{#records}}
+                            <tr>
+                                <td style="width: 40px;" title="{{rowNumber}}">{{rowNumber}}</td>
+                                <td style="width: 100px;" title="{{submachineName}}">{{submachineName}}</td>
+								<td style="width: 100px;" title="{{machineName}}">{{machineName}}</td>
+                                <td style="width: 120px;" title="{{modelCode}}"><a data-action="model" data-code="{{modelCode}}" style="text-decoration:underline;">{{modelCode}}</a></td>
+                                <td style="width: 300px;" title="{{modelName}}">{{modelName}}</td>
+                                <td style="width: 85px;"><a href="/usage/{{modelCode}}">进入目录</a></td>
+                            </tr>
+                        {{/records}}
+                       </script>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="config-right-title">
+                <p><span>——</span><label>配置信息</label><span>——</span></p>
+            </div>
+            <div class="common-grid-wrap">
+                <div class="grid-common">
+                    <table style="width: 796px">
+                        <thead>
+                            <tr>
+                                <th style="width: 50px;">行号</th>
+                                <th style="width: 80px;">配置</th>
+                                <th style="width: 120px;">配置描述</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+                <div class="grid-common config-grid-tbody">
+                    <table  id="config-right-allocation" style="width: 796px;">
+                        <tbody>
+                        <script type="text/template" id="config-right-allocation-template">
+						{{#records}}
+                            <tr>
+                                <td style="width: 50px;" title="{{rowNumber}}">{{rowNumber}}</td>
+                                <td style="width: 80px;" title="{{typeName}}">{{typeName}}</td>
+                                <td style="width: 120px;" title="{{name}}">{{name}}</td>
+                            </tr>
+                        {{/records}}
+                       </script>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- part serial number -->
+    
+
+
+
+<div id="part-serial-num-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 650px; overflow-y: auto;">
+		<div class="common-head" data-action='drag'>
+			<h3>
+				零部件序列号查询<a id="part-serial-num-dialog-close"></a>
+			</h3>
+		</div>
+		<div class="title-sign" style="color: red;"><strong style="font-size:14px;">注：请确保重要部件没有更换过</strong></div>
+		<div id="part-serial-num-filter" class="common-search">
+			<!-- 
+			<div class="search-column" id="product-line">
+				<span>产品线:</span><select data-field="productCode" data-operator="EQ"
+					data-scope='filter' id="partNO-select"></select>
+			</div>
+			<div class="search-column">
+				<span>类型:</span>
+                <select data-field="typeCode" data-operator="EQ" data-scope='filter' id="typeCode-select">
+                </select>
+			</div> 
+			-->
+			<div class="search-column">
+				<span>零部件序列号:</span><input type="text" data-field="partSN" id="partSN-input" data-operator="IEQ"
+					data-scope='filter' />
+			</div>
+		</div>
+		<div class="common-btn-wrap">
+		    <a class="btn-default" id="part-serial-num-btn-filter">查询</a>
+			<a class="btn-default" id="part-serial-num-btn-clear">清空</a>
+		</div>
+		<div class="title-sign"><p><span>——</span><label>整机物料号</label><span>——</span></p></div>
+		<div class="common-grid-wrap" style="max-height: 321px; overflow-y: auto !important;">
+			<div class="grid-common">
+				<table id="part-model-grid" style="width: 800px;" data-read-url="/feature/model-feature">
+					<thead>
+						<tr>
+							<th style="width: 50px;">序号</th>
+							<th style="width: 120px;">产品线</th>
+							<th style="width: 200px;">机型</th>
+							<th style="width: 200px;">子机型</th>
+							<th style="width: 120px;">整机物料号</th>
+							<th style="width: 360px;">整机物料号描述</th>
+							<th style="width: 120px;">整机序列号</th>
+							<th style="width: 120px;">配件编码</th>
+							<th style="width: 200px;">配件名称</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr data-keys='{"id":"{{id}}"}' data-vin="{{vin}}">
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{productName}}">{{productName}}</td>
+                            <td title="{{machineName}}">{{machineName}}</td>
+                            <td title="{{submachineName}}">{{submachineName}}</td>
+                            <td data-field="modelCode" title="{{modelCode}}" style="text-decoration:underline;cursor:pointer;">{{modelCode}}</td>
+                            <td title="{{modelName}}">{{modelName}}</td>
+                            <td title="{{vin}}">{{vin}}</td>
+                            <td title="{{partNO}}">{{partNO}}</td>
+                            <td title="{{partName}}">{{partName}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed">
+				<table id="part-model-fixed">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+                        {{#records}}
+                         <tr data-vin="{{vin}}">
+                            <td><a data-action="list" href="/usage/vin/{{vin}}">进入目录</a></td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div class="title-sign"><p><span>——</span><label>配置信息</label><span>——</span></p></div>
+		<div class="common-grid-wrap" style="padding-bottom: 10px; max-height: 180px; overflow-y: auto !important;">
+			<div class="grid-common" style="width:100%;">
+				<table id="part-config-grid" style="width: 100%;" data-read-url="/feature/model-feature">
+					<thead>
+						<tr>
+							<th style="width: 15%;">行号</th>
+							<th style="width: 20%;">配置</th>
+							<th style="width: 65%;">配置描述</th>
+						</tr>
+					</thead>
+					<tbody id="part-config-info">
+						<script type="text/template" id="part-config-template" style="display:none;">
+						{{#records}}
+                        <tr>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{typeName}}">{{typeName}}</td>
+                            <td title="{{name}}">{{name}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+
+    <!-- replace info -->
+    
+<div id="replace-info-dialog" class="dialog" style="width: 1400px; display: none; height: 600px;">
+
+		<div class="common-head" data-action="drag">
+			<h3>
+				替换信息<a id="replace-info-dialog-close"></a>
+			</h3>
+		</div>
+
+		<div id="replace-info-filter" class="common-search">
+			<div class="search-column">
+				<span>配件编码:</span><input id="replace-partNO" type="text" data-field="partNO" data-operator="IEQ" data-scope="filter" />
+			</div>
+
+		</div>
+		<div class="common-search" id="replace-part-msg-wrap" >
+            <div class="search-column">
+                <span>配件名称:</span><label id="replace-part-name" style="width:180px;text-align: left;"></label>
+            </div>
+            <div class="search-column">
+                <span>配件备注:</span><label id="replace-part-note" style="width:180px;text-align:left;"></label>
+            </div>
+        </div>
+
+		<div class="common-btn-wrap" id="replate-filter-btn-wrap">
+                <a class="btn-default" id="replace-info-btn-filter" data-action="search">查询</a>
+        </div>
+
+		<div class="common-grid-wrap" style="width:96%;height:100%"><!--  style="max-height:360px;overflow-y:auto" -->
+			<div class="grid-common" style = "width:100%;height:70%; " ><!--   -->
+				<table id="replace-info-grid" 
+					data-read-url="/supersession/info-paging"> <!--style="display:block; overflow: auto" style = "width:700px;position:relative;" border="0" cellpadding="0" cellspacing="0" -->
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 200px;">操作</th>
+							<th style="width: 230px;">产品线</th>
+							<th style="width: 230px;">子机型</th>
+							<th style="width: 230px;">替换组编码</th>
+							
+							<th style="width: 80px;">替换时间</th>
+							<th style="width: 385px;">替换类型</th>
+							<th style="width: 120px;">替换备注</th>
+							<th style="width: 200px;">断点信息</th>
+							<th style="width: 200px;">替换前配件编码</th>
+							
+							<th style="width: 200px;">替换后配件编码</th>
+							
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template" id="config-info-template">
+						{{#records}}
+				                        <tr data-keys='{"id":"{{id}}"}' data-code="{{code}}">
+				                            <td title="{{rowNumber}}" data-field="rowNumber">{{rowNumber}}</td>
+											<td><a data-action="replace-action-detail">详细</a></td>
+				                            <td title="{{productName}}" data-field="productName">{{productName}}</td>
+				                            <td title="{{submachineName}}" data-field="submachineName">{{submachineName}}</td>
+				                            <td title="{{code}}" data-field="code">{{code}}</td>
+
+				                            <td title="{{supersessionDate}}" data-field="supersessionDate">{{supersessionDate}}</td>				                            
+											<td title="{{typeName}}" data-field="typeName">{{typeName}}</td>
+				                            <td title="{{note}}" data-field="note">{{note}}</td>
+				                            <td title="{{bp_info}}" data-field="bp_info">{{bp_info}}</td>
+				                            <td title="{{oldParts}}" data-field="oldParts">{{oldParts}}</td>
+
+				                            <td title="{{newParts}}" data-field="newParts">{{newParts}}</td>
+
+				                        </tr>
+				                        {{/records}}
+                       				</script>
+					</tbody>
+				</table>
+			</div>
+			
+			<!--  				
+			<div class="grid-fixed">
+				<table id="replace-info-fixed">
+				<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+				<tbody>
+					<script type="text/template">
+				                        {{#records}}
+				                         <tr>
+				                            <td><a data-action="replace-action-detail">详细</a></td>
+				                        </tr>
+				                        {{/records}}
+				                       </script>
+					</tbody>
+				</table>
+			</div>
+			-->	
+		</div>
+
+		
+	</div>
+
+
+    <!-- replace info detail dialog -->
+    
+
+<!-- replace detail open dialog replace info -->
+    <div class="dialog replace-info" id="replace-info-detail-dialog" style="display: none; height: 350px;
+    	 width: 1100px;">
+		<div class="common-head" data-action="drag">
+            <h3>替换信息<a id="replace-info-detail-dialog-close"></a></h3>
+        </div>
+        <div class="replace-info-content-detail">
+			<table id="replace-detail-head-info">
+				<tr>
+					<td style="width:12%"><span>替换组编码：</span></td>
+					<td style="width:16%"><label data-field="code"></label></td>
+					<td style="width:12%"><span>替换时间：</span></td>
+					<td style="width:12%"><label data-field="supersessionDate"></label></td>
+					<td style="width:12%"><span>替换类型：</span></td>
+					<td style="width:12%"><label data-field="typeName"></label></td>
+					<td style="width:12%"><span>断点信息：</span></td>
+					<td style="width:12%"><label data-field="bp_info"></label></td>
+				</tr>
+				<tr><td style="width:12%"><span>替换备注：</span></td>
+					<td style="width:12%"><label data-field="note"></label></td>
+				
+					<td style="width:12%"><span>产品线：</span></td>
+					<td style="width:12%"><label data-field="productName"></label></td>
+					
+					<td style="width:12%"><span>子机型：</span></td>
+					<td style="width:12%"><label data-field="submachineName"></label></td>
+				</tr>
+			</table>
+		</div>
+		
+		<div style="height: 266px; overflow-y: auto;">
+		<div class="replace-info-content">		
+			<div class="replace-info-grid-title" style="margin-top:0px;">
+				<span>——</span><label>替换前信息</label><span>——</span>
+			</div>
+			<div class="common-grid-wrap">
+				<div class="grid-common">
+					<table style="width:650px;">
+						<thead>
+	                        <tr>
+	                            <th style="width: 30px;">序号</th>
+	                            <th style="width: 80px;">父配件编码</th>
+	                            <th style="width: 200px;">父配件名称</th>
+	                            <th style="width: 80px;">配件编码</th>
+	                            <th style="width: 200px;">配件名称</th>
+								<th style="width: 50px;">数量</th>
+								<th style="width: 100px;">备注</th>
+	                        </tr>
+	                    </thead>
+	                    <tbody id="replace-olds-tbody-header">
+	                    <script type="text/template" id="replace-olds-template-header">
+								{{#records}}
+	                        		<tr>
+	                            		<td title="{{rowNumber}}">{{rowNumber}}</td>
+	                            		<td title="{{parentPartNO}}"><a href="/supersession/legend/{{supersessionCode}}/{{parentPartNO}}" target="_blank">{{parentPartNO}}</a></td>
+	                            		<td title="{{parentPartName}}">{{parentPartName}}</td>
+	                            		<td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+	                            		<td title="{{partName}}">{{partName}}</td>
+										<td title="{{qty}}">{{qty}}</td>
+	                            		<td title="{{partNote}}">{{partNote}}</td>
+	                        		</tr>
+								{{/records}}
+                       		</script>
+						</tbody>
+					</table>
+				</div>				
+			</div>
+		</div>
+
+		<div class="replace-info-content">
+			<div class="replace-info-grid-title" style="margin-top:0px;">
+				<span>——</span><label>替换后信息</label><span>——</span>
+			</div>
+			<div class="common-grid-wrap">
+				<div class="grid-common">
+					<table style="width:650px;">
+						<thead>
+	                        <tr>
+	                            <th style="width: 30px;">序号</th>
+	                            <th style="width: 80px;">父配件编码</th>
+	                            <th style="width: 200px;">父配件名称</th>
+	                            <th style="width: 80px;">配件编码</th>
+	                            <th style="width: 200px;">配件名称</th>
+								<th style="width: 50px;">数量</th>
+								<th style="width: 100px;">备注</th>
+	                        </tr>
+	                    </thead>
+	                    <tbody id="replace-news-tbody-header">
+	                        <script type="text/template" id="replace-news-template-header">
+                                {{#records}}
+                                    <tr>
+                                        <td title="{{rowNumber}}">{{rowNumber}}</td>
+                                        <td title="{{parentPartNO}}"><a href="/supersession/legend/{{supersessionCode}}/{{parentPartNO}}" target="_blank">{{parentPartNO}}</a></td>
+                                        <td title="{{parentPartName}}">{{parentPartName}}</td>
+                                        <td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+                                        <td title="{{partName}}">{{partName}}</td>
+                                        <td title="{{qty}}">{{qty}}</td>
+                                        <td title="{{partNote}}">{{partNote}}</td>
+                                    </tr>
+                                {{/records}} 
+                            </script>
+						</tbody>
+					</table>
+				</div>				
+			</div>
+		</div>
+		</div>
+	</div>
+
+
+    <!-- apply search -->
+    
+
+
+
+<div id="apply-search-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 530px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				适用查询<a id="apply-search-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="apply-search-filter" class="common-search">
+			<div class="search-column">
+				<span>产品线:</span><select data-field="productCode" data-operator="EQ"
+					data-scope='filter'></select>
+			</div>
+			<div class="search-column">
+				<span>机型:</span><select data-field="machineCode" data-operator="EQ"
+					data-scope='filter'><option value="">全部</option></select>
+			</div>
+			<div class="search-column">
+				<span>子机型:</span><select data-field="submachineCode"
+					data-operator="EQ" data-scope='filter'><option value="">全部</option></select>
+			</div>
+			<div class="search-column">
+				<span>系统:</span>
+				<select data-field="systemCode" data-scope='filter' data-operator="EQ">
+					<option value="">全部</option>
+					
+						<option value="Y13">传动行驶系统</option>
+					
+						<option value="Y14">底盘操纵系统</option>
+					
+						<option value="Y15">管路</option>
+					
+						<option value="Y16">泵、阀、锁</option>
+					
+						<option value="Y17">油缸、回转接头</option>
+					
+						<option value="Y18">机构</option>
+					
+						<option value="Y19">驾驶、操纵室 </option>
+					
+						<option value="Y20">其它装置</option>
+					
+						<option value="X00">部件</option>
+					
+						<option value="Y11">空调及暖风系统</option>
+					
+						<option value="Y12">机罩及其它覆盖件</option>
+					
+						<option value="Y21">门架系统</option>
+					
+						<option value="Y00">传动系统</option>
+					
+						<option value="Y01">液压系统</option>
+					
+						<option value="Y02">制动系统</option>
+					
+						<option value="Y03">结构</option>
+					
+						<option value="Y04">驾驶室</option>
+					
+						<option value="Y05">动力系统</option>
+					
+						<option value="Y06">电器系统</option>
+					
+						<option value="Y07">整机附件</option>
+					
+						<option value="Y08">原理图</option>
+					
+						<option value="Y09">主机</option>
+					
+						<option value="Y10">其它</option>
+					
+						<option value="Y22">拖车系统</option>
+					
+						<option value="SP306854">II砖块夹</option>
+					
+						<option value="SP296192">III旋转器</option>
+					
+						<option value="SP296123">II调距叉</option>
+					
+						<option value="SP296206">III调距叉</option>
+					
+						<option value="Y31">打桩机</option>
+					
+						<option value="Y33">鹰嘴剪</option>
+					
+						<option value="Y37">欧标</option>
+					
+						<option value="Y39">驱动系统</option>
+					
+						<option value="Y26">压缩系统</option>
+					
+						<option value="Y27">泵送系统</option>
+					
+						<option value="Y28">三角型破碎锤</option>
+					
+						<option value="SP296153">III软包夹</option>
+					
+						<option value="SP296191">II旋转器</option>
+					
+						<option value="SP306849">IV调距叉</option>
+					
+						<option value="Y34">粉碎钳</option>
+					
+						<option value="Y35">国标</option>
+					
+						<option value="Y42">附件系统</option>
+					
+						<option value="Y47">欧标商务</option>
+					
+						<option value="Y23">润滑系统</option>
+					
+						<option value="Y24">控制系统</option>
+					
+						<option value="Y25">加热器系统</option>
+					
+						<option value="Y29">直角型破碎锤</option>
+					
+						<option value="Y30">静音型破碎锤</option>
+					
+						<option value="SP264585">抓夹（叉车）</option>
+					
+						<option value="SP306847">II推拉器</option>
+					
+						<option value="SP306850">IV旋转器</option>
+					
+						<option value="SP296152">II软包夹</option>
+					
+						<option value="SP308726">III旋转叉夹</option>
+					
+						<option value="SP310331">II纸箱夹</option>
+					
+						<option value="Y45">属具系统</option>
+					
+						<option value="Y44">起重臂系统</option>
+					
+						<option value="Y46">转向系统</option>
+					
+						<option value="SP306853">II旋转叉夹</option>
+					
+						<option value="Y32">液压剪</option>
+					
+						<option value="Y36">国标出口版</option>
+					
+						<option value="Y38">美标</option>
+					
+						<option value="Y40">车架系统</option>
+					
+						<option value="Y41">电气系统</option>
+					
+						<option value="Y43">覆盖件系统</option>
+					
+				</select>
+			</div>
+			<div class="search-column">
+				<span>配件分类:</span>
+				<select data-field="partCategoryCode" data-scope='filter'>
+					<script type="text/template">
+						<option value="">全部</option>
+						{{#records}}
+						<optgroup label="{{name}}">
+							{{#partCategories}}
+								<option value="{{code}}">{{name}}</option>
+							{{/partCategories}}
+						</optgroup>
+						{{/records}}
+					</script>
+				</select>
+			</div>
+		</div>
+		<div class="common-btn-wrap">
+			<a id="apply-search-btn-filter" class="btn-default">查询</a> <a
+				id="apply-search-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common"  style="width:84%;">
+				<table id="apply-search-grid" style="width: 1460px;"
+					data-read-url="/usage/appliance-search">
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 120px;">产品线</th>
+							<th style="width: 120px;">机型</th>
+							<th style="width: 200px;">子机型</th>
+							<th style="width: 200px;">系统</th>
+							<th style="width: 120px;">配件分类</th>
+							<th style="width: 120px;">配件编码</th>
+							<th style="width: 250px;">配件名称</th>
+							<th style="width: 150px;">备注</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+				                        <tr>
+				                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+				                            <td title="{{productName}}">{{productName}}</td>
+				                            <td title="{{machineName}}">{{machineName}}</td>
+				                            <td title="{{submachineName}}">{{submachineName}}</td>
+				                            <td title="{{systemName}}">{{systemName}}</td>
+				                            <td title="{{partCategoryName}}">{{partCategoryName}}</td>
+				                            <td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+				                            <td title="{{partName}}">{{partName}}</td>
+				                            <td title="{{partNote}}">{{partNote}}</td>
+				                        </tr>
+				                        {{/records}}
+				                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed" style="width:16%;">
+				<table id="apply-search-fixed">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+				                        {{#records}}
+				                         <tr>
+				                            <td>
+				                                <a  {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-order="{{order}}" data-submachineCode="{{submachineCode}}" data-partNO="{{partNO}}" data-mpq="{{mpq}}" data-preServed4="{{preServed4}}">购买</a>
+				                                &nbsp;&nbsp;
+				                                <a data-action="catalog" target="_blank" href="/usage/legend/?modelCode={{modelCode}}&systemCode={{systemCode}}&legendCode={{legendCode}}&partNO={{partNO}}&callout={{callout}}">进入目录</a>
+				                            </td>
+				                         </tr>
+				                        {{/records}}
+				                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="apply-search-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+	
+	<!-- ecn search -->
+    
+
+
+
+<div id="ecn-search-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 530px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				ECN查询<a id="ecn-search-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="ecn-search-filter" class="common-search">
+			
+			<div class="search-column">
+		           	<span>变更前物料号:</span><!--变更前物料号  -->
+		           	<input type="text" data-params="export" data-field="partNoBefore" data-operator="IEQ" data-scope='filter' />
+	        </div>
+	        <div class="search-column">
+		           	<span>变更前物料号名称:</span><!-- 变更前物料名称 -->
+		           	<input type="text" data-params="export" data-field="partNoBeforeName" data-operator="IEQ" data-scope='filter' />
+	        </div>
+			<div class="search-column">
+		           	<span>变更后物料号:</span><!-- 变更后物料号 -->
+		           	<input type="text" data-params="export" data-field="partNoAfter" data-operator="IEQ" data-scope='filter' />
+	        </div>
+	        <div class="search-column">
+		           	<span>变更后物料号名称:</span><!-- 变更后物料名称 -->
+		           	<input type="text" data-params="export" data-field="partNoAfterName" data-operator="IEQ" data-scope='filter' />
+	        </div>
+	        	
+			<div class="search-column date-column">
+	           		<span>审核发布时间:</span><!-- 审核发布时间 -->
+		           	<b><input type="text" data-params="export" data-fieldType="D" data-field="auditTime" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+		           	<em>-</em>
+		           	<b><input type="text" data-params="export" data-fieldType="D" data-field="auditTime" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	        </div>
+	        
+			<div class="search-column">
+		           	<span>替换类型编码:</span><!-- 替换类型 -->
+		           	<input type="text" data-params="export" data-field="changeTypeCode" data-operator="IEQ" data-scope='filter' />
+	        </div>
+	        <div class="search-column">
+		           	<span>变更编码:</span><!--变更编码  -->
+		           	<input type="text" data-params="export" data-field="changeCode" data-operator="IEQ" data-scope='filter' />
+	        </div>
+			
+	        
+		</div>
+		<div class="common-btn-wrap">
+			<a id="ecn-search-btn-filter" class="btn-default">查询</a>
+			<a id="ecn-search-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common"  style="width:99%;">
+				<table id="ecn-search-grid" style="width: 1600px;"
+					data-read-url="/usage/ecn-search">
+					<thead>
+						<tr>
+							<th style="width: 200px;">变更前物料号</th><!--  变更前物料号-->
+							<th style="width: 200px;">变更前物料号名称</th><!--  变更前物料号名称-->
+							<th style="width: 150px;">变更后物料号</th><!-- 变更后物料号 -->
+							<th style="width: 150px;">变更后物料号名称</th><!--  变更后物料号名称-->
+							<th style="width: 120px;">替换类型编码</th><!--  替换类型编码-->
+							<th style="width: 120px;">替换类型名称</th><!--  替换类型名称-->
+							
+							<th style="width: 150px;">变更编码</th><!-- 变更编码 -->
+							<th style="width: 150px;">互换性</th><!-- 互换性 -->
+							<th style="width: 150px;">累计装机量</th><!-- 累计装机量 -->
+							
+							<th style="width: 150px;">变更原因</th><!-- 变更原因 -->
+							<th style="width: 150px;">旧件处理意见</th><!--  旧件处理意见-->
+							<th style="width: 150px;">新备注中文信息</th><!-- 新备注中文信息 -->
+							
+							<th style="width: 150px;">产品线</th>
+							<th style="width: 150px;">机型</th>
+							<th style="width: 150px;">子机型</th>
+							
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+				                        <tr>
+				                            <td title="{{partNoBefore}}">{{partNoBefore}}</td>
+				                            <td title="{{partNoBeforeName}}">{{partNoBeforeName}}</td>
+				                            <td title="{{partNoAfter}}">{{partNoAfter}}</td>
+				                            <td title="{{partNoAfterName}}">{{partNoAfterName}}</td>
+				                            <td title="{{changeTypeCode}}">{{changeTypeCode}}</td>
+				                            <td title="{{changeTypeName}}">{{changeTypeName}}</td>
+
+				                            <td title="{{changeCode}}">{{changeCode}}</td>
+											<td title="{{exchangeInfo}}">{{exchangeInfo}}</td>
+											<td title="{{totalQty}}">{{totalQty}}</td>
+
+				                            <td title="{{changeReason}}">{{changeReason}}</td>
+				                            <td title="{{dealopinionCode}}">{{dealopinionCode}}</td>
+				                            <td title="{{noteNewZhSou}}">{{noteNewZhSou}}</td>
+
+				                            <td title="{{productName}}">{{productName}}</td>
+				                            <td title="{{machineName}}">{{machineName}}</td>
+				                            <td title="{{submachineName}}">{{submachineName}}</td>
+				                        </tr>
+				                        {{/records}}
+				                       </script>
+					</tbody>
+				</table>
+			</div>
+				
+		</div>
+		<div id="ecn-search-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+    <!-- reserve -->
+    
+
+
+<div id="reserve-search-dialog" class="dialog"
+        style="width: 1000px;height:505px; display: none;">
+    <div class="common-head" data-action="drag">
+        <h3>
+            储备建议
+            <a id="reserve-search-dialog-close"></a>
+        </h3>
+    </div>
+    <div id="reserve-search-filter" class="common-search">
+        <div class="search-column">
+            <span>
+                产品线
+                :
+            </span>
+            <select data-field="productCode" data-operator="EQ"
+                    data-scope='filter'></select>
+        </div>
+        <div class="search-column">
+            <span>
+                机型
+                :
+            </span>
+            <select data-field="machineCode" data-operator="EQ"
+                    data-scope='filter'>
+                <option value="">
+                    全部
+                </option>
+            </select>
+        </div>
+        <div class="search-column">
+            <span>
+                子机型
+                :
+            </span>
+            <select data-field="submachineCode"
+                    data-operator="EQ" data-scope='filter'>
+                <option value="">
+                    全部
+                </option>
+            </select>
+        </div>
+        <div class="search-column">
+            <span>
+                整机物料号
+                :
+            </span>
+            <input type="text" data-field="modelCode" data-operator="IEQ"  data-scope="filter" />
+        </div>
+        <div class="search-column">
+            <span>
+                储备建议
+                :
+            </span>
+            <select data-field="storeTypeCode" data-scope='filter'>
+                <option value="">
+                    全部
+                </option>
+                
+                    <option value="3">3Y</option>
+                
+                    <option value="13">2000H</option>
+                
+                    <option value="4">5Y</option>
+                
+                    <option value="5">标准件-废弃</option>
+                
+                    <option value="7">非常规储备件-废弃</option>
+                
+                    <option value="1">1Y</option>
+                
+                    <option value="10">1000H</option>
+                
+                    <option value="8">250H</option>
+                
+                    <option value="9">500H</option>
+                
+                    <option value="11">不建议储备</option>
+                
+                    <option value="12">1500H</option>
+                
+                    <option value="2">2Y</option>
+                
+                    <option value="6">非常规储备_关键件-废弃</option>
+                
+            </select>
+        </div>
+
+    </div>
+    <div class="common-btn-wrap">
+        <a id="reserve-search-btn-export" class="btn-default"  data-export-filename="exprot list" data-export-url='/store-type/export'>
+            导出
+        </a>
+        <a id="reserve-search-btn-filter" class="btn-default">
+            查询
+        </a>
+        <a id="reserve-search-btn-clear" class="btn-default">
+            清空
+        </a>
+        <!-- export container -->
+        <div id="reserve-search-main-wrap" style="display:none;"></div>
+    </div>
+    <div class="common-grid-wrap">
+        <div class="grid-common">
+            <table id="reserve-search-grid" style="width: 100%;"
+                    data-read-url="/store-type/list">
+                <thead>
+                    <tr>
+                        <th style="width: 50px;">
+                            行号
+                        </th>
+                        <th style="width: 100px;">
+                            配件编码
+                        </th>
+                        <th style="width: 140px;">
+                            配件名称
+                        </th>
+                        <th style="width: 50px;">
+                            数量
+                        </th>
+                        <th style="width: 100px;">
+                            储备建议
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <script type="text/template">
+                        {{#records}}
+                        <tr>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+                            <td title="{{partName}}">{{partName}}</td>
+                            <td title="{{qty}}">{{qty}}</td>
+                            <td title="{{storeTypeName}}">{{storeTypeName}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+                </tbody>
+            </table>
+        </div>
+        <div class="grid-fixed">
+            <table id="reserve-search-fixed">
+                <thead>
+                    <tr>
+                        <th>
+                            操作
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-submachineCode="{{submachineCode}}" data-partNO="{{partNO}}" data-mpq="{{mpq}}" data-preServed4="{{preServed4}}">购买</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="reserve-search-paging" class="common-paging">
+        <ul>
+            <li class="comm on-paging-total">
+                共
+                <span data-id="spPageCount"></span>
+                页 <em>/</em>
+            </li>
+            <li class="common-paging-record">
+                <span data-id="spRecordCount"></span>
+                条记录
+            </li>
+            <li class="common-paging-top-disabled" data-id="btnTopPage">
+                <a
+                    data-action="top"></a>
+            </li>
+            <li class="common-paging-prev-disabled" data-id="btnPrevPage">
+                <a
+                    data-action="prev"></a>
+            </li>
+            <li class="common-paging-next-disabled" data-id="btnNextPage">
+                <a
+                    data-action="next"></a>
+            </li>
+            <li class="common-paging-bottom-disabled" data-id="btnBottomPage">
+                <a
+                    data-action="bottom"></a>
+            </li>
+            <li class="common-paging-current">
+                当前页码
+                ：
+                <input type="text"
+                    data-id="tbCurrentPageIndex" />
+            </li>
+            <li class="common-paging-go">
+                <a data-id="btnGoTo">GO</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+    <!-- shopping cart -->
+    
+
+
+<link rel="stylesheet"  href="/css/uploadifive.css" type="text/css"></link>
+<div id="shopping-cart" class="shopping-cart dialog" style="width:1200px;height:660px;display:none;">
+	<div class="common-head" data-action="drag">
+           <h3>购物车详细<a id="shopping-cart-close"></a></h3>
+       </div>
+    <div id="shopping-cart-filter">
+	       <div class="common-search shopping-cart-operate" id="shoppingCart-operate">
+	       		<div class="current-shoppingcart-wrap">
+	       			<span>当前购物车:</span><select data-params="export" data-field="shoppingCartID" id="current-shopping"></select>
+	       		</div>
+	       		<div>
+		       		<div class="search-column" style="width: 400px;">
+		       			<span>创建时间:</span><label data-field="create-date"></label>
+		       		</div>
+		       		<div class="search-column" style="width: 400px;">
+		       			<span>最后修改时间:</span><label data-field="update-date"></label>
+		       		</div>
+	       		</div>
+	       </div>
+	       <div class="common-btn-wrap btn-sc-wrap" id="operation-SC-wrap">
+			       	<a class="btn-default" data-action="default">设为默认</a>
+			       	<a class="btn-default" data-action="change">更改名称</a>
+			       	<a class="btn-default" data-action="add">新增</a>
+			       	<a class="btn-default" data-action="delete">删除</a>
+			       	<!-- <a class="btn-default" data-action="todcs" id='a_todcs'>前往国际DMS下单</a>  -->
+		       </div>
+			<div class="common-search" style="*padding-bottom: 10px;">
+	            <div class="search-column">
+		           	<span>配件编码:</span>
+		           	<input type="text" data-params="export" data-field="partNO" data-operator="IEQ" data-scope='filter' />
+	           	</div>
+	            <div class="search-column">
+	            	<span>配件名称:</span>
+	            	<input type="text" data-params="export" data-field="partName" data-operator="ALIKE" data-scope='filter'/>
+            	</div>
+	           	<div class="search-column date-column">
+	           		<span>加入时间:</span>
+		           	<b><input type="text" data-params="export" data-fieldType="D" data-field="createdDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+		           	<em>-</em>
+		           	<b><input type="text" data-params="export" data-fieldType="D" data-field="createdDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	</div>
+	           	<div class="common-btn-wrap" style="display: inline-block; width: auto;float: left;margin-left: 4px;">
+		           <a class="btn-default" id="shopping-cart-btn-filter">查询</a>
+		           <a class="btn-default" id="shopping-cart-btn-clear">清空</a>
+	       		</div>
+	       </div>
+
+       </div>
+	<div class="shopping-cart-buy">
+		<div class="search-column"><span>配件编码:</span><input id="shopping-cart-buy-partNO" type="text" /></div>
+		<div class="search-column"><a id="shopping-cart-buy" class="btn-default">购买</a></div>
+	</div>
+	<div id="shopping-cart-toolbar" class="shopping-cart-toolbar">
+		<div id="shopping-cart-main-wrap" style="display:none;"></div>
+		<span class="upload-list" style="right:60"><a>
+			<form id="upload-form" class="uploadOrder" 
+				style="top:256px; right:-5px;" enctype="multipart/form-data" method="GET">
+                  
+                  <input id="upload-file" type="file" name="file" />  
+                  <div id="filequeue"  style="display: none;"></div>
+        	</form>
+        	
+		 <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em> 
+		</a>
+		</span>
+		
+	    <span class="template"><a target="_self" href="/shopping-cart/download?realName=ShoppingCartTemplate.xls"><b></b>下载模板</a></span>
+		<span class="export"><a data-action="export-SC" id="shopping-cart-btn-export" data-export-filename="shoppingCart_list" data-export-url="/shopping-cart/export"><b></b>导出</a></span>
+		<!-- export container -->
+        
+		<span class="delete"><a data-action="delete-multiple"><b></b>删除选中项</a></span>
+		<!-- <span class="submit_temp"><a data-action="subtemp-multiple"><b></b>提交到DMS</a></span>  add by whl 20150914 -->
+		
+		<input type="hidden" id="usernameHidden" value="KUZNETSOVVE@INDUSTRSERVICE.RU" />
+		<span class="submit_temp"><a data-action="submit-dcs"><b></b>提交到DMS</a></span> <!-- wbw add 20240522 -->
+		
+	</div>
+	<form id="export-SC" style="display: none;" action="/shopping-cart/export" method="get">
+		<input type="text" id="exportParams" name="exportParams" value="" />
+	</form>
+	<div class="shopping-cart-grid common-grid-wrap" style="width:99%;margin:0 auto;">
+		<div id="shopDtsDiv1" class="grid-fixed">
+			<table id="shopping-cart-fixed" >
+                 <thead>
+                     <tr>
+                         <th style="width: 10%;"><input type="checkbox" data-action="multiple"/></th>
+                         <th style="width: 15%;">序号</th>
+                         <th style="width: 30%;">配件编码</th>
+                         <th style="width: 20%;">数量</th>
+                         <th style="width: 20%;">操作</th>
+                     </tr>
+                 </thead>
+                 <tbody>
+                      <script type="text/template">
+                       {{#records}}
+                       <tr data-partNO="{{partNO}}" data-mpq="{{mpq}}" data-id="{{id}}">
+                           <td><input type="checkbox" data-action="single" /></td>
+                           <td>{{rowNumber}}</td>
+                           <td>
+                               <a href='/part/{{partNO}}/&'>{{partNO}}</a>
+                           </td>
+                           <td class="shopping-cart-number">
+                               <input type="text" data-action="qty" maxlength="5" value="{{qty}}"/>
+                           </td>
+                           <td><a data-action="delete" data-id="{{id}}">删除</a></td>
+                       </tr>
+                       {{/records}}
+                     </script>
+				</tbody>
+			</table>
+		</div>
+		<div id="shopDtsDiv2" class="grid-common" onscroll="document.getElementById('shopDtsDiv1').scrollTop = this.scrollTop;">
+
+			<table id="shopping-cart-grid" style="width:1630px;" data-read-url="/shopping-cart/list">
+				<thead>
+                       <tr>
+                           <th style="width: 200px;">配件名称</th>
+                           <th style="width: 200px;">配件备注</th>
+                           <th style="width: 150px;">最小包装单元</th>
+                           <th style="width: 150px;">加入时间</th>
+                          
+                       </tr>
+                   </thead>
+                <tbody>
+                       <script type="text/template">
+                       {{#records}}
+                       <tr data-keys='{"partNO":"{partNO}}"}'>
+                           <td title="{{partName}}">{{partName}}</td>
+                           <td title="{{partNote}}">{{partNote}}</td>
+                           <td title="{{mpq}}">{{mpq}}</td>
+                           <td title="{{createdDate}}">{{createdDate}}</td>
+						 
+                       </tr>
+                       {{/records}}
+                       </script>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<!--  	
+	<div class="common-paging">
+            <ul id="shopping-cart-paging">
+				<li class="common-paging-total">共<span data-id="spPageCount">11</span>页<em>/</em></li>
+                <li class="common-paging-record"><span data-id="spRecordCount">996</span>条记录</li>
+                <li class="common-paging-top-disabled" data-id="btnTopPage"><a data-action="top"></a></li>
+                <li class="common-paging-prev-disabled" data-id="btnPrevPage"><a data-action="prev"></a></li>
+                <li class="common-paging-next-disabled" data-id="btnNextPage"><a data-action="next"></a></li>
+                <li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text" data-id="tbCurrentPageIndex" /></li>
+                <li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+            </ul>
+        </div>-->
+</div>
+
+    <!-- collect detail -->
+    
+
+
+
+<div id="collect-detail-dialog" class="dialog"
+		style="width: 848px; display: none; height: 462px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				收藏列表<a id="collect-detail-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="collect-detail-filter" class="common-search">
+			<div class="search-column">
+					<span>收藏名称:</span><input type="text"  data-operator="ALIKE" data-field="note" data-scope="filter" />
+				</div>
+			<div class="search-column date-column"><span>加入时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="createdDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="createdDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b></div>
+			</div>
+			<div class="common-btn-wrap">
+			        <a id="clear-all-collect" class="btn-default" >清空收藏</a>
+				    <a id="collect-detail-btn-filter" class="btn-default">查询</a> 
+				    <a id="collect-detail-btn-clear" class="btn-default">清空</a>
+			</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common" style="width:100%;">
+				<table id="collect-detail-grid" style="width: 100%;"
+					data-read-url="/favorite/list">
+					<thead>
+						<tr>
+							<th style="width: 10%;">行号</th>
+							<th style="width: 50%;">收藏</th>
+							<th style="width: 20%;">加入时间</th>
+							<th style="width: 20%;">操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{note}}">{{note}}</td>
+                            <td title="{{createdDate}}">{{createdDate}}</td>
+							<td><a data-action="history-detail" data-createdDate="{{createdDate}}" data-historyCode="{{historyCode}}" href="/usage/legend/?modelCode={{modelCode}}&systemCode={{systemCode}}&legendCode={{legendCode}}&partNO={{partNO}}&&callout={{callout}}">进入目录</a></td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="collect-detail-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+     <!-- collect action -->
+    
+	
+    <!-- collect -->
+	<div id="collect-action" class="dialog dialog-small" style="display: none;">
+		<div class="common-head" data-action="drag">
+            <h3>收藏<a data-action="cancel"></a></h3>
+        </div>
+		<div class="dialog-small-content">
+			<div class="search-column"><span>名称：</span><input type="text" data-action="name" /></div>
+		</div>
+		<div class="common-btn-wrap">
+			<a class="btn-default"  data-action="confirm">确认</a>
+			<a class="btn-default" data-action="cancel">取消</a>
+		</div>
+	</div>
+
+    <!-- shopping cart add -->
+    
+	
+    <!-- collect -->
+	<div id="shopping-cart-add" class="dialog dialog-small" style="display: none;">
+		<div class="common-head" data-action="drag">
+           <h3>购物车名称</h3>
+       </div>	
+       <a data-action="cancel" class="dialog-close"></a>	
+		<div class="dialog-small-content">
+			<div class="search-column"><span>名称：</span><input type="text" data-field="name" /></div>
+		</div>
+		<div class="common-btn-wrap">
+			<a class="btn-default"  data-action="confirm">确认</a>
+			<a class="btn-default" data-action="cancel">取消</a>
+		</div>
+	</div>
+    
+    <!-- submit shopping cart    add by whl 20150914-->
+    
+	
+    <!-- collect -->
+	<div id="submit-shopping-cart" class="dialog dialog-small" style="display: none;">
+		<div class="common-head" data-action="drag">
+           <h3>提交到DMS</h3>
+       </div>	
+       <a data-action="cancel" class="dialog-close"></a>	
+		<div class="dialog-small-content">
+			<div ><span>已提交</span></div>
+		</div>
+		<div class="common-btn-wrap">
+			<a class="btn-default"  data-action="confirm">确认</a>
+		</div>
+	</div>
+
+    <!-- head site nav history -->
+    
+
+
+
+<div id="site-history-dialog" class="dialog"
+		style="width: 1000px; display: none;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				历史<a id="site-history-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="site-history-filter" class="common-search">
+			<div class="search-column">
+				<span>产品线:</span><select data-field="productCode" data-operator="EQ"
+					data-scope='filter'></select>
+			</div>
+			<div class="search-column">
+				<span>机型:</span><select data-field="machineCode" data-operator="EQ"
+					data-scope='filter'><option value="">全部</option></select>
+			</div>
+			<div class="search-column">
+				<span>子机型:</span><select data-field="submachineCode"
+					data-operator="EQ" data-scope='filter'><option value="">全部</option></select>
+			</div>
+			<div class="search-column">
+				<span>整机序列号:</span><input type="text" data-field="modelSN"
+					data-operator="EQ" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>整机物料号:</span><input type="text" data-field="modelCode"
+					data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>系统:</span>
+				<select data-field="systemCode" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+					
+						<option value="Y13">传动行驶系统</option>
+					
+						<option value="Y14">底盘操纵系统</option>
+					
+						<option value="Y15">管路</option>
+					
+						<option value="Y16">泵、阀、锁</option>
+					
+						<option value="Y17">油缸、回转接头</option>
+					
+						<option value="Y18">机构</option>
+					
+						<option value="Y19">驾驶、操纵室 </option>
+					
+						<option value="Y20">其它装置</option>
+					
+						<option value="X00">部件</option>
+					
+						<option value="Y11">空调及暖风系统</option>
+					
+						<option value="Y12">机罩及其它覆盖件</option>
+					
+						<option value="Y21">门架系统</option>
+					
+						<option value="Y00">传动系统</option>
+					
+						<option value="Y01">液压系统</option>
+					
+						<option value="Y02">制动系统</option>
+					
+						<option value="Y03">结构</option>
+					
+						<option value="Y04">驾驶室</option>
+					
+						<option value="Y05">动力系统</option>
+					
+						<option value="Y06">电器系统</option>
+					
+						<option value="Y07">整机附件</option>
+					
+						<option value="Y08">原理图</option>
+					
+						<option value="Y09">主机</option>
+					
+						<option value="Y10">其它</option>
+					
+						<option value="Y22">拖车系统</option>
+					
+						<option value="SP306854">II砖块夹</option>
+					
+						<option value="SP296192">III旋转器</option>
+					
+						<option value="SP296123">II调距叉</option>
+					
+						<option value="SP296206">III调距叉</option>
+					
+						<option value="Y31">打桩机</option>
+					
+						<option value="Y33">鹰嘴剪</option>
+					
+						<option value="Y37">欧标</option>
+					
+						<option value="Y39">驱动系统</option>
+					
+						<option value="Y26">压缩系统</option>
+					
+						<option value="Y27">泵送系统</option>
+					
+						<option value="Y28">三角型破碎锤</option>
+					
+						<option value="SP296153">III软包夹</option>
+					
+						<option value="SP296191">II旋转器</option>
+					
+						<option value="SP306849">IV调距叉</option>
+					
+						<option value="Y34">粉碎钳</option>
+					
+						<option value="Y35">国标</option>
+					
+						<option value="Y42">附件系统</option>
+					
+						<option value="Y47">欧标商务</option>
+					
+						<option value="Y23">润滑系统</option>
+					
+						<option value="Y24">控制系统</option>
+					
+						<option value="Y25">加热器系统</option>
+					
+						<option value="Y29">直角型破碎锤</option>
+					
+						<option value="Y30">静音型破碎锤</option>
+					
+						<option value="SP264585">抓夹（叉车）</option>
+					
+						<option value="SP306847">II推拉器</option>
+					
+						<option value="SP306850">IV旋转器</option>
+					
+						<option value="SP296152">II软包夹</option>
+					
+						<option value="SP308726">III旋转叉夹</option>
+					
+						<option value="SP310331">II纸箱夹</option>
+					
+						<option value="Y45">属具系统</option>
+					
+						<option value="Y44">起重臂系统</option>
+					
+						<option value="Y46">转向系统</option>
+					
+						<option value="SP306853">II旋转叉夹</option>
+					
+						<option value="Y32">液压剪</option>
+					
+						<option value="Y36">国标出口版</option>
+					
+						<option value="Y38">美标</option>
+					
+						<option value="Y40">车架系统</option>
+					
+						<option value="Y41">电气系统</option>
+					
+						<option value="Y43">覆盖件系统</option>
+					
+				</select>
+			</div>
+			<div class="search-column">
+				<span>图例:</span><input data-field="legendCode" type="text"
+					data-scope='filter' />
+			</div>
+			<div class="search-column date-column">
+				<span>浏览时间:</span>
+           		<b><input type="text" data-fieldType="D" data-field="createdDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b><em>-</em>
+           		<b><input type="text" data-fieldType="D" data-field="createdDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+           </div>
+		</div>
+		<div class="common-btn-wrap">
+		<a id="site-history-btn-clearHistory" class="btn-default">清空历史</a>
+			<a id="site-history-btn-filter" class="btn-default">查询</a> <a
+				id="site-history-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table id="site-history-grid" style="width: 1730px;"
+					data-read-url="/history/list">
+					<thead>
+						<tr>
+							<th style="width: 50px;">行号</th>
+							<th style="width: 120px;">产品线</th>
+							<th style="width: 120px;">机型</th>
+							<th style="width: 120px;">子机型</th>
+							<th style="width: 120px;">整机物料号</th>
+							<th style="width: 120px;">整机序列号</th>
+							<th style="width: 120px;">系统</th>
+							<th style="width: 120px;">图例</th>
+							<th style="width: 120px;">浏览时间</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+				                        <tr data-keys='{"id":"{{id}}"}'>
+				                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+				                            <td title="{{productName}}">{{productName}}</td>
+				                            <td title="{{machineName}}">{{machineName}}</td>
+				                            <td title="{{submachineName}}">{{submachineName}}</td>
+				                            <td title="{{modelCode}}">{{modelCode}}</td>
+						       <td title="{{modelSN}}">{{modelSN}}</td>
+				                            <td title="{{systemName}}">{{systemName}}</td>
+				                            <td title="{{legendCode}}">{{legendCode}}</td>
+				                            <td title="{{readDate}}">{{readDate}}</td>
+				                        </tr>
+				                        {{/records}}
+                      				 </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed">
+				<table id="site-history-fixed">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a data-action="catalog" target="_blank" href="/usage/legend/?modelCode={{modelCode}}&systemCode={{systemCode}}&legendCode={{legendCode}}&partNO={{partNO}}&callout={{callout}}">进入目录</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="site-history-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+    <!-- head site nav notification -->
+    
+
+
+
+<div id="notification-search-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 550px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				通知<a id="notification-search-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="notification-filter" class="common-search">
+			<div class="search-column">
+				<span>通知编码:</span>
+				<input type="text" data-field="code" data-operator="IEQ" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>通知主题:</span>
+				<input type="text" data-field="title" data-operator="ALIKE" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>通知类型:</span>
+				<select id="nf-type-code" data-field="typeCode" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>是否必读:</span>
+				<select id="notification-ismustread" data-field="mustRead" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+					<option value="1">是</option>
+					<option value="0">否</option>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>我已阅读:</span>
+				<select id="notification-isread" data-field="isRead" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+					<option value="1">是</option>
+					<option value="0">否</option>
+				</select>
+			</div>
+			<div class="search-column date-column"><span>发布时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="releaseDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="releaseDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+			</div>
+			<div class="search-column date-column"><span>有效时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="expireDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="expireDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+			</div>
+		</div>
+		<div class="common-btn-wrap">
+			<a id="notification-btn-filter" class="btn-default">查询</a> <a
+				id="notification-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table id="notification-search-grid" style="width: 100%;"
+					data-read-url="/notice/list">
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 120px;">通知编码</th>
+							<th style="width: 280px;">通知主题</th>
+							<th style="width: 280px;">通知类型</th>
+							<th style="width: 120px;">发布时间</th>
+							<th style="width: 120px;">有效时间</th>
+							<th style="width: 120px;">是否必读</th>
+							<th style="width: 120px;">我已阅读</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr data-keys=''>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{code}}">{{code}}</td>
+                            <td title="{{title}}">{{title}}</td>
+                            <td title="{{typeName}}">{{typeName}}</td>
+                            <td title="{{releaseDate}}">{{releaseDate}}</td>
+							<td title="{{expireDate}}">{{expireDate}}</td>
+                            <td title="{{#mustRead}}是{{/mustRead}}{{^mustRead}}否{{/mustRead}}">{{#mustRead}}是{{/mustRead}}{{^mustRead}}否{{/mustRead}}</td>
+                            <td title="{{#read}}是{{/read}}{{^read}}否{{/read}}">{{#read}}是{{/read}}{{^read}}否{{/read}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed">
+				<table id="notification-fixed-grid">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody id="action-table">
+						<script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a class="btn-detail" href="javascript:void(0);" data-action="catalog" data-href="/notice/detail/{{code}}">详细</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="notification-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+    <!-- head site nav bulletin -->
+    
+
+
+
+<div id="bulletin-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 530px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				 公告<a id="bulletin-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="bulletin-filter" class="common-search">
+			<div class="search-column">
+				<span>公告编码:</span>
+				<input type="text" data-field="code" data-operator="IEQ" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>公告主题:</span>
+				<input type="text" data-field="title" data-operator="ALIKE" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>公告类型:</span>
+				<select id="bt-type-code" data-field="typeCode" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+				</select>
+			</div>
+			<div style="line-height:0;height:0;clear:both;"></div>
+			<div class="search-column bt-product-code">
+				<span>产品线:</span>
+				<select id="bt-product-code" multiple="multiple" data-field="productCodes" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+				</select>
+			</div>
+			<div class="search-column bt-system-code">
+				<span>系统:</span>
+				<select id="bt-system-code" multiple="multiple" data-field="systemCodes"  data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>配件编码:</span>
+				<input type="text" data-field="partNOs" data-operator="IEQ" data-scope='filter' />
+			</div>
+			<div style="line-height:0;height:0;clear:both;"></div>
+			<div class="search-column">
+				<span>是否必读:</span>
+				<select id="bulletin-ismustread" data-field="mustRead" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+					<option value="1">是</option>
+					<option value="0">否</option>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>是否已读:</span>
+				<select id="bulletin-isread" data-field="read" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+					<option value="1">是</option>
+					<option value="0">否</option>
+				</select>
+			</div>
+			<div style="line-height:0;height:0;clear:both;"></div>
+			<div class="search-column date-column"><span>发布时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="releaseDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="releaseDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+			</div>
+			<div class="search-column date-column"><span>有效时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="expireDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="expireDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+			</div>
+
+		</div>
+		<div class="common-btn-wrap">
+			<a id="bulletin-btn-filter" class="btn-default">查询</a> <a
+				id="bulletin-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table id="bulletin-search-grid" style="width: 100%;"
+					data-read-url="/bulletin/list">
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 120px;">公告编码</th>
+							<th style="width: 120px;">公告主题</th>
+							<th style="width: 280px">产品线</th>
+							<th style="width: 280px">系统</th>
+							<th style="width: 120px">公告类型</th>
+							<th style="width: 120px">发布时间</th>
+							<th style="width: 120px">有效时间</th>
+							<th style="width: 120px">是否必读</th>
+							<th style="width: 120px">我已阅读</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{code}}">{{code}}</td>
+                            <td title="{{title}}">{{title}}</td>
+                            <td title="{{productDesc}}">{{productDesc}}</td>
+                            <td title="{{systemDesc}}">{{systemDesc}}</td>
+							<td title="{{typeName}}">{{typeName}}</td>
+                            <td title="{{releaseDate}}">{{releaseDate}}</td>
+                            <td title="{{expireDate}}">{{expireDate}}</td>
+							<td title="{{#mustRead}}是{{/mustRead}}{{^mustRead}}否{{/mustRead}}">{{#mustRead}}是{{/mustRead}}{{^mustRead}}否{{/mustRead}}</td>
+							<td title="{{#read}}是{{/read}}{{^read}}否{{/read}}">{{#read}}是{{/read}}{{^read}}否{{/read}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed">
+				<table id="bulletin-fixed-grid">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a class="btn-detail" href="javascript:void(0);" data-action="catalog" data-href="/bulletin/detail/{{code}}">详细</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="bulletin-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+    <!-- head site nav manual -->
+    
+
+
+
+<div id="manual-dialog" class="dialog"
+		style="width: 1000px; display: none; height: 550px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				手册文档<a id="manual-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="manual-filter" class="common-search">
+			<div class="search-column">
+				<span>手册文档编码:</span>
+				<input type="text" data-field="code" data-operator="IEQ" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>手册文档名称:</span>
+				<input type="text" data-field="name" data-operator="ALIKE" data-scope='filter' />
+			</div>
+			<div class="search-column">
+				<span>手册文档类型:</span>
+				<select id="mn-type-code" data-field="typeCode" data-operator="EQ" data-scope='filter'>
+					<option value="">全部</option>
+				</select>
+			</div>
+			<div style="line-height:0;height:0;clear:both;"></div>
+			<div class="search-column">
+				<span>产品线:</span>
+				<select id="mn-product-code" data-field="productCode" data-operator="EQ" data-scope='filter'>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>机型:</span>
+				<select  id="mn-machine-code" data-field="machineCode" data-operator="EQ" data-scope='filter'>
+				</select>
+			</div>
+			<div class="search-column">
+				<span>子机型:</span>
+				<select id="mn-submachine-code"  data-field="submachineCode" data-operator="EQ" data-scope='filter'>
+				</select>
+			</div>
+			<div style="line-height:0;height:0;clear:both;"></div>
+			<div class="search-column date-column"><span>发布时间:</span>
+	           <b>
+	           	<input type="text" data-fieldType="D" data-field="releaseDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	           	<em>-</em>
+	           <b>
+	           <input type="text" data-fieldType="D" data-field="releaseDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+			</div>
+
+		</div>
+		<div class="common-btn-wrap">
+			<a id="manual-btn-filter" class="btn-default">查询</a>
+			<a id="manual-btn-clear" class="btn-default">清空</a>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table id="manual-search-grid" style="width: 100%;"
+					data-read-url="/manual/list">
+					<thead>
+						<tr>
+							<th style="width: 80px;">行号</th>
+							<th style="width: 200px;">手册文档编码</th>
+							<th style="width: 280px;">手册文档名称</th>
+							<th style="width: 120px;">子机型</th>
+							<th style="width: 200px;">手册文档类型</th>
+							<th style="width: 120px;">发布时间</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{code}}">{{code}}</td>
+                            <td title="{{name}}">{{name}}</td>
+                            <td title="{{submachineName}}">{{submachineName}}</td>
+							<td title="{{typeName}}">{{typeName}}</td>
+                            <td title="{{releaseDate}}">{{releaseDate}}</td>
+                        </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+			<div class="grid-fixed">
+				<table id="manual-fixed-grid">
+					<thead>
+						<tr>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+                        {{#records}}
+                         <tr>
+                            <td>
+                                <a data-action="catalog" href="/manual/download?realname={{realname}}&filename={{filename}}&code={{code}}" target="_self" title="下载此文件">下载</a>
+                            </td>
+                         </tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div id="manual-paging" class="common-paging">
+			<ul>
+				<li class="common-paging-total">共<span data-id="spPageCount"></span>页<em>/</em></li>
+				<li class="common-paging-record"><span data-id="spRecordCount"></span>条记录</li>
+				<li class="common-paging-top-disabled" data-id="btnTopPage"><a
+					data-action="top"></a></li>
+				<li class="common-paging-prev-disabled" data-id="btnPrevPage"><a
+					data-action="prev"></a></li>
+				<li class="common-paging-next-disabled" data-id="btnNextPage"><a
+					data-action="next"></a></li>
+				<li class="common-paging-bottom-disabled" data-id="btnBottomPage"><a
+					data-action="bottom"></a></li>
+				<li class="common-paging-current">当前页码：<input type="text"
+					data-id="tbCurrentPageIndex" /></li>
+				<li class="common-paging-go"><a data-id="btnGoTo">GO</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+    <!-- common order qty -->
+    
+	
+    <!-- collect -->
+	<div id="shopping-order-qty" class="dialog dialog-small" style="width: 420px; display: none;">
+		<div class="common-head" data-action="drag">
+            <h3>填写数量<a data-action="cancel"></a></h3>
+        </div>
+		<div class="dialog-small-content">
+			<div class="search-column"><span>数量：</span><input type="text" data-action="qty" data-field="shopping-num-edit" maxlength="5" /></div>
+			<br><label  data-field="temp"></br>
+			<!-- 增加提示 wbw -->
+			<span><font color ="#EB6100" style="font-weight: bolder;"><label style="font-size:14px;" data-field="preServed4_show"></label></font></span>
+		
+			<br><label  data-field="temp"></br>		
+			<!-- 增加提示 wbw 20200102-->
+			<span>
+				<font color ="#EB6100" style="font-weight: bolder;">
+					<label style="font-size:14px;">
+					欢迎使用柳工电子配件目录！ 本目录所包含的配件信息可能会因产品改进而随时变更,机器在持续改进过程中涉及到的配件信息有可能在本目录中无法一一体现。没有'√'标记意味着无法确定该零件可以使用在您的机器上，为避免采购的零件无法安装使用，请在下单前与柳工确认。				
+				</font>
+			</span>
+		
+		</div>
+		
+		<div class="common-btn-wrap">
+			<a class="btn-default"  data-action="confirm">确认</a>
+			<a class="btn-default" data-action="cancel">取消</a>
+		</div>
+	</div>
+
+    <!-- modify password -->
+    
+	
+
+<div class="dialog modify-pwd" id="modify-password" style="display: none;height: 226px;">
+		<div class="common-head" data-action="drag">
+            <h3>修改密码<a id="modify-password-close"></a></h3>
+        </div>
+		<div class="modify-pwd-content">
+			<table>
+				<tr><td class="pwd-describe">旧密码：</td><td class="pwd-write"><input type="password" id="old-password" /></td><td class="pwd-prompt"><td></td></tr>
+				<tr><td class="pwd-describe">新密码：</td><td class="pwd-write"><input type="password" id="new-password" /></td><td class="pwd-prompt">密码必须为6～12位，并且由字母,字符,数字组成。</td></tr>
+				<tr><td class="pwd-describe">确认密码：</td><td class="pwd-write"><input type="password" id="confirm-password" /></td><td class="pwd-prompt"></td></tr>
+				<tr>
+					<td class="pwd-describe"></td>
+					<td class="pwd-write common-btn-wrap" id="btn-action-wrap">
+						<a class="btn-default" data-action="confirm">确认</a>
+						<a class="btn-default" data-action="cancel">取消</a>
+						</td>
+						<td class="pwd-prompt">
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+
+    
+    <!-- account application wbw add 20240425-->
+    
+
+
+<div class="dialog account-application" id="account-application"
+	style="display: none; height: 226px;">
+	<div class="common-head" data-action="drag">
+		<h3>
+			账号申请
+			<a id="account-application-close"></a>
+		</h3>
+	</div>
+	<div class="account-application-content">
+		<table>
+			<tr>
+				<td class="pwd-describe">新账号邮箱：</td>
+				<td class="pwd-write"><input type="text" id="user-mail" /></td>
+				<td class="pwd-prompt">
+				<td></td>
+			</tr>
+			<tr>
+				<td class="pwd-describe">用户名：</td>
+				<td class="pwd-write"><input type="text" id="user-name" /></td>
+				<td class="pwd-prompt"></td>
+			</tr>
+			<tr>
+				<td class="pwd-describe">经销商编码：</td>
+				<td class="pwd-write"><input type="text" id="dealer-code" /></td>
+				<td class="pwd-prompt"></td>
+			</tr>
+			
+			<tr>
+				<td class="pwd-describe"></td>
+				<td class="pwd-write common-btn-wrap" id="btn-action-apply"><a
+					class="btn-default" data-action="confirm-apply">确认</a> <a class="btn-default" data-action="cancel-apply">取消</a></td>
+				<td class="pwd-prompt"></td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+    
+    <!-- user info -->
+    
+	
+
+<div class="dialog user-info" id="user-info-dialog" style="display:none;height:406px;">
+		<div class="common-head" data-action="drag">
+            <h3>账户信息和系统信息<a id="user-info-dialog-close"></a></h3>
+        </div>
+		<div class="user-info-content" id="nav-user-info-body">
+		<script type="text/template" id="nav-user-info-template">
+			<table>
+				<tr><td class="user-info-describe">经销商编码：</td><td class="user-info-val">{{code}}</td></tr>
+				<tr><td class="user-info-describe">经销商名称：</td><td class="user-info-val">{{name}}</td></tr>
+				<tr><td class="user-info-describe">国家：</td><td class="user-info-val">{{countryName}}</td></tr>
+				<tr><td class="user-info-describe">省份：</td><td class="user-info-val">{{provinceName}}</td></tr>
+				<tr><td class="user-info-describe">城市：</td><td class="user-info-val">{{city}}</td></tr>
+				<tr><td class="user-info-describe">地址：</td><td class="user-info-val">{{address}}</td></tr>
+				<tr><td class="user-info-describe">邮编：</td><td class="user-info-val">{{zip}}</td></tr>
+				<tr><td class="user-info-describe">传真：</td><td class="user-info-val">{{fax}}</td></tr>
+				<tr><td class="user-info-describe">联系电话：</td><td class="user-info-val">{{phone}}</td></tr>
+			</table>
+			<table class="user-info-special-tab">
+				<tr><td class="user-info-describe">当前用户：</td><td class="user-info-val">{{username}}</td></tr>
+				<tr><td class="user-info-describe">系统角色：</td><td class="user-info-val">{{typename}}</td></tr>
+			</table>
+			<table>
+				<tr><td class="user-info-describe">系统版本：</td><td class="user-info-val">{{systemVersion}}</td></tr>
+				<tr><td class="user-info-describe">数据版本：</td><td class="user-info-val">{{dataVersion}}</td></tr>
+			</table>
+		</script>
+		</div>
+	</div>
+
+
+	<!-- part_un_sale_list -->
+    
+
+
+
+<div id="part-un-sale-list-dialog" class="dialog"
+		style="width: 900px; display: none; height: 550px;">
+		<div class="common-head" data-action="drag">
+			<h3>
+				我的清单<a id="part-un-sale-list-dialog-close"></a>
+			</h3>
+		</div>
+		<div id="part-un-sale-list-filter" >
+			<div class="common-search">
+			<div class="search-column">
+				<span>配件编码:</span><input type="text" data-params="export" data-operator="ALIKE" data-field="partNo" data-scope="filter" />
+			</div>
+			<div class="search-column">
+				<span>配件名称:</span><input type="text" data-params="export" data-operator="ALIKE" data-field="partName" data-scope="filter" />
+			</div>
+			<div class="search-column">
+				<span>数量:</span><input type="text" data-params="export" data-operator="ALIKE" data-field="qty" data-scope="filter" />
+			</div>			
+			<div class="search-column date-column"><span>加入时间:</span>
+				<b>
+					<input type="text" data-params="export" data-fieldType="D" data-field="createdDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+					<em>-</em>
+				<b>
+				<input type="text" data-params="export" data-fieldType="D" data-field="createdDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	        </div>			
+			<div class="search-column date-column"><span>最后修改时间:</span>
+				<b>
+					<input type="text" data-params="export" data-fieldType="D" data-field="modifiedDate" data-operator="GE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+					<em>-</em>
+				<b>
+				<input type="text" data-params="export" data-fieldType="D" data-field="modifiedDate" data-operator="LE" data-scope='filter' data-dateformat="yy-mm-dd"/></b>
+	        </div>
+	        </div>
+		</div>
+		
+		
+		<div class="common-btn-wrap" >
+		        <a id="part-un-sale-list-btn-filter" class="btn-default">查询</a> 
+		        <!-- <a id="part-un-sale-list-btn-add" class="btn-default">新增</a> 
+		         -->
+		        <a id="part-un-sale-list-btn-del" class="btn-default">删除</a> 
+		        <a id="part-un-sale-list-btn-export" class="btn-default" data-action="export-PNS" 
+		        		data-export-filename="partUnSale_list" data-export-url="/part-un-sale/export" >
+		        	导出
+		        </a> 
+			    <a id="part-un-sale-list-btn-clear" class="btn-default">清空</a>		    
+		</div>
+		
+		<form id="export-PNS" style="display: none;" action="/part-un-sale/export" method="get">
+			<input type="text" id="exportPNSParams" name="exportPNSParams" value="" />
+		</form>
+		
+		<div class="shopping-cart-grid common-grid-wrap">
+			<div class="grid-common" style="width:100%;">
+				<table id="part-un-sale-list-grid" style="width: 100%;"
+					data-read-url="/part-un-sale/list">
+					<thead>
+						<tr>
+							<th style="width: 4%;"><input type="checkbox" data-action="multiple"/></th>
+							<th style="width: 6%;">行号</th>
+							<th style="width: 20%;">配件编码</th>
+							<th style="width: 20%;">配件名称</th>
+							<th style="width: 10%;">数量</th>
+							<th style="width: 20%;">加入时间</th>
+							<th style="width: 20%;">最后修改时间</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+						{{#records}}
+                        <tr	 data-id="{{id}}">
+							<td><input type="checkbox" data-action="single" /></td>
+                            <td title="{{rowNumber}}">{{rowNumber}}</td>
+                            <td title="{{partNo}}">{{partNo}}</td>
+                            <td title="{{partName}}">{{partName}}</td>
+                            <td title="{{qty}}">{{qty}}</td>
+                            <td title="{{createdDate}}">{{createdDate}}</td>
+                            <td title="{{modifiedDate}}">{{modifiedDate}}</td>
+						</tr>
+                        {{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+				 
+	</div>
+
+
+
+    <embed id="s_simnew31" type="application/npsyunew3-plugin" hidden="true" width="0" height="0" style="display:block;"></embed>
+
+    <script type="text/javascript" src="/js/module/header/main.js"></script>
+    <script type="text/javascript">
+    	var self = this, pageHeaderQuestionStatus = '/question/tips/list';
+    	var $wrap = $("#tips-wrap");
+    	window.setInterval(function(){ 
+            if ($wrap.length) {
+                $.ajax({
+                    type:"POST",
+                    url: pageHeaderQuestionStatus,
+                    dataType: "json",
+                    success: function(root) {
+                        if (root.success) {
+                            renderTip(root.result.data);
+                        }
+                    }
+                });
+            }
+    	}, 40000); 
+    	function renderTip(data) {
+    		$wrap.html("<li>信息反馈状态:</li>");
+    		var url ='/question/my-question';
+        	for (var i = 0; i < data.length; i++){
+        		el = "<li><a target='_blank' href='"+ url + "?qCode=00" + (i + 1) +"'>" + data[i].name + "<span>(" + data[i].count + ")</span></a></li>";
+        		$wrap.append(el);
+        	}
+        }
+    </script>
+
+
+<div class="detail">
+	<div class="detail-top">
+		<div class="thumb-wrap">
+			<div class="thumb">
+				<div class="thumb-show">
+				 
+					
+						
+							<img src="" id="thumbnails-img" data-img="pic">
+						
+							
+						 
+					
+					
+				
+				</div>
+				<div class="thumbnails">
+					<a class="arrow-left-enabled" style="visibility:hidden;"></a>
+					<div>
+						<ul id="thumbnails">
+							
+								<li>
+									<!--  img src="/part/zp/06B0472_002.JPG"></li> -->
+									<img src="/part/zp/3534353a363635343538353b35363833353435343536"></li>
+							
+								<li>
+									<!--  img src="/part/zp/06B0472_002.jpg"></li> -->
+									<img src="/part/zp/3534353a363635343538353b35363833353435343536"></li>
+							
+						</ul>
+					</div>
+					<a class="arrow-right-enabled" style="visibility:hidden;"></a>
+				</div>
+			</div>
+		</div>
+		<div class="thumb-info">
+			<ol>
+				<li>
+					<span>
+						配件编码
+						：
+					</span>
+					<label id="qty-partNO" title="06B0472">06B0472</label>
+					<label id="qty-preServed4" title="" style="display:none"></label>
+					
+				</li>
+				<li>
+					<span>
+						配件名称
+						：
+					</span>
+					<label title="垫圈">垫圈</label>
+				</li>
+				<li>
+					<span>
+						规格
+						：
+					</span>
+					<label>10-300HV-DK</label>
+				</li>
+				<li>
+					<span>
+						重量(KG)
+						：
+					</span>
+					<label>0.003</label>
+				</li>
+				<li>
+					<span>
+						尺寸(mm)
+						：
+					</span>
+					<label>
+						
+							
+							20.0*
+						
+
+						
+							
+							20.0*
+						
+
+						
+							
+							2.0
+						
+					</label>
+				</li>
+				<li>
+					<span>
+						最小包装单元
+						：
+					</span>
+					<label id="parts-mpq">1</label>
+				</li>
+				
+					<li>
+						<span>
+							成交折扣组
+							：
+						</span>
+						<label>C4</label>
+					</li>
+				
+				
+					
+					
+						<li>
+							<span>
+								是否保养件
+								：
+							</span>
+							<label>
+								否
+							</label>
+						</li>
+					
+				
+				
+					
+					
+						<li>
+							<span>
+								是否易损件
+								：
+							</span>
+							<label>
+								否
+							</label>
+						</li>
+					
+				
+				
+					
+					
+						<li>
+							<span>
+								是否特殊采购件
+								：
+							</span>
+							<label>
+								否
+							</label>
+						</li>
+					
+				
+				<li>
+					<span>
+						储备建议
+						：
+					</span>
+					<label>3Y</label>
+				</li>
+				<li>
+					<span>
+						单位
+						：
+					</span>
+					<label>PC</label>
+				</li>
+				<li>
+					<span>
+						配件备注
+						：
+					</span>
+					<label title="由06B0001更改而来">由06B0001更改而来</label>
+				</li>
+			</ol>
+			<div class="btn-wrap">
+				
+				<a class="btn-default btn-disabled" id="btn-buy" data-visible="true" data-flag="true">
+					购买
+				</a>
+			</div>
+			<!-- 父配件编码 -->
+			<span id="detail-parentPartNO" style="display:none">60C6073</span>
+		</div>
+		<div style="clear:both"></div>
+		<div class="thumb-title">
+			免责声明：<br/>本目录中的配件物料信息包括尺寸、图片、重量、规格等仅供参考之用，最终以柳工设计图纸为准，柳工拥有对配件信息随时更改的权利。<br/>柳工对本目录提供的资料的准确性和完整性也未做任何担保，对此类数据或信息的任何的不准确、错误或误述而导致的任何及所有责任均已被明确排除。不得以目录中内容差异进行索赔。
+		</div>
+	</div>
+	<div class="detail-select">
+		<ul id="switch">
+			<li class="selected">
+				替换关系
+				<span></span>
+			</li>
+			<li>
+				用户备注
+				<span></span>
+			</li>
+			<li>
+				配合使用
+				<span></span>
+			</li>
+			<li>
+				维修包
+				<span></span>
+			</li>
+			<li>
+				保外维修件
+				<span></span>
+			</li>
+			
+		</ul>
+	</div>
+	<div id="tab-content-wrap" class="detail-tab-content">
+		<div data-area="tab-content" class="common-grid-wrap">
+			<div class="grid-common">
+				<table id="supersession-grid" data-read-url="/supersession" data-partNO="06B0472">
+					<thead>
+						<tr>
+							<th style="width: 5%">
+								序号
+							</th>
+							<th style="width: 15%">
+								替换组编码
+							</th>
+							<th style="width: 10%">
+								替换时间
+							</th>
+							<th style="width: 25%">
+								替换类型
+							</th>
+							<th style="width: 10%">
+								替换备注
+							</th>
+							<th style="width: 10%">
+								断点信息
+							</th>
+							<th style="width: 10%">
+								替换前配件编码
+							</th>
+							<th style="width: 10%">
+								替换后配件编码
+							</th>
+							<th style="width: 5%">
+								操作
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+							{{#records}}
+                        		<tr data-partNO="{{partNO}}">
+                            		<td data-field="rowNumber" data-val="{{rowNumber}}" title="{{rowNumber}}">{{rowNumber}}</td>
+                            		<td data-field="code" data-val="{{code}}" title="{{code}}">{{code}}</td>
+                            		<td data-field="supersessionDate" data-val="{{supersessionDate}}" title="{{supersessionDate}}">{{supersessionDate}}</td>
+                            		<td data-field="typeName" data-val="{{typeName}}" title="{{typeName}}">{{typeName}}</td>
+                            		<td data-field="note" data-val="{{note}}" title="{{note}}">{{note}}</td>
+                            		<td data-field="bp_info" data-val="{{bp_info}}" title="{{bp_info}}">{{bp_info}}</td>
+                            		<td data-field="oldParts" data-val="{{oldParts}}" title="{{oldParts}}">{{oldParts}}</td>
+                            		<td data-field="newParts" data-val="{{newParts}}" title="{{newParts}}">{{newParts}}</td>
+                            		<td><a data-action="replace-detail" data-code="{{code}}" data-detail-url="/supersession/detail">详细</a></td>
+                        		</tr>
+                        	{{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		<div data-area="tab-content" class="common-grid-wrap" style="display: none;">
+			<div class="grid-common">
+				<table id="note-grid" data-read-url="/part-note?06B0472" data-partNO="06B0472">
+					<thead>
+						<tr>
+							<th>
+								序号
+							</th>
+							<th>
+								备注
+							</th>
+							<th>
+								创建人
+							</th>
+							<th>
+								创建时间
+							</th>
+							<th>
+								修改人
+							</th>
+							<th>
+								修改时间
+							</th>
+							<th>
+								操作
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template" id="note-grid-template">
+							{{#records}}
+                        		<tr data-partNO="{{partNO}}" data-id="{{id}}" data-keys='{"id":"{{id}}"}'>
+                            		<td title="{{rowNumber}}">{{rowNumber}}</td>
+                            		<td title="{{content}}">{{content}}</td>
+                            		<td title="{{createdBy}}">{{createdBy}}</td>
+                            		<td title="{{createdDate}}">{{createdDate}}</td>
+                                    <td title="{{modifiedBy}}">{{modifiedBy}}</td>
+                                    <td title="{{modifiedDate}}">{{modifiedDate}}</td>
+                            		<td><a data-action="update">修改</a><a data-action="delete">删除</a></td>
+                        		</tr>
+                        	{{/records}}
+                       </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		<div data-area="tab-content" class="common-grid-wrap" style="display: none;">
+			<div class="grid-common">
+				<table id="conjunction-grid" data-read-url="/conjunction" data-partNO="06B0472">
+					<thead>
+						<tr>
+							<th style="width:10%;">
+								配合使用编号
+							</th>
+							<th style="width:10%;">
+								配合使用备注
+							</th>
+							<th style="width:10%;">
+								配件编码
+							</th>
+							<th style="width:18%;">
+								配件名称
+							</th>
+							<th style="width:10%;">
+								用量
+							</th>
+							<th style="width:10%;">
+								备注
+							</th>
+							<th style="width:10%;">
+								操作
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+							{{#records}}
+								<tr>
+									<td title="{{code}}">{{code}}</td>
+									<td title="{{name}}">{{name}}</td>
+									<td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+									<td title="{{partName}}">{{partName}}</td>
+									<td title="{{qty}}">{{qty}}</td>
+									<td title="{{note}}">{{note}}</td>
+									<td><a {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-partNO="{{partNO}}" data-mpq="{{mpq}}" data-preServed4="{{preServed4}}">购买</a></td>
+								</tr>
+							{{/records}}
+                       		</script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		<div data-area="tab-content" class="common-grid-wrap" style="display: none;">
+			<div class="grid-common">
+				<table id="kit-grid" data-read-url="/kit" data-partNO="06B0472">
+					<thead>
+						<tr>
+							<th style="width: 5%">
+								序号
+							</th>
+							<th style="width: 10%">
+								维修包
+							</th>
+							<th style="width: 15%">
+								维修包名称
+							</th>
+							<th style="width: 5%">
+								父配件编码
+							</th>
+							<th style="width: 15%">
+								父配件名称
+							</th>
+							<th style="width: 10%">
+								配件编码
+							</th>
+							<th style="width: 15%">
+								配件名称
+							</th>
+							<th style="width: 5%">
+								数量
+							</th>
+							<th style="width: 10%">
+								备注
+							</th>
+							<th style="width: 5%">
+								操作
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+								{{#records}}
+								<tr>
+									{{#rowspan}}
+										<td rowspan="{{rowspan.row}}" title="{{rowspan.gridNumber}}">{{rowspan.gridNumber}}</td>									
+										<td rowspan="{{rowspan.row}}" title="{{rowspan.code}}"><a href="/part/{{rowspan.code}}/&" target="_blank">{{rowspan.code}}</a></td>
+										<td rowspan="{{rowspan.row}}" title="{{rowspan.name}}">{{rowspan.name}}</td>
+										<td rowspan="{{rowspan.row}}" title="{{rowspan.partNOsTitle}}" style="white-space: inherit;">
+											{{#parentPartNOs}}
+												<a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a>
+											{{/parentPartNOs}}
+										</td>
+										<td rowspan="{{rowspan.row}}" title="{{rowspan.partNamesTitle}}">{{rowspan.parentPartNames}}</td>
+									{{/rowspan}}
+									<td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+									<td title="{{partName}}">{{partName}}</td>
+									<td title="{{qty}}">{{qty}}</td>
+									<td title="{{note}}">{{note}}</td>
+                                    {{#rowspan}}
+									   <td rowspan="{{rowspan.row}}">
+                                         <a {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-partNO="{{code}}" data-mpq="{{mpq}}">购买</a>
+                                       </td>
+                                    {{/rowspan}}
+								</tr>
+								{{/records}}
+                       		</script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		<div data-area="tab-content" class="common-grid-wrap" style="display: none;">
+			<div class="grid-common">
+				<table id="saleReman-grid" data-read-url="/part-sale-reman" data-partNO="06B0472">
+					<thead>
+						<tr>
+							<th style="width: 10%;">
+								序号
+							</th>
+							<th style="width: 10%;">
+								配件编码
+							</th>
+							<th style="width: 18%;">
+								配件名称
+							</th>
+							<th style="width: 10%;">
+								配件备注
+							</th>
+							<th style="width: 10%;">
+								类型
+							</th>
+							<th style="width: 10%;">
+								操作
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template">
+								{{#records}}
+								<tr>
+									<td title="{{rowNumber}}">{{rowNumber}}</td>
+									<td title="{{saleRemanPartNO}}"><a href="/part/{{saleRemanPartNO}}/&" target="_blank">{{saleRemanPartNO}}</a></td>
+									<td title="{{saleRemanPartName}}">{{saleRemanPartName}}</td>
+									<td title="{{saleRemanPartNote}}">{{saleRemanPartNote}}</td>
+									<td title="{{saleRemanTypeName}}">{{saleRemanTypeName}}</td>
+									<td><a {{#visible}}data-action="buy"{{/visible}} {{^visible}}class="disabled-text"{{/visible}} data-partNO="{{saleRemanPartNO}}" data-mpq="{{mpq}}" data-preServed4="{{preServed4}}">购买</a></td>
+								</tr>
+								{{/records}}
+                       		</script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		
+	</div>
+</div>
+
+<!-- replace detail open dialog replace info -->
+<div class="dialog replace-info" id="replace-info" style="display: none; height: 307px;">
+	<a data-action="cancel" class="dialog-close"></a>
+	<div class="replace-info-content-detail">
+		<table id="replace-detail-info">
+			<tr>
+				<td>
+					<span>
+						替换组编码
+						：
+					</span>
+				</td>
+				<td>
+					<label data-field="code"></label>
+				</td>
+				<td>
+					<span>
+						替换时间
+						：
+					</span>
+				</td>
+				<td>
+					<label data-field="supersessionDate"></label>
+				</td>
+				<td>
+					<span>
+						替换类型
+						：
+					</span>
+				</td>
+				<td>
+					<label data-field="typeName"></label>
+				</td>
+				<td>
+					<span>
+						断点信息
+						：
+					</span>
+				</td>
+				<td>
+					<label data-field="bp_info"></label>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<span>
+						替换备注
+						：
+					</span>
+				</td>
+				<td colspan="3">
+					<label data-field="note"></label>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div style="height: 261px; overflow: auto; ">
+	<div class="replace-info-content">
+		<div class="replace-info-grid-title">
+			<span>——</span>
+			<label>
+				替换前信息
+			</label>
+			<span>——</span>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table style="width:650px;" id="oldParts">
+					<thead>
+						<tr>
+							<th style="width: 100px;">
+								序号
+							</th>
+							<th style="width: 100px;">
+								父配件编码
+							</th>
+							<th style="width: 100px;">
+								父配件名称
+							</th>
+							<th style="width: 100px;">
+								配件编码
+							</th>
+							<th style="width: 100px;">
+								配件名称
+							</th>
+							<th style="width: 50px;">
+								数量
+							</th>
+							<th style="width: 100px;">
+								备注
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<script type="text/template" id="newParts-template">
+								{{#records}}
+	                        		<tr>
+	                            		<td title="{{rowNumber}}">{{rowNumber}}</td>
+	                            		<td title="{{parentPartNO}}"><a href="/supersession/legend/{{superSessionCode}}/{{parentPartNO}}" target="_blank">{{parentPartNO}}</a></td>
+	                            		<td title="{{parentPartName}}"><a>{{parentPartName}}</a></td>
+	                            		<td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+	                            		<td title="{{partName}}">{{partName}}</td>
+										<td title="{{qty}}">{{qty}}</td>
+	                            		<td title="{{partNote}}">{{partNote}}</td>
+	                        		</tr>
+								{{/records}}
+                       		</script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+	<div class="replace-info-content">
+		<div class="replace-info-grid-title">
+			<span>——</span>
+			<label>
+				替换后信息
+			</label>
+			<span>——</span>
+		</div>
+		<div class="common-grid-wrap">
+			<div class="grid-common">
+				<table style="width:650px;" id="newParts">
+					<thead>
+						<tr>
+							<th style="width: 100px;">
+								序号
+							</th>
+							<th style="width: 100px;">
+								父配件编码
+							</th>
+							<th style="width: 100px;">
+								父配件名称
+							</th>
+							<th style="width: 100px;">
+								配件编码
+							</th>
+							<th style="width: 100px;">
+								配件名称
+							</th>
+							<th style="width: 50px;">
+								数量
+							</th>
+							<th style="width: 100px;">
+								备注
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+
+						<script type="text/template" id="oldParts-template">
+                                {{#records}}
+                                    <tr>
+                                        <td title="{{rowNumber}}">{{rowNumber}}</td>
+                                        <td title="{{parentPartNO}}"><a href="/supersession/legend/{{superSessionCode}}/{{parentPartNO}}" target="_blank">{{parentPartNO}}</a></td>
+                                        <td title="{{parentPartName}}"><a href="/supersession/legend" target="_blank">{{parentPartName}}</a></td>
+                                        <td title="{{partNO}}"><a href="/part/{{partNO}}/&" target="_blank">{{partNO}}</a></td>
+                                        <td title="{{partName}}">{{partName}}</td>
+                                        <td title="{{qty}}">{{qty}}</td>
+                                        <td title="{{partNote}}">{{partNote}}</td>
+                                    </tr>
+                                {{/records}}
+                            </script>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+
+<!-- user note modify open dialog -->
+<div id="note-dialog" class="dialog dialog-remark" style="display: none; height: 164px;">
+	<div class="common-head">
+		<h3>
+			用户备注
+			<a data-action="cancel"></a>
+		</h3>
+	</div>
+	<div class="dialog-remark-content">
+		<div class="search-column">
+			<span>
+				备注
+				：
+			</span>
+			<textarea id="remark-content"></textarea>
+		</div>
+	</div>
+	<div class="common-btn-wrap">
+		<a class="btn-default" data-action="confirm">
+			确认
+		</a>
+		<a class="btn-default" data-action="cancel">
+			取消
+		</a>
+	</div>
+</div>
+
+<script type="text/javascript" src="/js/module/detail/main.js"></script>

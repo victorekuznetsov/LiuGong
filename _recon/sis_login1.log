@@ -1,0 +1,6 @@
+texts: 0 pwds: 0
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\_recon\sis_login1.py", line 11, in <module>
+    texts[0].fill("kuznetsovve@industrservice.ru")
+    ~~~~~^^^
+IndexError: list index out of range

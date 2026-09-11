@@ -1,0 +1,37 @@
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\_recon\sis_full_probe.py", line 5, in <module>
+    browser = p.chromium.connect_over_cdp("http://localhost:9222", timeout=60000)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 17126, in connect_over_cdp
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.connect_over_cdp(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_browser_type.py", line 205, in connect_over_cdp
+    response = await self._channel.send_return_as_dict(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "connectOverCDP", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 103, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: BrowserType.connect_over_cdp: Timeout 60000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+  - <ws connecting> ws://localhost:9222/devtools/browser/ba15aa83-2da0-4390-a5a6-7966d9091166
+  - <ws connected> ws://localhost:9222/devtools/browser/ba15aa83-2da0-4390-a5a6-7966d9091166
+

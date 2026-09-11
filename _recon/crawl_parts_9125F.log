@@ -1,0 +1,49 @@
+machine LGC9125FARC135673 -> 08F0096C011B002  9125F 挖掘机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 763 (390 on this VIN)
+  parts 25/763 12Y1441_000_01 n=21
+  parts 50/763 15Y6221_001_01 n=26
+  parts 75/763 18C5135_000_00 n=3
+  parts 100/763 18C5247_000_00 n=2
+  parts 125/763 22C8956_000_00 n=2
+  parts 150/763 30C0241_000_00 n=2
+  parts 175/763 32C0122_000_00 n=5
+  parts 200/763 40C0825_000_00 n=4
+  parts 221/763 47C8032_000_00 n=0
+  parts 225/763 48C9563_000_00 n=26
+  parts 250/763 55C6231_000_00 n=17
+  parts 275/763 57C5228_000_05 n=13
+  parts 300/763 58C8917_000_01 n=33
+  parts 325/763 60C6553_000_00 n=21
+  parts 350/763 66C1655_000_00 n=1
+  parts 375/763 70C2106_000_00 n=6
+  parts 400/763 11C4533_000_01 n=3
+  parts 425/763 18C8869_000_00 n=3
+  parts 450/763 18C9535_000_00 n=1
+  parts 475/763 25D2363_000_00 n=2
+  parts 500/763 30C2113_000_00 n=1
+  parts 517/763 31C0564_000_00 n=0
+  parts 518/763 31C0676_000_00 n=0
+  parts 520/763 31C0708_000_00 n=0
+  parts 525/763 31C1530_000_00 n=5
+  parts 532/763 32B0842_000_00 n=0
+  parts 550/763 44C9605_000_00 n=8
+  parts 575/763 47C6775_000_00 n=23
+  parts 600/763 56C0762_000_00 n=6
+  parts 625/763 64C0973_000_00 n=5
+  parts 648/763 70C2981_000_00 n=0
+  parts 650/763 72C1115_000_00 n=4
+  parts 675/763 79C2373_000_00 n=3
+  parts 700/763 SP284169_000_02 n=11
+  parts 725/763 SP284193_000_00 n=9
+  parts 750/763 SP284212_000_00 n=3
+  parts done: 5480 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 253, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'

@@ -1,0 +1,82 @@
+[
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery-1.8.1.min.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/jquery-ui.css",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_c.png",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_l.png",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_b.png",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/css/images/search_selected_r.png",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/ajax.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/module/header/search.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.md5.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/blockUI/jquery.blockUI.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/multipleSelect/jquery.multiple.select.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/private/jquery.extend.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/plugins/public/uploadify/jquery.uploadifive.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery-ui-1.9.0.custom.min.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.ui.datepicker-zh_CN.js",
+    "post": null
+  },
+  {
+    "method": "GET",
+    "url": "http://epc.liugong.com:800/js/libs/public/jquery.scrollIntoView.min.js",
+    "post": null
+  }
+]

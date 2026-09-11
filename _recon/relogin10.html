@@ -1,0 +1,865 @@
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>柳工电子配件目录</title>
+
+
+
+
+<script src="//hm.baidu.com/hm.js?2f25ef1b2943686e62b94fc1ed5559ad"></script><script type="text/javascript" src="/js/libs/public/require.js"></script>
+
+<script type="text/javascript">
+	require.config({
+		baseUrl : "/js/",
+		paths : {
+			// libs public
+			jquery : 'libs/public/jquery-1.8.1.min.js',
+			jqueryUI : 'libs/public/jquery-ui-1.9.0.custom.min.js',
+			jqueryDatepickeri18n : "libs/public/jquery.ui.datepicker-zh_CN.js",
+			amplify : 'libs/public/amplify.min.js',
+			mustache : 'libs/public/mustache.js',
+			linq : 'libs/public/linq.js',
+			json2 : 'libs/public/json2.js',
+			domReady : 'libs/public/domReady.js',
+			css : 'libs/public/css.js',
+			text : 'libs/public/text.js',
+			jqueryScrollIntoView :"libs/public/jquery.scrollIntoView.min.js",
+			jqueryMd5 :"libs/public/jquery.md5.js",
+
+			// libs private
+			ajax : 'libs/private/ajax.js',
+			jqExtend : 'libs/private/jquery.extend.js',
+			autocomplete: 'libs/private/hm.autocomplete.js',
+
+			// plugins public
+			blockUI : 'plugins/public/blockUI/jquery.blockUI.js',
+			//uploadify: "plugins/public/uploadify/jquery.uploadify.js",
+			uploadify: "plugins/public/uploadify/jquery.uploadifive.js",
+			layResizable: "plugins/public/layResizable/layResizable.js",
+			jqueryForm: "plugins/public/jqueryForm/jquery.form.js",
+			multipleSelect: 'plugins/public/multipleSelect/jquery.multiple.select.js',
+
+			// plugins private
+			grid:'plugins/private/grid.js',
+			'export':'plugins/private/export.js',
+			unqueUserLogin : 'plugins/private/uniqueUserLogin.js',
+			swfobject : 'plugins/private/swfobject.js',
+			history : 'plugins/private/history.js',
+
+			// module
+			base: "module/base/base.js",
+			model:"module/model/model.js",
+			crumbs:"module/header/crumbs.js",
+			layout:"module/usage/layout.js",
+			group:"module/usage/group.js",
+			parts:"module/usage/parts.js",
+			legend:"module/usage/legend.js",
+			search: "module/header/search.js",
+			reserve: "module/header/reserve.js",
+			applySearch: "module/header/applySearch.js",
+			ecnSearch: "module/header/ecnSearch.js",
+			history: "module/header/history.js",
+			notification: "module/header/notification.js",
+			bulletin: "module/header/bulletin.js",
+			manual:"module/header/manual.js",
+			shoppingCart: "module/header/shoppingCart.js",
+			collectDetail: "module/header/collectDetail.js",
+			partUnSaleList: "module/header/partUnSaleList.js",
+			modifyPassword: "module/header/modifyPassword.js",
+			accountApplication: "module/header/accountApplication.js",
+			myquestion: "module/question/myquestion.js",
+			questionSearch: "module/question/questionSearch.js",
+			userInfo: "module/header/userInfo.js",
+			advancedSearch: "module/header/advancedSearch.js",
+			configInfo: "module/header/configInfo.js",
+			partSerialNum: "module/header/partSerialNum.js",
+			replaceInfo: "module/header/replaceInfo.js",
+			orderQty: "module/header/orderQty.js",
+			supersession: "module/detail/supersession.js",
+			note: "module/detail/note.js",
+			conjunction: "module/detail/conjunction.js",
+			kit: "module/detail/kit.js",
+			saleReman: "module/detail/saleReman.js",
+			declareInfo: "module/detail/declareInfo.js",
+			detailLegend: "module/detail/detailLegend.js",
+			
+			// svg wbw 20200103 begin 
+			legend_new:"module/usage/legend_new.js",
+			
+			d3: "libs/public/d3.v3.min.js",
+			showLoading: "libs/public/jquery.showLoading.min.js",
+			snap: "libs/public/snap.svg.min.js",
+			svgOperator: "libs/private/svgOperator.min.js"
+			//end
+		},
+		shim : {
+			jquery : {
+				exports : '$'
+			},
+			jqueryUI : ['jquery'],
+			jqueryScrollIntoView:['jquery'],
+			jqueryDatepickeri18n : ['jquery', 'jqueryUI'],
+			jqueryMd5: ['jquery'],
+			layResizable: ['jquery'],
+			amplify : ['jquery'],
+			blockUI : ['jquery'],
+			jqueryForm : ['jquery'],
+			jqExtend : ['jquery'],
+			uploadify: ['jquery'],
+			multipleSelect: ['jquery'],
+			
+			//svg wbw 20200103 add
+			svgOperator: ['jquery', 'd3', 'showLoading', 'snap']
+		}
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    define("settings", [], function () {
+        return {
+            context: {
+                host: "",
+                homePath: "/",
+                legendFTPPath:"liugongsbomfile/legend/swf_audit/",
+                svgLegendFTPPath:"liugongsbomfile/legend/svg_audit/",<!--svg 路径-->
+                sessionId: "fab784d6-e392-4053-af76-b2a969bd0a45",
+                modelCode:"",
+                vin:"",
+                currentLang : 'zh_CN',
+                isOverseas : false,
+                crumbs: '',
+                usageCondition: '',
+                crumbsUrl:["/", "/product/model/", "/product/machine/model/", "/product/machine/submachine/model/"],
+                searchStatus:{keyword:"", type:""},
+                isRequiredUK : false,
+                noUsbkeyTimeoutSecond : 600,
+                userType : "",
+                notSelect : "",
+                loginMix: '1844852313645123365'
+            },
+            actions: {
+            	modelLoadGroupUrl:"/legend-usage-group/tree",
+            	childNodeUrl:"/legend-usage-group/childNode",
+            	vinLoadGroupUrl:"/legend-usage-group/tree/vin/",
+                i18nUrl:'/i18n?lang=',
+        	    loadPartsUrl:"/usage/parts",
+        	    loadLegendUrl:"/usage/legend",
+        	    seachPartsUrl:"/usage/seachparts",
+        	    loginAuthUrl:"/account/auth-not-cas",
+        	    loginRedirectUrl: '' || "/",
+        	    readUrl:"/usage/list",
+        	    newReadUrl:"/usage/newlist",
+        	    loadProductListUrl:"/product/tree",
+				loadSearchUrl:"/usage",
+                loadModles : '/model/',
+                loadSubmachineUrl: '/submachine/',
+                loadModelUrl : "/model/submachine/",
+                modelLoadUsageUrl : "/usage/",
+                modelValidateUrl : "/model/exists/",
+                vinLoadUsageUrl : "/usage/vin/",
+                vinValidateUrl : "/vin/exists/",
+                remarkUrl:"/part-note/add",
+                shoppingCartSaveUrl : "/shopping-cart/save-update",
+                shoppingCartSaveListUrl : "/shopping-cart/save-updateList",
+                shoppingCartDelUrl: "/shopping-cart/delete",
+                shoppingCartUpdateQtyUrl: "/shopping-cart/update-qty",
+                shoppingCartUploadUrl: "/shopping-cart/upload",
+                shoppingSendOrderUrl:"/order/send-order",
+                partUnSaleSaveUrl:"/part-un-sale/save-update",
+                validatePartUrl: "/shopping-cart/validate-part",
+                userNoteSaveUrl: "/part-note/update",
+                deleteNoteUrl: "/part-note/delete",
+                getReplaceDialogPartVal: "/part/info",
+                getReplaceNewOldPartsUrl: "/supersession/detail",
+                getHistoryDetailUrl: "/shopping-cart-history/details",
+                historySave: "/history/save",
+                getPartSerialNumProductUrl: "/product/all",
+                getPartSerialNumTypeUrl: "/feature/types",
+                configModelUrl: "/feature/list",
+                typelistUrl: "/feature/type/list",
+                modifyPasswordUrl: "/account/change/password",
+                accountApplicationUrl:"/account/apply",
+                getUserInfoUrl: "/account/info",
+                shoppingCartExportUrl: "/shopping-cart-history/export",
+                getConfigDataUrl: "/feature/value/list",
+                partIntoListUrl: "/usage/vin",
+                shoppingCartCountUrl :"/shopping-cart/parts-count",
+                collectListUrl: "/favorite/list",
+                collectSaveUrl: "/favorite/save",
+                collectClearUrl: "/favorite/clear",
+                collectValidateUrl: "/favorite/exists",
+                loadLegendHotpointUrl : "/legend-hotpoint/",
+                questionReplyUrl: "/question/reply/list",
+                questionDetailUpdate: "/question/update",
+                questionSaveUrl: "/question/reply/save",
+                questionNumUrl: "/question/validate-question-status",
+                quizUrl: "/question/question-quiz",
+                quizEnUrl: "/question/question-quiz-en",
+                pageHeaderQuestionStatus:"/question/tips/list",
+                notificationTypeUrl:"/notice/types",
+                bulletinTypeCodeUrl:"/bulletin/types",
+                bulletinProductCodeUrl:"/product/all",
+                bulletinSysCodeUrl:"/system/list",
+                manualTypeCodeUrl:"/manual/types",
+                clearAllCollectUrl:"/favorite/clear",
+                newNotificationNumUrl:"/notice-qty",
+                checkPwdUrl:"/check-pwd",
+                newBulletinNumUrl:"/bulletin-qty",
+                historyClearUrl:"/history/clear",
+                allShoppingCart : "/shopping-cart/all",
+                createShoppingCart : "/shopping-cart/create",
+                updateShoppingCart : "/shopping-cart/update",
+                defaultShoppingCart : "/shopping-cart/update-default",
+                deleteShoppingCart: "/shopping-cart/delete-cart",
+                loadCategoryUrl: "/subsystem/part-category",
+                questionStatusUrl: "/question/validate-question",
+                validateUsbKeyUrl: "/account/check_usbkey",
+                touchUsbKeyUrl: "/account/touch_usbkey",
+                checkingUsbkeyUrl : '/account/checking_usbkey',
+                loadTypeUrl: "/product/part-sn-type",
+                qnGetUrl: "/qn-answer/get-qns",
+                qnSaveUrl: "/qn-answer/save",
+                autocompleteQueryMCUrl:"/model/query",
+                autocompleteQueryUrl:"/vin/query",
+                getModelByCodeUrl:"/model/getmodel",
+                getModelBySNUrl:"/vin/getmodel",
+                myQuestionUrl:"/question/my-question",
+                shoppingCartGetpreServed4Url:"/part/info",
+                partPhotoUrl:"/part/photo",
+                needEvaluateUrl:"/question/need-evaluate",
+                deletePUSUrl:"/part-un-sale/delete",
+                exportPUSUrl:"/part-un-sale/export"
+            },
+			hotpoint: {
+			    hotpointSwfUrl: "/js/plugins/private/hotpoint.swf",
+				playerSwfUrl:"/js/plugins/public/flashInstall/playerProductInstall.swf",
+				legendPath:"/usage/legend-file"
+			},
+            i18n : {
+                'please_input_username' : "请输入用户名",
+                'please_input_password' : "请输入密码",
+                'login_ing' : "登录中...",
+                'login' : "登录",
+                '10000' : "配件编码",   //   配件编码
+                '10001' : "配件名称",   //   配件名称
+                '10002' : "规格",   //   规格
+                '10003' : "重量(KG)",   //   重量
+                '10004' : "尺寸(mm)",   //   尺寸
+                '10005' : "成交折扣组",   //   成交折扣组
+                '10006' : "是否保养件",   //   是否保养件
+                '10007' : "是否易损件",   //   是否易损件
+                '10008' : "是否特殊采购件",   //   是否特殊采购件
+                '10009' : "储备建议",   //   储备建议
+                '10010' : "单位",   //   单位
+                '10011' : "配件备注",   //   配件备注
+                '10012' : "购买",   //   购买
+                '10013' : "替换关系",   //   替换关系
+                '10014' : "用户备注",   //   用户备注
+                '10015' : "配合使用",   //   配合使用
+                '10016' : "维修包",   //   维修包
+                '10017' : "促销",   //   促销
+                '10018' : "保外维修件",   //   再制造件
+                '10019' : "报关消息",   //   报关消息
+                '10020' : "序号",   //   序号
+                '10021' : "替换组编码",   //   替换组编码
+                '10022' : "替换时间",   //   替换时间
+                '10023' : "替换类型",   //   替换类型
+                '10024' : "替换备注",   //   替换备注
+                '10025' : "断点信息",   //   断点信息
+                '10026' : "替换前配件编码",   //   替换前配件编码
+                '10027' : "替换后配件编码",   //   替换前配件编码
+                '10028' : "操作",   //   操作
+                '10029' : "详细",   //   详细
+                '10030' : "备注",   //   备注
+                '10031' : "创建人",   //   创建人
+                '10032' : "创建时间",   //   创建时间
+                '10033' : "修改人",   //   修改人
+                '10034' : "修改时间",   //   修改时间
+                '10035' : "修改",   //   修改
+                '10036' : "删除",   //   删除
+                '10037' : "配合使用编号",   //   配合使用编号
+                '10038' : "配合使用备注",   //   配合使用备注
+                '10039' : "父配件编码",   //   父配件编码
+                '10040' : "父配件名称",   //   父配件名称
+                '10041' : "用量",   //   用量
+                '10042' : "维修包名称",   //   维修包名称
+                '10043' : "数量",   //   数量
+                '10044' : "类型",   //   类型
+                '10045' : "海关编码",   //   海关编码
+                '10046' : "海关编码商品描述",   //   海关编码商品描述
+                '10047' : "申报要素",   //   申报要素
+                '10048' : "替换信息",   //   替换信息
+                '10049' : "替换前信息",   //   替换前信息
+                '10050' : "替换后信息",   //   替换后信息
+                '10051' : "确认",   //   确认
+                '10052' : "修改成功",   //   修改成功 !
+                '10053' : "密码错误",   //   密码错误 !
+                '10054' : "取消",   //   取消
+                '10055' : "替换前图例",   //   替换前图例
+                '10056' : "图例编码",   //   图例编码
+                '10057' : "图例名称",   //   图例名称
+                '10058' : "高级搜索",   //   高级搜索
+                '10059' : "产品线",   //   产品线
+                '10060' : "机型",   //   机型
+                '10061' : "子机型",   //   子机型
+                '10062' : "整机物料号",   //   整机物料号
+                '10063' : "系统",   //   系统
+                '10064' : "配件分类",   //   配件分类
+                '10065' : "查询",   //   查询
+                '10066' : "清空",   //   清空
+                '10067' : "行号",   //   行号
+                '10068' : "进入目录",   //   进入目录
+                '10069' : "共",   //   共
+                '10070' : "页",   //   页
+                '10071' : "条记录",   //   条记录
+                '10072' : "当前页码",   //   当前页码
+                '10073' : "配置信息查询",   //   配置信息查询
+                '10074' : "收藏",   //   收藏
+                '10075' : "您好",   //   您好  !
+                '10076' : "首页",   //   首页
+                '10077' : "适用查询",   //   适用查询
+                '10078' : "购物车",   //   购物车
+                '10079' : "购物车历史",   //   购物车历史
+                '10080' : "历史",   //   历史
+                '10081' : "通知",   //   通知
+                '10082' : "公告",   //   公告
+                '10083' : "文档手册",   //   文档手册
+                '10084' : "信息反馈",   //   信息反馈
+                '10085' : "我的问题",   //   我的问题
+                '10086' : "我要提问",   //   我要提问
+                '10087' : "问题查询",   //   问题查询
+                '10088' : "语言切换",   //   语言切换
+                '10089' : "中文",   //   中文
+                '10090' : "用户信息",   //   用户信息
+                '10091' : "个人信息",   //   个人信息
+                '10092' : "修改密码",   //   修改密码
+                '10093' : "帮助227",   //   帮助
+                '10094' : "退出",   //   退出
+                '10095' : "整机序列号",   //   整机序列号
+                '10096' : "配置信息",   //   配置信息
+                '10097' : "零部件序列号",   //   零部件序列号
+                '10098' : "信息反馈状态",   //   信息反馈状态
+                '10099' : "已提交",   //   已提交
+                '10100' : "已回复",   //   已回复
+                '10101' : "已完成",   //   已完成
+                '10102' : "旧密码",   //   旧密码
+                '10103' : "新密码",   //   新密码
+                '10104' : "密码必须为6～12位，并且由字母,字符,数字组成。",   //   必须为
+                '10105' : "10105",   //   位
+                '10106' : "10106",   //   并且由字母和数字组成
+                '10107' : "确认密码",   //   确认密码
+                '10108' : "填写数量",   //   填写数量
+                '10109' : "零部件序列号查询",   //   零部件序列号查询
+                '10110' : "注：",   //   注
+                '10112' : "整机物料号描述",   //   整机物料号描述
+                '10113' : "配置",   //   配置
+                '10114' : "配置描述",   //   配置描述
+                '10115' : "替换后配件编码",   //   替换后配件编码
+                '10116' : "购物车详细",   //   购物车详细
+                '10117' : "加入时间",   //   加入时间
+                '10118' : "导出",   //   导出
+                '10119' : "上传清单",   //   上传清单
+                '10120' : "删除选中项",   //   删除选中项
+                '10121' : "最小包装单元",   //   最小包装单元
+                '10122' : "发送订单",   //   发送订单
+                '10123' : "购物车历史编码",   //   购物车历史编码
+                '10124' : "发送时间",   //   发送时间
+                '10125' : "共计种类",   //   共计种类
+                '10126' : "购物车历史详细",   //   购物车历史详细
+                '10127' : "账户信息和系统信息",   //   账户信息和系统信息
+                '10128' : "经销商编码",   //   经销商编码
+                '10129' : "经销商名称",   //   经销商名称
+                '10130' : "国家",   //   国家
+                '10131' : "省份",   //   省份
+                '10132' : "城市",   //   城市
+                '10133' : "地址",   //   地址
+                '10134' : "邮编",   //   邮编
+                '10135' : "当前用户",   //   当前用户
+                '10136' : "系统角色",   //   系统角色
+                '10137' : "系统版本",   //   系统版本
+                '10138' : "数据版本",   //   数据版本
+                '10139' : "柳工电子配件目录发布平台",   //   柳工电子配件目录发布平台
+                '10140' : "用户名",   //   用户名
+                '10141' : "密码",   //   密码
+                '10142' : "记住我",   //   记住我
+                '10143' : "广西柳工机械股份有限公司 Guangxi Liugong Machinery Co., Ltd.",   //   广西柳工机械股份有限公司 .
+                '10144' : "电话 Tel:0772-388XXXX",   //   电话
+                '10145' : "邮箱 Email:EPC@liugong.com",   //   邮箱
+                '10146' : "放大",   //   放大
+                '10147' : "还原",   //   还原
+                '10148' : "缩小",   //   缩小
+                '10149' : "逆时针旋转",   //   逆时针旋转
+                '10150' : "度",   //   度
+                '10151' : "顺时针旋转",   //   顺时针旋转
+                '10152' : "关闭",   //   关闭
+                '10153' : "通知详细",   //   通知详细
+                '10154' : "通知编码",   //   通知编码
+                '10155' : "通知主题",   //   通知主题
+                '10156' : "发布时间",   //   发布时间
+                '10157' : "有效时间",   //   有效时间
+                '10158' : "是否必读",   //   是否必读
+                '10159' : "通知内容",   //   通知内容
+                '10160' : "附件",   //   附件
+                '10161' : "我已阅读",   //   我已阅读
+                '10162' : "提示",   //   提示
+                '10163' : "清单已发送成功",   //   清单已发送成功
+                '10164' : "请至",   //   请至
+                '10165' : "进行下一步操作",   //   进行下一步操作
+                '10166' : "地质",   //   地质
+                '10167' : "区号",   //   区号
+                '10168' : "公告详细",   //   公告详细
+                '10169' : "公告编码",   //   公告编码
+                '10170' : "公告主题",   //   公告主题
+                '10171' : "公告类型",   //   公告类型
+                '10172' : "购买数量",   //   购买数量
+                '10173' : "名称",   //   名称
+                '10174' : "替换组信息",   //   替换组信息
+                '10175' : "欢迎使用柳工电子配件目录！",   //   欢迎使用柳工电子配件目录
+                '10176' : "具体请查阅本目录的帮助文件",   //   具体请查阅本目录的帮助文件
+                '10177' : "柳工保留对产品持续改进的权利",   //   柳工保留对产品持续改进的权利
+                '10178' : "在查阅过程中如有任何疑问",   //   在查阅过程中如有任何疑问
+                '10179' : "请与柳工联系",   //   请与柳工联系
+                '10180' : "装载机",   //   装载机
+                '10181' : "图例目录分组",   //   图例目录分组
+                '10182' : "组装图关系",   //   s组装图关系
+                '10183' : "反查",   //   反查
+                '10184' : "详情",   //   详情
+                '10194' : "全部",   //   全部
+                '10210' : "该配件未做维修判断，请与柳工确认是否可采购",   //   该配件未做维修判断，请与柳工确认是否可采购
+                '10212' : "保存失败",   //   保存失败
+                '10216' : "更新失败",   //   更新失败
+                '10234' : "提交到DMS",   //   提交
+                '10243' : "回复",   //   回复
+                '10244' : "保存成功",   //   保存成功
+                '10245' : "不能为空",   //   不能为空
+                '10246' : "最多只能上传8个文件",   //   最多只能上传5个文件
+                '10251' : "图例",   //   图例
+                '10255' : "确认要清空全部收藏记录?",   //   确认要清空全部收藏记录
+                '10256' : "清空成功",   //   清空成功
+                '10298' : "回复内容不能为空",   //   回复内容不能为空
+                '10299' : "请输内容不能超过400字",   //   输入内容不能超过400字
+                '10300' : "备注内容不可为空",   //   备注内容不可为空
+                '10258' : "请勾选查询项",   //   请勾选查询项
+                '10259' : "收藏成功",   //   收藏成功
+                '10260' : "收藏失败",   //   收藏失败
+                '10264' : "已圆整",   //   已圆整
+                '10265' : "订购成功",   //   订购成功
+                '10266' : "错误原因",   //   错误原因
+                '10268' : "请输入4位以上的零部件序列号",   //   请输入4位以上的零部件序列号
+                '10269' : "请输入查询信息",   //   请输入查询信息
+                '10270' : "整机序列号不存在",   //   整机序列号不存在
+                '10271' : "整机物料号不存在",   //   整机物料号不存在
+                '10272' : "上传支持格式为",   //   上传支持格式为
+                '10273' : "导入成功",   //   导入成功
+                '10274' : "导入失败",   //   导入失败
+                '10275' : "配件编码不能为空",   //   配件编码不能为空
+                '10276' : "更新成功",   //   更新成功
+                '10277' : "确认删除当前记录吗",   //   确认删除当前记录吗
+                '10278' : "您未选中需要删除项",   //   您未选中需要删除项
+                '10279' : "您确认需要删除当前选中记录",   //   您确认需要删除当前选中记录？
+                '10280' : "删除成功",   //   删除成功
+                '10281' : "您有未读通知，请阅读后在进行其他操作",   //   您有未读通知，请阅读后在进行其他操作
+                '10282' : "您有未读公告，请阅读后在进行其他操作",   //   您有未读公告，请阅读后再进行其他操作
+                '10283' : "请输入旧密码",   //   请输入旧密码
+                '10284' : "请输入新密码",   //   请输入新密码
+                '10285' : "请输入6-12位的新密码",   //   请输入6-12位的新密码
+                '10286' : "确认密码与新密码不一致",   //   确认密码与新密码不一致
+                '10287' : "请选择产品线",   //   请选择产品线
+                '10288' : "请选择类型",   //   请选择类型
+                '10301' : "手册文档",   //   文档手册
+                '10307' : "当前用户状态为冻结",   //
+                '12551' : "用户登录状态失效",   //   登录状态失效
+                '10308' : "请重新登录",   //   请重新登录
+                '10309' : "服务器端发生异常",   //   服务器端发生异常
+                '10310' : "未明确指出错误信息",   //   未明确指出错误信息
+                '10311' : "您的账号已被其他人登录",   //   您的账号已被其他人登录,
+                '10188' : "请输入用户名",   //   请输入用户名,
+                '10189' : "请输入密码",   //   请输入密码
+                '12271' : "该输入项为必输项",   //   输入项为必输项
+                '12273' : "问题回复",   //   问题回复
+                '12282' : "清空历史",   //   清空历史
+                '12283' : "确认要清空全部历史记录?",   //   确认要清空全部历史记录
+                '12284' : "请至少输入一个查询条件",   //   请至少输入一个查询条件
+                '12285' : "您还没有安装flash播放器",   //   您还没有安装flash播放器
+               	'12288' : "传真",   //   传真
+             	'10233' : "联系电话",   //   电话
+             	'12290' : "密码修改成功",   //   密码修改成功,
+             	'10215' : "服务器忙！",   // 	 服务器端忙
+             	'12292' : "请设置默认购物车",   //	请设置默认购物车
+             	'12305' : "购物车名称",   //	添加购物车
+             	'12325' : "设为默认",   //	设为默认
+             	'12326' : "更改名称",   //	更改名称
+             	'12327' : "新增",   //	新增
+             	'12328' : "当前购物车",   //	当前购物车
+             	'12329' : "最后修改时间",   //	最后修改时间
+             	'12330' : "请输入名称",   //	请输入名称
+             	'12331' : "修改购物车",   //	修改购物车
+             	'12332' : "新增购物车",   //	新增购物车
+             	'12333' : "您确认删除当前选中记录",   //	您确认删除当前选中记录
+             	'12334' : "收藏列表",   //   收藏列表
+             	'12336' : "默认",   //   收藏列表
+           		'12346' : "零部件序列号不能为空",   //   零部件序列号不能为空
+           		'12461' : "您有超过3条及以上服务质量没有评价，请先评价后再提问",   //   您有超过3条及以上服务质量没有评价，请先评价后再提问
+           		'12468' : "大于",   //   超过
+           		'12347' : "注销当前账户",   //   注销当前账户
+           		'12488' : "正在检测USB KEY...,3分钟内系统会再次自动检测...",   //   正在检测USB KEY...,3分钟内系统会再次自动检测...
+           		'12489' : "重新检测",   //   重新检测
+           		'12490' : "请确认已插入Usbkey并装好驱动程序",    //   请确认已插入Usbkey并装好驱动程序
+           		'12491' : "免责声明：<br/>本目录中的配件物料信息包括尺寸、图片、重量、规格等仅供参考之用，最终以柳工设计图纸为准，柳工拥有对配件信息随时更改的权利。<br/>柳工对本目录提供的资料的准确性和完整性也未做任何担保，对此类数据或信息的任何的不准确、错误或误述而导致的任何及所有责任均已被明确排除。不得以目录中内容差异进行索赔。",	//免责申明
+           		'20021' : "搜索",	//搜索
+           		'20032' : "订购提醒",	//订购提醒           
+           		'20033' : "请选择配件",	//请选择配件             
+           		'20034' : "替换后图例",	//替换后图例            
+           		'20035' : "图内序号",		//图内序号            
+           		'20042' : "欢迎使用柳工电子配件目录！ 本目录所包含的配件信息可能会因产品改进而随时变更,机器在持续改进过程中涉及到的配件信息有可能在本目录中无法一一体现。没有'√'标记意味着无法确定该零件可以使用在您的机器上，为避免采购的零件无法安装使用，请在下单前与柳工确认。",	//订购提示        	
+           		'20043' : "微信扫码登录",		//微信扫码登录      		        	
+           		'20052' : "请输入验证码",	//请输入验证码   	        	
+           		'20054' : "请修改密码",		//请修改密码 	        	
+           		'20055' : "验证码失效，请刷新验证码",		//验证码失效
+           		'20056' : "验证码",		//验证码
+           		'20057' : "系统故障: 3889107     账号权限: moj@liugong.com",		//验证码
+           		'20058' : "请选择图例",			//请选择图例
+           		'20059' : "国际",			//国际
+           		'20060' : "北京时间",			//北京时间
+           		'20061' : "中国上班时间是绿色，其它时间是灰色",			//
+           		'20062' : "如需准确核对零件号，必须提供设备序列号",			//
+           		'20063' : "常见问题处理",			//
+           		'20064' : "<a href='https://partselling.liugong.com/PricePortal/'  target='_blank'> 1.价格恢复</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href='http://osdcs1.liugong.com/inquireOrders/purchaseOrder/list'  target='_blank'> 2.咨询交货期、报价</a>",			//
+           		'20065' : "继续提问",			//继续提问
+           		'20066' : "问题未评价，您的评价可以让我们更努力的工作！",			//
+           		'20067' : "柳工审核,请注意核对是否一致",			//
+           		'20068' : "复制",			//
+           		'20069' : "我的清单",			//
+           		'20070' : "清空查询条件",			//
+           		'20071' : "清空记录",			//
+           		'20072' : "ECN查询",			//
+           		'20073' : "装配日期",			//
+           		'20074' : "变更前物料号",			//
+           		'20075' : "变更前物料号名称",			//
+           		'20076' : "变更后物料号",			//
+           		'20077' : "变更后物料号名称",			//
+           		'20078' : "替换类型编码",			//
+           		'20079' : "替换类型名称",			//
+           		'20080' : "变更编码"			//
+            }
+        };
+    });
+    
+    var _hmt = _hmt || [];
+    require(['jquery'], function(jQuery) {
+    	jQuery(function(){
+			var hm = document.createElement("script");
+			hm.src = "//hm.baidu.com/hm.js?2f25ef1b2943686e62b94fc1ed5559ad";
+			var s = document.getElementsByTagName("script")[0]; 
+			s.parentNode.insertBefore(hm, s);
+		});
+	});
+</script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/js/libs/public/jquery-1.8.1.min.js"></script>
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" media="all" href="/css/all.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/login.css">
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ajax" src="/js/libs/private/ajax.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jqueryMd5" src="/js/libs/public/jquery.md5.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="/js/libs/public/domReady.js"></script></head>
+<body>
+	<p align="right" style="display:none;">247</p>
+	<img src="/css/images/login_bg_small.jpg" id="login-bg" class="login-bg" style="width: 1038px; height: 666px;">
+	<div class="login" id="login">
+		<div class="login-wrap" id="login-frame" style="left: 287.5px;">			 
+			<table width="100%">
+				<tbody><tr heigth="0.1px">
+					<td width="1%"></td>
+					<td width="10%">
+					</td>
+					<td width="50%">
+					</td>
+					<td width="30%">
+					</td>
+					<td width="8%"></td>
+					<td width="1%"></td>
+				</tr>
+				<tr>
+					<td colspan="5" id="titleshow">
+						<h1 align="center">
+							柳工电子配件目录发布平台
+						</h1>
+					</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td></td>	
+					<td>
+						<div align="left" id="accountlabshow" style="position: absolute; bottom: 245px; display: none;">								
+						<h1>		<font color="#eb6100" size="3px">
+										账号登录    
+								</font>		</h1>						
+						</div>
+					</td>					
+					<td>						
+							<div align="right" id="qrlab" style="display:none; cursor:pointer;" title="账号登录">
+								<span style="z-index:233;position: absolute; top:80px; right:65px;">
+									<img width="15" heigth="15" id="_x0000_i1021" src="/css/images/wechat.png">
+									<font color="#eb6100" size="2px">
+										微信扫码登录
+									</font> 
+								</span>
+								<img align="right" width="30" heigth="30" id="_x0000_i1022" src="/css/images/QRLoginIcon.svg">
+									
+							</div>
+							<div align="right" id="accountlab" style="cursor: pointer; display: block;" title="账号登录">
+								<span style="z-index:233;position: absolute; top:80px; right:65px;"> 
+									<img width="15" heigth="15" id="_x0000_i1023" src="/css/images/account.gif">
+									<font color="#eb6100" size="2px">
+										账号登录    
+									</font> 									
+								</span>
+								
+								<img align="right" width="30" heigth="30" id="_x0000_i1024" src="/css/images/accountLoginIcon.svg">
+									
+							</div>
+					</td>
+					<td></td>					
+				</tr>
+			</tbody></table>
+			
+			<ul width="330px">
+				<div id="accountshow" style="display: none;">
+				<div id="tip" class="login-tip"></div>
+				<ul>
+					<li class="login-username"><input type="text" name="username" id="username" autocomplete="off" style=""> <span id="username-default-tip" class="default-tip" style="color: rgb(204, 204, 204);">用户名</span></li>
+					<li class="login-password"><input type="password" name="password" id="password" autocomplete="off" style=""> <span id="password-default-tip" class="default-tip">密码</span> 
+								<input type="hidden" name="usbKeyId" id="usbKeyId" style=""></li>
+					
+					<!--  
+					<li class="login-remember">
+					<label for="rememberMe"> <input
+							type="checkbox" id="rememberMe" name="rememberMe" value="true" />
+							记住我
+					</label>
+					<a href="http://epcfs.liugong.com:801/liugongsbomfile/download/usbkey/usbkey.zip">USBKEY 安装指南</a>
+					</li>
+				 	 -->
+				 	 
+					<li>
+						<span class="STYLE1">验证码：</span>
+						
+							<input name="checkcode" type="text" id="checkcode" style="width: 60px; height: 20px;" value="" datatype="0,is_noquotation,4">&nbsp; 
+							<img id="checkCodeImg1" src="/account/getcheckcode" onclick="refreshCode();"> 
+							<span id="timer" style="color:red"></span>							
+						 
+					</li>
+					<li>	
+						<input class="btn-login" style="width: 100px;" id="toSubmit" type="button" value="登录">
+						</li>
+					</ul>
+				</div>
+				<div id="qrshow" align="center" height="460px" style="display: block;">	
+					<img width="140" height="140" id="_x0000_i1026" src="/account/loginqr?uuid=081yn3sP3pcxFa1M">
+					<!-- <br>	<font color="#ff0000" size="5px">由于受到网络限制影响，近期EPC系统会出现间歇性无法登录故障，目前已经在积极恢复中，请各位用户谅解，谢谢！
+						</font>-->
+					<br> 
+					<img width="30" heigth="30" id="_x0000_i1027" src="/css/images/wechat.png">
+					<font color="#eb6100" size="3px">微信扫码登录
+					</font>		
+				</div>	
+			</ul>
+			
+				<div align="right" height="410px">
+					<span class="login-language" id="login-language"> 
+						
+							<a href="javascript:;" data-code="en_US">English|</a>
+						
+							<a href="javascript:;" data-code="zh_CN" class="login-language-check">简体中文|</a>
+						
+							<a href="javascript:;" data-code="it_IT">italiano|</a>
+						
+							<a href="javascript:;" data-code="fr_FR">français|</a>
+						
+							<a href="javascript:;" data-code="de_DE">Deutsch|</a>
+						
+							<a href="javascript:;" data-code="ru_RU">русский|</a>
+						
+							<a href="javascript:;" data-code="es_ES">español|</a>
+						
+							<a href="javascript:;" data-code="pt_PT">português|</a>
+						
+					</span> 
+					&nbsp;&nbsp;&nbsp;&nbsp;
+				</div>
+			
+		</div>	
+		
+		<!-- 登录界面修改 -->
+		<div id="login-info" style="height:40px; overflow:hidden;width:100%;position:fixed;	bottom:0;left:0;background-color:#fff;">
+		<div style="margin:10px 0 10px 13px;float:left;">
+		        广西柳工机械股份有限公司 Guangxi Liugong Machinery Co., Ltd.
+		        &nbsp;&nbsp;&nbsp;&nbsp;
+		        系统故障: 3889107     账号权限: moj@liugong.com
+			</div>
+		</div>
+		
+	</div>
+    <embed id="s_simnew31" type="application/npsyunew3-plugin" style="display:none;" width="200" height="0">
+	<!--创建firefox,chrome等插件-->
+	<script type="text/javascript" src="/js/module/account/login.js"></script>
+	
+	
+	<script type="text/javascript">
+	//alert("因公司计划于6月13日至6月15日进行网络系统维护，期间EPC系统可能出现间歇性服务不稳定情况。系统预计于北京时间6月16日早上8:00全面恢复运行，敬请知悉。Please be advised that our company will perform network system maintenance from June 13 to June 15. During this period, the EPC system may experience intermittent instability. Normal operations are expected to resume at 8:00 AM Beijing Time on June 16.");
+	
+	<!-- 加载二维码 -->
+	if(window.name != "refresh"){
+	    location.reload();
+	    window.name = "refresh";
+	}
+	else{
+	    window.name = "";
+	}
+   function get(id) {
+       return document.getElementById(id);
+   };
+   var onAccountlab = get("accountlab");
+   var onQrlab = get("qrlab");
+   
+   var accountshow = document.getElementById("accountshow");
+   var accountlabshow = document.getElementById("accountlabshow");
+   var qrshow = document.getElementById("qrshow");
+
+   var fdoqr=true;
+
+   onAccountlab.addEventListener('click', function (e) {//点击帐号
+	   onAccountlab.style.display = "none";
+	   onQrlab.style.display="block";
+	   
+	   accountshow.style.display = "block";
+	   accountlabshow.style.display = "block";
+	   qrshow.style.display = "none";
+	   
+	   //停止二维码扫描
+	   fdoqr=false;
+	   //开启验证码获取
+	   refreshCode();
+   }, false);
+   onQrlab.addEventListener('click', function (e) {//点击二维码
+	   onAccountlab.style.display = "block";
+	   onQrlab.style.display="none";
+	   
+	   accountshow.style.display = "none";
+	   accountlabshow.style.display = "none";
+	   qrshow.style.display = "block";
+	   
+	   //开启二维码扫描
+	   fdoqr=true;
+	   //停止验证码获取
+	   document.all["timer"].innerHTML="";
+	   maxtime=-1;
+   }, false);
+   /*function disPlay(){
+	   //var upshow = document.getElementById("userpassword_show");
+	   //var qrscanshow = document.getElementById("qrscan");
+
+	   accountshow.style.display = "none";
+	   accountlabshow.style.display = "none";
+	   //qrshow.style.display = "none";
+				
+	}*/
+
+ 	//alert(get("titleshow").innerText);
+	if(get("titleshow").innerText=="柳工电子配件目录发布平台"){
+		onAccountlab.style.display = "block";
+		   onQrlab.style.display="none";
+		   
+		   accountshow.style.display = "none";
+		   accountlabshow.style.display = "none";
+		   qrshow.style.display = "block";
+		   
+		   //开启二维码扫描
+		   fdoqr=true;
+		   //停止验证码获取
+		   document.all["timer"].innerHTML="";
+		   maxtime=-1;
+	}else{
+		onAccountlab.style.display = "none";
+		   onQrlab.style.display="block";
+		   
+		   accountshow.style.display = "block";
+		   accountlabshow.style.display = "block";
+		   qrshow.style.display = "none";
+		   
+		   //停止二维码扫描
+		   fdoqr=false;
+		   //开启验证码获取
+		   refreshCode();
+	}
+ 	
+	//disPlay();
+	
+	   
+   var i=1;
+   var maxtime=-1;//按秒计
+   window.setInterval(
+		   function() {
+			   //显示倒计时
+			   if(maxtime>=0){
+			   		countTime();
+			   }
+			   ////定时轮询微信，用户是否扫描，且是否成功
+		       if (fdoqr) {
+		           i = i + 1;
+		           if (i < 301) {
+		               $.ajax({
+		                   type: "POST",
+		                   url: '/account/checkscan?uuid=081yn3sP3pcxFa1M',
+		                   dataType: "json",
+		                   success: function(root) {
+		                       console.log(root);
+		                       ///window.location="/account/wechatlogin?code=1234&state=1270";
+		                       if (root.success) {
+		                           //alert("root.result.data=");//+root.result.data
+		                           //renderTip(root.result.data);
+		                           //成功可修改二维码显示打勾，目前不需要
+		                           if (root.result.data[0] == "405") window.location = "/account/wechatlogin?code=" + root.result.data[1] + "&state=1270";
+		                           if (root.result.data[0] == "666") fdoqr = false;
+		                       }
+
+		                   }
+		               });
+		           }
+		       }
+		   },
+		   2000);
+		   
+
+	   function refreshCode(){
+			document.getElementById("checkCodeImg1").src = "/account/getcheckcode?ddd="+new Date();
+			maxtime=58;
+			document.getElementById('checkcode').value="";
+		}
+	   
+	   function countTime(){
+		   if (maxtime >= 0) {
+			  var seconds = Math.floor(maxtime % 60);			  
+			  document.all["timer"].innerHTML = seconds;			  
+			  if (maxtime >0){
+				maxtime--;
+			  	maxtime--;
+			  }else
+			   document.getElementById('tip').innerHTML= "验证码失效，请刷新验证码";
+		  }
+		}
+	</script>
+	
+
+
+</body></html>

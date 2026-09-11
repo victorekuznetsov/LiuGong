@@ -1,0 +1,932 @@
+==========================================
+=== CLG942EHKSE917908  Thu Sep 10 22:58:15 RTZ 2026
+==========================================
+--- CLG942EHKSE917908 / tree ---
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 493 (256 on this VIN)
+--- CLG942EHKSE917908 / parts ---
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  legends: 493 (256 on this VIN)
+  parts 25/493 06C8069_000_00 n=3
+  parts 50/493 12Y0906_000_05 n=13
+  parts 75/493 15Y3651_002_02 n=39
+  parts 100/493 25Y0983_000_00 n=5
+  parts 125/493 31C2275_001_00 n=1
+  parts 150/493 46C6362_000_00 n=2
+  parts 175/493 55C1252_000_00 n=21
+  parts 200/493 61C0599P04_000_00 n=1
+  parts 225/493 66C1701_000_00 n=1
+  parts 250/493 83C4895_000_00 n=43
+  parts 275/493 12C7719_000_00 n=4
+  parts 300/493 21C0739_000_00 n=4
+  parts 319/493 31C0708_000_00 n=0
+  parts 325/493 34C1706_000_00 n=12
+  parts 350/493 47C0436_002_00 n=3
+  parts 375/493 47C9678_000_00 n=18
+  parts 400/493 61C0473_000_00 n=1
+  parts 425/493 SP205558_000_00 n=1
+  parts 450/493 SP231484_000_00 n=2
+  parts 475/493 SP249550_000_00 n=10
+  parts done: 3531 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! CLG942EHKSE917908 / parts FAILED, retrying once
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  legends: 493 (256 on this VIN)
+  parts 25/493 06C8069_000_00 n=3
+  parts 50/493 12Y0906_000_05 n=13
+  parts 75/493 15Y3651_002_02 n=39
+  parts 100/493 25Y0983_000_00 n=5
+  parts 125/493 31C2275_001_00 n=1
+  parts 150/493 46C6362_000_00 n=2
+  parts 175/493 55C1252_000_00 n=21
+  parts 200/493 61C0599P04_000_00 n=1
+  parts 225/493 66C1701_000_00 n=1
+  parts 250/493 83C4895_000_00 n=43
+  parts 275/493 12C7719_000_00 n=4
+  parts 300/493 21C0739_000_00 n=4
+  parts 319/493 31C0708_000_00 n=0
+  parts 325/493 34C1706_000_00 n=12
+  parts 350/493 47C0436_002_00 n=3
+  parts 375/493 47C9678_000_00 n=18
+  parts 400/493 61C0473_000_00 n=1
+  parts 425/493 SP205558_000_00 n=1
+  parts 450/493 SP231484_000_00 n=2
+  parts 475/493 SP249550_000_00 n=10
+  parts done: 3531 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- CLG942EHKSE917908 / drawings ---
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  legends: 493 (256 on this VIN)
+  drawings 25/493
+  drawings 50/493
+  drawings 75/493
+  drawings 100/493
+  drawings 125/493
+  drawings 150/493
+  drawings 175/493
+  drawings 200/493
+  drawings 225/493
+  drawings 250/493
+  drawings 275/493
+  drawings 300/493
+  drawings 325/493
+  drawings 350/493
+  drawings 375/493
+  drawings 400/493
+  drawings 425/493
+  drawings 450/493
+  drawings 475/493
+  drawings done
+--- CLG942EHKSE917908 / details ---
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  legends: 493 (256 on this VIN)
+--- CLG942EHKSE917908 / photos ---
+machine CLG942EHKSE917908 -> 12F02860006B001  CLG942EHD 挖掘机
+  legends: 493 (256 on this VIN)
+==========================================
+=== CLG890HZTSL831819  Thu Sep 10 23:05:53 RTZ 2026
+==========================================
+--- CLG890HZTSL831819 / tree ---
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 1034 (569 on this VIN)
+--- CLG890HZTSL831819 / parts ---
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  legends: 1034 (569 on this VIN)
+  parts 25/1034 00C5117_000_00 n=36
+  parts 50/1034 01D9980_000_00 n=1
+  parts 75/1034 08C7190_000_00 n=1
+  parts 100/1034 09C1802_000_00 n=7
+  parts 125/1034 12C3327_000_00 n=8
+  parts 150/1034 19C0556_000_00 n=1
+  parts 155/1034 19C2103_000_00 n=0
+  parts 175/1034 22Y5440_000_00 n=3
+  parts 200/1034 30C0080_001_00 n=3
+  parts 225/1034 30C0369_000_00 n=2
+  parts 230/1034 30C0620_000_00 n=0
+  parts 233/1034 30C1912_000_00 n=0
+  parts 250/1034 30W0083_000_00 n=3
+  parts 259/1034 31C0154_000_00 n=0
+  parts 275/1034 32Y2790_000_00 n=14
+  parts 300/1034 34C5366_000_00 n=8
+  parts 325/1034 38B0252_000_00 n=1
+  parts 350/1034 42C1685_000_00 n=8
+  parts 375/1034 46C8535_001_00 n=13
+  parts 400/1034 47C2524_002_00 n=13
+  parts 425/1034 47C5322_001_00 n=24
+  parts 450/1034 48C4449_001_00 n=7
+  parts 475/1034 49C3590_000_00 n=7
+  parts 500/1034 57C3608_000_00 n=50
+  parts 525/1034 66C5161_000_00 n=1
+  parts 550/1034 70C9097_000_00 n=3
+  parts 575/1034 00C4052_002_00 n=18
+  parts 600/1034 10C1795_000_00 n=20
+  parts 625/1034 13C0921_000_00 n=7
+  parts 650/1034 22C2146_003_00 n=12
+  parts 666/1034 30C0805_000_00 n=0
+  parts 675/1034 32B0333_000_00 n=3
+  parts 700/1034 34C5472_000_00 n=3
+  parts 725/1034 35C1451_000_00 n=2
+  parts 750/1034 47C2463_000_00 n=16
+  parts 775/1034 47C3331_000_00 n=10
+  parts 800/1034 49C1088_000_00 n=2
+  parts 825/1034 84A3606_000_00 n=1
+  parts 850/1034 SP143941_000_00 n=11
+  parts 875/1034 SP148476_000_00 n=3
+  parts 900/1034 SP148494_001_00 n=22
+  parts 925/1034 SP148601_000_00 n=5
+  parts 950/1034 SP165189_000_00 n=4
+  parts 975/1034 SP192883_000_00 n=4
+  parts 1000/1034 SP263761_000_02 n=1
+  parts 1025/1034 SP282836_000_00 n=15
+  parts done: 6616 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! CLG890HZTSL831819 / parts FAILED, retrying once
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  legends: 1034 (569 on this VIN)
+  parts 25/1034 00C5117_000_00 n=36
+  parts 50/1034 01D9980_000_00 n=1
+  parts 75/1034 08C7190_000_00 n=1
+  parts 100/1034 09C1802_000_00 n=7
+  parts 125/1034 12C3327_000_00 n=8
+  parts 150/1034 19C0556_000_00 n=1
+  parts 155/1034 19C2103_000_00 n=0
+  parts 175/1034 22Y5440_000_00 n=3
+  parts 200/1034 30C0080_001_00 n=3
+  parts 225/1034 30C0369_000_00 n=2
+  parts 230/1034 30C0620_000_00 n=0
+  parts 233/1034 30C1912_000_00 n=0
+  parts 250/1034 30W0083_000_00 n=3
+  parts 259/1034 31C0154_000_00 n=0
+  parts 275/1034 32Y2790_000_00 n=14
+  parts 300/1034 34C5366_000_00 n=8
+  parts 325/1034 38B0252_000_00 n=1
+  parts 350/1034 42C1685_000_00 n=8
+  parts 375/1034 46C8535_001_00 n=13
+  parts 400/1034 47C2524_002_00 n=13
+  parts 425/1034 47C5322_001_00 n=24
+  parts 450/1034 48C4449_001_00 n=7
+  parts 475/1034 49C3590_000_00 n=7
+  parts 500/1034 57C3608_000_00 n=50
+  parts 525/1034 66C5161_000_00 n=1
+  parts 550/1034 70C9097_000_00 n=3
+  parts 575/1034 00C4052_002_00 n=18
+  parts 600/1034 10C1795_000_00 n=20
+  parts 625/1034 13C0921_000_00 n=7
+  parts 650/1034 22C2146_003_00 n=12
+  parts 666/1034 30C0805_000_00 n=0
+  parts 675/1034 32B0333_000_00 n=3
+  parts 700/1034 34C5472_000_00 n=3
+  parts 725/1034 35C1451_000_00 n=2
+  parts 750/1034 47C2463_000_00 n=16
+  parts 775/1034 47C3331_000_00 n=10
+  parts 800/1034 49C1088_000_00 n=2
+  parts 825/1034 84A3606_000_00 n=1
+  parts 850/1034 SP143941_000_00 n=11
+  parts 875/1034 SP148476_000_00 n=3
+  parts 900/1034 SP148494_001_00 n=22
+  parts 925/1034 SP148601_000_00 n=5
+  parts 950/1034 SP165189_000_00 n=4
+  parts 975/1034 SP192883_000_00 n=4
+  parts 1000/1034 SP263761_000_02 n=1
+  parts 1025/1034 SP282836_000_00 n=15
+  parts done: 6616 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- CLG890HZTSL831819 / drawings ---
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  legends: 1034 (569 on this VIN)
+  drawings 25/1034
+  drawings 50/1034
+  drawings 75/1034
+  drawings 100/1034
+  drawings 125/1034
+  drawings 150/1034
+  drawings 175/1034
+  drawings 200/1034
+  drawings 225/1034
+  drawings 250/1034
+  drawings 275/1034
+  drawings 300/1034
+  drawings 325/1034
+  drawings 350/1034
+  drawings 375/1034
+  drawings 400/1034
+  drawings 425/1034
+  drawings 450/1034
+  drawings 475/1034
+  drawings 500/1034
+  drawings 525/1034
+  drawings 550/1034
+  drawings 575/1034
+  drawings 600/1034
+  drawings 625/1034
+  drawings 650/1034
+  drawings 675/1034
+  drawings 700/1034
+  drawings 725/1034
+  drawings 750/1034
+  drawings 775/1034
+  drawings 800/1034
+  drawings 825/1034
+  drawings 850/1034
+  drawings 875/1034
+  drawings 900/1034
+  drawings 925/1034
+  drawings 950/1034
+  drawings 975/1034
+  drawings 1000/1034
+  drawings 1025/1034
+  drawings done
+--- CLG890HZTSL831819 / details ---
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  legends: 1034 (569 on this VIN)
+--- CLG890HZTSL831819 / photos ---
+machine CLG890HZTSL831819 -> 68F00030217B001  CLG890H 轮式装载机
+  legends: 1034 (569 on this VIN)
+==========================================
+=== CLG8128HERL801592  Thu Sep 10 23:18:48 RTZ 2026
+==========================================
+--- CLG8128HERL801592 / tree ---
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 1208 (573 on this VIN)
+--- CLG8128HERL801592 / parts ---
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+  parts 25/1208 00C5768_005_01 n=31
+  parts 50/1208 05C5727_000_00 n=1
+  parts 75/1208 09C0045_000_00 n=5
+  parts 100/1208 09C1803_001_00 n=5
+  parts 125/1208 10C4094_000_00 n=27
+  parts 150/1208 12C4677_000_00 n=11
+  parts 175/1208 13C0924_002_00 n=10
+  parts 200/1208 21C1345_000_00 n=3
+  parts 225/1208 26D3941X0_001_00 n=5
+  parts 250/1208 30C0260_000_00 n=4
+  parts 275/1208 30C0846_001_00 n=3
+  parts 284/1208 30C1912_000_00 n=0
+  parts 300/1208 31C0095_000_00 n=1
+  parts 325/1208 32Y0319_000_00 n=2
+  parts 350/1208 40C6034_000_00 n=26
+  parts 375/1208 41C4865X0_000_00 n=17
+  parts 400/1208 44Y0196X0_001_00 n=12
+  parts 425/1208 46C4916_002_00 n=9
+  parts 450/1208 48C3240_004_00 n=6
+  parts 475/1208 48Y3137_002_01 n=24
+  parts 500/1208 57C4804_000_00 n=9
+  parts 525/1208 65C0746_000_00 n=34
+  parts 550/1208 70C2952_000_00 n=5
+  parts 575/1208 00C3846_001_00 n=38
+  parts 600/1208 00C5772_000_00 n=43
+  parts 625/1208 01Y0839_000_00 n=31
+  parts 650/1208 05C5797_000_00 n=3
+  parts 675/1208 09C0861_001_00 n=3
+  parts 700/1208 12C4412_000_00 n=4
+  parts 725/1208 18D4380_000_00 n=1
+  parts 750/1208 25Y0176_000_00 n=36
+  parts 775/1208 30C0269_000_00 n=3
+  parts 780/1208 30C0620_000_00 n=0
+  parts 800/1208 32B0575_000_00 n=1
+  parts 825/1208 34C5350_000_00 n=4
+  parts 850/1208 34C5560_001_00 n=35
+  parts 875/1208 42C1309_001_00 n=33
+  parts 900/1208 42D7636X0_000_00 n=3
+  parts 925/1208 46C9651_000_00 n=3
+  parts 950/1208 47C2517_001_00 n=7
+  parts 975/1208 47C3328_000_00 n=3
+  parts 1000/1208 48Y4798_000_01 n=31
+  parts 1025/1208 50Y5277_000_00 n=1
+  parts 1050/1208 57C0172_000_00 n=5
+  parts 1075/1208 66C2675_000_00 n=1
+  parts 1100/1208 69C3856_000_00 n=5
+  parts 1125/1208 SP215118_000_00 n=23
+  parts 1150/1208 SP279431_000_00 n=5
+  parts 1175/1208 SP279456_000_00 n=4
+  parts 1200/1208 SP279481_000_00 n=7
+  parts done: 8285 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! CLG8128HERL801592 / parts FAILED, retrying once
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+  parts 25/1208 00C5768_005_01 n=31
+  parts 50/1208 05C5727_000_00 n=1
+  parts 75/1208 09C0045_000_00 n=5
+  parts 100/1208 09C1803_001_00 n=5
+  parts 125/1208 10C4094_000_00 n=27
+  parts 150/1208 12C4677_000_00 n=11
+  parts 175/1208 13C0924_002_00 n=10
+  parts 200/1208 21C1345_000_00 n=3
+  parts 225/1208 26D3941X0_001_00 n=5
+  parts 250/1208 30C0260_000_00 n=4
+  parts 275/1208 30C0846_001_00 n=3
+  parts 284/1208 30C1912_000_00 n=0
+  parts 300/1208 31C0095_000_00 n=1
+  parts 325/1208 32Y0319_000_00 n=2
+  parts 350/1208 40C6034_000_00 n=26
+  parts 375/1208 41C4865X0_000_00 n=17
+  parts 400/1208 44Y0196X0_001_00 n=12
+  parts 425/1208 46C4916_002_00 n=9
+  parts 450/1208 48C3240_004_00 n=6
+  parts 475/1208 48Y3137_002_01 n=24
+  parts 500/1208 57C4804_000_00 n=9
+  parts 525/1208 65C0746_000_00 n=34
+  parts 550/1208 70C2952_000_00 n=5
+  parts 575/1208 00C3846_001_00 n=38
+  parts 600/1208 00C5772_000_00 n=43
+  parts 625/1208 01Y0839_000_00 n=31
+  parts 650/1208 05C5797_000_00 n=3
+  parts 675/1208 09C0861_001_00 n=3
+  parts 700/1208 12C4412_000_00 n=4
+  parts 725/1208 18D4380_000_00 n=1
+  parts 750/1208 25Y0176_000_00 n=36
+  parts 775/1208 30C0269_000_00 n=3
+  parts 780/1208 30C0620_000_00 n=0
+  parts 800/1208 32B0575_000_00 n=1
+  parts 825/1208 34C5350_000_00 n=4
+  parts 850/1208 34C5560_001_00 n=35
+  parts 875/1208 42C1309_001_00 n=33
+  parts 900/1208 42D7636X0_000_00 n=3
+  parts 925/1208 46C9651_000_00 n=3
+  parts 950/1208 47C2517_001_00 n=7
+  parts 975/1208 47C3328_000_00 n=3
+  parts 1000/1208 48Y4798_000_01 n=31
+  parts 1025/1208 50Y5277_000_00 n=1
+  parts 1050/1208 57C0172_000_00 n=5
+  parts 1075/1208 66C2675_000_00 n=1
+  parts 1100/1208 69C3856_000_00 n=5
+  parts 1125/1208 SP215118_000_00 n=23
+  parts 1150/1208 SP279431_000_00 n=5
+  parts 1175/1208 SP279456_000_00 n=4
+  parts 1200/1208 SP279481_000_00 n=7
+  parts done: 8285 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- CLG8128HERL801592 / drawings ---
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+  drawings 25/1208
+  drawings 50/1208
+  drawings 75/1208
+  drawings 100/1208
+  drawings 125/1208
+  drawings 150/1208
+  drawings 175/1208
+  drawings 200/1208
+  drawings 225/1208
+  drawings 250/1208
+  drawings 275/1208
+  drawings 300/1208
+  drawings 325/1208
+  drawings 350/1208
+  drawings 375/1208
+  drawings 400/1208
+  drawings 425/1208
+  drawings 450/1208
+  drawings 475/1208
+  drawings 500/1208
+  drawings 525/1208
+  drawings 550/1208
+  drawings 575/1208
+  drawings 600/1208
+  drawings 625/1208
+  drawings 650/1208
+  drawings 675/1208
+  drawings 700/1208
+  drawings 725/1208
+  drawings 750/1208
+  drawings 775/1208
+  drawings 800/1208
+  drawings 825/1208
+  drawings 850/1208
+  drawings 875/1208
+  drawings 900/1208
+  drawings 925/1208
+  drawings 950/1208
+  drawings 975/1208
+  drawings 1000/1208
+  drawings 1025/1208
+  drawings 1050/1208
+  drawings 1075/1208
+  drawings 1100/1208
+  drawings 1125/1208
+  drawings 1150/1208
+  drawings 1175/1208
+  drawings 1200/1208
+  drawings done
+--- CLG8128HERL801592 / details ---
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+--- CLG8128HERL801592 / photos ---
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+==========================================
+=== CLG862HZLRL813829  Thu Sep 10 23:32:02 RTZ 2026
+==========================================
+--- CLG862HZLRL813829 / tree ---
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 864 (430 on this VIN)
+--- CLG862HZLRL813829 / parts ---
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  legends: 864 (430 on this VIN)
+  parts 25/864 00C9919_003_00 n=9
+  parts 50/864 09C0016_000_00 n=6
+  parts 75/864 10C6295X9_000_00 n=23
+  parts 100/864 12C9974_000_00 n=11
+  parts 125/864 22C7553_000_00 n=3
+  parts 150/864 28C0522_001_00 n=8
+  parts 175/864 30C1097_000_00 n=3
+  parts 200/864 33C0188_000_00 n=5
+  parts 225/864 34C6584_000_00 n=4
+  parts 250/864 43Y0812_000_01 n=23
+  parts 275/864 47C2531_001_00 n=7
+  parts 300/864 47C6894_000_00 n=7
+  parts 325/864 48Y2464_001_00 n=12
+  parts 350/864 53C1353_000_00 n=6
+  parts 375/864 57C5889_000_00 n=9
+  parts 400/864 61C0224_000_00 n=32
+  parts 425/864 74A2863_000_00 n=1
+  parts 450/864 10C6295X0_000_00 n=23
+  parts 475/864 16D3227_000_00 n=1
+  parts 500/864 25C0376_000_00 n=1
+  parts 509/864 30C1912_000_00 n=0
+  parts 525/864 34C6866_000_00 n=4
+  parts 550/864 38Y1082_000_00 n=5
+  parts 575/864 44C0173P03_000_00 n=1
+  parts 600/864 45E0739_008_01 n=30
+  parts 625/864 47C9632_000_00 n=5
+  parts 650/864 49C7668_003_00 n=13
+  parts 675/864 55C2367_000_00 n=2
+  parts 700/864 64C1578P01_000_01 n=3
+  parts 725/864 SP176410_000_00 n=3
+  parts 750/864 SP205564_001_00 n=12
+  parts 775/864 SP205587_000_00 n=4
+  parts 800/864 SP205610_000_00 n=6
+  parts 825/864 SP206224_000_00 n=7
+  parts 850/864 SP241265_000_00 n=4
+  parts done: 5375 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! CLG862HZLRL813829 / parts FAILED, retrying once
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  legends: 864 (430 on this VIN)
+  parts 25/864 00C9919_003_00 n=9
+  parts 50/864 09C0016_000_00 n=6
+  parts 75/864 10C6295X9_000_00 n=23
+  parts 100/864 12C9974_000_00 n=11
+  parts 125/864 22C7553_000_00 n=3
+  parts 150/864 28C0522_001_00 n=8
+  parts 175/864 30C1097_000_00 n=3
+  parts 200/864 33C0188_000_00 n=5
+  parts 225/864 34C6584_000_00 n=4
+  parts 250/864 43Y0812_000_01 n=23
+  parts 275/864 47C2531_001_00 n=7
+  parts 300/864 47C6894_000_00 n=7
+  parts 325/864 48Y2464_001_00 n=12
+  parts 350/864 53C1353_000_00 n=6
+  parts 375/864 57C5889_000_00 n=9
+  parts 400/864 61C0224_000_00 n=32
+  parts 425/864 74A2863_000_00 n=1
+  parts 450/864 10C6295X0_000_00 n=23
+  parts 475/864 16D3227_000_00 n=1
+  parts 500/864 25C0376_000_00 n=1
+  parts 509/864 30C1912_000_00 n=0
+  parts 525/864 34C6866_000_00 n=4
+  parts 550/864 38Y1082_000_00 n=5
+  parts 575/864 44C0173P03_000_00 n=1
+  parts 600/864 45E0739_008_01 n=30
+  parts 625/864 47C9632_000_00 n=5
+  parts 650/864 49C7668_003_00 n=13
+  parts 675/864 55C2367_000_00 n=2
+  parts 700/864 64C1578P01_000_01 n=3
+  parts 725/864 SP176410_000_00 n=3
+  parts 750/864 SP205564_001_00 n=12
+  parts 775/864 SP205587_000_00 n=4
+  parts 800/864 SP205610_000_00 n=6
+  parts 825/864 SP206224_000_00 n=7
+  parts 850/864 SP241265_000_00 n=4
+  parts done: 5375 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- CLG862HZLRL813829 / drawings ---
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  legends: 864 (430 on this VIN)
+  drawings 25/864
+  drawings 50/864
+  drawings 75/864
+  drawings 100/864
+  drawings 125/864
+  drawings 150/864
+  drawings 175/864
+  drawings 200/864
+  drawings 225/864
+  drawings 250/864
+  drawings 275/864
+  drawings 300/864
+  drawings 325/864
+  drawings 350/864
+  drawings 375/864
+  drawings 400/864
+  drawings 425/864
+  drawings 450/864
+  drawings 475/864
+  drawings 500/864
+  drawings 525/864
+  drawings 550/864
+  drawings 575/864
+  drawings 600/864
+  drawings 625/864
+  drawings 650/864
+  drawings 675/864
+  drawings 700/864
+  drawings 725/864
+  drawings 750/864
+  drawings 775/864
+  drawings 800/864
+  drawings 825/864
+  drawings 850/864
+  drawings done
+--- CLG862HZLRL813829 / details ---
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  legends: 864 (430 on this VIN)
+--- CLG862HZLRL813829 / photos ---
+machine CLG862HZLRL813829 -> 65F01260034B001  CLG862H 轮式装载机
+  legends: 864 (430 on this VIN)
+==========================================
+=== LGJ6614EHNR058121  Thu Sep 10 23:40:01 RTZ 2026
+==========================================
+--- LGJ6614EHNR058121 / tree ---
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 402 (176 on this VIN)
+--- LGJ6614EHNR058121 / parts ---
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  legends: 402 (176 on this VIN)
+  parts 14/402 06W0156_000_00 n=0
+  parts 25/402 11C1252_000_00 n=1
+  parts 50/402 21C1399_000_00 n=16
+  parts 75/402 30W0051_000_00 n=4
+  parts 100/402 45E0629_001_00 n=25
+  parts 125/402 49C6028_000_00 n=7
+  parts 150/402 56C0525_000_00 n=4
+  parts 165/402 67C2350_000_00 n=0
+  parts 175/402 74A3168_000_00 n=1
+  parts 176/402 74A4951_000_00 n=0
+  parts 200/402 28C0407_000_00 n=5
+  parts 203/402 30C1495_000_00 n=0
+  parts 210/402 34B0007_000_00 n=0
+  parts 225/402 41C3238_002_00 n=28
+  parts 250/402 47C4409_000_00 n=4
+  parts 275/402 55C6114_000_00 n=9
+  parts 286/402 67C2754_000_00 n=0
+  parts 300/402 SP104945_000_00 n=26
+  parts 325/402 SP141647_000_00 n=3
+  parts 350/402 SP142013_000_00 n=4
+  parts 375/402 SP142032_001_00 n=16
+  parts 400/402 SP256730_000_00 n=3
+  parts done: 2678 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! LGJ6614EHNR058121 / parts FAILED, retrying once
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  legends: 402 (176 on this VIN)
+  parts 14/402 06W0156_000_00 n=0
+  parts 25/402 11C1252_000_00 n=1
+  parts 50/402 21C1399_000_00 n=16
+  parts 75/402 30W0051_000_00 n=4
+  parts 100/402 45E0629_001_00 n=25
+  parts 125/402 49C6028_000_00 n=7
+  parts 150/402 56C0525_000_00 n=4
+  parts 165/402 67C2350_000_00 n=0
+  parts 175/402 74A3168_000_00 n=1
+  parts 176/402 74A4951_000_00 n=0
+  parts 200/402 28C0407_000_00 n=5
+  parts 203/402 30C1495_000_00 n=0
+  parts 210/402 34B0007_000_00 n=0
+  parts 225/402 41C3238_002_00 n=28
+  parts 250/402 47C4409_000_00 n=4
+  parts 275/402 55C6114_000_00 n=9
+  parts 286/402 67C2754_000_00 n=0
+  parts 300/402 SP104945_000_00 n=26
+  parts 325/402 SP141647_000_00 n=3
+  parts 350/402 SP142013_000_00 n=4
+  parts 375/402 SP142032_001_00 n=16
+  parts 400/402 SP256730_000_00 n=3
+  parts done: 2678 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- LGJ6614EHNR058121 / drawings ---
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  legends: 402 (176 on this VIN)
+  drawings 25/402
+  drawings 50/402
+  drawings 75/402
+  drawings 100/402
+  drawings 125/402
+  drawings 150/402
+  drawings 175/402
+  drawings 200/402
+  drawings 225/402
+  drawings 250/402
+  drawings 275/402
+  drawings 300/402
+  drawings 325/402
+  drawings 350/402
+  drawings 375/402
+  drawings 400/402
+  drawings done
+--- LGJ6614EHNR058121 / details ---
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  legends: 402 (176 on this VIN)
+--- LGJ6614EHNR058121 / photos ---
+machine LGJ6614EHNR058121 -> 23F00630017B002  CLG6614E东康Ⅱ 压路机
+  legends: 402 (176 on this VIN)
+==========================================
+=== LGC922FWHSC139999  Thu Sep 10 23:43:10 RTZ 2026
+==========================================
+--- LGC922FWHSC139999 / tree ---
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 540 (327 on this VIN)
+--- LGC922FWHSC139999 / parts ---
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+  parts 25/540 05C5065_000_00 n=1
+  parts 50/540 12C2222_001_00 n=4
+  parts 75/540 18C1381_000_00 n=2
+  parts 100/540 30C0428_000_00 n=4
+  parts 125/540 30C4541_000_00 n=1
+  parts 150/540 31C0102_001_00 n=1
+  parts 175/540 32C0122_000_00 n=5
+  parts 200/540 44Y2671_001_00 n=53
+  parts 225/540 56C4768_001_01 n=1
+  parts 250/540 61C3304_000_00 n=10
+  parts 275/540 72C2060_000_00 n=26
+  parts 300/540 80C4463_001_00 n=32
+  parts 325/540 93C1304_000_01 n=37
+  parts 350/540 30C1499_001_00 n=1
+  parts 358/540 34B0007_000_00 n=0
+  parts 375/540 47C6836_000_00 n=3
+  parts 400/540 61C3193_001_01 n=33
+  parts 423/540 70C2981_000_00 n=0
+  parts 425/540 72C6630_000_00 n=11
+  parts 450/540 SP187920_000_00 n=5
+  parts 475/540 SP209911_000_00 n=7
+  parts 500/540 SP241277_000_00 n=3
+  parts 525/540 SP364244_000_00 n=1
+  parts done: 3764 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! LGC922FWHSC139999 / parts FAILED, retrying once
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+  parts 25/540 05C5065_000_00 n=1
+  parts 50/540 12C2222_001_00 n=4
+  parts 75/540 18C1381_000_00 n=2
+  parts 100/540 30C0428_000_00 n=4
+  parts 125/540 30C4541_000_00 n=1
+  parts 150/540 31C0102_001_00 n=1
+  parts 175/540 32C0122_000_00 n=5
+  parts 200/540 44Y2671_001_00 n=53
+  parts 225/540 56C4768_001_01 n=1
+  parts 250/540 61C3304_000_00 n=10
+  parts 275/540 72C2060_000_00 n=26
+  parts 300/540 80C4463_001_00 n=32
+  parts 325/540 93C1304_000_01 n=37
+  parts 350/540 30C1499_001_00 n=1
+  parts 358/540 34B0007_000_00 n=0
+  parts 375/540 47C6836_000_00 n=3
+  parts 400/540 61C3193_001_01 n=33
+  parts 423/540 70C2981_000_00 n=0
+  parts 425/540 72C6630_000_00 n=11
+  parts 450/540 SP187920_000_00 n=5
+  parts 475/540 SP209911_000_00 n=7
+  parts 500/540 SP241277_000_00 n=3
+  parts 525/540 SP364244_000_00 n=1
+  parts done: 3764 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- LGC922FWHSC139999 / drawings ---
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+  drawings 25/540
+  drawings 50/540
+  drawings 75/540
+  drawings 100/540
+  drawings 125/540
+  drawings 150/540
+  drawings 175/540
+  drawings 200/540
+  drawings 225/540
+  drawings 250/540
+  drawings 275/540
+  drawings 300/540
+  drawings 325/540
+  drawings 350/540
+  drawings 375/540
+  drawings 400/540
+  drawings 425/540
+  drawings 450/540
+  drawings 475/540
+  drawings 500/540
+  drawings 525/540
+  drawings done
+--- LGC922FWHSC139999 / details ---
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+--- LGC922FWHSC139999 / photos ---
+machine LGC922FWHSC139999 -> 10F0302C007B001  922FW 挖掘机
+  legends: 540 (327 on this VIN)
+==========================================
+=== CLG975FZASE912911  Thu Sep 10 23:48:40 RTZ 2026
+==========================================
+--- CLG975FZASE912911 / tree ---
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  tree zh_CN: saved
+  tree en_US: saved
+  legends: 514 (301 on this VIN)
+--- CLG975FZASE912911 / parts ---
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+  parts 25/514 12C9544_000_00 n=18
+  parts 50/514 15Y7085_003_09 n=21
+  parts 75/514 25Y0734_000_04 n=14
+  parts 100/514 30C4572_000_00 n=2
+  parts 125/514 32C0726_000_00 n=1
+  parts 150/514 44Y2332_002_01 n=35
+  parts 157/514 47C8032_000_00 n=0
+  parts 175/514 53C0083_000_00 n=2
+  parts 200/514 59C7962_000_00 n=5
+  parts 225/514 65C1414_001_02 n=14
+  parts 250/514 66C4812_000_00 n=3
+  parts 275/514 75C0910_000_00 n=3
+  parts 300/514 81C0967_000_01 n=17
+  parts 325/514 28C0219_000_00 n=3
+  parts 342/514 34B0007_000_00 n=0
+  parts 350/514 38C1073_000_00 n=5
+  parts 375/514 47C6727_000_00 n=17
+  parts 400/514 57C6862_000_00 n=27
+  parts 416/514 70C2981_000_00 n=0
+  parts 425/514 72C3973_000_00 n=4
+  parts 450/514 78C1681_000_00 n=12
+  parts 475/514 SP284845_000_00 n=6
+  parts 500/514 SP284870_000_00 n=1
+  parts done: 4079 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+!!! CLG975FZASE912911 / parts FAILED, retrying once
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+  parts 25/514 12C9544_000_00 n=18
+  parts 50/514 15Y7085_003_09 n=21
+  parts 75/514 25Y0734_000_04 n=14
+  parts 100/514 30C4572_000_00 n=2
+  parts 125/514 32C0726_000_00 n=1
+  parts 150/514 44Y2332_002_01 n=35
+  parts 157/514 47C8032_000_00 n=0
+  parts 175/514 53C0083_000_00 n=2
+  parts 200/514 59C7962_000_00 n=5
+  parts 225/514 65C1414_001_02 n=14
+  parts 250/514 66C4812_000_00 n=3
+  parts 275/514 75C0910_000_00 n=3
+  parts 300/514 81C0967_000_01 n=17
+  parts 325/514 28C0219_000_00 n=3
+  parts 342/514 34B0007_000_00 n=0
+  parts 350/514 38C1073_000_00 n=5
+  parts 375/514 47C6727_000_00 n=17
+  parts 400/514 57C6862_000_00 n=27
+  parts 416/514 70C2981_000_00 n=0
+  parts 425/514 72C3973_000_00 n=4
+  parts 450/514 78C1681_000_00 n=12
+  parts 475/514 SP284845_000_00 n=6
+  parts 500/514 SP284870_000_00 n=1
+  parts done: 4079 unique part numbers
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 264, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 148, in main
+    jdump(os.path.join(out, "part_index.json"), sorted(part_nos))
+                                                ~~~~~~^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'str'
+--- CLG975FZASE912911 / drawings ---
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+  drawings 25/514
+  drawings 50/514
+  drawings 75/514
+  drawings 100/514
+  drawings 125/514
+  drawings 150/514
+  drawings 175/514
+  drawings 200/514
+  drawings 225/514
+  drawings 250/514
+  drawings 275/514
+  drawings 300/514
+  drawings 325/514
+  drawings 350/514
+  drawings 375/514
+  drawings 400/514
+  drawings 425/514
+  drawings 450/514
+  drawings 475/514
+  drawings 500/514
+  drawings done
+--- CLG975FZASE912911 / details ---
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+--- CLG975FZASE912911 / photos ---
+machine CLG975FZASE912911 -> 12F01890011B001  975F 挖掘机
+  legends: 514 (301 on this VIN)
+=== FLEET CRAWL DONE Thu Sep 10 23:54:34 RTZ 2026 ===

@@ -1,0 +1,757 @@
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1">
+<title>柳工统一认证系统</title>
+<link rel="shortcut icon" type="image/x-icon" href="/image/login/favicon-16x16.png" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+
+
+<link rel="stylesheet" type="text/css" href="/modal/bootstrap/css/bootstrap.min.css">
+
+<link rel="stylesheet" type="text/css" href="/css/two/jigsaw.css">
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/common/sweetalert.css">
+
+
+
+<script type="text/javascript" src="/js/jQuery/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/js/login/InfosecNetAuthSSOCNGAgent.min.js"></script>
+<script type="text/javascript" src="/js/des/tripledes.js"></script>
+<script type="text/javascript" src="/js/des/mode-ecb-min.js"></script>
+<script type="text/javascript" src="/js/jsencrypt.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery.i18n.properties-min-1.0.9.js"></script>
+<script type="text/javascript" src="/js/common/common.js"></script>
+<style type="text/css">
+#bindpassword {
+	display: inline-block;
+	width: 95%;
+	color: #000;
+}
+
+#bindName {
+	display: inline-block;
+	width: 95%;
+	color: #000;
+}
+
+body .modal_font {
+	color: black !important;
+}
+
+.modal_font th {
+	text-align: left;
+	font-weight: 800 !important;
+}
+
+.modal_font table td {
+	text-align: left;
+}
+
+.form-group {
+	margin-bottom: 0;
+}
+
+.form-control1 {
+	display: block;
+	width: 100%;
+	height: 45px;
+	padding: 5px 10px;
+	font-size: 16px;
+	line-height: 1.42857143;
+	color: #fff;
+	background: none;
+	background-image: none;
+	border: 1px solid #848b9a;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, box-shadow
+		ease-in-out .15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.checkforget {
+	margin: 0 0 30px 0;
+}
+
+.forgetpass {
+	color: #404040;
+}
+
+.loginbox {
+	width: 350px;
+	height: 400px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    padding: 30px 30px 0 30px;
+    background-color: #fff;
+}
+
+.btn-default {
+	color: #fff;
+	background-color: #0560b2;
+	width: 460px;
+	height: 55px;
+	line-height: 55px;
+	font-size: 21px;
+	text-align: center;
+	cursor: pointer;
+	background-image: none;
+	border-radius: 4px;
+	border: none;
+}
+
+.btn-second {
+	color: #fff;
+	background-color: #28334f;
+	width: 460px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 18px;
+	text-align: center;
+	cursor: pointer;
+	background-image: none;
+	border-radius: 4px;
+	border: none;
+	margin-top: 15px;
+}
+
+.white-link {
+	text-decoration: none;
+}
+
+a:link {
+	color: #282828;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #282828;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #282828;
+	text-decoration: underline;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.alert-warning a:link {
+	text-decoration: none;
+}
+
+.alert-warning a:visited {
+	text-decoration: none;
+}
+
+.topbox {
+	height: 85px;
+	padding: 0 50px;
+	overflow: hidden;
+	background-color: #fff;
+}
+.loginbg{
+	height: 480px;
+	background: url(/image/indexbg.jpg);
+	height: 480px;
+	background-position:center center;
+	overflow: hidden;
+}
+.foot{
+	height: 20px;
+	text-align: center;
+	color:#525252;
+	margin: 15px auto;
+	overflow: hidden;
+    font-size: 14px;
+}
+.foot a{
+	color:#428bca;
+}
+</style>
+<script type="text/javascript">
+		var ctx = "";
+		var gatewayurl = "https://netauthmanage.liugong.com";
+		var ssourl = "https://sso.liugong.com" 
+		var pwdflag = "1";
+		var openValidate = "";
+		var validateType = "";
+		var oauthType = "";
+		var isThirdLogin = "";
+		var phonecodeInterval = "" ;
+		$.ajaxSetup({
+		    xhrFields: {
+		    withCredentials: true
+		    },
+		    crossDomain: true,
+		});
+	</script>
+</head>
+
+<body>
+	<div class="topbox">
+		<!-- 语言 -->
+		<div class="fl" style="margin-top: 15px; margin-left: 150px;">
+			<img src="/image/login/logo2.png">
+		</div>
+		
+			<ul role="menu" style="float: right; margin-right: 10%; font-size: 14px; line-height: 85px;">
+				
+					<li style="display: inline;"><a href="/login/welcome?type=EN_LOCALE">ENGLISH</a></li>
+					
+						<span style="font-size: 15px">|</span>
+					
+				
+					<li style="display: inline;"><a href="/login/welcome?type=ZH_LOCALE">中文</a></li>
+					
+				
+			</ul>
+		
+	</div>
+	<div class="loginbg">
+		<div class="page-container" style="clear: both" id="logindiv">
+			<input type="hidden" id="registermodaltitle" value="用户注册" style="">
+			<div class="loginbox" style="margin-top: 3.5%;">
+				<form action="/login/comein" class="formsubz" id="formAddHandlingFee" method="post" name="login_form">
+					<input type="hidden" name="randTxt" id="randTxt" value="aeaf44912e634ae5a7613a9b94a6b585" style="">
+					<input type="hidden" name="tempNo" id="tempNo" value="0" style=""> <input type="hidden" name="adminloginsign" value="d04X8d5cceW1_nhqfv0NVQ" style="">
+					<input type="hidden" name="loginmode" value="web" style=""> <input type="hidden" name="auth" id="authType" value="9;0;3" style=""> <input type="hidden" name="sign_value" id="sign_value" style=""> <input type="hidden" name="randomNumber" value="1381921" style=""> <input type="hidden" name="logintype" id="loginType" value="passaccount" style=""> <input type="hidden" name="samlRequest" value="" style=""> <input type="hidden" name="relayState" value="" style=""> <input type="hidden" name="action" value="login" style=""> <input type="hidden" name="responseType" value="" style=""> <input type="hidden" name="redirect_Uri" value="" style=""> <input type="hidden" name="state" value="" style=""> <input type="hidden" name="clientId" value="" style=""> <input type="hidden" name="display" value="" style=""> <input type="hidden" name="redirectUrl" value="" style=""> <input type="hidden" name="service" value="" style=""> <input type="hidden" name="facephoto" value="" style=""> <input type="hidden" name="signtype" value="0" style=""> <input type="hidden" name="otherPwd" id="otherPwd" style=""> <input type="hidden" name="builtindynamicpwdIsOpen" id="builtindynamicpwdIsOpen" value="false" style="">
+					<!-- <div class="form-group logintitle">
+				<div class="inner-addon left-addon">
+					<span class="white-link router-link-active"> 
+					 
+					</span>
+				</div>
+			 </div> -->
+
+					<div id="loginTypeWay">
+						
+							
+								<div class="form-group firstitem">
+									<label id="login_t" class="login_t">账号</label> <input tabindex="1" type="text" name="username" id="username" placeholder="账号" class="logininput" onfocus="this.value=''" onblur="if(!value){value=defaultValue;}" style="">
+								</div>
+								<div class="form-group" id="pwddiv">
+									<label class="login_t">密码</label>
+									<input tabindex="2" type="password" id="pwd" placeholder="密码" class="logininput" onfocus="this.value=''" onblur="if(!value){value=defaultValue;}" autocomplete="off" style="">
+									<input type="hidden" name="password" autocomplete="off" style="">
+									<input type="hidden" name="passwordsm2" autocomplete="off" style="">
+									<input type="hidden" name="mobilelogin" value="0" style="">
+									<input type="hidden" name="emailogin" value="0" style="">
+									<input type="hidden" name="modifyFlag" value="0" style="">
+									<input type="hidden" name="pwdRetryCount" value="5" style=""> <input type="hidden" name="lockTime" value="10" style="">
+								</div>
+								<input type="hidden" id="test_keyboard_id" name="test_keyboard_id" value="" style="">
+							
+							
+						
+
+						<!--   验证码 -->
+						<div id="nomarlcodediv" class="form-group " style="display: block">
+							<input type="hidden" id="isOpenValidate" name="isOpenValidate" value="1" style=""> <input type="hidden" id="validateType" name="validateType" value="0" style="">
+							<label class="login_t">验证码</label>
+							<div>
+								<input tabindex="3" type="text" name="validateCode" id="code" placeholder="验证码" class="logininput yzinput" style="">
+								<a class="validateCode" style="padding: 0 0; vertical-align: bottom; height: 30px;width: 100px; border: 0px; border-bottom: 1px;">
+									<img class="yzimg" style="height: 30px; width: 100px;margin-top: -33px;" id="validateCode" data-toggle="tooltip" data-placement="bottom" src="https://sso.liugong.com/ssoserver/ignore/get/validateCode/getvalidateImgCode.do" data-original-title="" title="">
+								</a>
+							</div>
+						</div>
+						<div id="smscodediv" class="form-group " style="display:none;">
+							<label class="login_t">验证码</label>
+							<div style="position: relative;">
+								<input tabindex="3" type="text" name="validCode" id="code" placeholder="验证码" class="logininput yzinput" style="">
+								<a id="sendCode" class="validateCode" style="padding: 0 0;
+									vertical-align: bottom;
+									height: 30px;
+									width: 100px;
+									border: 0px;
+									border-bottom: 1px;
+									display: inline-block;
+								    text-align: center;
+								    background-color:#0560b2;
+								    line-height: 30px;
+								    top: 5px;
+								    color:#fff;
+								    position: absolute;
+								    text-decoration: none;
+								    cursor: pointer;
+									">
+									发送短信验证码
+								</a>
+							</div>
+						</div>
+						<!-- 滑块验证 -->
+						<div class="slidercont" style="display: none">
+							<input type="hidden" name="slidervaliderval" style=""> <input type="hidden" name="sliderCode" style="">
+							<div id="captcha" style="position: relative"></div>
+							<div id="msg"></div>
+						</div>
+						
+						 <div class="checkforget text-left form-group form-group-inline" style="display:none;">
+							<a tabindex="-1" id="forget" class="forgetpass findwpd" style="color: white;text-decoration: none;">密码找回</a>
+							<div class="checkbox" style="width: 60%">
+							<input id="remember" tabindex="-1" type="checkbox" style="">记住用户名
+							</div>
+				   		 </div> 
+
+						<div class="inner-addon input-group">
+							<input tabindex="-1" id="login" class="loginbtn" type="button" onclick="javascript:login1();" value="登录" style="">
+						</div>
+						<div class="othermenu">
+							<a tabindex="-1" id="forget" class="otherlink findwpd">密码找回</a>
+							<a style="margin-left: 19px;color:#428bca" href="/jsp/public/help.jsp">查看帮助</a>
+							<a style="margin-left: 19px;color:#428bca" href="/login/ntlmwelcome">域用户登录</a>
+							
+						</div>
+						<div class="otherlogintype">
+							
+							<a onclick="javascript:thirdLogin('wechat');" style="margin-left: 45px;color:#428bca" href="javascript:;">
+								<!--微信-->
+								<img src="/image/two/weixin.png" style="width: 21px; height: 21px;" title="微信" onmouseover="bigger(this)" onmouseout="smaller(this)">
+								
+							</a>
+							
+						</div>
+					</div>
+					<div id="loginTypeWay9" style="display: none;">
+						<div class="form-group">
+							<span class="form-control1" style="height: auto;">请插入USBKEY后点击证书登录</span> <span class="input-group-btn">
+								<button tabindex="-1" class="btn-default" style="margin-top: 20px; height: 40px; line-height: 40px; font-size: 16px;" type="button" id="checkCert" onclick="javascript:certificatesignauthen(1381921,'')">
+									登录
+								</button>
+							</span>
+						</div>
+					</div>
+
+					<!-- 人脸识别 start -->
+					<div id="loginTypeWay15" style="display: none;">
+						<div class="form-group firstitem">
+							<div class="inner-addon left-addon">
+								<input tabindex="1" type="text" id="username-face" placeholder="请输入个人账号" class="form-control1" onfocus="this.value=''" onblur="if(!value){value=defaultValue;}" value="" style="">
+							</div>
+						</div>
+
+						<div class="form-group">
+							<div class="inner-addon input-group">
+								<input tabindex="-1" type="button" class="btn-default" style="margin-top: 1em;" onclick="createPlugin()" value="人脸登录">
+							</div>
+						</div>
+					</div>
+					<!-- 人脸识别 end -->
+
+
+					<!-- 访客模式start -->
+					<div id="loginTypeWay13" style="display: none;">
+						<div class="form-group">
+							<div class="inner-addon left-addon">
+								<i class="glyphicon glyphicon-user"></i> <input tabindex="1" type="text" name="temporaryAccount" id="temporaryAccount" class="form-control1" placeholder="账号" onfocus="this.value=''" onblur="if(!value){value=defaultValue;}" style="">
+							</div>
+						</div>
+						<div id="caIE" style="display: none">
+							<canvas id="canvasIE" width="360" height="220"></canvas>
+						</div>
+					</div>
+
+					<!-- 访客模式end -->
+
+
+					<div class="form-group mb-0" id="divCert" style="display: none;">
+						<div role="alert" class="alert alert-warning mb-0" id="errorMessage">
+							<small><span id="errormsg"></span></small>
+						</div>
+					</div>
+				</form>
+
+				<form action="" class="formsubcode" style="display: none; text-align: center;">
+					<input type="hidden" name="randTxt" id="randTxt" value="aeaf44912e634ae5a7613a9b94a6b585" style="">
+				</form>
+
+				
+			</div>
+		</div>
+	</div>
+	<div class="foot">
+		<span>
+			版权所有：广西柳工机械股份有限公司|桂ICP备05004818号|
+		</span>
+		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45020402000008 
+	" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	<img src="/image/20160705.png" style="float:left;">
+	桂公网安备 45020402000008号</a>
+	</div>
+	
+	
+	
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+	
+		<div class="modal fade modelbind">
+			<div class="modal-dialog">
+				<div class="modal-content">
+
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">
+							<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+						</button>
+						<h4 class="modal-title">账号绑定</h4>
+					</div>
+					<div class="modal-body">
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<form action="#" method="post" id="bindform">
+									<input type="hidden" name="randTxt" id="randTxt" value="aeaf44912e634ae5a7613a9b94a6b585" style="">
+									<div class="form-group">
+										<div role="alert" class="alert alert-warning mb-0">
+											<small> 请您输入正确的系统账户和密码!
+											</small>
+										</div>
+									</div>
+									<div class="form-group">
+										<div class="inner-addon left-addon">
+											<i class="glyphicon glyphicon-user" style="left:25px;"></i>
+											<input type="text" name="bindName" id="bindName" class="logininput" placeholder="系统账户" onfocus="this.value=''" style="padding-left: 25px;" onblur="if(!value){value=defaultValue;}">
+										</div>
+									</div>
+									<div class="form-group">
+										<div class="inner-addon left-addon">
+											<i class="glyphicon glyphicon-briefcase" style="left:25px;"></i>
+											 <input type="password" autocomplete="off" name="bindpassword" id="bindpassword" class="logininput" placeholder="对应密码" onfocus="this.value=''" style="margin-top: 15px; padding-left: 25px;" onblur="if(!value){value=defaultValue;}">
+										</div>
+									</div>
+									<!--   验证码 -->
+									<div id="nomarlcodediv" class="form-group " style="display: block">
+										<input type="hidden" id="isOpenValidate" name="isOpenValidate" value="1" style=""> 
+										<input type="hidden" id="validateType" name="validateType" value="0" style="">
+										<div class="inner-addon left-addon">
+											<i class="glyphicon glyphicon-briefcase" style="left:25px;"></i>
+											<input tabindex="3" type="text" id="code2" style="padding-left: 25px; width: 406px;" placeholder="验证码" class="logininput yzinput">
+											<a class="validateCode" style="padding: 0 0; vertical-align: bottom; height: 30px;width: 100px; border: 0px; border-bottom: 1px;">
+												<img class="yzimg" style="height: 30px; width: 100px;margin-top: -33px;" id="validateCode2" data-toggle="tooltip" data-placement="bottom" src="" data-original-title="" title="">
+											</a>
+										</div>
+									</div>
+									<div class="form-group">
+										<div class="text-right" style="width:98.6%;">
+											<div role="group" class="btn-group float-xs-right">
+												<button onclick="bindAccount()" tabindex="-1" type="button" class="btn btn-primary">
+													绑定
+												</button>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	
+	<!-- find pwd -->
+	<div class="page-container" id="findpwddiv" style="display: none;">
+		<h1>
+			重置密码
+		</h1>
+		<div id="pwdformdiv">
+			<form action="/login/recoverypwd" method="post" id="findwpdform">
+				<input type="hidden" name="randTxt" id="randTxt" value="aeaf44912e634ae5a7613a9b94a6b585" style="">
+				<div class="form-group">
+					<div role="alert" class="alert alert-warning mb-0" style="font-size: 12px; text-align: left;">
+						<small> 请您输入正确的系统账户!如: A00001
+						</small>
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="input-group">
+						<input type="text" class="input" name="uname" id="findwpdname" style="">
+					</div>
+					<div class="inner-addon left-addon input-group">
+						<input class="input button btn-secondary btn btn-success findwpdbtn" type="button" value="确认" style="background-color: red;">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+	<!-- end find pwd -->
+
+	<!-- bind -->
+	
+	<!-- end bind -->
+
+	<div class="modal fade modal_font" id="myRoleModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+					<h4 class="modal-title">
+						请选择证书
+					</h4>
+				</div>
+				<div class="modal-body">
+					<table class="table  table-striped">
+						<tbody><tr>
+							<th width="5%">#</th>
+							<th width="30%">证书DN</th>
+							<th width="35%">证书签发者</th>
+							<th width="20%">证书序列号</th>
+							<th width="10">证书类型</th>
+						</tr>
+						</tbody><tbody id="certinfo">
+
+						</tbody>
+					</table>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-danger" data-dismiss="modal">
+						取消
+					</button>
+					<button type="button" class="btn btn-primary" onclick="chechInfo(1381921)">
+						确定
+					</button>
+				</div>
+			</div>
+			<!-- /.modal-content -->
+		</div>
+		<!-- /.modal-dialog -->
+	</div>
+	<!-- /.modal -->
+
+	<!-- 人脸插件框 -->
+	<div id="face-div" style="display: none; position: fixed; z-index: 999; top: 0; margin: 0 auto; left: 0; right: 0;" align="center"></div>
+
+	<!-- 双因素认证 需要输入密码 -->
+	<div class="modal fade" id="checkCodeModal" role="dialog" style="margin-top: 3em;" data-keyboard="false" data-backdrop="false" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" onclick="inCodeClose()" aria-label="Close" style="margin-right: 30px;">
+						<span aria-hidden="true">×</span>
+					</button>
+					<h5 class="modal-title" id="checkCodeTitle">
+						请输入登录密码
+					</h5>
+
+				</div>
+				<div class="modal-body">
+					<form>
+						<input type="hidden" name="randTxt" id="randTxt" value="aeaf44912e634ae5a7613a9b94a6b585" style="">
+						<div class="form-group">
+							<input type="password" autofocus="" class="form-control" style="color: black;" id="authCode"> <input type="hidden" class="form-control" id="authid" style="">
+						</div>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" id="chekCode">
+						确定
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 双因素认证 需要输入密码 -->
+
+
+	<input type="hidden" id="ukIsneedPwd" style="">
+	<input type="hidden" id="netPassIsneedPwd" style="">
+	<input type="hidden" id="faceIsneedPwd" style="">
+	<script type="text/javascript" src="/modal/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/modal/mymodal.js"></script>
+	<script type="text/javascript" src="/js/common/sweetalert.min.js"></script>
+	<script type="text/javascript" src="/js/login/capslock.js"></script>
+	<script type="text/javascript" src="/js/login/supersized.3.2.7.js"></script>
+	<script type="text/javascript">
+	var levels ="";
+		$(function(){
+			var gatewayurl = "https://netauthmanage.liugong.com";
+			var ssourl = "https://sso.liugong.com" 
+			openValidate = 1;
+			validateType =  0;
+			if(openValidate == 1){
+				$('#validateCode').attr("src",ssourl+"/ssoserver/ignore/get/validateCode/getvalidateImgCode.do");
+			}
+			//cngDownload() ;
+			
+			getAll();
+		});
+		
+		function changeLogin(){
+			var loginType = document.getElementById("loginType").value;
+			if(loginType === "passaccount"){
+				$("#pwddiv").hide();
+				$("#nomarlcodediv").hide();
+				$("#smscodediv").show();
+				$("#loginType").val("sms")
+				$(".loginbox").height("340px");
+				$("#changelink").text($.i18n.prop("login_type_passaccount"));
+				$("#login_t").text($.i18n.prop("mobile"));
+				$("#username").attr("placeholder",$.i18n.prop("mobile"));
+				$("#username").attr("name","mobile");
+			}else{
+				$("#pwddiv").show();
+				$("#nomarlcodediv").show();
+				$("#smscodediv").hide();
+				$("#loginType").val("passaccount");
+				$(".loginbox").height("400px");
+				$("#changelink").text($.i18n.prop("login_type_sms"));
+				$("#login_t").text($.i18n.prop("account"));
+				$("#username").attr("placeholder",$.i18n.prop("account"));
+				$("#username").attr("name","username");
+			}
+		}
+		
+		function bigger(obj){
+		// var xiaowu =  $('')
+		 	obj.style.width = '33px';
+		 	obj.style.height = '33px';
+		} 
+		function smaller(obj){
+			obj.style.width = '20px';
+		    obj.style.height = '20px';
+		}
+		
+		// 显示输入密码弹框
+		function ShowCheckCodeModal(id){
+			 $("#authid").val(id);
+			 $("#authCode").val("");
+			 $('#checkCodeModal').modal('show');
+		     
+		}
+		// 隐藏输入密码弹框
+		function inCodeClose(){
+		    $('#checkCodeModal').modal("hide");
+		}
+		
+		// 关闭输入密码弹框， 获取输入值
+		$("#chekCode").click(function (){
+		    var authCode = $("#authCode").val();
+		    if(authCode == ""){
+		   	 	swal({ title : "", text : "请输入登录密码" , type : "warning" });
+		   	 	return;
+		    }
+		    $("#checkCodeModal").modal("hide");
+		    var id = $("#authid").val();
+		    
+		  	//sm3加密
+			var dataBy = Hex.utf8StrToBytes(authCode);
+			var sm3 = new SM3Digestt();
+			sm3.update(dataBy,0,dataBy.length);//数据很多的话，可以分多次update
+			var sm3Hash = sm3.doFinal();//得到的数据是个byte数组
+			var sm3HashHex = Hex.encode(sm3Hash,0,sm3Hash.length);//编码成16进制可见字符
+			authCode = sm3HashHex;
+			
+			//sm2加密
+			if(pwdflag==1){
+				var password = CryptoJS.enc.Utf8.parse(authCode);
+			    var pubkeyHex = "0487997a974768450f7e0d75db6a897b4460ecd1d3ca935dd9ce14465b55ed617218eb911beb86c8cb6a78e753b1168f4b4800803585a6f5924b7063ea8ba22c8f";
+			    if (pubkeyHex.length > 130) {
+			        pubkeyHex = pubkeyHex.substr(pubkeyHex.length - 130);
+			    }
+			    var cipher = new SM2Cipher("1");
+			    var userKey = cipher.CreatePoint(pubkeyHex);
+				password = cipher.str2Bytes(password.toString());
+				$("input[name=passwordsm2]").val(cipher.Encrypt(userKey, password));
+			}
+			
+			document.login_form.otherPwd.value = authCode;
+			if(id ==  "netPassIsneedPwd") {
+				login1();
+			}
+			if(id ==  "faceIsneedPwd") {
+				loginface()
+			}
+		 	if(id ==  "ukIsneedPwd") {
+		 		loginCert();
+			}
+		});
+		
+		$('#sendCode').click(function () {
+			var contactinfo = $("#username").val();
+			if(contactinfo == "" || contactinfo == undefined ){
+	      		swalShow($.i18n.prop("message_prompt"), $.i18n.prop("please_enter_mobile_number_in_correct_format"), "error",
+				$("input[name='registerJsonVo[3].value']"));
+	      		return;	
+			}
+			sendValidCode(contactinfo);
+		});
+		function sendValidCode(contactinfo){
+			$.get(gatewayurl+"/sms/login/sendCode", {'contactinfo': contactinfo,"sendType" : "sms"}, function(data) {
+				if (data.result) {
+					if(sendType == "sms"){
+	   					time1(document.getElementById("sendCode"));
+	   					swal("", $.i18n.prop("sms_verificationcode_send_success"), "success");
+					}else{
+						time1(document.getElementById("sendCode"));
+			   			swal("", $.i18n.prop("email_verificationcode_send_success"), "success");
+					}
+				} else {
+					document.getElementById("sendCode").removeAttribute("disabled");
+					swal("", data.msg, "info");
+   				}
+   			});
+		}
+		//验证码倒计时
+		var wait=600;  
+		function time1(o) { 
+	        if (wait == 0) {  
+	            o.removeAttribute("disabled");            
+	            o.value=$.i18n.prop("send_code");  
+	            wait = 600;  
+	        } else {  
+	            o.setAttribute("disabled", true);
+	            o.setAttribute("style", "width: 116px; margin-left: -1px; position: absolute;");
+	            o.value=$.i18n.prop("re_send")+"(" + wait + "s)";  
+	            wait--;  
+	            setTimeout(function() {
+	                time1(o)  
+	            },  
+	            1000)  
+	        }
+		};
+	</script>
+	<script type="text/javascript" src="/js/login/thirdlogin.js"></script>
+	<script type="text/javascript" src="/js/login/loginIE8.js"></script>
+	<script type="text/javascript" src="/js/login/sso.js"></script>
+	<script type="text/javascript" src="/js/login/loginextend.js"></script>
+	<script type="text/javascript" src="/js/encryption/sm3.js"></script>
+	<script type="text/javascript" src="/js/encryption/jsbn.js"></script>
+	<script type="text/javascript" src="/js/encryption/jsbn2.js"></script>
+	<script type="text/javascript" src="/js/encryption/prng4.js"></script>
+	<script type="text/javascript" src="/js/encryption/rng.js"></script>
+	<script type="text/javascript" src="/js/encryption/ec.js"></script>
+	<script type="text/javascript" src="/js/encryption/ec-patch.js"></script>
+	<script type="text/javascript" src="/js/encryption/ecdsa-modified-1.0.js"></script>
+	<script type="text/javascript" src="/js/encryption/sm3en.js"></script>
+	<script type="text/javascript" src="/js/encryption/ecparam-1.0.js"></script>
+	<script type="text/javascript" src="/js/encryption/sm2.js"></script>
+	<script type="text/javascript" src="/js/encryption/hex.js"></script>
+	<script type="text/javascript" src="/js/encryption/byteUtil.js"></script>
+	<script type="text/javascript" src="/js/encryption/sm3-1.0.js"></script>
+
+	<script type="text/javascript" src="/js/login/jigsaw.js"></script>
+	<!-- 人脸js -->
+	<script type="text/javascript" src="/js/login/detect-yc.js"></script>
+	<script type="text/javascript" src="/js/login/loginface.js"></script>
+
+<div id="supersized-loader"></div><ul id="supersized"></ul></body></html>

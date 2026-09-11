@@ -1,0 +1,68 @@
+{
+ "partNO": "06C0196",
+ "parentPartNO": "23Y0147",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "06C0196",
+    "partName": "柴油机至截止阀进水管",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "34.0*2500.0*37.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "改用15B0080+30A0119"
+   },
+   "attrsRaw": {
+    "配件编码": "06C0196",
+    "配件名称": "柴油机至截止阀进水管",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "34.0* 2500.0* 37.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "改用15B0080+30A0119"
+   },
+   "photos": [],
+   "parentPartNO": "23Y0147"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOSE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "06C0196",
+    "Part Name": "HOSE",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "34.0* 2500.0* 37.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 15B0080 + 30A0119"
+   },
+   "photos": [],
+   "parentPartNO": "23Y0147"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

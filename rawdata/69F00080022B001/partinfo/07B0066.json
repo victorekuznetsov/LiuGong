@@ -1,0 +1,72 @@
+{
+ "partNO": "07B0066",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "07B0066",
+    "partName": "挡圈",
+    "spec": "150",
+    "weightKg": "0.085",
+    "sizeMm": "155.0*154.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "07B0066",
+    "配件名称": "挡圈",
+    "规格": "150",
+    "重量(KG)": "0.085",
+    "尺寸(mm)": "155.0* 154.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3534353b363635343534353a353a3833353435343535"
+   ],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BACKUP RING",
+    "spec": "150",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "07B0066",
+    "Part Name": "BACKUP RING",
+    "Specification": "150",
+    "Weight": "0.085",
+    "Size": "155.0* 154.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3534353b363635343534353a353a3833353435343535"
+   ],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

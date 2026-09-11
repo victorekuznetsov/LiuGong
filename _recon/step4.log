@@ -1,0 +1,46 @@
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+ProtocolError: Protocol error (Page.handleJavaScriptDialog): Internal server error, session closed.
+    at C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:34783:61
+    at new Promise (<anonymous>)
+    at _CRSession.send (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:34782:16)
+    at Dialog._onHandle (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:37653:32)
+    at Dialog._dismiss (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:12960:20)
+    at Dialog._close (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:12966:22)
+    at DialogManager.dialogDidOpen (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:12986:18)
+    at _FrameSession._onDialog (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:37646:49)
+    at _CRSession.<anonymous> (C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\driver\package\lib\coreBundle.js:37320:103)
+    at _CRSession.emit (node:events:509:28) {
+  type: 'closed',
+  method: 'Page.handleJavaScriptDialog',
+  logs: undefined
+}
+
+Node.js v24.18.1
+no captcha img found by selector, screenshotting full page
+kept browser alive, sleeping 300s for CDP takeover on port 9333
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\_recon\step4_open_and_fill.py", line 31, in <module>
+    browser.close()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 16425, in close
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.close(reason=reason)))
+                                   ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_browser.py", line 244, in close
+    raise e
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_browser.py", line 241, in close
+    await self._channel.send("close", None, {"reason": reason})
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Browser.close: Connection closed while reading from the driver
