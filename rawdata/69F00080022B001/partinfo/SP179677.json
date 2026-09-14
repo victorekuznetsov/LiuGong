@@ -1,0 +1,68 @@
+{
+ "partNO": "SP179677",
+ "parentPartNO": "SP414136",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP179677",
+    "partName": "O形密封圈",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "42.0*42.0*3.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP179677",
+    "配件名称": "O形密封圈",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "42.0* 42.0* 3.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP414136"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "O-RING SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP179677",
+    "Part Name": "O-RING SEAL",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "42.0* 42.0* 3.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP414136"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "41A0699",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41A0699",
+    "partName": "齿轮",
+    "spec": "",
+    "weightKg": "5.2",
+    "sizeMm": "148.0*148.0*52.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "停止供货;改用上级件"
+   },
+   "attrsRaw": {
+    "配件编码": "41A0699",
+    "配件名称": "齿轮",
+    "规格": "",
+    "重量(KG)": "5.2",
+    "尺寸(mm)": "148.0* 148.0* 52.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用上级件"
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEAR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41A0699",
+    "Part Name": "GEAR",
+    "Specification": "",
+    "Weight": "5.2",
+    "Size": "148.0* 148.0* 52.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "DISCONTINUED. CHANGE TO UPPER PART ."
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

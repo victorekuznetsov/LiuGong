@@ -1,0 +1,74 @@
+{
+ "partNO": "34B1217",
+ "parentPartNO": "57C0170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34B1217",
+    "partName": "切换显示开关",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "49.0*52.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用34B2010;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "34B1217",
+    "配件名称": "切换显示开关",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "49.0* 52.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用34B2010;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/353735383636353535363535353b3833353435343536",
+    "/part/zp/353735383636353535363535353b3833353435343536"
+   ],
+   "parentPartNO": "57C0170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREEN SELECTOR SW",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34B1217",
+    "Part Name": "SCREEN SELECTOR SW",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "49.0* 52.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 34B2010 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/353735383636353535363535353b3833353435343536",
+    "/part/zp/353735383636353535363535353b3833353435343536"
+   ],
+   "parentPartNO": "57C0170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

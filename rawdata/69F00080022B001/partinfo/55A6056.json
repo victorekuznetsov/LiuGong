@@ -1,0 +1,68 @@
+{
+ "partNO": "55A6056",
+ "parentPartNO": "24C4425",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "55A6056",
+    "partName": "轴套",
+    "spec": "",
+    "weightKg": "1.7",
+    "sizeMm": "113.0*111.0*88.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "改用55G2694;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "55A6056",
+    "配件名称": "轴套",
+    "规格": "",
+    "重量(KG)": "1.7",
+    "尺寸(mm)": "113.0* 111.0* 88.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "改用55G2694;旧件不可替代新件（单向替换）"
+   },
+   "photos": [],
+   "parentPartNO": "24C4425"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BUSHING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "55A6056",
+    "Part Name": "BUSHING",
+    "Specification": "",
+    "Weight": "1.7",
+    "Size": "113.0* 111.0* 88.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "Change to 55G2694, one-way replacement."
+   },
+   "photos": [],
+   "parentPartNO": "24C4425"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

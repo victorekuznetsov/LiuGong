@@ -1,0 +1,68 @@
+{
+ "partNO": "53C0664",
+ "parentPartNO": "13C0606",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "53C0664",
+    "partName": "滤油器",
+    "spec": "",
+    "weightKg": "5.8",
+    "sizeMm": "218.0*105.0*100.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "53C0664",
+    "配件名称": "滤油器",
+    "规格": "",
+    "重量(KG)": "5.8",
+    "尺寸(mm)": "218.0* 105.0* 100.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "13C0606"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "OIL FILTER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "53C0664",
+    "Part Name": "OIL FILTER",
+    "Specification": "",
+    "Weight": "5.8",
+    "Size": "218.0* 105.0* 100.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "13C0606"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

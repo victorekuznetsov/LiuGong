@@ -1,0 +1,68 @@
+{
+ "partNO": "42C3372",
+ "parentPartNO": "05Y0809",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "42C3372",
+    "partName": "变矩器-变速箱总成",
+    "spec": "8421H-4.067-2.6-415-T180/T180",
+    "weightKg": "0.0",
+    "sizeMm": "2527.0*1766.0*1381.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "42C3372",
+    "配件名称": "变矩器-变速箱总成",
+    "规格": "8421H-4.067-2.6-415-T180/T180",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "2527.0* 1766.0* 1381.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "05Y0809"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEARBOX &TORQUE CONVERTER AS",
+    "spec": "8421H-4.067-2.6-415-T180/T180",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "42C3372",
+    "Part Name": "GEARBOX &TORQUE CONVERTER AS",
+    "Specification": "8421H-4.067-2.6-415-T180/T180",
+    "Weight": "0.0",
+    "Size": "2527.0* 1766.0* 1381.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "05Y0809"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

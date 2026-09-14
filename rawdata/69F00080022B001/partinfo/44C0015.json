@@ -1,0 +1,74 @@
+{
+ "partNO": "44C0015",
+ "parentPartNO": "21C0837",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "44C0015",
+    "partName": "液位计",
+    "spec": "\\",
+    "weightKg": "0.15",
+    "sizeMm": "189.0*35.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由44C0017更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "44C0015",
+    "配件名称": "液位计",
+    "规格": "\\",
+    "重量(KG)": "0.15",
+    "尺寸(mm)": "189.0* 35.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由44C0017更改而来"
+   },
+   "photos": [
+    "/part/zp/35383538363735343534353535393833353435343536",
+    "/part/zp/35383538363735343534353535393833353435343536"
+   ],
+   "parentPartNO": "21C0837"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DIPSTICK",
+    "spec": "\\",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "44C0015",
+    "Part Name": "DIPSTICK",
+    "Specification": "\\",
+    "Weight": "0.15",
+    "Size": "189.0* 35.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 44C0017"
+   },
+   "photos": [
+    "/part/zp/35383538363735343534353535393833353435343536",
+    "/part/zp/35383538363735343534353535393833353435343536"
+   ],
+   "parentPartNO": "21C0837"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

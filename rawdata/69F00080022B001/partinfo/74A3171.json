@@ -1,0 +1,74 @@
+{
+ "partNO": "74A3171",
+ "parentPartNO": "48Y3137",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74A3171",
+    "partName": "安全标贴",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "100.0*50.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "74A3171",
+    "配件名称": "安全标贴",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "100.0* 50.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353b3538363535373535353b35353833353435343535",
+    "/part/zp/353b3538363535373535353b35353833353435343536"
+   ],
+   "parentPartNO": "48Y3137"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SAFETY SIGN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74A3171",
+    "Part Name": "SAFETY SIGN",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "100.0* 50.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353b3538363535373535353b35353833353435343535",
+    "/part/zp/353b3538363535373535353b35353833353435343536"
+   ],
+   "parentPartNO": "48Y3137"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "49Y0457",
+ "parentPartNO": "10Y0313",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49Y0457",
+    "partName": "手柄转向组件",
+    "spec": "",
+    "weightKg": "16884.09",
+    "sizeMm": "1183.0*845.0*1282.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49Y0457",
+    "配件名称": "手柄转向组件",
+    "规格": "",
+    "重量(KG)": "16884.09",
+    "尺寸(mm)": "1183.0* 845.0* 1282.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "10Y0313"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "JOYSTICK STEERING GP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49Y0457",
+    "Part Name": "JOYSTICK STEERING GP",
+    "Specification": "",
+    "Weight": "16884.09",
+    "Size": "1183.0* 845.0* 1282.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "10Y0313"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP161851",
+ "parentPartNO": "10C4090",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP161851",
+    "partName": "直通式压注油杯",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "重号;改用10B0014;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP161851",
+    "配件名称": "直通式压注油杯",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "重号;改用10B0014;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "10C4090"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GREASE FITTING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP161851",
+    "Part Name": "GREASE FITTING",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO 10B0014 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "10C4090"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

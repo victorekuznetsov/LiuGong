@@ -1,0 +1,78 @@
+{
+ "partNO": "37C1240",
+ "parentPartNO": "46C3518",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37C1240",
+    "partName": "风道",
+    "spec": "",
+    "weightKg": "0.187",
+    "sizeMm": "114.0*542.0*145.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "37C1240",
+    "配件名称": "风道",
+    "规格": "",
+    "重量(KG)": "0.187",
+    "尺寸(mm)": "114.0* 542.0* 145.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3537353b363735353536353835343833353435343536",
+    "/part/zp/3537353b363735353536353835343833353435343536",
+    "/part/zp/3537353b363735353536353835343833353435343537",
+    "/part/zp/3537353b363735353536353835343833353435343537"
+   ],
+   "parentPartNO": "46C3518"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR DUCT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37C1240",
+    "Part Name": "AIR DUCT",
+    "Specification": "",
+    "Weight": "0.187",
+    "Size": "114.0* 542.0* 145.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3537353b363735353536353835343833353435343536",
+    "/part/zp/3537353b363735353536353835343833353435343536",
+    "/part/zp/3537353b363735353536353835343833353435343537",
+    "/part/zp/3537353b363735353536353835343833353435343537"
+   ],
+   "parentPartNO": "46C3518"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

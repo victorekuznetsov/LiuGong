@@ -1,0 +1,68 @@
+{
+ "partNO": "SP431674",
+ "parentPartNO": "46C8997P03",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP431674",
+    "partName": "刮片",
+    "spec": "",
+    "weightKg": "0.2",
+    "sizeMm": "614.0*47.0*16.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP431674",
+    "配件名称": "刮片",
+    "规格": "",
+    "重量(KG)": "0.2",
+    "尺寸(mm)": "614.0* 47.0* 16.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "46C8997P03"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BLADE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP431674",
+    "Part Name": "BLADE",
+    "Specification": "",
+    "Weight": "0.2",
+    "Size": "614.0* 47.0* 16.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "46C8997P03"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

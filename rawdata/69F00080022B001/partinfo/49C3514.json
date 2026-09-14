@@ -1,0 +1,78 @@
+{
+ "partNO": "49C3514",
+ "parentPartNO": "46C8789",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49C3514",
+    "partName": "蒸发器芯体",
+    "spec": "",
+    "weightKg": "1.44",
+    "sizeMm": "430.0*430.0*160.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49C3514",
+    "配件名称": "蒸发器芯体",
+    "规格": "",
+    "重量(KG)": "1.44",
+    "尺寸(mm)": "430.0* 430.0* 160.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35383564363735373539353535383833353435343536",
+    "/part/zp/35383564363735373539353535383833353435343536",
+    "/part/zp/35383564363735373539353535383833353435343537",
+    "/part/zp/35383564363735373539353535383833353435343537"
+   ],
+   "parentPartNO": "46C8789"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "EVAPORATOR CORE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49C3514",
+    "Part Name": "EVAPORATOR CORE",
+    "Specification": "",
+    "Weight": "1.44",
+    "Size": "430.0* 430.0* 160.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35383564363735373539353535383833353435343536",
+    "/part/zp/35383564363735373539353535383833353435343536",
+    "/part/zp/35383564363735373539353535383833353435343537",
+    "/part/zp/35383564363735373539353535383833353435343537"
+   ],
+   "parentPartNO": "46C8789"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

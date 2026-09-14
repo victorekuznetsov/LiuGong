@@ -1,0 +1,68 @@
+{
+ "partNO": "SP251234",
+ "parentPartNO": "47C3509",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP251234",
+    "partName": "空气压缩机",
+    "spec": "",
+    "weightKg": "0.58",
+    "sizeMm": "228.0*143.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP251234",
+    "配件名称": "空气压缩机",
+    "规格": "",
+    "重量(KG)": "0.58",
+    "尺寸(mm)": "228.0* 143.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C3509"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "AIR COMPRESSOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP251234",
+    "Part Name": "AIR COMPRESSOR",
+    "Specification": "",
+    "Weight": "0.58",
+    "Size": "228.0* 143.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C3509"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

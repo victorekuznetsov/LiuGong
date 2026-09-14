@@ -1,0 +1,68 @@
+{
+ "partNO": "88A0501",
+ "parentPartNO": "30C1291",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "88A0501",
+    "partName": "螺母M30*2",
+    "spec": "DK",
+    "weightKg": "0.0",
+    "sizeMm": "9.0*47.0*41.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "88A0501",
+    "配件名称": "螺母M30*2",
+    "规格": "DK",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "9.0* 47.0* 41.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "30C1291"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NUT",
+    "spec": "DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "88A0501",
+    "Part Name": "NUT",
+    "Specification": "DK",
+    "Weight": "0.0",
+    "Size": "9.0* 47.0* 41.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "30C1291"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

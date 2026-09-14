@@ -1,0 +1,74 @@
+{
+ "partNO": "30C2701",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C2701",
+    "partName": "堵头",
+    "spec": "4H-18",
+    "weightKg": "0.057",
+    "sizeMm": "25.0*26.0*26.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C2701",
+    "配件名称": "堵头",
+    "规格": "4H-18",
+    "重量(KG)": "0.057",
+    "尺寸(mm)": "25.0* 26.0* 26.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3537353436373536353b353435353833353435343536",
+    "/part/zp/3537353436373536353b353435353833353435343537"
+   ],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "4H-18",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C2701",
+    "Part Name": "PLUG",
+    "Specification": "4H-18",
+    "Weight": "0.057",
+    "Size": "25.0* 26.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3537353436373536353b353435353833353435343536",
+    "/part/zp/3537353436373536353b353435353833353435343537"
+   ],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

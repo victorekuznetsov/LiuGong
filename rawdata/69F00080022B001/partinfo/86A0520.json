@@ -1,0 +1,78 @@
+{
+ "partNO": "86A0520",
+ "parentPartNO": "47C2936",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A0520",
+    "partName": "右罩壳",
+    "spec": "",
+    "weightKg": "1.786",
+    "sizeMm": "187.0*38.0*219.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A0520",
+    "配件名称": "右罩壳",
+    "规格": "",
+    "重量(KG)": "1.786",
+    "尺寸(mm)": "187.0* 38.0* 219.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3563353a363535343539353635343833353435343536",
+    "/part/zp/3563353a363535343539353635343833353435343536",
+    "/part/zp/3563353a363535343539353635343833353435343537",
+    "/part/zp/3563353a363535343539353635343833353435343537"
+   ],
+   "parentPartNO": "47C2936"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A0520",
+    "Part Name": "COVER",
+    "Specification": "",
+    "Weight": "1.786",
+    "Size": "187.0* 38.0* 219.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3563353a363535343539353635343833353435343536",
+    "/part/zp/3563353a363535343539353635343833353435343536",
+    "/part/zp/3563353a363535343539353635343833353435343537",
+    "/part/zp/3563353a363535343539353635343833353435343537"
+   ],
+   "parentPartNO": "47C2936"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

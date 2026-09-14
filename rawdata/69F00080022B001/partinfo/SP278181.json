@@ -1,0 +1,68 @@
+{
+ "partNO": "SP278181",
+ "parentPartNO": "47C3509",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP278181",
+    "partName": "安全带套件",
+    "spec": "",
+    "weightKg": "1.05",
+    "sizeMm": "322.0*123.0*55.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP278181",
+    "配件名称": "安全带套件",
+    "规格": "",
+    "重量(KG)": "1.05",
+    "尺寸(mm)": "322.0* 123.0* 55.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C3509"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAT BELT CPL.",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP278181",
+    "Part Name": "SEAT BELT CPL.",
+    "Specification": "",
+    "Weight": "1.05",
+    "Size": "322.0* 123.0* 55.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C3509"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

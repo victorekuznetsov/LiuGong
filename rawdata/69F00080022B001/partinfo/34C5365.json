@@ -1,0 +1,68 @@
+{
+ "partNO": "34C5365",
+ "parentPartNO": "34C5541",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C5365",
+    "partName": "线束防护罩组件",
+    "spec": "",
+    "weightKg": "0.259",
+    "sizeMm": "83.0*748.0*78.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "停止供货;改用85A5158*4件 +86A2234*1件 +86A2235*1件"
+   },
+   "attrsRaw": {
+    "配件编码": "34C5365",
+    "配件名称": "线束防护罩组件",
+    "规格": "",
+    "重量(KG)": "0.259",
+    "尺寸(mm)": "83.0* 748.0* 78.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "停止供货;改用85A5158*4件 +86A2234*1件 +86A2235*1件"
+   },
+   "photos": [],
+   "parentPartNO": "34C5541"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PROTECTION SHIELD",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C5365",
+    "Part Name": "PROTECTION SHIELD",
+    "Specification": "",
+    "Weight": "0.259",
+    "Size": "83.0* 748.0* 78.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "Discontinued.Pls use 85A5158 *4pcs + 86A2234 *1pc + 86A2235 *1pc"
+   },
+   "photos": [],
+   "parentPartNO": "34C5541"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

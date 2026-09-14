@@ -1,0 +1,68 @@
+{
+ "partNO": "77A2757",
+ "parentPartNO": "03Y0413",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "77A2757",
+    "partName": "固定螺栓",
+    "spec": "M14×45-10.9-DK",
+    "weightKg": "0.079",
+    "sizeMm": "57.0*28.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "77A2757",
+    "配件名称": "固定螺栓",
+    "规格": "M14×45-10.9-DK",
+    "重量(KG)": "0.079",
+    "尺寸(mm)": "57.0* 28.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0413"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CAPTIVE BOLT",
+    "spec": "M14×45-10.9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "77A2757",
+    "Part Name": "CAPTIVE BOLT",
+    "Specification": "M14×45-10.9-DK",
+    "Weight": "0.079",
+    "Size": "57.0* 28.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0413"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

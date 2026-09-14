@@ -1,0 +1,68 @@
+{
+ "partNO": "70A1743",
+ "parentPartNO": "41C3257",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "70A1743",
+    "partName": "箱体",
+    "spec": "",
+    "weightKg": "45.943",
+    "sizeMm": "214.0*250.0*520.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "70A1743",
+    "配件名称": "箱体",
+    "规格": "",
+    "重量(KG)": "45.943",
+    "尺寸(mm)": "214.0* 250.0* 520.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C3257"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "HOUSING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "70A1743",
+    "Part Name": "HOUSING",
+    "Specification": "",
+    "Weight": "45.943",
+    "Size": "214.0* 250.0* 520.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "41C3257"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

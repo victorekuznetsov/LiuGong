@@ -1,0 +1,68 @@
+{
+ "partNO": "87A1175",
+ "parentPartNO": "47C2512",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "87A1175",
+    "partName": "玻璃",
+    "spec": "7866",
+    "weightKg": "0.0",
+    "sizeMm": "1040.0*5.0*730.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "87A1175",
+    "配件名称": "玻璃",
+    "规格": "7866",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1040.0* 5.0* 730.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C2512"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GLASS",
+    "spec": "7866",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "87A1175",
+    "Part Name": "GLASS",
+    "Specification": "7866",
+    "Weight": "0.0",
+    "Size": "1040.0* 5.0* 730.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C2512"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

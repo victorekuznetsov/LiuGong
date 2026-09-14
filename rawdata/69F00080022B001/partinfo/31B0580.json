@@ -1,0 +1,68 @@
+{
+ "partNO": "31B0580",
+ "parentPartNO": "57C0174",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "31B0580",
+    "partName": "继电器",
+    "spec": "",
+    "weightKg": "0.029",
+    "sizeMm": "26.0*37.0*26.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "31B0580",
+    "配件名称": "继电器",
+    "规格": "",
+    "重量(KG)": "0.029",
+    "尺寸(mm)": "26.0* 37.0* 26.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0174"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RELAY",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "31B0580",
+    "Part Name": "RELAY",
+    "Specification": "",
+    "Weight": "0.029",
+    "Size": "26.0* 37.0* 26.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0174"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

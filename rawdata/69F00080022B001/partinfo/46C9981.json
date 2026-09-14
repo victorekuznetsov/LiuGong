@@ -1,0 +1,68 @@
+{
+ "partNO": "46C9981",
+ "parentPartNO": "57C0172",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46C9981",
+    "partName": "顶灯线路",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "2428.0*1700.0*2192.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "46C9981",
+    "配件名称": "顶灯线路",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "2428.0* 1700.0* 2192.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0172"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WORK LIGHT WIRING",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46C9981",
+    "Part Name": "WORK LIGHT WIRING",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "2428.0* 1700.0* 2192.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0172"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

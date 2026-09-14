@@ -1,0 +1,72 @@
+{
+ "partNO": "SP162859",
+ "parentPartNO": "11C1997",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP162859",
+    "partName": "双联泵修理包",
+    "spec": "HPT3-100/P5100-40",
+    "weightKg": "0.07",
+    "sizeMm": "142.0*129.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP162859",
+    "配件名称": "双联泵修理包",
+    "规格": "HPT3-100/P5100-40",
+    "重量(KG)": "0.07",
+    "尺寸(mm)": "142.0* 129.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353a35363563353935643833353435343536"
+   ],
+   "parentPartNO": "11C1997"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "HPT3-100/P5100-40",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP162859",
+    "Part Name": "SEAL KIT",
+    "Specification": "HPT3-100/P5100-40",
+    "Weight": "0.07",
+    "Size": "142.0* 129.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353a35363563353935643833353435343536"
+   ],
+   "parentPartNO": "11C1997"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

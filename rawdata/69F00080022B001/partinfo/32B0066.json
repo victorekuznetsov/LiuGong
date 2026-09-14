@@ -1,0 +1,72 @@
+{
+ "partNO": "32B0066",
+ "parentPartNO": "57C0170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "32B0066",
+    "partName": "壁灯",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "158.0*72.0*40.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用32B1102;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "32B0066",
+    "配件名称": "壁灯",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "158.0* 72.0* 40.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用32B1102;可互换（双向互换）"
+   },
+   "photos": [
+    "/part/zp/35373536363635343534353a353a3833353435343535"
+   ],
+   "parentPartNO": "57C0170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOME LIGHT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "32B0066",
+    "Part Name": "DOME LIGHT",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "158.0* 72.0* 40.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 32B1102 . INTERCHANGEABLE."
+   },
+   "photos": [
+    "/part/zp/35373536363635343534353a353a3833353435343535"
+   ],
+   "parentPartNO": "57C0170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

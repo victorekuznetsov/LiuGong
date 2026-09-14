@@ -1,0 +1,74 @@
+{
+ "partNO": "SP115855",
+ "parentPartNO": "SP279455",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP115855",
+    "partName": "机油标尺",
+    "spec": "",
+    "weightKg": "0.25",
+    "sizeMm": "290.0*290.0*70.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP115855",
+    "配件名称": "机油标尺",
+    "规格": "",
+    "重量(KG)": "0.25",
+    "尺寸(mm)": "290.0* 290.0* 70.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353535393563353935393833353435343536",
+    "/part/zp/373737343535353535393563353935393833353435343536"
+   ],
+   "parentPartNO": "SP279455"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DIPSTICK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP115855",
+    "Part Name": "DIPSTICK",
+    "Specification": "",
+    "Weight": "0.25",
+    "Size": "290.0* 290.0* 70.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/373737343535353535393563353935393833353435343536",
+    "/part/zp/373737343535353535393563353935393833353435343536"
+   ],
+   "parentPartNO": "SP279455"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

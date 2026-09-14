@@ -1,0 +1,68 @@
+{
+ "partNO": "51C0856",
+ "parentPartNO": "03Y0174",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "51C0856",
+    "partName": "传动轴",
+    "spec": "10C-10C",
+    "weightKg": "56.028",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "51C0856",
+    "配件名称": "传动轴",
+    "规格": "10C-10C",
+    "重量(KG)": "56.028",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0174"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DRIVE SHAFT",
+    "spec": "10C-10C",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "51C0856",
+    "Part Name": "DRIVE SHAFT",
+    "Specification": "10C-10C",
+    "Weight": "56.028",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "03Y0174"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

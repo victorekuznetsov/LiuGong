@@ -1,0 +1,74 @@
+{
+ "partNO": "40C6107",
+ "parentPartNO": "40C6108",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "40C6107",
+    "partName": "风扇",
+    "spec": "1260_16-16_45_PAG_5ZR_90_9×8.5",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "40C6107",
+    "配件名称": "风扇",
+    "规格": "1260_16-16_45_PAG_5ZR_90_9×8.5",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a35353534353b3833353435343535",
+    "/part/zp/353835343637353a35353534353b3833353435343535"
+   ],
+   "parentPartNO": "40C6108"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FAN",
+    "spec": "1260_16-16_45_PAG_5ZR_90_9×8.5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "40C6107",
+    "Part Name": "FAN",
+    "Specification": "1260_16-16_45_PAG_5ZR_90_9×8.5",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353835343637353a35353534353b3833353435343535",
+    "/part/zp/353835343637353a35353534353b3833353435343535"
+   ],
+   "parentPartNO": "40C6108"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

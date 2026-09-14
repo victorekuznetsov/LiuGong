@@ -1,0 +1,68 @@
+{
+ "partNO": "SP236657",
+ "parentPartNO": "47C6833P01",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP236657",
+    "partName": "窗锁",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "重号;改用SP225908;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "SP236657",
+    "配件名称": "窗锁",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "重号;改用SP225908;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "47C6833P01"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "LOCK",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP236657",
+    "Part Name": "LOCK",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "REPEATED P/N. CHANGE TO SP225908 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "47C6833P01"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

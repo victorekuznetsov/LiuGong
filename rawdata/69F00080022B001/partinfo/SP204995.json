@@ -1,0 +1,68 @@
+{
+ "partNO": "SP204995",
+ "parentPartNO": "SP278868",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP204995",
+    "partName": "油底壳密封垫",
+    "spec": "",
+    "weightKg": "0.1",
+    "sizeMm": "632.0*281.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP204995",
+    "配件名称": "油底壳密封垫",
+    "规格": "",
+    "重量(KG)": "0.1",
+    "尺寸(mm)": "632.0* 281.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP278868"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GASKET-OIL SUMP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP204995",
+    "Part Name": "GASKET-OIL SUMP",
+    "Specification": "",
+    "Weight": "0.1",
+    "Size": "632.0* 281.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP278868"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

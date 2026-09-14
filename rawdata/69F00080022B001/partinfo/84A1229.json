@@ -1,0 +1,76 @@
+{
+ "partNO": "84A1229",
+ "parentPartNO": "26C0354",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A1229",
+    "partName": "胶带",
+    "spec": "",
+    "weightKg": "1.2",
+    "sizeMm": "41.0*368.0*100.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "消耗完库存后;改用84A6420;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "84A1229",
+    "配件名称": "胶带",
+    "规格": "",
+    "重量(KG)": "1.2",
+    "尺寸(mm)": "41.0* 368.0* 100.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "消耗完库存后;改用84A6420;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/35633538363535353536353635643833353435343536",
+    "/part/zp/35633538363535353536353635643833353435343537",
+    "/part/zp/35633538363535353536353635643833353435343537"
+   ],
+   "parentPartNO": "26C0354"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ADHESIVE TAPE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A1229",
+    "Part Name": "ADHESIVE TAPE",
+    "Specification": "",
+    "Weight": "1.2",
+    "Size": "41.0* 368.0* 100.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 84A6420 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/35633538363535353536353635643833353435343536",
+    "/part/zp/35633538363535353536353635643833353435343537",
+    "/part/zp/35633538363535353536353635643833353435343537"
+   ],
+   "parentPartNO": "26C0354"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

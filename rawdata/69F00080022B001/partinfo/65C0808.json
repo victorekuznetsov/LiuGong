@@ -1,0 +1,68 @@
+{
+ "partNO": "65C0808",
+ "parentPartNO": "65C0999",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "65C0808",
+    "partName": "节温器",
+    "spec": "70°C-80°C",
+    "weightKg": "1.85",
+    "sizeMm": "125.0*110.0*64.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "65C0808",
+    "配件名称": "节温器",
+    "规格": "70°C-80°C",
+    "重量(KG)": "1.85",
+    "尺寸(mm)": "125.0* 110.0* 64.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C0999"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "THERMOSTAT",
+    "spec": "70°C-80°C",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "65C0808",
+    "Part Name": "THERMOSTAT",
+    "Specification": "70°C-80°C",
+    "Weight": "1.85",
+    "Size": "125.0* 110.0* 64.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "65C0999"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

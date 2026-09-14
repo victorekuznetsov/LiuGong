@@ -1,0 +1,74 @@
+{
+ "partNO": "86A0327",
+ "parentPartNO": "41Y0586",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "86A0327",
+    "partName": "前压条",
+    "spec": "",
+    "weightKg": "0.158",
+    "sizeMm": "720.0*95.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "86A0327",
+    "配件名称": "前压条",
+    "规格": "",
+    "重量(KG)": "0.158",
+    "尺寸(mm)": "720.0* 95.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3563353a3635353435373536353b3833353435343536",
+    "/part/zp/3563353a3635353435373536353b3833353435343536"
+   ],
+   "parentPartNO": "41Y0586"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "86A0327",
+    "Part Name": "SEAL",
+    "Specification": "",
+    "Weight": "0.158",
+    "Size": "720.0* 95.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3563353a3635353435373536353b3833353435343536",
+    "/part/zp/3563353a3635353435373536353b3833353435343536"
+   ],
+   "parentPartNO": "41Y0586"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

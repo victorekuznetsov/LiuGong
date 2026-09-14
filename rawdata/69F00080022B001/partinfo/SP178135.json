@@ -1,0 +1,68 @@
+{
+ "partNO": "SP178135",
+ "parentPartNO": "SP278868",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP178135",
+    "partName": "三档四档盖板",
+    "spec": "",
+    "weightKg": "3.4",
+    "sizeMm": "329.0*329.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP178135",
+    "配件名称": "三档四档盖板",
+    "规格": "",
+    "重量(KG)": "3.4",
+    "尺寸(mm)": "329.0* 329.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP278868"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLATE-3RD & 4TH COVER",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP178135",
+    "Part Name": "PLATE-3RD & 4TH COVER",
+    "Specification": "",
+    "Weight": "3.4",
+    "Size": "329.0* 329.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP278868"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

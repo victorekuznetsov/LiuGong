@@ -1,0 +1,72 @@
+{
+ "partNO": "76A0003",
+ "parentPartNO": "38Y0635X0",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "76A0003",
+    "partName": "垫圈",
+    "spec": "17×31×9-DK",
+    "weightKg": "0.031",
+    "sizeMm": "31.0*31.0*9.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "76A0003",
+    "配件名称": "垫圈",
+    "规格": "17×31×9-DK",
+    "重量(KG)": "0.031",
+    "尺寸(mm)": "31.0* 31.0* 9.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/353b353a363535343534353435373833353435343535"
+   ],
+   "parentPartNO": "38Y0635X0"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WASHER",
+    "spec": "17×31×9-DK",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "76A0003",
+    "Part Name": "WASHER",
+    "Specification": "17×31×9-DK",
+    "Weight": "0.031",
+    "Size": "31.0* 31.0* 9.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/353b353a363535343534353435373833353435343535"
+   ],
+   "parentPartNO": "38Y0635X0"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

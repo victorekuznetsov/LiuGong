@@ -1,0 +1,68 @@
+{
+ "partNO": "41B0406",
+ "parentPartNO": "49Y0550",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41B0406",
+    "partName": "冷却液",
+    "spec": "-50℃",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C5",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "KG",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41B0406",
+    "配件名称": "冷却液",
+    "规格": "-50℃",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C5",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "KG",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "49Y0550"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COOLING FLUID",
+    "spec": "-50℃",
+    "unit": "KG"
+   },
+   "attrsRaw": {
+    "Part No": "41B0406",
+    "Part Name": "COOLING FLUID",
+    "Specification": "-50℃",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C5",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "KG",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "49Y0550"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

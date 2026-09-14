@@ -1,0 +1,68 @@
+{
+ "partNO": "SP170106",
+ "parentPartNO": "53C0664",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP170106",
+    "partName": "滤油器密封包",
+    "spec": "",
+    "weightKg": "0.015",
+    "sizeMm": "85.0*85.0*5.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP170106",
+    "配件名称": "滤油器密封包",
+    "规格": "",
+    "重量(KG)": "0.015",
+    "尺寸(mm)": "85.0* 85.0* 5.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C0664"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL KIT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP170106",
+    "Part Name": "SEAL KIT",
+    "Specification": "",
+    "Weight": "0.015",
+    "Size": "85.0* 85.0* 5.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "53C0664"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

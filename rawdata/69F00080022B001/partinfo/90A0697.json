@@ -1,0 +1,74 @@
+{
+ "partNO": "90A0697",
+ "parentPartNO": "57C0170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "90A0697",
+    "partName": "面板",
+    "spec": "",
+    "weightKg": "0.115",
+    "sizeMm": "198.0*65.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "90A0697",
+    "配件名称": "面板",
+    "规格": "",
+    "重量(KG)": "0.115",
+    "尺寸(mm)": "198.0* 65.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3564353436353534353a3564353b3833353435343536",
+    "/part/zp/3564353436353534353a3564353b3833353435343536"
+   ],
+   "parentPartNO": "57C0170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PANEL",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "90A0697",
+    "Part Name": "PANEL",
+    "Specification": "",
+    "Weight": "0.115",
+    "Size": "198.0* 65.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3564353436353534353a3564353b3833353435343536",
+    "/part/zp/3564353436353534353a3564353b3833353435343536"
+   ],
+   "parentPartNO": "57C0170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

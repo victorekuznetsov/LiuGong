@@ -1,0 +1,72 @@
+{
+ "partNO": "49C4788",
+ "parentPartNO": "57C0174",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "49C4788",
+    "partName": "保险盒",
+    "spec": "",
+    "weightKg": "0.5",
+    "sizeMm": "230.0*119.0*46.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "49C4788",
+    "配件名称": "保险盒",
+    "规格": "",
+    "重量(KG)": "0.5",
+    "尺寸(mm)": "230.0* 119.0* 46.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538356436373538353b356335633833353435343536"
+   ],
+   "parentPartNO": "57C0174"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FUSE BOX",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "49C4788",
+    "Part Name": "FUSE BOX",
+    "Specification": "",
+    "Weight": "0.5",
+    "Size": "230.0* 119.0* 46.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538356436373538353b356335633833353435343536"
+   ],
+   "parentPartNO": "57C0174"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

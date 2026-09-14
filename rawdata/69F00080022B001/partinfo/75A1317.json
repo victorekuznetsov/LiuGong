@@ -1,0 +1,68 @@
+{
+ "partNO": "75A1317",
+ "parentPartNO": "22C2146",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "75A1317",
+    "partName": "弹簧",
+    "spec": "FXTJ",
+    "weightKg": "0.031",
+    "sizeMm": "49.0*33.0*48.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": "停止供货"
+   },
+   "attrsRaw": {
+    "配件编码": "75A1317",
+    "配件名称": "弹簧",
+    "规格": "FXTJ",
+    "重量(KG)": "0.031",
+    "尺寸(mm)": "49.0* 33.0* 48.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": "停止供货"
+   },
+   "photos": [],
+   "parentPartNO": "22C2146"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SPRING",
+    "spec": "FXTJ",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "75A1317",
+    "Part Name": "SPRING",
+    "Specification": "FXTJ",
+    "Weight": "0.031",
+    "Size": "49.0* 33.0* 48.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": "Unavailable"
+   },
+   "photos": [],
+   "parentPartNO": "22C2146"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

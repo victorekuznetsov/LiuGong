@@ -1,0 +1,68 @@
+{
+ "partNO": "80A1786",
+ "parentPartNO": "42C1309",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "80A1786",
+    "partName": "密封圈",
+    "spec": "430X3.5",
+    "weightKg": "0.025",
+    "sizeMm": "158.0*150.0*7.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "80A1786",
+    "配件名称": "密封圈",
+    "规格": "430X3.5",
+    "重量(KG)": "0.025",
+    "尺寸(mm)": "158.0* 150.0* 7.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAL RING",
+    "spec": "430X3.5",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "80A1786",
+    "Part Name": "SEAL RING",
+    "Specification": "430X3.5",
+    "Weight": "0.025",
+    "Size": "158.0* 150.0* 7.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "42C1309"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

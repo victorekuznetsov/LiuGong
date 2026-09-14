@@ -1,0 +1,68 @@
+{
+ "partNO": "47C3509",
+ "parentPartNO": "46Y0033",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C3509",
+    "partName": "司机椅",
+    "spec": "",
+    "weightKg": "60.0",
+    "sizeMm": "1000.0*500.0*1000.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C3509",
+    "配件名称": "司机椅",
+    "规格": "",
+    "重量(KG)": "60.0",
+    "尺寸(mm)": "1000.0* 500.0* 1000.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "46Y0033"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SEAT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C3509",
+    "Part Name": "SEAT",
+    "Specification": "",
+    "Weight": "60.0",
+    "Size": "1000.0* 500.0* 1000.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "46Y0033"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

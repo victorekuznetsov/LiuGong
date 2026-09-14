@@ -1,0 +1,74 @@
+{
+ "partNO": "SP123752",
+ "parentPartNO": "SP279472",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP123752",
+    "partName": "接地线",
+    "spec": "",
+    "weightKg": "0.01",
+    "sizeMm": "145.0*19.0*4.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP123752",
+    "配件名称": "接地线",
+    "规格": "",
+    "重量(KG)": "0.01",
+    "尺寸(mm)": "145.0* 19.0* 4.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535363537353b353935363833353435343535",
+    "/part/zp/37373734353535363537353b353935363833353435343535"
+   ],
+   "parentPartNO": "SP279472"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WIRE GROUND",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP123752",
+    "Part Name": "WIRE GROUND",
+    "Specification": "",
+    "Weight": "0.01",
+    "Size": "145.0* 19.0* 4.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/37373734353535363537353b353935363833353435343535",
+    "/part/zp/37373734353535363537353b353935363833353435343535"
+   ],
+   "parentPartNO": "SP279472"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "41B0188Y18L",
+ "parentPartNO": "49Y0550",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41B0188Y18L",
+    "partName": "重负荷车辆齿轮油",
+    "spec": "SAE 85W-90/LS",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C2",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "该油为常温油，与41B0014性能类似，低温油为：41B0239"
+   },
+   "attrsRaw": {
+    "配件编码": "41B0188Y18L",
+    "配件名称": "重负荷车辆齿轮油",
+    "规格": "SAE 85W-90/LS",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C2",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "该油为常温油，与41B0014性能类似，低温油为：41B0239"
+   },
+   "photos": [],
+   "parentPartNO": "49Y0550"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GEAR OIL",
+    "spec": "SAE 85W-90/LS",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41B0188Y18L",
+    "Part Name": "GEAR OIL",
+    "Specification": "SAE 85W-90/LS",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C2",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "This oil is a normal temperature oil with similar performance to 41B0014. The low temperature oil is 41B0239"
+   },
+   "photos": [],
+   "parentPartNO": "49Y0550"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

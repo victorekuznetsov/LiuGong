@@ -1,0 +1,68 @@
+{
+ "partNO": "84A3414",
+ "parentPartNO": "57C0170",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A3414",
+    "partName": "堵头",
+    "spec": "",
+    "weightKg": "0.011",
+    "sizeMm": "28.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A3414",
+    "配件名称": "堵头",
+    "规格": "",
+    "重量(KG)": "0.011",
+    "尺寸(mm)": "28.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0170"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A3414",
+    "Part Name": "PLUG",
+    "Specification": "",
+    "Weight": "0.011",
+    "Size": "28.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "57C0170"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "partNO": "46C0487",
+ "parentPartNO": "65C0746",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "46C0487",
+    "partName": "暖风进水阀",
+    "spec": "NPT1/2-45°",
+    "weightKg": "0.0",
+    "sizeMm": "82.0*53.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "46C0487",
+    "配件名称": "暖风进水阀",
+    "规格": "NPT1/2-45°",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "82.0* 53.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3538353a3637353435383563353b3833353435343535",
+    "/part/zp/3538353a3637353435383563353b3833353435343535",
+    "/part/zp/3538353a3637353435383563353b3833353435343536",
+    "/part/zp/3538353a3637353435383563353b3833353435343536"
+   ],
+   "parentPartNO": "65C0746"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WATER INLET VALVE",
+    "spec": "NPT1/2-45°",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "46C0487",
+    "Part Name": "WATER INLET VALVE",
+    "Specification": "NPT1/2-45°",
+    "Weight": "0.0",
+    "Size": "82.0* 53.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3538353a3637353435383563353b3833353435343535",
+    "/part/zp/3538353a3637353435383563353b3833353435343535",
+    "/part/zp/3538353a3637353435383563353b3833353435343536",
+    "/part/zp/3538353a3637353435383563353b3833353435343536"
+   ],
+   "parentPartNO": "65C0746"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

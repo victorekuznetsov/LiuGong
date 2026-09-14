@@ -1,0 +1,68 @@
+{
+ "partNO": "52A3600",
+ "parentPartNO": "01Y0653",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "52A3600",
+    "partName": "制动盘",
+    "spec": "",
+    "weightKg": "15.6",
+    "sizeMm": "478.0*477.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "52A3600",
+    "配件名称": "制动盘",
+    "规格": "",
+    "重量(KG)": "15.6",
+    "尺寸(mm)": "478.0* 477.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y0653"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BRAKE DISC",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "52A3600",
+    "Part Name": "BRAKE DISC",
+    "Specification": "",
+    "Weight": "15.6",
+    "Size": "478.0* 477.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "01Y0653"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

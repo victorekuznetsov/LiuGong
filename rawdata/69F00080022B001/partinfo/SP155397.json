@@ -1,0 +1,74 @@
+{
+ "partNO": "SP155397",
+ "parentPartNO": "12C6054",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP155397",
+    "partName": "单向阀",
+    "spec": "",
+    "weightKg": "0.078",
+    "sizeMm": "30.0*30.0*40.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP155397",
+    "配件名称": "单向阀",
+    "规格": "",
+    "重量(KG)": "0.078",
+    "尺寸(mm)": "30.0* 30.0* 40.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353539353935373564353b3833353435343536",
+    "/part/zp/3737373435353539353935373564353b3833353435343536"
+   ],
+   "parentPartNO": "12C6054"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "VALVE BYPASS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP155397",
+    "Part Name": "VALVE BYPASS",
+    "Specification": "",
+    "Weight": "0.078",
+    "Size": "30.0* 30.0* 40.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3737373435353539353935373564353b3833353435343536",
+    "/part/zp/3737373435353539353935373564353b3833353435343536"
+   ],
+   "parentPartNO": "12C6054"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

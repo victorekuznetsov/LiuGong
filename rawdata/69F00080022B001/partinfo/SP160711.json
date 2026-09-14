@@ -1,0 +1,68 @@
+{
+ "partNO": "SP160711",
+ "parentPartNO": "11C1076",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP160711",
+    "partName": "油口后端盖",
+    "spec": "",
+    "weightKg": "8.5",
+    "sizeMm": "172.0*147.0*58.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP160711",
+    "配件名称": "油口后端盖",
+    "规格": "",
+    "重量(KG)": "8.5",
+    "尺寸(mm)": "172.0* 147.0* 58.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C1076"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PORT PLATE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP160711",
+    "Part Name": "PORT PLATE",
+    "Specification": "",
+    "Weight": "8.5",
+    "Size": "172.0* 147.0* 58.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "11C1076"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

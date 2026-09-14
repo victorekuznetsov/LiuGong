@@ -1,0 +1,72 @@
+{
+ "partNO": "83A0136",
+ "parentPartNO": "46C9981",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "83A0136",
+    "partName": "护孔圈",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "53.0*14.0*53.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用83A0145;旧件不可替代新件（单向替换）"
+   },
+   "attrsRaw": {
+    "配件编码": "83A0136",
+    "配件名称": "护孔圈",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "53.0* 14.0* 53.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用83A0145;旧件不可替代新件（单向替换）"
+   },
+   "photos": [
+    "/part/zp/356335373635353435353537353a3833353435343535"
+   ],
+   "parentPartNO": "46C9981"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "GROMMET",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "83A0136",
+    "Part Name": "GROMMET",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "53.0* 14.0* 53.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 83A0145 . ONE-WAY REPLACEMENT"
+   },
+   "photos": [
+    "/part/zp/356335373635353435353537353a3833353435343535"
+   ],
+   "parentPartNO": "46C9981"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "36B1698",
+ "parentPartNO": "69C0806",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B1698",
+    "partName": "插头",
+    "spec": "14.0",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "36B1698",
+    "配件名称": "插头",
+    "规格": "14.0",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "69C0806"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PLUG",
+    "spec": "14.0",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B1698",
+    "Part Name": "PLUG",
+    "Specification": "14.0",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "69C0806"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

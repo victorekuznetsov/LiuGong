@@ -1,0 +1,68 @@
+{
+ "partNO": "34C7724",
+ "parentPartNO": "48C3407",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C7724",
+    "partName": "左门定位锁手柄",
+    "spec": "",
+    "weightKg": "0.171",
+    "sizeMm": "400.0*61.0*28.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "停止供货;改用上级件"
+   },
+   "attrsRaw": {
+    "配件编码": "34C7724",
+    "配件名称": "左门定位锁手柄",
+    "规格": "",
+    "重量(KG)": "0.171",
+    "尺寸(mm)": "400.0* 61.0* 28.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "停止供货;改用上级件"
+   },
+   "photos": [],
+   "parentPartNO": "48C3407"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "RELIEF CONNECTOR",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "34C7724",
+    "Part Name": "RELIEF CONNECTOR",
+    "Specification": "",
+    "Weight": "0.171",
+    "Size": "400.0* 61.0* 28.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "Discontinued,change to its superior part"
+   },
+   "photos": [],
+   "parentPartNO": "48C3407"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

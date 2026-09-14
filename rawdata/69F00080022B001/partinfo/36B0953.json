@@ -1,0 +1,68 @@
+{
+ "partNO": "36B0953",
+ "parentPartNO": "57C0185",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B0953",
+    "partName": "插座",
+    "spec": "ITT-48PIN",
+    "weightKg": "0.071",
+    "sizeMm": "66.0*60.0*58.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "改用36B0992;可互换（双向互换）"
+   },
+   "attrsRaw": {
+    "配件编码": "36B0953",
+    "配件名称": "插座",
+    "规格": "ITT-48PIN",
+    "重量(KG)": "0.071",
+    "尺寸(mm)": "66.0* 60.0* 58.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "改用36B0992;可互换（双向互换）"
+   },
+   "photos": [],
+   "parentPartNO": "57C0185"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SOCKET",
+    "spec": "ITT-48PIN",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B0953",
+    "Part Name": "SOCKET",
+    "Specification": "ITT-48PIN",
+    "Weight": "0.071",
+    "Size": "66.0* 60.0* 58.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGE TO 36B0992 . INTERCHANGEABLE."
+   },
+   "photos": [],
+   "parentPartNO": "57C0185"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

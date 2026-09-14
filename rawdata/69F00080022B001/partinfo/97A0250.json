@@ -1,0 +1,68 @@
+{
+ "partNO": "97A0250",
+ "parentPartNO": "22D2086",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "97A0250",
+    "partName": "切削板",
+    "spec": "",
+    "weightKg": "60.496",
+    "sizeMm": "1529.0*170.0*30.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "97A0250",
+    "配件名称": "切削板",
+    "规格": "",
+    "重量(KG)": "60.496",
+    "尺寸(mm)": "1529.0* 170.0* 30.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "22D2086"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CUTTING EDGE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "97A0250",
+    "Part Name": "CUTTING EDGE",
+    "Specification": "",
+    "Weight": "60.496",
+    "Size": "1529.0* 170.0* 30.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "22D2086"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

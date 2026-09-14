@@ -1,0 +1,78 @@
+{
+ "partNO": "37B1429",
+ "parentPartNO": "57C3149",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37B1429",
+    "partName": "蓄电池",
+    "spec": "C20为120AH，CCA1000",
+    "weightKg": "0.0",
+    "sizeMm": "320.0*165.0*220.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": "欧洲区域改用SP362629"
+   },
+   "attrsRaw": {
+    "配件编码": "37B1429",
+    "配件名称": "蓄电池",
+    "规格": "C20为120AH，CCA1000",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "320.0* 165.0* 220.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": "欧洲区域改用SP362629"
+   },
+   "photos": [
+    "/part/zp/3537353b363635353538353635643833353435343535",
+    "/part/zp/3537353b363635353538353635643833353435343535",
+    "/part/zp/3537353b363635353538353635643833353435343536",
+    "/part/zp/3537353b363635353538353635643833353435343536"
+   ],
+   "parentPartNO": "57C3149"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BATTERY",
+    "spec": "C20为120AH，CCA1000",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37B1429",
+    "Part Name": "BATTERY",
+    "Specification": "C20为120AH，CCA1000",
+    "Weight": "0.0",
+    "Size": "320.0* 165.0* 220.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": "change to SP362629 in the European region"
+   },
+   "photos": [
+    "/part/zp/3537353b363635353538353635643833353435343535",
+    "/part/zp/3537353b363635353538353635643833353435343535",
+    "/part/zp/3537353b363635353538353635643833353435343536",
+    "/part/zp/3537353b363635353538353635643833353435343536"
+   ],
+   "parentPartNO": "57C3149"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

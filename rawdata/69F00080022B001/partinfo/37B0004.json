@@ -1,0 +1,74 @@
+{
+ "partNO": "37B0004",
+ "parentPartNO": "00C4135",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "37B0004",
+    "partName": "尼龙扎带",
+    "spec": "",
+    "weightKg": "0.002",
+    "sizeMm": "205.0*8.0*6.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "37B0004",
+    "配件名称": "尼龙扎带",
+    "规格": "",
+    "重量(KG)": "0.002",
+    "尺寸(mm)": "205.0* 8.0* 6.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/3537353b363635343534353435383833353435343535",
+    "/part/zp/3537353b363635343534353435383833353435343535"
+   ],
+   "parentPartNO": "00C4135"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "NYLON STRAP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "37B0004",
+    "Part Name": "NYLON STRAP",
+    "Specification": "",
+    "Weight": "0.002",
+    "Size": "205.0* 8.0* 6.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/3537353b363635343534353435383833353435343535",
+    "/part/zp/3537353b363635343534353435383833353435343535"
+   ],
+   "parentPartNO": "00C4135"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

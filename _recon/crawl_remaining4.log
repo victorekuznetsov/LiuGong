@@ -1,0 +1,68 @@
+==========================================
+=== CLG8128HERL801592  Mon Sep 14 22:04:10 RTZ 2026
+==========================================
+machine CLG8128HERL801592 -> 69F00080022B001  CLG8128H康明斯T3 轮式装载机
+  legends: 1208 (573 on this VIN)
+  details+photos 50/4355
+  details+photos 100/4355
+  details+photos 150/4355
+  details+photos 200/4355
+  details+photos 250/4355
+  details+photos 300/4355
+  details+photos 350/4355
+  details+photos 400/4355
+  details+photos 450/4355
+  details+photos 500/4355
+  details+photos 550/4355
+  details+photos 600/4355
+  details+photos 650/4355
+  details+photos 700/4355
+  details+photos 750/4355
+  details+photos 800/4355
+  details+photos 850/4355
+  details+photos 900/4355
+  details+photos 950/4355
+  details+photos 1000/4355
+  details+photos 1050/4355
+  details+photos 1100/4355
+  details+photos 1150/4355
+  details+photos 1200/4355
+  details+photos 1250/4355
+  details+photos 1300/4355
+  details+photos 1350/4355
+  details+photos 1400/4355
+  details+photos 1450/4355
+  details+photos 1500/4355
+Traceback (most recent call last):
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 273, in <module>
+    main()
+    ~~~~^^
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 266, in main
+    for i, (pn, st) in enumerate(ex.map(do_detail, todo), 1):
+                       ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 639, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 311, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 450, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 395, in __get_result
+    raise self._exception
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Projects\LiuGong\tools\crawl_machine.py", line 240, in do_detail
+    j = epc["zh_CN"]._req("POST", "/supersession/detail",
+        ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                          data={"partNO": pn},
+                          ^^^^^^^^^^^^^^^^^^^^
+                          headers={"Referer": f"{BASE}/usage/vin/{vin}"}).json()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\LiuGong\tools\lg_api.py", line 66, in _req
+    raise SessionExpired(f"{method} {path} -> 401 (session expired)")
+lg_api.SessionExpired: POST /supersession/detail -> 401 (session expired)
+!!! CLG8128HERL801592 / details FAILED -- stopping batch

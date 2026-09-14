@@ -1,0 +1,68 @@
+{
+ "partNO": "41Y0586",
+ "parentPartNO": "41Y2307",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "41Y0586",
+    "partName": "驾驶室总成",
+    "spec": "",
+    "weightKg": "1016.69",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "41Y0586",
+    "配件名称": "驾驶室总成",
+    "规格": "",
+    "重量(KG)": "1016.69",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "41Y2307"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CAB AS",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "41Y0586",
+    "Part Name": "CAB AS",
+    "Specification": "",
+    "Weight": "1016.69",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "41Y2307"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "SP190265",
+ "parentPartNO": "12C4412",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP190265",
+    "partName": "比例溢流阀",
+    "spec": "",
+    "weightKg": "0.146",
+    "sizeMm": "101.0*24.0*19.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP190265",
+    "配件名称": "比例溢流阀",
+    "规格": "",
+    "重量(KG)": "0.146",
+    "尺寸(mm)": "101.0* 24.0* 19.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C4412"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PROPORTIONAL OVERFLOW VALVE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP190265",
+    "Part Name": "PROPORTIONAL OVERFLOW VALVE",
+    "Specification": "",
+    "Weight": "0.146",
+    "Size": "101.0* 24.0* 19.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "12C4412"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

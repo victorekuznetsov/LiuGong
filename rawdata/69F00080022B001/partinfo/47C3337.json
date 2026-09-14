@@ -1,0 +1,68 @@
+{
+ "partNO": "47C3337",
+ "parentPartNO": "47C2516",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "47C3337",
+    "partName": "推拉窗组件",
+    "spec": "896128912",
+    "weightKg": "11.81",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "47C3337",
+    "配件名称": "推拉窗组件",
+    "规格": "896128912",
+    "重量(KG)": "11.81",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C2516"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "WINDOW GP",
+    "spec": "896128912",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "47C3337",
+    "Part Name": "WINDOW GP",
+    "Specification": "896128912",
+    "Weight": "11.81",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "47C2516"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

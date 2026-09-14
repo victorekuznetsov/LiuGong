@@ -1,0 +1,72 @@
+{
+ "partNO": "30C0581",
+ "parentPartNO": "12C7006",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "30C0581",
+    "partName": "组合接头",
+    "spec": "3C-18",
+    "weightKg": "0.08",
+    "sizeMm": "34.0*24.0*24.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "30C0581",
+    "配件名称": "组合接头",
+    "规格": "3C-18",
+    "重量(KG)": "0.08",
+    "尺寸(mm)": "34.0* 24.0* 24.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735343539356335353833353435343536"
+   ],
+   "parentPartNO": "12C7006"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "COMBINATION CONNECTOR",
+    "spec": "3C-18",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "30C0581",
+    "Part Name": "COMBINATION CONNECTOR",
+    "Specification": "3C-18",
+    "Weight": "0.08",
+    "Size": "34.0* 24.0* 24.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [
+    "/part/zp/35373534363735343539356335353833353435343536"
+   ],
+   "parentPartNO": "12C7006"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

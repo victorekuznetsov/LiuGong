@@ -1,0 +1,68 @@
+{
+ "partNO": "SP170558",
+ "parentPartNO": "SP279452",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "SP170558",
+    "partName": "螺钉",
+    "spec": "",
+    "weightKg": "0.019",
+    "sizeMm": "31.0*16.0*14.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "SP170558",
+    "配件名称": "螺钉",
+    "规格": "",
+    "重量(KG)": "0.019",
+    "尺寸(mm)": "31.0* 16.0* 14.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP279452"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SCREW HEXAGON HEAD CAP",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "SP170558",
+    "Part Name": "SCREW HEXAGON HEAD CAP",
+    "Specification": "",
+    "Weight": "0.019",
+    "Size": "31.0* 16.0* 14.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "SP279452"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

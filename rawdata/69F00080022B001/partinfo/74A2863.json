@@ -1,0 +1,72 @@
+{
+ "partNO": "74A2863",
+ "parentPartNO": "48Y3137",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "74A2863 AA010",
+    "partName": "安全标贴",
+    "spec": "",
+    "weightKg": "0.2",
+    "sizeMm": "50.0*50.0*1.0",
+    "mpq": "1",
+    "discountGroup": "C1",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "3Y",
+    "unit": "PC",
+    "note": "由34C1192更改而来"
+   },
+   "attrsRaw": {
+    "配件编码": "74A2863 AA010",
+    "配件名称": "安全标贴",
+    "规格": "",
+    "重量(KG)": "0.2",
+    "尺寸(mm)": "50.0* 50.0* 1.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C1",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "3Y",
+    "单位": "PC",
+    "配件备注": "由34C1192更改而来"
+   },
+   "photos": [
+    "/part/zp/353b3538363535363563353a35373833353435343535"
+   ],
+   "parentPartNO": "48Y3137"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "SAFETY SIGN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "74A2863",
+    "Part Name": "SAFETY SIGN",
+    "Specification": "",
+    "Weight": "0.2",
+    "Size": "50.0* 50.0* 1.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C1",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "3 Years",
+    "Unit": "PC",
+    "Remark": "CHANGED FROM 34C1192"
+   },
+   "photos": [
+    "/part/zp/353b3538363535363563353a35373833353435343535"
+   ],
+   "parentPartNO": "48Y3137"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

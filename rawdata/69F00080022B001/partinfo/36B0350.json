@@ -1,0 +1,68 @@
+{
+ "partNO": "36B0350",
+ "parentPartNO": "69C6062",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "36B0350",
+    "partName": "插接器",
+    "spec": "4芯",
+    "weightKg": "0.006",
+    "sizeMm": "87.0*20.0*15.0",
+    "mpq": "1",
+    "discountGroup": "C4",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "36B0350",
+    "配件名称": "插接器",
+    "规格": "4芯",
+    "重量(KG)": "0.006",
+    "尺寸(mm)": "87.0* 20.0* 15.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C4",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "69C6062"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "CONNECTOR",
+    "spec": "4芯",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "36B0350",
+    "Part Name": "CONNECTOR",
+    "Specification": "4芯",
+    "Weight": "0.006",
+    "Size": "87.0* 20.0* 15.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C4",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "69C6062"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "partNO": "34C5086",
+ "parentPartNO": "34C5542",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "34C5086",
+    "partName": "顶内饰组合件",
+    "spec": "",
+    "weightKg": "0.0",
+    "sizeMm": "1404.0*1407.0*174.0",
+    "mpq": "1",
+    "discountGroup": "",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "34C5086",
+    "配件名称": "顶内饰组合件",
+    "规格": "",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "1404.0* 1407.0* 174.0",
+    "最小包装单元": "1",
+    "成交折扣组": "",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C5542"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "DOME DECORATION AS",
+    "spec": "",
+    "unit": ""
+   },
+   "attrsRaw": {
+    "Part No": "34C5086",
+    "Part Name": "DOME DECORATION AS",
+    "Specification": "",
+    "Weight": "0.0",
+    "Size": "1404.0* 1407.0* 174.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "34C5542"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

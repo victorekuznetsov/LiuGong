@@ -1,0 +1,68 @@
+{
+ "partNO": "42C3385",
+ "parentPartNO": "42C3372",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "42C3385",
+    "partName": "变速箱总成",
+    "spec": "8421H-4.067-8.5C/T180",
+    "weightKg": "0.0",
+    "sizeMm": "0.0*0.0*0.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "5Y",
+    "unit": "PC",
+    "note": "更换输出法兰54A0678（2件）+油封SP217722（2件）后可与42C3193变速箱总成互换"
+   },
+   "attrsRaw": {
+    "配件编码": "42C3385",
+    "配件名称": "变速箱总成",
+    "规格": "8421H-4.067-8.5C/T180",
+    "重量(KG)": "0.0",
+    "尺寸(mm)": "0.0* 0.0* 0.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "5Y",
+    "单位": "PC",
+    "配件备注": "更换输出法兰54A0678（2件）+油封SP217722（2件）后可与42C3193变速箱总成互换"
+   },
+   "photos": [],
+   "parentPartNO": "42C3372"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "TRANSMISSION AS",
+    "spec": "8421H-4.067-8.5C/T180",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "42C3385",
+    "Part Name": "TRANSMISSION AS",
+    "Specification": "8421H-4.067-8.5C/T180",
+    "Weight": "0.0",
+    "Size": "0.0* 0.0* 0.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "5 Years",
+    "Unit": "PC",
+    "Remark": "AFTER REPLACING THE OUTPUT FLANGE 54A0678 (2PCS) AND OIL SEAL SP217722 (2PCS), IT CAN BE INTERCHANGED WITH 42C3193 GEARBOX ASSY"
+   },
+   "photos": [],
+   "parentPartNO": "42C3372"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

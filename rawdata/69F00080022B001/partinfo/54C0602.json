@@ -1,0 +1,74 @@
+{
+ "partNO": "54C0602",
+ "parentPartNO": "00C4824",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "54C0602",
+    "partName": "软轴",
+    "spec": "L2000",
+    "weightKg": "0.85",
+    "sizeMm": "535.0*348.0*43.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "2Y",
+    "unit": "PC",
+    "note": "改用54C0880"
+   },
+   "attrsRaw": {
+    "配件编码": "54C0602",
+    "配件名称": "软轴",
+    "规格": "L2000",
+    "重量(KG)": "0.85",
+    "尺寸(mm)": "535.0* 348.0* 43.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "2Y",
+    "单位": "PC",
+    "配件备注": "改用54C0880"
+   },
+   "photos": [
+    "/part/zp/3539353836373534353a353435363833353435343536",
+    "/part/zp/3539353836373534353a353435363833353435343536"
+   ],
+   "parentPartNO": "00C4824"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "FLEXIBLE SHAFT",
+    "spec": "L2000",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "54C0602",
+    "Part Name": "FLEXIBLE SHAFT",
+    "Specification": "L2000",
+    "Weight": "0.85",
+    "Size": "535.0* 348.0* 43.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "2 Years",
+    "Unit": "PC",
+    "Remark": "Change to 54C0880"
+   },
+   "photos": [
+    "/part/zp/3539353836373534353a353435363833353435343536",
+    "/part/zp/3539353836373534353a353435363833353435343536"
+   ],
+   "parentPartNO": "00C4824"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

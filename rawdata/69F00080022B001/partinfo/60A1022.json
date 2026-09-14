@@ -1,0 +1,68 @@
+{
+ "partNO": "60A1022",
+ "parentPartNO": "30E0242",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "60A1022",
+    "partName": "下铰接销轴",
+    "spec": "",
+    "weightKg": "29.6",
+    "sizeMm": "146.0*147.0*334.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "是",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "1Y",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "60A1022",
+    "配件名称": "下铰接销轴",
+    "规格": "",
+    "重量(KG)": "29.6",
+    "尺寸(mm)": "146.0* 147.0* 334.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "是",
+    "是否特殊采购件": "否",
+    "储备建议": "1Y",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "30E0242"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "PIN",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "60A1022",
+    "Part Name": "PIN",
+    "Specification": "",
+    "Weight": "29.6",
+    "Size": "146.0* 147.0* 334.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "YES",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "1 Year",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "30E0242"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

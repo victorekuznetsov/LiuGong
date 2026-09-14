@@ -1,0 +1,68 @@
+{
+ "partNO": "84A0414",
+ "parentPartNO": "69C3854",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A0414",
+    "partName": "蓄电池正极护套",
+    "spec": "",
+    "weightKg": "0.02",
+    "sizeMm": "61.0*28.0*75.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "",
+    "unit": "PC",
+    "note": "线束，无法分解，改用上级部件"
+   },
+   "attrsRaw": {
+    "配件编码": "84A0414",
+    "配件名称": "蓄电池正极护套",
+    "规格": "",
+    "重量(KG)": "0.02",
+    "尺寸(mm)": "61.0* 28.0* 75.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "",
+    "单位": "PC",
+    "配件备注": "线束，无法分解，改用上级部件"
+   },
+   "photos": [],
+   "parentPartNO": "69C3854"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "BOOT",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A0414",
+    "Part Name": "BOOT",
+    "Specification": "",
+    "Weight": "0.02",
+    "Size": "61.0* 28.0* 75.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "",
+    "Unit": "PC",
+    "Remark": "WIRING，CANNOT BREAK DOWN，CHANGE TO ASSEMBLY"
+   },
+   "photos": [],
+   "parentPartNO": "69C3854"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}

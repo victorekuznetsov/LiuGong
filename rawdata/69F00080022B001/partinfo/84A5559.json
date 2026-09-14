@@ -1,0 +1,68 @@
+{
+ "partNO": "84A5559",
+ "parentPartNO": "26C0354",
+ "locales": {
+  "zh_CN": {
+   "attrs": {
+    "partNO": "84A5559",
+    "partName": "胶带",
+    "spec": "",
+    "weightKg": "2.0",
+    "sizeMm": "659.0*101.0*25.0",
+    "mpq": "1",
+    "discountGroup": "C0",
+    "isMaintenance": "否",
+    "isWear": "否",
+    "isSpecialPurchase": "否",
+    "stockAdvice": "不建议储备",
+    "unit": "PC",
+    "note": ""
+   },
+   "attrsRaw": {
+    "配件编码": "84A5559",
+    "配件名称": "胶带",
+    "规格": "",
+    "重量(KG)": "2.0",
+    "尺寸(mm)": "659.0* 101.0* 25.0",
+    "最小包装单元": "1",
+    "成交折扣组": "C0",
+    "是否保养件": "否",
+    "是否易损件": "否",
+    "是否特殊采购件": "否",
+    "储备建议": "不建议储备",
+    "单位": "PC",
+    "配件备注": ""
+   },
+   "photos": [],
+   "parentPartNO": "26C0354"
+  },
+  "en_US": {
+   "attrs": {
+    "partName": "ADHESIVE TAPE",
+    "spec": "",
+    "unit": "PC"
+   },
+   "attrsRaw": {
+    "Part No": "84A5559",
+    "Part Name": "ADHESIVE TAPE",
+    "Specification": "",
+    "Weight": "2.0",
+    "Size": "659.0* 101.0* 25.0",
+    "Minimum packaging unit": "1",
+    "Transaction discount group": "C0",
+    "Is maintenance parts": "NO",
+    "Is wearing parts": "NO",
+    "Is special purchase items": "NO",
+    "Inventory Sug": "Not recommend",
+    "Unit": "PC",
+    "Remark": ""
+   },
+   "photos": [],
+   "parentPartNO": "26C0354"
+  }
+ },
+ "supersession": {
+  "olds": [],
+  "news": []
+ }
+}
