@@ -14,7 +14,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from lg_api import BASE, Epc, save_svgz, walk_tree  # noqa: E402
+from lg_api import BASE, Epc, SessionExpired, save_svgz, walk_tree  # noqa: E402
 import part_detail  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -209,7 +209,12 @@ def main():
                 try:
                     r = epc[loc]._req("GET", u, retries=2,
                                       headers={"Referer": f"{BASE}/part/{pn}/"})
-                except Exception as e:
+                except (Exception, SessionExpired) as e:
+                    # A photo token is single-use and server-bound: a 401 here
+                    # usually means this one token went stale, not that the
+                    # session died, so skip the image instead of killing the
+                    # whole run. A genuinely dead session still aborts us on
+                    # the next part-detail fetch below.
                     log(f"  ! photo {pn}#{seq}: {e}")
                     continue
                 ext = EXT_BY_CTYPE.get((r.headers.get("Content-Type") or "").split(";")[0].strip(), "jpg")

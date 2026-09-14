@@ -62,8 +62,20 @@ class Epc:
                 if r.status_code == 200:
                     return r
                 if r.status_code == 401:
-                    # session is dead -- retrying just burns time, bail now
-                    raise SessionExpired(f"{method} {path} -> 401 (session expired)")
+                    # A 401 is NOT proof the session is dead: EPC also returns
+                    # it for a one-shot photo token that another thread already
+                    # consumed, and for short bursts it throttles. Observed
+                    # 2026-09-14: a run aborted on a 401 while the very same
+                    # endpoint answered 200 seconds later. So retry like any
+                    # other failure and only declare the session dead if every
+                    # attempt comes back 401.
+                    last = "HTTP 401"
+                    if attempt == retries - 1:
+                        raise SessionExpired(
+                            f"{method} {path} -> 401 on all {retries} attempts "
+                            "(session really expired)")
+                    time.sleep(2 * (attempt + 1))
+                    continue
                 last = f"HTTP {r.status_code}"
             except requests.RequestException as e:
                 last = type(e).__name__
