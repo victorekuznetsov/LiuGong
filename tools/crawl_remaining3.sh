@@ -2,11 +2,13 @@
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
-# 6 threads made EPC hand out spurious 401s (measured 2026-09-14: the exact
-# part URLs that failed mid-run answered 200 when fetched one at a time, and
-# 28/30 sequential fetches succeeded). Detail fetches are serialised by
-# photo_lock anyway, so a low thread count costs little throughput.
-THREADS="${THREADS:-2}"
+# EPC tolerates NO concurrent requests on one JSESSIONID: any overlap answers
+# 401, which is what killed every previous run. Measured 2026-09-14: 80
+# strictly sequential requests all returned 200 on the very session a 2-thread
+# run had just declared dead. 2 threads still overlap because
+# /supersession/detail is issued outside photo_lock, so the only safe value
+# is 1. Costs little anyway -- photo_lock already serialised most of the work.
+THREADS="${THREADS:-1}"
 
 VINS=(
   CLG8128HERL801592
