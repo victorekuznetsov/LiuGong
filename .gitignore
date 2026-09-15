@@ -5,3 +5,5 @@ storage_state.json
 __pycache__/
 *.pyc
 _push.sh
+_recon/sis_bundle_new.js
+_recon/sis_index_bundle.js
