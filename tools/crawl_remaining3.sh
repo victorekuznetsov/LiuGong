@@ -10,25 +10,37 @@ cd "$(dirname "$0")/.."
 # is 1. Costs little anyway -- photo_lock already serialised most of the work.
 THREADS="${THREADS:-1}"
 
+# Order matters: emptiest machine first. 862H and 6614E had ZERO part cards
+# after five runs purely because 8128H used to sit at the top of this list and
+# the batch aborted on its first failure -- they were never even started.
+# 8128H's cards are complete now, so it goes last (only its photo pass is left).
 VINS=(
-  CLG8128HERL801592
-  CLG862HZLRL813829
-  LGJ6614EHNR058121
+  CLG862HZLRL813829   # 862H  loader    -- 0 cards
+  LGJ6614EHNR058121   # 6614E roller    -- 0 cards
+  CLG8128HERL801592   # 8128H loader    -- cards done, photos partial
 )
 
+failed=()
 for vin in "${VINS[@]}"; do
-  echo "=========================================="
-  echo "=== $vin  $(date)"
-  echo "=========================================="
-  PYTHONIOENCODING=utf-8 python3 tools/crawl_machine.py "$vin" --only details --threads "$THREADS"
-  if [ $? -ne 0 ]; then
-    echo "!!! $vin / details FAILED -- stopping batch"
-    exit 1
-  fi
-  PYTHONIOENCODING=utf-8 python3 tools/crawl_machine.py "$vin" --only photos --threads "$THREADS"
-  if [ $? -ne 0 ]; then
-    echo "!!! $vin / photos FAILED -- stopping batch"
-    exit 1
-  fi
+  for step in details photos; do
+    echo "=========================================="
+    echo "=== $vin / $step  $(date)"
+    echo "=========================================="
+    PYTHONIOENCODING=utf-8 python3 tools/crawl_machine.py "$vin" --only "$step" --threads "$THREADS"
+    if [ $? -ne 0 ]; then
+      # Never abort the batch: one machine's dead session must not starve the
+      # ones behind it (that is exactly how 862H/6614E stayed at zero). Each
+      # step is resumable, so re-running after a re-login picks up the rest.
+      echo "!!! $vin / $step FAILED -- skipping to next, batch continues"
+      failed+=("$vin/$step")
+      break
+    fi
+  done
 done
+
+if [ ${#failed[@]} -gt 0 ]; then
+  echo "=== DONE WITH FAILURES $(date): ${failed[*]}"
+  echo "=== re-run after refreshing the session (_recon/refresh_epc2.py)"
+  exit 1
+fi
 echo "=== REMAINING 3 DONE $(date) ==="
