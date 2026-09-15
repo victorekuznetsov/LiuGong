@@ -24,9 +24,9 @@ tags:
 
 | Поз. | Номер | Наименование | Кол-во | Примечание |
 |---|---|---|---|---|
-| 1 | [[SP176803]] | NUT  HEAVY HEXAGON | 4 |  |
+| 1 | [[SP176803]] | NUT HEAVY HEXAGON | 4 |  |
 | 2 | [[SP141680]] | WASHER LOCK | 4 | Not produce parts |
-| 3 | [[SP143959]] | Шайба плоская | 4 | Not produce parts |
+| 3 | [[SP143959]] | Шайба | 4 | Not produce parts |
 | 4 | [[SP170492]] | ISOLATOR VIBRATION | 2 |  |
 | 5 | [[31B0298]] | START RELAY | 1 |  |
 | 6 | [[SP170515]] | BRACKET MAGNETIC SWITCH | 1 |  |

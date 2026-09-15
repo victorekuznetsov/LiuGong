@@ -51,7 +51,7 @@ tags:
 | 85 | [[SP170512]] | Заглушка | 2 |  |
 | 86 | [[SP276819]] | Вал | 1 |  |
 | 87 | [[SP276836]] | Рычаг | 6 |  |
-| 88 | [[SP347539]] | SHAFT  CAM FOLLOWER | 1 |  |
+| 88 | [[SP347539]] | SHAFT CAM FOLLOWER | 1 |  |
 | 89 | [[SP414123]] | ENGINE CRANKSHAFT | 1 |  |
 | 90 | [[SP276880]] | IDLER GEAR | 1 |  |
 | 91 | [[SP276878]] | BUSHING PS IDLER GEAR | 1 |  |

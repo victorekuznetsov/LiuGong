@@ -24,5 +24,5 @@ tags:
 
 | Поз. | Номер | Наименование | Кол-во | Примечание |
 |---|---|---|---|---|
-| 1 | [[57C3149]] | BATTERY  WIRING | 1 | Not produce parts |
+| 1 | [[57C3149]] | BATTERY WIRING | 1 | Not produce parts |
 | 2 | [[57C9366]] | REAR FRAME WIRING | 1 | Not produce parts |

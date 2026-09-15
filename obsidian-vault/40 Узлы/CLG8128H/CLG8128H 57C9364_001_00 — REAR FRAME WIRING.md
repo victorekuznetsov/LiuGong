@@ -24,5 +24,5 @@ tags:
 
 | Поз. | Номер | Наименование | Кол-во | Примечание |
 |---|---|---|---|---|
-| 1 | [[57C8449]] | BATTERY  WIRING | 1 | Not produce parts, repair through subordinate parts |
+| 1 | [[57C8449]] | BATTERY WIRING | 1 | Not produce parts, repair through subordinate parts |
 | 2 | [[57C9366]] | REAR FRAME WIRING | 1 | Not produce parts |

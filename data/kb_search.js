@@ -58257,7 +58257,7 @@ window.KB_SEARCH = [
  [
   "57C3149",
   "",
-  "BATTERY  WIRING",
+  "BATTERY WIRING",
   "蓄电池线路"
  ],
  [
@@ -58389,7 +58389,7 @@ window.KB_SEARCH = [
  [
   "57C8449",
   "",
-  "BATTERY  WIRING",
+  "BATTERY WIRING",
   "蓄电池线路"
  ],
  [
@@ -87392,8 +87392,8 @@ window.KB_SEARCH = [
  ],
  [
   "SP143959",
-  "Шайба плоская",
-  "WASHER  PLAIN",
+  "Шайба",
+  "WASHER PLAIN",
   "垫圈"
  ],
  [
@@ -94983,7 +94983,7 @@ window.KB_SEARCH = [
  [
   "SP176803",
   "",
-  "NUT  HEAVY HEXAGON",
+  "NUT HEAVY HEXAGON",
   "螺母"
  ],
  [
@@ -114639,7 +114639,7 @@ window.KB_SEARCH = [
  [
   "SP347539",
   "",
-  "SHAFT  CAM FOLLOWER",
+  "SHAFT CAM FOLLOWER",
   "凸轮从动轴"
  ],
  [

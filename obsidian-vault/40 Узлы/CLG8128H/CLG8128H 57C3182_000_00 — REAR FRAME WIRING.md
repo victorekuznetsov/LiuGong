@@ -25,4 +25,4 @@ tags:
 | Поз. | Номер | Наименование | Кол-во | Примечание |
 |---|---|---|---|---|
 | 1 | [[57C0174]] | REAR FRAME WIRING | 1 | Not produce parts |
-| 2 | [[57C3149]] | BATTERY  WIRING | 1 | Not produce parts |
+| 2 | [[57C3149]] | BATTERY WIRING | 1 | Not produce parts |
